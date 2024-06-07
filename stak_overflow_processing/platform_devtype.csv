@@ -1,0 +1,1202 @@
+Platform,DevType,Count,Rank
+AWS,"Developer, full-stack",20976,1
+AWS,"Developer, back-end",20059,2
+AWS,"Developer, front-end",9759,3
+AWS,DevOps specialist,5857,4
+AWS,"Developer, desktop or enterprise applications",4795,5
+AWS,"Developer, mobile",4614,6
+AWS,Database administrator,3406,7
+AWS,System administrator,3303,8
+AWS,"Engineer, data",3199,9
+AWS,Engineering manager,3140,10
+AWS,Data scientist or machine learning specialist,2493,11
+AWS,"Engineer, site reliability",2119,12
+AWS,"Developer, QA or test",2103,13
+AWS,Data or business analyst,1958,14
+AWS,Cloud infrastructure engineer,1957,15
+AWS,Designer,1845,16
+AWS,"Developer, embedded applications or devices",1826,17
+AWS,Product manager,1705,18
+AWS,Educator,1128,19
+AWS,"Senior Executive (C-Suite, VP, etc.)",1039,20
+AWS,Academic researcher,956,21
+AWS,"Developer, game or graphics",910,22
+AWS,Other (please specify):,876,23
+AWS,Project manager,713,24
+AWS,Scientist,703,25
+AWS,Student,593,26
+AWS,Security professional,401,27
+AWS,Senior executive/VP,343,28
+AWS,Blockchain,317,29
+AWS,Marketing or sales professional,261,30
+Amazon Web Services (AWS),"Developer, full-stack",6331,1
+Amazon Web Services (AWS),"Developer, back-end",4224,2
+Amazon Web Services (AWS),"Developer, front-end",713,3
+Amazon Web Services (AWS),Engineering manager,620,4
+Amazon Web Services (AWS),"Engineer, data",438,5
+Amazon Web Services (AWS),Other (please specify):,428,6
+Amazon Web Services (AWS),DevOps specialist,417,7
+Amazon Web Services (AWS),Cloud infrastructure engineer,387,8
+Amazon Web Services (AWS),"Senior Executive (C-Suite, VP, etc.)",369,9
+Amazon Web Services (AWS),"Developer, desktop or enterprise applications",368,10
+Amazon Web Services (AWS),Data scientist or machine learning specialist,356,11
+Amazon Web Services (AWS),"Developer, mobile",321,12
+Amazon Web Services (AWS),Research & Development role,180,13
+Amazon Web Services (AWS),"Developer, embedded applications or devices",162,14
+Amazon Web Services (AWS),"Engineer, site reliability",155,15
+Amazon Web Services (AWS),"Developer, QA or test",105,16
+Amazon Web Services (AWS),Security professional,97,17
+Amazon Web Services (AWS),Data or business analyst,84,18
+Amazon Web Services (AWS),Developer Experience,83,19
+Amazon Web Services (AWS),Product manager,80,20
+Amazon Web Services (AWS),"Developer, game or graphics",75,21
+Amazon Web Services (AWS),Blockchain,73,22
+Amazon Web Services (AWS),Project manager,66,23
+Amazon Web Services (AWS),System administrator,54,24
+Amazon Web Services (AWS),Academic researcher,42,25
+Amazon Web Services (AWS),Developer Advocate,40,26
+Amazon Web Services (AWS),Database administrator,31,27
+Amazon Web Services (AWS),Educator,25,28
+Amazon Web Services (AWS),Hardware Engineer,18,29
+Amazon Web Services (AWS),Designer,17,30
+Amazon Web Services (AWS),Scientist,11,31
+Amazon Web Services (AWS),Marketing or sales professional,8,32
+Amazon Web Services (AWS),Student,5,33
+Android,"Developer, full-stack",3730,1
+Android,"Developer, back-end",3369,2
+Android,"Developer, mobile",3230,3
+Android,"Developer, front-end",2639,4
+Android,"Developer, desktop or enterprise applications",1675,5
+Android,"Developer, embedded applications or devices",873,6
+Android,Database administrator,826,7
+Android,DevOps specialist,762,8
+Android,Designer,727,9
+Android,System administrator,676,10
+Android,"Developer, QA or test",579,11
+Android,"Developer, game or graphics",552,12
+Android,Academic researcher,419,13
+Android,"Engineer, data",403,14
+Android,Data scientist or machine learning specialist,403,15
+Android,Educator,387,16
+Android,Product manager,386,17
+Android,Data or business analyst,378,18
+Android,Engineering manager,376,19
+Android,Scientist,236,20
+Android,Student,211,21
+Android,"Engineer, site reliability",209,22
+Android,Senior executive/VP,209,23
+Android,Marketing or sales professional,62,24
+Arduino,"Developer, full-stack",1347,1
+Arduino,"Developer, back-end",1322,2
+Arduino,"Developer, front-end",882,3
+Arduino,"Developer, desktop or enterprise applications",689,4
+Arduino,"Developer, mobile",590,5
+Arduino,"Developer, embedded applications or devices",576,6
+Arduino,System administrator,377,7
+Arduino,Database administrator,357,8
+Arduino,DevOps specialist,346,9
+Arduino,Designer,295,10
+Arduino,Academic researcher,251,11
+Arduino,Data scientist or machine learning specialist,250,12
+Arduino,"Engineer, data",242,13
+Arduino,"Developer, game or graphics",209,14
+Arduino,"Developer, QA or test",208,15
+Arduino,Educator,206,16
+Arduino,Data or business analyst,203,17
+Arduino,Scientist,162,18
+Arduino,Engineering manager,152,19
+Arduino,Product manager,146,20
+Arduino,Student,126,21
+Arduino,"Engineer, site reliability",110,22
+Arduino,Senior executive/VP,79,23
+Arduino,Marketing or sales professional,24,24
+Cloudflare,"Developer, full-stack",1788,1
+Cloudflare,"Developer, back-end",800,2
+Cloudflare,"Developer, front-end",245,3
+Cloudflare,Engineering manager,186,4
+Cloudflare,"Senior Executive (C-Suite, VP, etc.)",162,5
+Cloudflare,DevOps specialist,127,6
+Cloudflare,Cloud infrastructure engineer,106,7
+Cloudflare,Other (please specify):,99,8
+Cloudflare,"Developer, desktop or enterprise applications",87,9
+Cloudflare,"Engineer, site reliability",66,10
+Cloudflare,"Developer, mobile",58,11
+Cloudflare,Research & Development role,43,12
+Cloudflare,"Developer, embedded applications or devices",41,13
+Cloudflare,"Engineer, data",40,14
+Cloudflare,Data scientist or machine learning specialist,32,15
+Cloudflare,Developer Experience,31,16
+Cloudflare,Security professional,29,17
+Cloudflare,System administrator,28,18
+Cloudflare,Blockchain,27,19
+Cloudflare,Product manager,26,20
+Cloudflare,Project manager,19,21
+Cloudflare,"Developer, game or graphics",19,22
+Cloudflare,Data or business analyst,12,23
+Cloudflare,Designer,11,24
+Cloudflare,Developer Advocate,11,25
+Cloudflare,Academic researcher,10,26
+Cloudflare,"Developer, QA or test",8,27
+Cloudflare,Educator,8,28
+Cloudflare,Database administrator,7,29
+Cloudflare,Hardware Engineer,3,30
+Cloudflare,Student,3,31
+Cloudflare,Scientist,3,32
+Colocation,"Developer, full-stack",188,1
+Colocation,"Developer, back-end",186,2
+Colocation,DevOps specialist,85,3
+Colocation,System administrator,75,4
+Colocation,Cloud infrastructure engineer,74,5
+Colocation,"Developer, front-end",57,6
+Colocation,Engineering manager,50,7
+Colocation,"Developer, desktop or enterprise applications",48,8
+Colocation,Database administrator,46,9
+Colocation,"Engineer, site reliability",45,10
+Colocation,"Senior Executive (C-Suite, VP, etc.)",39,11
+Colocation,"Developer, mobile",34,12
+Colocation,"Developer, embedded applications or devices",33,13
+Colocation,Security professional,33,14
+Colocation,Project manager,30,15
+Colocation,Product manager,29,16
+Colocation,"Engineer, data",23,17
+Colocation,"Developer, QA or test",20,18
+Colocation,Data scientist or machine learning specialist,19,19
+Colocation,Data or business analyst,19,20
+Colocation,Other (please specify):,18,21
+Colocation,Blockchain,17,22
+Colocation,"Developer, game or graphics",13,23
+Colocation,Educator,11,24
+Colocation,Marketing or sales professional,8,25
+Colocation,Student,7,26
+Colocation,Designer,7,27
+Colocation,Scientist,6,28
+Colocation,Academic researcher,6,29
+Colocation,Research & Development role,4,30
+Colocation,Developer Experience,2,31
+Digital Ocean,"Developer, full-stack",1777,1
+Digital Ocean,"Developer, back-end",773,2
+Digital Ocean,"Developer, front-end",221,3
+Digital Ocean,Engineering manager,132,4
+Digital Ocean,"Senior Executive (C-Suite, VP, etc.)",110,5
+Digital Ocean,DevOps specialist,104,6
+Digital Ocean,"Developer, mobile",80,7
+Digital Ocean,Other (please specify):,78,8
+Digital Ocean,"Developer, desktop or enterprise applications",75,9
+Digital Ocean,Cloud infrastructure engineer,73,10
+Digital Ocean,"Engineer, data",52,11
+Digital Ocean,Data scientist or machine learning specialist,50,12
+Digital Ocean,"Developer, embedded applications or devices",40,13
+Digital Ocean,"Engineer, site reliability",38,14
+Digital Ocean,Research & Development role,38,15
+Digital Ocean,"Developer, game or graphics",31,16
+Digital Ocean,Project manager,29,17
+Digital Ocean,Security professional,27,18
+Digital Ocean,System administrator,27,19
+Digital Ocean,Blockchain,26,20
+Digital Ocean,"Developer, QA or test",25,21
+Digital Ocean,Developer Experience,16,22
+Digital Ocean,Product manager,14,23
+Digital Ocean,Data or business analyst,13,24
+Digital Ocean,Educator,9,25
+Digital Ocean,Academic researcher,9,26
+Digital Ocean,Developer Advocate,8,27
+Digital Ocean,Designer,7,28
+Digital Ocean,Hardware Engineer,7,29
+Digital Ocean,Database administrator,6,30
+Digital Ocean,Scientist,3,31
+Digital Ocean,Student,2,32
+Digital Ocean,Marketing or sales professional,2,33
+DigitalOcean,"Developer, full-stack",4931,1
+DigitalOcean,"Developer, back-end",3962,2
+DigitalOcean,"Developer, front-end",2410,3
+DigitalOcean,DevOps specialist,1226,4
+DigitalOcean,"Developer, mobile",1144,5
+DigitalOcean,System administrator,956,6
+DigitalOcean,"Developer, desktop or enterprise applications",864,7
+DigitalOcean,Database administrator,829,8
+DigitalOcean,Engineering manager,661,9
+DigitalOcean,Product manager,512,10
+DigitalOcean,"Engineer, data",488,11
+DigitalOcean,"Developer, QA or test",458,12
+DigitalOcean,Designer,454,13
+DigitalOcean,Cloud infrastructure engineer,435,14
+DigitalOcean,"Engineer, site reliability",433,15
+DigitalOcean,"Developer, embedded applications or devices",419,16
+DigitalOcean,"Senior Executive (C-Suite, VP, etc.)",380,17
+DigitalOcean,Data scientist or machine learning specialist,372,18
+DigitalOcean,Data or business analyst,367,19
+DigitalOcean,Educator,301,20
+DigitalOcean,Project manager,294,21
+DigitalOcean,Other (please specify):,225,22
+DigitalOcean,Student,224,23
+DigitalOcean,"Developer, game or graphics",203,24
+DigitalOcean,Academic researcher,188,25
+DigitalOcean,Security professional,143,26
+DigitalOcean,Blockchain,126,27
+DigitalOcean,Scientist,109,28
+DigitalOcean,Marketing or sales professional,85,29
+Docker,"Developer, back-end",7513,1
+Docker,"Developer, full-stack",7154,2
+Docker,"Developer, front-end",3796,3
+Docker,DevOps specialist,2549,4
+Docker,"Developer, desktop or enterprise applications",2315,5
+Docker,"Developer, mobile",1585,6
+Docker,System administrator,1451,7
+Docker,Database administrator,1267,8
+Docker,"Engineer, data",1170,9
+Docker,Data scientist or machine learning specialist,1080,10
+Docker,"Developer, QA or test",994,11
+Docker,"Developer, embedded applications or devices",909,12
+Docker,Engineering manager,895,13
+Docker,"Engineer, site reliability",805,14
+Docker,Designer,735,15
+Docker,Data or business analyst,689,16
+Docker,Academic researcher,639,17
+Docker,Educator,610,18
+Docker,Product manager,523,19
+Docker,"Developer, game or graphics",495,20
+Docker,Scientist,453,21
+Docker,Senior executive/VP,338,22
+Docker,Student,194,23
+Docker,Marketing or sales professional,75,24
+Firebase,"Developer, full-stack",3943,1
+Firebase,"Developer, back-end",1971,2
+Firebase,"Developer, front-end",1897,3
+Firebase,"Developer, mobile",1874,4
+Firebase,"Developer, desktop or enterprise applications",559,5
+Firebase,Engineering manager,403,6
+Firebase,Cloud infrastructure engineer,390,7
+Firebase,DevOps specialist,379,8
+Firebase,Project manager,309,9
+Firebase,Database administrator,283,10
+Firebase,"Senior Executive (C-Suite, VP, etc.)",240,11
+Firebase,System administrator,231,12
+Firebase,"Developer, QA or test",223,13
+Firebase,"Developer, embedded applications or devices",221,14
+Firebase,Designer,220,15
+Firebase,Product manager,198,16
+Firebase,"Engineer, data",189,17
+Firebase,Data or business analyst,162,18
+Firebase,Educator,159,19
+Firebase,Data scientist or machine learning specialist,153,20
+Firebase,"Developer, game or graphics",145,21
+Firebase,Other (please specify):,143,22
+Firebase,Blockchain,127,23
+Firebase,"Engineer, site reliability",110,24
+Firebase,Student,104,25
+Firebase,Security professional,91,26
+Firebase,Academic researcher,69,27
+Firebase,Research & Development role,30,28
+Firebase,Scientist,30,29
+Firebase,Marketing or sales professional,29,30
+Firebase,Developer Experience,17,31
+Firebase,Developer Advocate,10,32
+Firebase,Hardware Engineer,4,33
+Fly.io,"Developer, full-stack",332,1
+Fly.io,"Developer, back-end",144,2
+Fly.io,"Developer, front-end",37,3
+Fly.io,Engineering manager,28,4
+Fly.io,"Senior Executive (C-Suite, VP, etc.)",27,5
+Fly.io,Cloud infrastructure engineer,19,6
+Fly.io,Other (please specify):,17,7
+Fly.io,Research & Development role,10,8
+Fly.io,"Developer, desktop or enterprise applications",9,9
+Fly.io,"Developer, mobile",8,10
+Fly.io,Developer Experience,8,11
+Fly.io,"Engineer, site reliability",8,12
+Fly.io,Security professional,7,13
+Fly.io,DevOps specialist,7,14
+Fly.io,Product manager,6,15
+Fly.io,"Engineer, data",5,16
+Fly.io,Developer Advocate,5,17
+Fly.io,Data scientist or machine learning specialist,4,18
+Fly.io,"Developer, embedded applications or devices",3,19
+Fly.io,"Developer, game or graphics",3,20
+Fly.io,Blockchain,2,21
+Fly.io,System administrator,2,22
+Fly.io,Data or business analyst,2,23
+Fly.io,Scientist,1,24
+Fly.io,Academic researcher,1,25
+Fly.io,Educator,1,26
+Fly.io,Student,1,27
+Google Cloud,"Developer, full-stack",5494,1
+Google Cloud,"Developer, back-end",4392,2
+Google Cloud,"Developer, front-end",1683,3
+Google Cloud,Cloud infrastructure engineer,1072,4
+Google Cloud,"Developer, mobile",1027,5
+Google Cloud,DevOps specialist,985,6
+Google Cloud,Engineering manager,823,7
+Google Cloud,"Developer, desktop or enterprise applications",767,8
+Google Cloud,"Engineer, data",755,9
+Google Cloud,Data scientist or machine learning specialist,608,10
+Google Cloud,Database administrator,505,11
+Google Cloud,System administrator,479,12
+Google Cloud,"Senior Executive (C-Suite, VP, etc.)",465,13
+Google Cloud,Project manager,437,14
+Google Cloud,Data or business analyst,399,15
+Google Cloud,"Engineer, site reliability",372,16
+Google Cloud,Other (please specify):,361,17
+Google Cloud,"Developer, QA or test",329,18
+Google Cloud,"Developer, embedded applications or devices",318,19
+Google Cloud,Product manager,287,20
+Google Cloud,Designer,275,21
+Google Cloud,Security professional,239,22
+Google Cloud,Educator,197,23
+Google Cloud,Blockchain,193,24
+Google Cloud,"Developer, game or graphics",159,25
+Google Cloud,Academic researcher,130,26
+Google Cloud,Student,93,27
+Google Cloud,Research & Development role,77,28
+Google Cloud,Scientist,76,29
+Google Cloud,Marketing or sales professional,59,30
+Google Cloud,Developer Experience,30,31
+Google Cloud,Developer Advocate,18,32
+Google Cloud,Hardware Engineer,9,33
+Google Cloud Platform,"Developer, full-stack",6574,1
+Google Cloud Platform,"Developer, back-end",5950,2
+Google Cloud Platform,"Developer, front-end",3566,3
+Google Cloud Platform,"Developer, mobile",2374,4
+Google Cloud Platform,DevOps specialist,1830,5
+Google Cloud Platform,"Developer, desktop or enterprise applications",1616,6
+Google Cloud Platform,System administrator,1187,7
+Google Cloud Platform,Database administrator,1181,8
+Google Cloud Platform,"Engineer, data",1163,9
+Google Cloud Platform,Data scientist or machine learning specialist,1161,10
+Google Cloud Platform,Engineering manager,950,11
+Google Cloud Platform,Data or business analyst,783,12
+Google Cloud Platform,Designer,777,13
+Google Cloud Platform,"Engineer, site reliability",765,14
+Google Cloud Platform,"Developer, embedded applications or devices",761,15
+Google Cloud Platform,"Developer, QA or test",745,16
+Google Cloud Platform,Product manager,727,17
+Google Cloud Platform,Academic researcher,528,18
+Google Cloud Platform,Educator,518,19
+Google Cloud Platform,"Developer, game or graphics",422,20
+Google Cloud Platform,Student,355,21
+Google Cloud Platform,Scientist,324,22
+Google Cloud Platform,"Senior Executive (C-Suite, VP, etc.)",315,23
+Google Cloud Platform,Other (please specify):,252,24
+Google Cloud Platform,Senior executive/VP,172,25
+Google Cloud Platform,Marketing or sales professional,125,26
+Heroku,"Developer, full-stack",9081,1
+Heroku,"Developer, back-end",6352,2
+Heroku,"Developer, front-end",4512,3
+Heroku,"Developer, mobile",2044,4
+Heroku,"Developer, desktop or enterprise applications",1362,5
+Heroku,DevOps specialist,1260,6
+Heroku,Database administrator,919,7
+Heroku,Engineering manager,918,8
+Heroku,System administrator,833,9
+Heroku,Designer,773,10
+Heroku,"Engineer, data",706,11
+Heroku,Data scientist or machine learning specialist,691,12
+Heroku,"Developer, QA or test",690,13
+Heroku,Educator,602,14
+Heroku,Product manager,581,15
+Heroku,Data or business analyst,572,16
+Heroku,"Developer, embedded applications or devices",514,17
+Heroku,"Engineer, site reliability",456,18
+Heroku,Student,418,19
+Heroku,Academic researcher,396,20
+Heroku,"Senior Executive (C-Suite, VP, etc.)",368,21
+Heroku,"Developer, game or graphics",348,22
+Heroku,Cloud infrastructure engineer,337,23
+Heroku,Other (please specify):,279,24
+Heroku,Project manager,212,25
+Heroku,Scientist,201,26
+Heroku,Security professional,112,27
+Heroku,Blockchain,111,28
+Heroku,Senior executive/VP,103,29
+Heroku,Marketing or sales professional,97,30
+Heroku,Research & Development role,26,31
+Heroku,Developer Experience,16,32
+Heroku,Developer Advocate,9,33
+Heroku,Hardware Engineer,4,34
+Hetzner,"Developer, full-stack",469,1
+Hetzner,"Developer, back-end",225,2
+Hetzner,DevOps specialist,61,3
+Hetzner,"Senior Executive (C-Suite, VP, etc.)",41,4
+Hetzner,"Developer, desktop or enterprise applications",35,5
+Hetzner,Engineering manager,35,6
+Hetzner,"Developer, front-end",35,7
+Hetzner,Other (please specify):,33,8
+Hetzner,Cloud infrastructure engineer,33,9
+Hetzner,Research & Development role,20,10
+Hetzner,System administrator,19,11
+Hetzner,"Developer, game or graphics",17,12
+Hetzner,Security professional,15,13
+Hetzner,"Engineer, data",14,14
+Hetzner,"Engineer, site reliability",14,15
+Hetzner,Data scientist or machine learning specialist,13,16
+Hetzner,"Developer, embedded applications or devices",13,17
+Hetzner,"Developer, mobile",11,18
+Hetzner,Blockchain,10,19
+Hetzner,Project manager,10,20
+Hetzner,Academic researcher,9,21
+Hetzner,Product manager,8,22
+Hetzner,Developer Experience,7,23
+Hetzner,"Developer, QA or test",7,24
+Hetzner,Data or business analyst,5,25
+Hetzner,Developer Advocate,3,26
+Hetzner,Database administrator,2,27
+Hetzner,Student,2,28
+Hetzner,Designer,2,29
+Hetzner,Educator,1,30
+Hetzner,Scientist,1,31
+IBM Cloud Or Watson,"Developer, full-stack",93,1
+IBM Cloud Or Watson,"Developer, back-end",47,2
+IBM Cloud Or Watson,"Developer, desktop or enterprise applications",15,3
+IBM Cloud Or Watson,Other (please specify):,15,4
+IBM Cloud Or Watson,Data scientist or machine learning specialist,15,5
+IBM Cloud Or Watson,Engineering manager,14,6
+IBM Cloud Or Watson,DevOps specialist,10,7
+IBM Cloud Or Watson,"Senior Executive (C-Suite, VP, etc.)",10,8
+IBM Cloud Or Watson,"Developer, front-end",9,9
+IBM Cloud Or Watson,"Engineer, data",7,10
+IBM Cloud Or Watson,Data or business analyst,6,11
+IBM Cloud Or Watson,Cloud infrastructure engineer,5,12
+IBM Cloud Or Watson,Research & Development role,5,13
+IBM Cloud Or Watson,"Developer, mobile",5,14
+IBM Cloud Or Watson,Developer Experience,3,15
+IBM Cloud Or Watson,Blockchain,3,16
+IBM Cloud Or Watson,Academic researcher,3,17
+IBM Cloud Or Watson,Project manager,3,18
+IBM Cloud Or Watson,Designer,3,19
+IBM Cloud Or Watson,"Engineer, site reliability",3,20
+IBM Cloud Or Watson,Student,2,21
+IBM Cloud Or Watson,"Developer, embedded applications or devices",2,22
+IBM Cloud Or Watson,System administrator,2,23
+IBM Cloud Or Watson,"Developer, game or graphics",1,24
+IBM Cloud Or Watson,Developer Advocate,1,25
+IBM Cloud Or Watson,Product manager,1,26
+IBM Cloud Or Watson,Scientist,1,27
+IBM Cloud Or Watson,"Developer, QA or test",1,28
+IBM Cloud Or Watson,Security professional,1,29
+IBM Cloud or Watson,"Developer, full-stack",651,1
+IBM Cloud or Watson,"Developer, back-end",596,2
+IBM Cloud or Watson,"Developer, front-end",355,3
+IBM Cloud or Watson,"Developer, desktop or enterprise applications",222,4
+IBM Cloud or Watson,DevOps specialist,221,5
+IBM Cloud or Watson,"Developer, mobile",217,6
+IBM Cloud or Watson,Data scientist or machine learning specialist,194,7
+IBM Cloud or Watson,"Engineer, data",154,8
+IBM Cloud or Watson,Database administrator,151,9
+IBM Cloud or Watson,System administrator,137,10
+IBM Cloud or Watson,Data or business analyst,137,11
+IBM Cloud or Watson,Engineering manager,108,12
+IBM Cloud or Watson,Designer,102,13
+IBM Cloud or Watson,"Developer, QA or test",102,14
+IBM Cloud or Watson,Academic researcher,100,15
+IBM Cloud or Watson,"Developer, embedded applications or devices",99,16
+IBM Cloud or Watson,Educator,88,17
+IBM Cloud or Watson,Product manager,78,18
+IBM Cloud or Watson,"Engineer, site reliability",77,19
+IBM Cloud or Watson,Scientist,71,20
+IBM Cloud or Watson,Cloud infrastructure engineer,56,21
+IBM Cloud or Watson,"Developer, game or graphics",56,22
+IBM Cloud or Watson,Student,55,23
+IBM Cloud or Watson,Other (please specify):,55,24
+IBM Cloud or Watson,"Senior Executive (C-Suite, VP, etc.)",34,25
+IBM Cloud or Watson,Project manager,32,26
+IBM Cloud or Watson,Marketing or sales professional,24,27
+IBM Cloud or Watson,Senior executive/VP,23,28
+IBM Cloud or Watson,Security professional,16,29
+IBM Cloud or Watson,Blockchain,14,30
+Kubernetes,"Developer, back-end",2613,1
+Kubernetes,"Developer, full-stack",2258,2
+Kubernetes,DevOps specialist,1175,3
+Kubernetes,"Developer, front-end",1097,4
+Kubernetes,"Developer, desktop or enterprise applications",746,5
+Kubernetes,System administrator,510,6
+Kubernetes,"Engineer, data",484,7
+Kubernetes,"Developer, mobile",456,8
+Kubernetes,"Engineer, site reliability",443,9
+Kubernetes,Database administrator,411,10
+Kubernetes,Data scientist or machine learning specialist,388,11
+Kubernetes,Engineering manager,380,12
+Kubernetes,"Developer, QA or test",317,13
+Kubernetes,"Developer, embedded applications or devices",257,14
+Kubernetes,Designer,213,15
+Kubernetes,Data or business analyst,205,16
+Kubernetes,Educator,185,17
+Kubernetes,Academic researcher,172,18
+Kubernetes,Product manager,160,19
+Kubernetes,"Developer, game or graphics",141,20
+Kubernetes,Scientist,134,21
+Kubernetes,Senior executive/VP,132,22
+Kubernetes,Student,38,23
+Kubernetes,Marketing or sales professional,26,24
+Linode,"Developer, full-stack",399,1
+Linode,"Developer, back-end",387,2
+Linode,"Developer, front-end",196,3
+Linode,System administrator,133,4
+Linode,DevOps specialist,122,5
+Linode,Cloud infrastructure engineer,119,6
+Linode,"Developer, desktop or enterprise applications",96,7
+Linode,Database administrator,94,8
+Linode,"Developer, mobile",91,9
+Linode,Engineering manager,74,10
+Linode,Project manager,65,11
+Linode,"Engineer, data",61,12
+Linode,"Engineer, site reliability",55,13
+Linode,Product manager,44,14
+Linode,Designer,44,15
+Linode,Security professional,41,16
+Linode,Data or business analyst,41,17
+Linode,"Developer, QA or test",40,18
+Linode,"Developer, embedded applications or devices",38,19
+Linode,"Senior Executive (C-Suite, VP, etc.)",37,20
+Linode,Blockchain,32,21
+Linode,"Developer, game or graphics",27,22
+Linode,Data scientist or machine learning specialist,27,23
+Linode,Educator,26,24
+Linode,Other (please specify):,18,25
+Linode,Marketing or sales professional,13,26
+Linode,Academic researcher,13,27
+Linode,Scientist,11,28
+Linode,Student,10,29
+"Linode, now Akamai","Developer, full-stack",435,1
+"Linode, now Akamai","Developer, back-end",203,2
+"Linode, now Akamai","Developer, front-end",40,3
+"Linode, now Akamai",Other (please specify):,33,4
+"Linode, now Akamai",Engineering manager,32,5
+"Linode, now Akamai","Senior Executive (C-Suite, VP, etc.)",30,6
+"Linode, now Akamai","Developer, desktop or enterprise applications",30,7
+"Linode, now Akamai",DevOps specialist,28,8
+"Linode, now Akamai",Cloud infrastructure engineer,25,9
+"Linode, now Akamai","Developer, mobile",18,10
+"Linode, now Akamai",Research & Development role,17,11
+"Linode, now Akamai",Data scientist or machine learning specialist,16,12
+"Linode, now Akamai","Engineer, data",15,13
+"Linode, now Akamai",System administrator,13,14
+"Linode, now Akamai","Engineer, site reliability",13,15
+"Linode, now Akamai","Developer, embedded applications or devices",10,16
+"Linode, now Akamai",Security professional,10,17
+"Linode, now Akamai",Blockchain,8,18
+"Linode, now Akamai",Project manager,7,19
+"Linode, now Akamai",Data or business analyst,6,20
+"Linode, now Akamai",Academic researcher,6,21
+"Linode, now Akamai",Product manager,4,22
+"Linode, now Akamai",Developer Experience,4,23
+"Linode, now Akamai","Developer, QA or test",3,24
+"Linode, now Akamai",Database administrator,3,25
+"Linode, now Akamai","Developer, game or graphics",3,26
+"Linode, now Akamai",Developer Advocate,2,27
+"Linode, now Akamai",Marketing or sales professional,2,28
+"Linode, now Akamai",Scientist,1,29
+"Linode, now Akamai",Student,1,30
+"Linode, now Akamai",Educator,1,31
+Linux,"Developer, back-end",9477,1
+Linux,"Developer, full-stack",8789,2
+Linux,"Developer, front-end",4897,3
+Linux,"Developer, desktop or enterprise applications",3325,4
+Linux,DevOps specialist,2796,5
+Linux,System administrator,2190,6
+Linux,"Developer, mobile",2148,7
+Linux,Database administrator,1989,8
+Linux,Data scientist or machine learning specialist,1562,9
+Linux,"Engineer, data",1521,10
+Linux,"Developer, embedded applications or devices",1467,11
+Linux,"Developer, QA or test",1299,12
+Linux,Designer,1220,13
+Linux,Data or business analyst,1096,14
+Linux,Academic researcher,1083,15
+Linux,Engineering manager,1022,16
+Linux,"Engineer, site reliability",905,17
+Linux,Educator,883,18
+Linux,Scientist,792,19
+Linux,Product manager,741,20
+Linux,"Developer, game or graphics",703,21
+Linux,Senior executive/VP,426,22
+Linux,Student,337,23
+Linux,Marketing or sales professional,114,24
+MacOS,"Developer, full-stack",4375,1
+MacOS,"Developer, back-end",4238,2
+MacOS,"Developer, front-end",2667,3
+MacOS,"Developer, mobile",1553,4
+MacOS,"Developer, desktop or enterprise applications",1338,5
+MacOS,DevOps specialist,1159,6
+MacOS,System administrator,775,7
+MacOS,Database administrator,757,8
+MacOS,"Engineer, data",656,9
+MacOS,Data scientist or machine learning specialist,633,10
+MacOS,"Developer, QA or test",609,11
+MacOS,Designer,587,12
+MacOS,Engineering manager,571,13
+MacOS,"Developer, embedded applications or devices",570,14
+MacOS,Data or business analyst,432,15
+MacOS,Educator,428,16
+MacOS,Academic researcher,422,17
+MacOS,"Engineer, site reliability",410,18
+MacOS,Product manager,376,19
+MacOS,"Developer, game or graphics",361,20
+MacOS,Scientist,314,21
+MacOS,Senior executive/VP,243,22
+MacOS,Student,120,23
+MacOS,Marketing or sales professional,68,24
+Managed Hosting,"Developer, full-stack",1182,1
+Managed Hosting,"Developer, back-end",836,2
+Managed Hosting,"Developer, front-end",392,3
+Managed Hosting,DevOps specialist,260,4
+Managed Hosting,"Developer, desktop or enterprise applications",242,5
+Managed Hosting,System administrator,215,6
+Managed Hosting,"Developer, mobile",182,7
+Managed Hosting,Database administrator,180,8
+Managed Hosting,Cloud infrastructure engineer,176,9
+Managed Hosting,Project manager,169,10
+Managed Hosting,Engineering manager,163,11
+Managed Hosting,Product manager,110,12
+Managed Hosting,Designer,103,13
+Managed Hosting,"Senior Executive (C-Suite, VP, etc.)",96,14
+Managed Hosting,"Developer, QA or test",91,15
+Managed Hosting,"Engineer, data",82,16
+Managed Hosting,"Engineer, site reliability",80,17
+Managed Hosting,Data or business analyst,80,18
+Managed Hosting,Other (please specify):,79,19
+Managed Hosting,Security professional,74,20
+Managed Hosting,"Developer, embedded applications or devices",68,21
+Managed Hosting,Educator,65,22
+Managed Hosting,Data scientist or machine learning specialist,60,23
+Managed Hosting,"Developer, game or graphics",40,24
+Managed Hosting,Academic researcher,38,25
+Managed Hosting,Blockchain,33,26
+Managed Hosting,Marketing or sales professional,26,27
+Managed Hosting,Student,22,28
+Managed Hosting,Scientist,21,29
+Managed Hosting,Research & Development role,8,30
+Managed Hosting,Developer Experience,4,31
+Managed Hosting,Developer Advocate,2,32
+Microsoft Azure,"Developer, full-stack",15924,1
+Microsoft Azure,"Developer, back-end",12350,2
+Microsoft Azure,"Developer, front-end",6206,3
+Microsoft Azure,"Developer, desktop or enterprise applications",5301,4
+Microsoft Azure,DevOps specialist,3915,5
+Microsoft Azure,"Developer, mobile",2929,6
+Microsoft Azure,Database administrator,2341,7
+Microsoft Azure,System administrator,1963,8
+Microsoft Azure,"Engineer, data",1847,9
+Microsoft Azure,Engineering manager,1812,10
+Microsoft Azure,Data or business analyst,1536,11
+Microsoft Azure,Data scientist or machine learning specialist,1511,12
+Microsoft Azure,"Developer, QA or test",1436,13
+Microsoft Azure,"Developer, embedded applications or devices",1353,14
+Microsoft Azure,Designer,1308,15
+Microsoft Azure,Cloud infrastructure engineer,1154,16
+Microsoft Azure,Product manager,1063,17
+Microsoft Azure,"Engineer, site reliability",976,18
+Microsoft Azure,Other (please specify):,849,19
+Microsoft Azure,Educator,733,20
+Microsoft Azure,"Senior Executive (C-Suite, VP, etc.)",697,21
+Microsoft Azure,"Developer, game or graphics",557,22
+Microsoft Azure,Project manager,515,23
+Microsoft Azure,Academic researcher,508,24
+Microsoft Azure,Student,390,25
+Microsoft Azure,Scientist,348,26
+Microsoft Azure,Security professional,324,27
+Microsoft Azure,Senior executive/VP,163,28
+Microsoft Azure,Marketing or sales professional,149,29
+Microsoft Azure,Blockchain,121,30
+Microsoft Azure,Research & Development role,113,31
+Microsoft Azure,Developer Experience,35,32
+Microsoft Azure,Developer Advocate,29,33
+Microsoft Azure,Hardware Engineer,11,34
+Netlify,"Developer, full-stack",1101,1
+Netlify,"Developer, front-end",341,2
+Netlify,"Developer, back-end",255,3
+Netlify,Engineering manager,68,4
+Netlify,"Senior Executive (C-Suite, VP, etc.)",48,5
+Netlify,Other (please specify):,46,6
+Netlify,"Developer, mobile",37,7
+Netlify,"Developer, desktop or enterprise applications",37,8
+Netlify,Cloud infrastructure engineer,25,9
+Netlify,Research & Development role,20,10
+Netlify,DevOps specialist,16,11
+Netlify,Data scientist or machine learning specialist,16,12
+Netlify,Product manager,15,13
+Netlify,"Engineer, data",14,14
+Netlify,"Engineer, site reliability",14,15
+Netlify,Developer Experience,12,16
+Netlify,Developer Advocate,11,17
+Netlify,System administrator,11,18
+Netlify,Project manager,9,19
+Netlify,Blockchain,8,20
+Netlify,Data or business analyst,8,21
+Netlify,"Developer, embedded applications or devices",8,22
+Netlify,"Developer, game or graphics",7,23
+Netlify,Academic researcher,7,24
+Netlify,Educator,6,25
+Netlify,"Developer, QA or test",6,26
+Netlify,Security professional,6,27
+Netlify,Hardware Engineer,3,28
+Netlify,Designer,3,29
+Netlify,Scientist,2,30
+Netlify,Student,2,31
+Netlify,Marketing or sales professional,1,32
+Netlify,Database administrator,1,33
+OVH,"Developer, full-stack",870,1
+OVH,"Developer, back-end",599,2
+OVH,"Developer, front-end",275,3
+OVH,DevOps specialist,170,4
+OVH,System administrator,146,5
+OVH,"Developer, desktop or enterprise applications",140,6
+OVH,Cloud infrastructure engineer,136,7
+OVH,"Developer, mobile",117,8
+OVH,Engineering manager,115,9
+OVH,Project manager,98,10
+OVH,Database administrator,98,11
+OVH,"Engineer, data",79,12
+OVH,"Developer, embedded applications or devices",79,13
+OVH,"Engineer, site reliability",66,14
+OVH,"Senior Executive (C-Suite, VP, etc.)",60,15
+OVH,Product manager,54,16
+OVH,Security professional,53,17
+OVH,"Developer, game or graphics",51,18
+OVH,Other (please specify):,47,19
+OVH,Data scientist or machine learning specialist,45,20
+OVH,"Developer, QA or test",44,21
+OVH,Blockchain,39,22
+OVH,Designer,39,23
+OVH,Data or business analyst,38,24
+OVH,Educator,27,25
+OVH,Student,23,26
+OVH,Academic researcher,22,27
+OVH,Research & Development role,15,28
+OVH,Marketing or sales professional,8,29
+OVH,Scientist,6,30
+OVH,Developer Experience,4,31
+OVH,Developer Advocate,3,32
+OVH,Hardware Engineer,1,33
+OpenShift,"Developer, full-stack",316,1
+OpenShift,"Developer, back-end",213,2
+OpenShift,DevOps specialist,66,3
+OpenShift,Other (please specify):,36,4
+OpenShift,Cloud infrastructure engineer,28,5
+OpenShift,Engineering manager,21,6
+OpenShift,"Engineer, data",17,7
+OpenShift,Research & Development role,16,8
+OpenShift,"Developer, desktop or enterprise applications",16,9
+OpenShift,"Developer, front-end",15,10
+OpenShift,"Engineer, site reliability",10,11
+OpenShift,System administrator,8,12
+OpenShift,Data scientist or machine learning specialist,8,13
+OpenShift,"Senior Executive (C-Suite, VP, etc.)",8,14
+OpenShift,"Developer, mobile",5,15
+OpenShift,Developer Advocate,5,16
+OpenShift,Project manager,5,17
+OpenShift,"Developer, embedded applications or devices",4,18
+OpenShift,Blockchain,4,19
+OpenShift,"Developer, QA or test",4,20
+OpenShift,Security professional,3,21
+OpenShift,Developer Experience,3,22
+OpenShift,Marketing or sales professional,3,23
+OpenShift,Data or business analyst,2,24
+OpenShift,Educator,1,25
+OpenShift,Student,1,26
+OpenShift,Product manager,1,27
+OpenShift,Hardware Engineer,1,28
+OpenShift,Academic researcher,1,29
+OpenShift,Database administrator,1,30
+OpenStack,"Developer, full-stack",320,1
+OpenStack,"Developer, back-end",303,2
+OpenStack,DevOps specialist,142,3
+OpenStack,Cloud infrastructure engineer,131,4
+OpenStack,"Developer, front-end",92,5
+OpenStack,System administrator,84,6
+OpenStack,"Engineer, site reliability",77,7
+OpenStack,"Developer, desktop or enterprise applications",73,8
+OpenStack,Engineering manager,59,9
+OpenStack,Database administrator,50,10
+OpenStack,"Engineer, data",46,11
+OpenStack,Other (please specify):,43,12
+OpenStack,Data scientist or machine learning specialist,41,13
+OpenStack,Project manager,40,14
+OpenStack,"Developer, embedded applications or devices",38,15
+OpenStack,"Developer, mobile",38,16
+OpenStack,"Developer, QA or test",36,17
+OpenStack,Security professional,36,18
+OpenStack,"Senior Executive (C-Suite, VP, etc.)",31,19
+OpenStack,Academic researcher,29,20
+OpenStack,Data or business analyst,29,21
+OpenStack,Educator,25,22
+OpenStack,Product manager,24,23
+OpenStack,"Developer, game or graphics",21,24
+OpenStack,Designer,21,25
+OpenStack,Blockchain,19,26
+OpenStack,Marketing or sales professional,12,27
+OpenStack,Scientist,12,28
+OpenStack,Developer Experience,7,29
+OpenStack,Student,6,30
+OpenStack,Research & Development role,4,31
+OpenStack,Hardware Engineer,1,32
+OpenStack,Developer Advocate,1,33
+Oracle Cloud Infrastructure,"Developer, back-end",361,1
+Oracle Cloud Infrastructure,"Developer, full-stack",328,2
+Oracle Cloud Infrastructure,"Developer, desktop or enterprise applications",157,3
+Oracle Cloud Infrastructure,"Developer, front-end",144,4
+Oracle Cloud Infrastructure,DevOps specialist,140,5
+Oracle Cloud Infrastructure,System administrator,105,6
+Oracle Cloud Infrastructure,Database administrator,96,7
+Oracle Cloud Infrastructure,"Developer, mobile",81,8
+Oracle Cloud Infrastructure,Cloud infrastructure engineer,72,9
+Oracle Cloud Infrastructure,"Engineer, data",70,10
+Oracle Cloud Infrastructure,Engineering manager,69,11
+Oracle Cloud Infrastructure,Data or business analyst,65,12
+Oracle Cloud Infrastructure,"Engineer, site reliability",57,13
+Oracle Cloud Infrastructure,"Developer, embedded applications or devices",55,14
+Oracle Cloud Infrastructure,"Developer, QA or test",50,15
+Oracle Cloud Infrastructure,Data scientist or machine learning specialist,42,16
+Oracle Cloud Infrastructure,Designer,36,17
+Oracle Cloud Infrastructure,Other (please specify):,31,18
+Oracle Cloud Infrastructure,Educator,30,19
+Oracle Cloud Infrastructure,Product manager,28,20
+Oracle Cloud Infrastructure,"Senior Executive (C-Suite, VP, etc.)",27,21
+Oracle Cloud Infrastructure,Project manager,22,22
+Oracle Cloud Infrastructure,Security professional,20,23
+Oracle Cloud Infrastructure,Academic researcher,20,24
+Oracle Cloud Infrastructure,Scientist,18,25
+Oracle Cloud Infrastructure,Student,17,26
+Oracle Cloud Infrastructure,"Developer, game or graphics",17,27
+Oracle Cloud Infrastructure,Blockchain,11,28
+Oracle Cloud Infrastructure,Marketing or sales professional,11,29
+Oracle Cloud Infrastructure (OCI),"Developer, full-stack",174,1
+Oracle Cloud Infrastructure (OCI),"Developer, back-end",116,2
+Oracle Cloud Infrastructure (OCI),"Developer, desktop or enterprise applications",40,3
+Oracle Cloud Infrastructure (OCI),DevOps specialist,28,4
+Oracle Cloud Infrastructure (OCI),Other (please specify):,26,5
+Oracle Cloud Infrastructure (OCI),Database administrator,24,6
+Oracle Cloud Infrastructure (OCI),Cloud infrastructure engineer,20,7
+Oracle Cloud Infrastructure (OCI),Engineering manager,18,8
+Oracle Cloud Infrastructure (OCI),"Developer, front-end",14,9
+Oracle Cloud Infrastructure (OCI),Data scientist or machine learning specialist,14,10
+Oracle Cloud Infrastructure (OCI),"Engineer, data",14,11
+Oracle Cloud Infrastructure (OCI),"Senior Executive (C-Suite, VP, etc.)",14,12
+Oracle Cloud Infrastructure (OCI),"Engineer, site reliability",12,13
+Oracle Cloud Infrastructure (OCI),Research & Development role,11,14
+Oracle Cloud Infrastructure (OCI),Security professional,9,15
+Oracle Cloud Infrastructure (OCI),Data or business analyst,8,16
+Oracle Cloud Infrastructure (OCI),Product manager,7,17
+Oracle Cloud Infrastructure (OCI),Developer Advocate,5,18
+Oracle Cloud Infrastructure (OCI),System administrator,5,19
+Oracle Cloud Infrastructure (OCI),Designer,4,20
+Oracle Cloud Infrastructure (OCI),"Developer, embedded applications or devices",4,21
+Oracle Cloud Infrastructure (OCI),Developer Experience,4,22
+Oracle Cloud Infrastructure (OCI),Project manager,3,23
+Oracle Cloud Infrastructure (OCI),"Developer, mobile",3,24
+Oracle Cloud Infrastructure (OCI),"Developer, game or graphics",3,25
+Oracle Cloud Infrastructure (OCI),Academic researcher,3,26
+Oracle Cloud Infrastructure (OCI),Blockchain,1,27
+Oracle Cloud Infrastructure (OCI),Educator,1,28
+Oracle Cloud Infrastructure (OCI),Student,1,29
+Oracle Cloud Infrastructure (OCI),Scientist,1,30
+Oracle Cloud Infrastructure (OCI),Hardware Engineer,1,31
+Other(s):,"Developer, full-stack",84,1
+Other(s):,"Developer, back-end",81,2
+Other(s):,"Developer, front-end",61,3
+Other(s):,Database administrator,32,4
+Other(s):,System administrator,31,5
+Other(s):,"Developer, desktop or enterprise applications",31,6
+Other(s):,Academic researcher,30,7
+Other(s):,Educator,27,8
+Other(s):,DevOps specialist,26,9
+Other(s):,Student,24,10
+Other(s):,Designer,24,11
+Other(s):,"Developer, mobile",22,12
+Other(s):,"Developer, QA or test",20,13
+Other(s):,"Developer, embedded applications or devices",20,14
+Other(s):,Scientist,19,15
+Other(s):,Product manager,17,16
+Other(s):,Data scientist or machine learning specialist,16,17
+Other(s):,"Developer, game or graphics",15,18
+Other(s):,"Engineer, data",13,19
+Other(s):,Engineering manager,12,20
+Other(s):,"Engineer, site reliability",11,21
+Other(s):,Data or business analyst,10,22
+Other(s):,Senior executive/VP,7,23
+Other(s):,Marketing or sales professional,5,24
+Raspberry Pi,"Developer, full-stack",2316,1
+Raspberry Pi,"Developer, back-end",2315,2
+Raspberry Pi,"Developer, front-end",1368,3
+Raspberry Pi,"Developer, desktop or enterprise applications",1030,4
+Raspberry Pi,DevOps specialist,769,5
+Raspberry Pi,"Developer, embedded applications or devices",762,6
+Raspberry Pi,"Developer, mobile",753,7
+Raspberry Pi,System administrator,724,8
+Raspberry Pi,Database administrator,608,9
+Raspberry Pi,"Engineer, data",421,10
+Raspberry Pi,Data scientist or machine learning specialist,419,11
+Raspberry Pi,Designer,415,12
+Raspberry Pi,"Developer, QA or test",359,13
+Raspberry Pi,Data or business analyst,327,14
+Raspberry Pi,Academic researcher,307,15
+Raspberry Pi,Engineering manager,277,16
+Raspberry Pi,Educator,276,17
+Raspberry Pi,"Developer, game or graphics",266,18
+Raspberry Pi,Product manager,239,19
+Raspberry Pi,Scientist,238,20
+Raspberry Pi,"Engineer, site reliability",237,21
+Raspberry Pi,Senior executive/VP,151,22
+Raspberry Pi,Student,144,23
+Raspberry Pi,Marketing or sales professional,41,24
+Render,"Developer, full-stack",202,1
+Render,"Developer, back-end",66,2
+Render,"Developer, front-end",33,3
+Render,"Senior Executive (C-Suite, VP, etc.)",10,4
+Render,Engineering manager,5,5
+Render,"Developer, mobile",5,6
+Render,Other (please specify):,4,7
+Render,Cloud infrastructure engineer,4,8
+Render,"Engineer, data",4,9
+Render,Research & Development role,3,10
+Render,Project manager,3,11
+Render,Educator,2,12
+Render,Student,2,13
+Render,"Developer, embedded applications or devices",2,14
+Render,Security professional,2,15
+Render,Product manager,2,16
+Render,Developer Advocate,2,17
+Render,Blockchain,2,18
+Render,Data or business analyst,1,19
+Render,"Developer, QA or test",1,20
+Render,System administrator,1,21
+Render,"Engineer, site reliability",1,22
+Render,"Developer, desktop or enterprise applications",1,23
+Render,Developer Experience,1,24
+Render,Academic researcher,1,25
+Scaleway,"Developer, full-stack",106,1
+Scaleway,"Developer, back-end",72,2
+Scaleway,DevOps specialist,19,3
+Scaleway,Engineering manager,14,4
+Scaleway,Cloud infrastructure engineer,11,5
+Scaleway,"Developer, front-end",10,6
+Scaleway,"Senior Executive (C-Suite, VP, etc.)",9,7
+Scaleway,Other (please specify):,7,8
+Scaleway,"Developer, embedded applications or devices",7,9
+Scaleway,"Engineer, data",7,10
+Scaleway,"Developer, QA or test",4,11
+Scaleway,"Engineer, site reliability",4,12
+Scaleway,"Developer, mobile",3,13
+Scaleway,Project manager,3,14
+Scaleway,Research & Development role,3,15
+Scaleway,"Developer, desktop or enterprise applications",2,16
+Scaleway,Security professional,2,17
+Scaleway,Developer Advocate,2,18
+Scaleway,Data scientist or machine learning specialist,2,19
+Scaleway,Developer Experience,2,20
+Scaleway,Blockchain,1,21
+Scaleway,Designer,1,22
+Scaleway,Hardware Engineer,1,23
+Scaleway,Data or business analyst,1,24
+Scaleway,Student,1,25
+Scaleway,Product manager,1,26
+Slack,"Developer, back-end",476,1
+Slack,"Developer, full-stack",475,2
+Slack,"Developer, front-end",293,3
+Slack,DevOps specialist,151,4
+Slack,"Developer, mobile",148,5
+Slack,System administrator,145,6
+Slack,Student,138,7
+Slack,Database administrator,131,8
+Slack,"Developer, desktop or enterprise applications",127,9
+Slack,Data scientist or machine learning specialist,124,10
+Slack,Academic researcher,95,11
+Slack,Scientist,92,12
+Slack,Designer,86,13
+Slack,"Engineer, data",83,14
+Slack,"Developer, QA or test",77,15
+Slack,"Developer, embedded applications or devices",68,16
+Slack,Product manager,65,17
+Slack,"Engineer, site reliability",61,18
+Slack,Engineering manager,61,19
+Slack,Data or business analyst,58,20
+Slack,Educator,55,21
+Slack,Senior executive/VP,52,22
+Slack,"Developer, game or graphics",48,23
+Slack,Marketing or sales professional,11,24
+Slack Apps and Integrations,"Developer, full-stack",1329,1
+Slack Apps and Integrations,"Developer, back-end",1311,2
+Slack Apps and Integrations,"Developer, front-end",794,3
+Slack Apps and Integrations,DevOps specialist,483,4
+Slack Apps and Integrations,"Developer, mobile",373,5
+Slack Apps and Integrations,"Developer, desktop or enterprise applications",369,6
+Slack Apps and Integrations,Database administrator,241,7
+Slack Apps and Integrations,System administrator,228,8
+Slack Apps and Integrations,"Engineer, data",219,9
+Slack Apps and Integrations,"Developer, QA or test",218,10
+Slack Apps and Integrations,Engineering manager,196,11
+Slack Apps and Integrations,"Engineer, site reliability",177,12
+Slack Apps and Integrations,"Developer, embedded applications or devices",163,13
+Slack Apps and Integrations,Designer,155,14
+Slack Apps and Integrations,Data scientist or machine learning specialist,151,15
+Slack Apps and Integrations,Data or business analyst,135,16
+Slack Apps and Integrations,Educator,118,17
+Slack Apps and Integrations,Product manager,110,18
+Slack Apps and Integrations,"Developer, game or graphics",99,19
+Slack Apps and Integrations,Academic researcher,93,20
+Slack Apps and Integrations,Senior executive/VP,81,21
+Slack Apps and Integrations,Scientist,49,22
+Slack Apps and Integrations,Marketing or sales professional,19,23
+VMware,"Developer, full-stack",1418,1
+VMware,"Developer, back-end",1024,2
+VMware,"Developer, desktop or enterprise applications",477,3
+VMware,"Developer, front-end",456,4
+VMware,DevOps specialist,386,5
+VMware,System administrator,329,6
+VMware,Cloud infrastructure engineer,277,7
+VMware,Database administrator,234,8
+VMware,"Developer, mobile",228,9
+VMware,"Developer, embedded applications or devices",179,10
+VMware,Engineering manager,175,11
+VMware,Project manager,172,12
+VMware,"Developer, QA or test",158,13
+VMware,Security professional,149,14
+VMware,Data or business analyst,146,15
+VMware,"Engineer, data",140,16
+VMware,Designer,139,17
+VMware,"Engineer, site reliability",139,18
+VMware,Other (please specify):,116,19
+VMware,Product manager,115,20
+VMware,Data scientist or machine learning specialist,105,21
+VMware,"Senior Executive (C-Suite, VP, etc.)",100,22
+VMware,Educator,74,23
+VMware,"Developer, game or graphics",58,24
+VMware,Academic researcher,57,25
+VMware,Scientist,45,26
+VMware,Blockchain,43,27
+VMware,Student,35,28
+VMware,Research & Development role,33,29
+VMware,Marketing or sales professional,19,30
+VMware,Developer Experience,9,31
+VMware,Hardware Engineer,3,32
+VMware,Developer Advocate,2,33
+Vercel,"Developer, full-stack",1372,1
+Vercel,"Developer, front-end",418,2
+Vercel,"Developer, back-end",279,3
+Vercel,Engineering manager,89,4
+Vercel,"Senior Executive (C-Suite, VP, etc.)",73,5
+Vercel,Other (please specify):,45,6
+Vercel,"Developer, mobile",42,7
+Vercel,DevOps specialist,29,8
+Vercel,"Developer, desktop or enterprise applications",24,9
+Vercel,Cloud infrastructure engineer,18,10
+Vercel,"Engineer, data",17,11
+Vercel,Research & Development role,16,12
+Vercel,Blockchain,15,13
+Vercel,Developer Advocate,13,14
+Vercel,Data scientist or machine learning specialist,12,15
+Vercel,"Developer, QA or test",12,16
+Vercel,Developer Experience,11,17
+Vercel,"Developer, embedded applications or devices",10,18
+Vercel,"Developer, game or graphics",10,19
+Vercel,Data or business analyst,9,20
+Vercel,"Engineer, site reliability",8,21
+Vercel,Security professional,8,22
+Vercel,Academic researcher,7,23
+Vercel,Project manager,7,24
+Vercel,Product manager,7,25
+Vercel,Student,5,26
+Vercel,Designer,5,27
+Vercel,System administrator,5,28
+Vercel,Hardware Engineer,5,29
+Vercel,Educator,4,30
+Vercel,Marketing or sales professional,2,31
+Vercel,Database administrator,1,32
+Vultr,"Developer, full-stack",184,1
+Vultr,"Developer, back-end",82,2
+Vultr,"Developer, front-end",22,3
+Vultr,Engineering manager,14,4
+Vultr,"Developer, embedded applications or devices",13,5
+Vultr,"Developer, desktop or enterprise applications",12,6
+Vultr,Cloud infrastructure engineer,10,7
+Vultr,DevOps specialist,10,8
+Vultr,Other (please specify):,9,9
+Vultr,Security professional,8,10
+Vultr,Data scientist or machine learning specialist,8,11
+Vultr,"Senior Executive (C-Suite, VP, etc.)",6,12
+Vultr,"Engineer, data",6,13
+Vultr,Research & Development role,6,14
+Vultr,"Developer, game or graphics",4,15
+Vultr,Blockchain,3,16
+Vultr,"Engineer, site reliability",3,17
+Vultr,Developer Experience,2,18
+Vultr,System administrator,2,19
+Vultr,Product manager,2,20
+Vultr,"Developer, mobile",2,21
+Vultr,Project manager,2,22
+Vultr,Database administrator,1,23
+Vultr,"Developer, QA or test",1,24
+Vultr,Academic researcher,1,25
+Vultr,Educator,1,26
+Vultr,Student,1,27
+Vultr,Scientist,1,28
+Windows,"Developer, full-stack",8212,1
+Windows,"Developer, back-end",7900,2
+Windows,"Developer, front-end",5092,3
+Windows,"Developer, desktop or enterprise applications",4643,4
+Windows,"Developer, mobile",2123,5
+Windows,Database administrator,1985,6
+Windows,DevOps specialist,1784,7
+Windows,System administrator,1533,8
+Windows,Designer,1443,9
+Windows,"Developer, embedded applications or devices",1333,10
+Windows,Data or business analyst,1313,11
+Windows,"Developer, QA or test",1228,12
+Windows,Data scientist or machine learning specialist,1087,13
+Windows,"Engineer, data",1081,14
+Windows,"Developer, game or graphics",817,15
+Windows,Academic researcher,784,16
+Windows,Educator,723,17
+Windows,Product manager,691,18
+Windows,Engineering manager,668,19
+Windows,Scientist,530,20
+Windows,"Engineer, site reliability",449,21
+Windows,Student,344,22
+Windows,Senior executive/VP,288,23
+Windows,Marketing or sales professional,107,24
+WordPress,"Developer, full-stack",2454,1
+WordPress,"Developer, back-end",2047,2
+WordPress,"Developer, front-end",1807,3
+WordPress,"Developer, mobile",781,4
+WordPress,"Developer, desktop or enterprise applications",761,5
+WordPress,Database administrator,675,6
+WordPress,System administrator,636,7
+WordPress,Designer,598,8
+WordPress,DevOps specialist,535,9
+WordPress,"Developer, QA or test",368,10
+WordPress,Data or business analyst,331,11
+WordPress,"Developer, embedded applications or devices",318,12
+WordPress,Product manager,306,13
+WordPress,Educator,300,14
+WordPress,Academic researcher,259,15
+WordPress,Data scientist or machine learning specialist,244,16
+WordPress,"Engineer, data",241,17
+WordPress,Engineering manager,231,18
+WordPress,"Developer, game or graphics",207,19
+WordPress,"Engineer, site reliability",179,20
+WordPress,Senior executive/VP,160,21
+WordPress,Scientist,136,22
+WordPress,Marketing or sales professional,104,23
+WordPress,Student,88,24
+iOS,"Developer, mobile",2074,1
+iOS,"Developer, full-stack",2000,2
+iOS,"Developer, back-end",1641,3
+iOS,"Developer, front-end",1501,4
+iOS,"Developer, desktop or enterprise applications",822,5
+iOS,"Developer, embedded applications or devices",477,6
+iOS,Database administrator,465,7
+iOS,DevOps specialist,407,8
+iOS,Designer,401,9
+iOS,System administrator,364,10
+iOS,"Developer, game or graphics",319,11
+iOS,"Developer, QA or test",314,12
+iOS,Engineering manager,267,13
+iOS,Product manager,262,14
+iOS,Data or business analyst,189,15
+iOS,"Engineer, data",179,16
+iOS,Educator,178,17
+iOS,Data scientist or machine learning specialist,174,18
+iOS,Senior executive/VP,164,19
+iOS,Academic researcher,158,20
+iOS,"Engineer, site reliability",124,21
+iOS,Scientist,98,22
+iOS,Student,77,23
+iOS,Marketing or sales professional,45,24
