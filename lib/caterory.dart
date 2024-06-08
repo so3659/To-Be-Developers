@@ -1,3 +1,4 @@
+import 'package:bigdata_project/result.dart';
 import 'package:flutter/material.dart';
 
 class CatalogScreen extends StatefulWidget {
@@ -117,8 +118,7 @@ class _CatalogScreenState extends State<CatalogScreen> {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(
-                          builder: (context) => const ResultScreen()),
+                      MaterialPageRoute(builder: (context) => const Result()),
                     );
                   },
                   child: const Text(
@@ -207,19 +207,3 @@ final List<Map<String, dynamic>> categories = [
   {'color': Colors.brown, 'icon': Icons.games, 'label': '게임개발'},
   {'color': Colors.grey, 'icon': Icons.analytics, 'label': '데이터분석'},
 ];
-
-class ResultScreen extends StatelessWidget {
-  const ResultScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('검색 결과'),
-      ),
-      body: const Center(
-        child: Text('검색 결과 화면'),
-      ),
-    );
-  }
-}
