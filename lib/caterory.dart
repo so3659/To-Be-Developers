@@ -9,8 +9,8 @@ class CatalogScreen extends StatefulWidget {
 
 class _CatalogScreenState extends State<CatalogScreen> {
   RangeValues priceRange = const RangeValues(0, 30000);
-  Set<String> selectedCategories = {};
-  Set<String> selectedJobCategories = {};
+  String? selectedCategory;
+  String? selectedJobCategory;
 
   @override
   Widget build(BuildContext context) {
@@ -53,15 +53,11 @@ class _CatalogScreenState extends State<CatalogScreen> {
                       final category = categories[index];
                       return SelectableCategoryItem(
                         category: category,
-                        isSelected:
-                            selectedCategories.contains(category['label']),
+                        isSelected: selectedCategory == category['label'],
                         onSelected: (isSelected) {
                           setState(() {
-                            if (isSelected) {
-                              selectedCategories.add(category['label']);
-                            } else {
-                              selectedCategories.remove(category['label']);
-                            }
+                            selectedCategory =
+                                isSelected ? category['label'] : null;
                           });
                         },
                       );
@@ -95,15 +91,11 @@ class _CatalogScreenState extends State<CatalogScreen> {
                       final category = jobCategories[index];
                       return SelectableCategoryItem(
                         category: category,
-                        isSelected:
-                            selectedJobCategories.contains(category['label']),
+                        isSelected: selectedJobCategory == category['label'],
                         onSelected: (isSelected) {
                           setState(() {
-                            if (isSelected) {
-                              selectedJobCategories.add(category['label']);
-                            } else {
-                              selectedJobCategories.remove(category['label']);
-                            }
+                            selectedJobCategory =
+                                isSelected ? category['label'] : null;
                           });
                         },
                       );
@@ -139,68 +131,6 @@ class _CatalogScreenState extends State<CatalogScreen> {
           ),
         ),
       ),
-    );
-  }
-
-  Widget _buildCareerCategoryRow(BuildContext context) {
-    List<String> categories = [
-      'Junior',
-      'Intermediate',
-      'Senior',
-      'Lead',
-    ];
-
-    final screenSize = MediaQuery.of(context).size;
-
-    Icon getIcon(String category) {
-      switch (category) {
-        case 'Junior':
-          return const Icon(Icons.child_care);
-        case 'Intermediate':
-          return const Icon(Icons.person);
-        case 'Senior':
-          return const Icon(Icons.escalator_warning);
-        case 'Lead':
-          return const Icon(Icons.star);
-        default:
-          return const Icon(Icons.star);
-      }
-    }
-
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.center,
-      children: categories.map((category) {
-        return Padding(
-          padding: const EdgeInsets.only(bottom: 8.0),
-          child: FilterChip(
-            showCheckmark: false,
-            avatar: getIcon(category),
-            selectedColor: Colors.lightGreen[200],
-            label: SizedBox(
-              width: screenSize.width * 0.9,
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Text(category),
-                ],
-              ),
-            ),
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(10),
-            ),
-            selected: selectedCategories.contains(category),
-            onSelected: (bool selected) {
-              setState(() {
-                if (selected) {
-                  selectedCategories.add(category);
-                } else {
-                  selectedCategories.remove(category);
-                }
-              });
-            },
-          ),
-        );
-      }).toList(),
     );
   }
 }
