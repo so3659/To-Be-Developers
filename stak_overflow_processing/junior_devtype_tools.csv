@@ -1,0 +1,1023 @@
+YearsGroup,DevType,Tools,Count,Rank
+junior,Academic researcher,Visual Studio Code,19,1
+junior,Academic researcher,Github,13,2
+junior,Academic researcher,Android Studio,9,3
+junior,Academic researcher,PyCharm,8,4
+junior,Academic researcher,Visual Studio,7,5
+junior,Academic researcher,"Google Suite (Docs, Meet, etc)",7,6
+junior,Academic researcher,Jira,7,7
+junior,Academic researcher,Slack,7,8
+junior,Academic researcher,Sublime Text,6,9
+junior,Academic researcher,IPython/Jupyter,6,10
+junior,Academic researcher,Eclipse,6,11
+junior,Academic researcher,Trello,6,12
+junior,Academic researcher,Gitlab,5,13
+junior,Academic researcher,Microsoft Teams,5,14
+junior,Academic researcher,Notepad++,4,15
+junior,Academic researcher,Confluence,4,16
+junior,Academic researcher,Microsoft Azure,4,17
+junior,Academic researcher,Xcode,3,18
+junior,Academic researcher,Atom,3,19
+junior,Academic researcher,IntelliJ,3,20
+junior,Academic researcher,NetBeans,3,21
+junior,Academic researcher,RStudio,3,22
+junior,Academic researcher,GoLand,2,23
+junior,Academic researcher,Vim,2,24
+junior,Academic researcher,Emacs,2,25
+junior,Academic researcher,Stack Overflow for Teams,2,26
+junior,Academic researcher,Nano,1,27
+junior,Academic researcher,"RAD Studio (Delphi, C++ Builder)",1,28
+junior,Academic researcher,Facebook Workplace,1,29
+junior,Blockchain,Visual Studio Code,19,1
+junior,Blockchain,Visual Studio,7,2
+junior,Blockchain,Notepad++,6,3
+junior,Blockchain,Sublime Text,5,4
+junior,Blockchain,Android Studio,5,5
+junior,Blockchain,Atom,4,6
+junior,Blockchain,PyCharm,4,7
+junior,Blockchain,Xcode,3,8
+junior,Blockchain,Vim,3,9
+junior,Blockchain,Webstorm,3,10
+junior,Blockchain,Nano,3,11
+junior,Blockchain,IPython/Jupyter,3,12
+junior,Blockchain,Neovim,3,13
+junior,Blockchain,NetBeans,2,14
+junior,Blockchain,Eclipse,2,15
+junior,Blockchain,IntelliJ,2,16
+junior,Blockchain,IntelliJ IDEA,1,17
+junior,Blockchain,RStudio,1,18
+junior,Cloud infrastructure engineer,Visual Studio Code,28,1
+junior,Cloud infrastructure engineer,Visual Studio,10,2
+junior,Cloud infrastructure engineer,PyCharm,8,3
+junior,Cloud infrastructure engineer,Vim,7,4
+junior,Cloud infrastructure engineer,Notepad++,6,5
+junior,Cloud infrastructure engineer,Nano,6,6
+junior,Cloud infrastructure engineer,Sublime Text,6,7
+junior,Cloud infrastructure engineer,Android Studio,5,8
+junior,Cloud infrastructure engineer,IntelliJ,4,9
+junior,Cloud infrastructure engineer,Webstorm,3,10
+junior,Cloud infrastructure engineer,Atom,3,11
+junior,Cloud infrastructure engineer,Neovim,2,12
+junior,Cloud infrastructure engineer,Xcode,2,13
+junior,Cloud infrastructure engineer,Eclipse,2,14
+junior,Cloud infrastructure engineer,IPython/Jupyter,2,15
+junior,Cloud infrastructure engineer,RStudio,2,16
+junior,Cloud infrastructure engineer,IntelliJ IDEA,1,17
+junior,Cloud infrastructure engineer,Jupyter Notebook/JupyterLab,1,18
+junior,Cloud infrastructure engineer,GoLand,1,19
+junior,Cloud infrastructure engineer,CLion,1,20
+junior,Cloud infrastructure engineer,Emacs,1,21
+junior,Data or business analyst,Visual Studio Code,82,1
+junior,Data or business analyst,IPython/Jupyter,45,2
+junior,Data or business analyst,Github,42,3
+junior,Data or business analyst,Notepad++,32,4
+junior,Data or business analyst,PyCharm,30,5
+junior,Data or business analyst,Visual Studio,30,6
+junior,Data or business analyst,Slack,26,7
+junior,Data or business analyst,Sublime Text,23,8
+junior,Data or business analyst,IntelliJ,19,9
+junior,Data or business analyst,Android Studio,19,10
+junior,Data or business analyst,Jira,19,11
+junior,Data or business analyst,RStudio,17,12
+junior,Data or business analyst,Vim,16,13
+junior,Data or business analyst,"Google Suite (Docs, Meet, etc)",15,14
+junior,Data or business analyst,Eclipse,13,15
+junior,Data or business analyst,Gitlab,13,16
+junior,Data or business analyst,Microsoft Teams,12,17
+junior,Data or business analyst,Trello,11,18
+junior,Data or business analyst,Confluence,10,19
+junior,Data or business analyst,Atom,9,20
+junior,Data or business analyst,Spyder,6,21
+junior,Data or business analyst,NetBeans,6,22
+junior,Data or business analyst,Emacs,5,23
+junior,Data or business analyst,Jupyter Notebook/JupyterLab,5,24
+junior,Data or business analyst,Nano,5,25
+junior,Data or business analyst,Xcode,5,26
+junior,Data or business analyst,PHPStorm,5,27
+junior,Data or business analyst,Microsoft Azure,5,28
+junior,Data or business analyst,Neovim,4,29
+junior,Data or business analyst,Webstorm,3,30
+junior,Data or business analyst,Rider,3,31
+junior,Data or business analyst,PhpStorm,2,32
+junior,Data or business analyst,RubyMine,2,33
+junior,Data or business analyst,Stack Overflow for Teams,2,34
+junior,Data or business analyst,Micro,1,35
+junior,Data or business analyst,IntelliJ IDEA,1,36
+junior,Data or business analyst,"Rad Studio (Delphi, C++ Builder)",1,37
+junior,Data or business analyst,IPython,1,38
+junior,Data or business analyst,"RAD Studio (Delphi, C++ Builder)",1,39
+junior,Data or business analyst,CLion,1,40
+junior,Data or business analyst,Facebook Workplace,1,41
+junior,Data scientist or machine learning specialist,Visual Studio Code,65,1
+junior,Data scientist or machine learning specialist,PyCharm,37,2
+junior,Data scientist or machine learning specialist,IPython/Jupyter,35,3
+junior,Data scientist or machine learning specialist,Github,29,4
+junior,Data scientist or machine learning specialist,Sublime Text,22,5
+junior,Data scientist or machine learning specialist,Slack,20,6
+junior,Data scientist or machine learning specialist,"Google Suite (Docs, Meet, etc)",16,7
+junior,Data scientist or machine learning specialist,Notepad++,14,8
+junior,Data scientist or machine learning specialist,Vim,13,9
+junior,Data scientist or machine learning specialist,Android Studio,13,10
+junior,Data scientist or machine learning specialist,Visual Studio,13,11
+junior,Data scientist or machine learning specialist,RStudio,12,12
+junior,Data scientist or machine learning specialist,Jupyter Notebook/JupyterLab,11,13
+junior,Data scientist or machine learning specialist,IntelliJ,11,14
+junior,Data scientist or machine learning specialist,Jira,11,15
+junior,Data scientist or machine learning specialist,Gitlab,10,16
+junior,Data scientist or machine learning specialist,Microsoft Teams,10,17
+junior,Data scientist or machine learning specialist,Trello,10,18
+junior,Data scientist or machine learning specialist,IPython,7,19
+junior,Data scientist or machine learning specialist,Eclipse,6,20
+junior,Data scientist or machine learning specialist,Xcode,5,21
+junior,Data scientist or machine learning specialist,Atom,5,22
+junior,Data scientist or machine learning specialist,Microsoft Azure,5,23
+junior,Data scientist or machine learning specialist,Emacs,4,24
+junior,Data scientist or machine learning specialist,Stack Overflow for Teams,4,25
+junior,Data scientist or machine learning specialist,Spyder,3,26
+junior,Data scientist or machine learning specialist,Confluence,3,27
+junior,Data scientist or machine learning specialist,PHPStorm,2,28
+junior,Data scientist or machine learning specialist,Rider,2,29
+junior,Data scientist or machine learning specialist,Webstorm,2,30
+junior,Data scientist or machine learning specialist,RubyMine,1,31
+junior,Data scientist or machine learning specialist,IntelliJ IDEA,1,32
+junior,Data scientist or machine learning specialist,NetBeans,1,33
+junior,Data scientist or machine learning specialist,PhpStorm,1,34
+junior,Data scientist or machine learning specialist,condo,1,35
+junior,Data scientist or machine learning specialist,Nano,1,36
+junior,Data scientist or machine learning specialist,Neovim,1,37
+junior,Data scientist or machine learning specialist,CLion,1,38
+junior,Database administrator,Visual Studio Code,62,1
+junior,Database administrator,Github,42,2
+junior,Database administrator,Visual Studio,32,3
+junior,Database administrator,Notepad++,31,4
+junior,Database administrator,Slack,24,5
+junior,Database administrator,"Google Suite (Docs, Meet, etc)",19,6
+junior,Database administrator,Sublime Text,18,7
+junior,Database administrator,PyCharm,18,8
+junior,Database administrator,Gitlab,18,9
+junior,Database administrator,Android Studio,17,10
+junior,Database administrator,Vim,15,11
+junior,Database administrator,Atom,14,12
+junior,Database administrator,IPython/Jupyter,14,13
+junior,Database administrator,IntelliJ,13,14
+junior,Database administrator,Jira,13,15
+junior,Database administrator,Trello,12,16
+junior,Database administrator,Microsoft Teams,12,17
+junior,Database administrator,Neovim,9,18
+junior,Database administrator,Eclipse,9,19
+junior,Database administrator,Rider,8,20
+junior,Database administrator,Microsoft Azure,8,21
+junior,Database administrator,Webstorm,7,22
+junior,Database administrator,Confluence,7,23
+junior,Database administrator,NetBeans,6,24
+junior,Database administrator,Stack Overflow for Teams,6,25
+junior,Database administrator,Xcode,5,26
+junior,Database administrator,CLion,4,27
+junior,Database administrator,PHPStorm,4,28
+junior,Database administrator,GoLand,3,29
+junior,Database administrator,PhpStorm,3,30
+junior,Database administrator,RStudio,3,31
+junior,Database administrator,Nano,2,32
+junior,Database administrator,Emacs,2,33
+junior,Database administrator,Qt Creator,1,34
+junior,Database administrator,"RAD Studio (Delphi, C++ Builder)",1,35
+junior,Database administrator,Spyder,1,36
+junior,Database administrator,RubyMine,1,37
+junior,Database administrator,Facebook Workplace,1,38
+junior,Designer,Github,63,1
+junior,Designer,Visual Studio Code,60,2
+junior,Designer,Slack,40,3
+junior,Designer,"Google Suite (Docs, Meet, etc)",35,4
+junior,Designer,Trello,25,5
+junior,Designer,Gitlab,25,6
+junior,Designer,Jira,24,7
+junior,Designer,Visual Studio,22,8
+junior,Designer,Android Studio,22,9
+junior,Designer,Sublime Text,21,10
+junior,Designer,Notepad++,21,11
+junior,Designer,IntelliJ,19,12
+junior,Designer,Microsoft Teams,18,13
+junior,Designer,Eclipse,12,14
+junior,Designer,PyCharm,11,15
+junior,Designer,Atom,10,16
+junior,Designer,Microsoft Azure,10,17
+junior,Designer,Confluence,10,18
+junior,Designer,Xcode,9,19
+junior,Designer,Vim,9,20
+junior,Designer,Webstorm,7,21
+junior,Designer,Stack Overflow for Teams,7,22
+junior,Designer,NetBeans,6,23
+junior,Designer,IPython/Jupyter,6,24
+junior,Designer,Neovim,4,25
+junior,Designer,Emacs,4,26
+junior,Designer,Nano,3,27
+junior,Designer,PHPStorm,3,28
+junior,Designer,RStudio,3,29
+junior,Designer,Spyder,2,30
+junior,Designer,Rider,2,31
+junior,Designer,PhpStorm,1,32
+junior,Designer,GoLand,1,33
+junior,Designer,"RAD Studio (Delphi, C++ Builder)",1,34
+junior,DevOps specialist,Visual Studio Code,78,1
+junior,DevOps specialist,Github,34,2
+junior,DevOps specialist,Vim,31,3
+junior,DevOps specialist,Visual Studio,26,4
+junior,DevOps specialist,Slack,24,5
+junior,DevOps specialist,"Google Suite (Docs, Meet, etc)",20,6
+junior,DevOps specialist,Notepad++,19,7
+junior,DevOps specialist,Jira,19,8
+junior,DevOps specialist,Sublime Text,17,9
+junior,DevOps specialist,PyCharm,17,10
+junior,DevOps specialist,Android Studio,15,11
+junior,DevOps specialist,Confluence,15,12
+junior,DevOps specialist,Trello,14,13
+junior,DevOps specialist,Webstorm,13,14
+junior,DevOps specialist,IntelliJ,13,15
+junior,DevOps specialist,Microsoft Teams,13,16
+junior,DevOps specialist,Gitlab,13,17
+junior,DevOps specialist,Atom,12,18
+junior,DevOps specialist,IPython/Jupyter,9,19
+junior,DevOps specialist,Neovim,8,20
+junior,DevOps specialist,Microsoft Azure,8,21
+junior,DevOps specialist,Xcode,7,22
+junior,DevOps specialist,Rider,6,23
+junior,DevOps specialist,Eclipse,6,24
+junior,DevOps specialist,PHPStorm,6,25
+junior,DevOps specialist,Nano,4,26
+junior,DevOps specialist,NetBeans,3,27
+junior,DevOps specialist,IPython,2,28
+junior,DevOps specialist,PhpStorm,2,29
+junior,DevOps specialist,RStudio,2,30
+junior,DevOps specialist,Jupyter Notebook/JupyterLab,1,31
+junior,DevOps specialist,Fleet,1,32
+junior,DevOps specialist,GoLand,1,33
+junior,DevOps specialist,CLion,1,34
+junior,DevOps specialist,IntelliJ IDEA,1,35
+junior,DevOps specialist,RubyMine,1,36
+junior,DevOps specialist,Spyder,1,37
+junior,DevOps specialist,TextMate,1,38
+junior,DevOps specialist,Emacs,1,39
+junior,DevOps specialist,Stack Overflow for Teams,1,40
+junior,Developer Advocate,PyCharm,1,1
+junior,Developer Advocate,Visual Studio Code,1,2
+junior,Developer Advocate,Jupyter Notebook/JupyterLab,1,3
+junior,Developer Advocate,Notepad++,1,4
+junior,Developer Advocate,Visual Studio,1,5
+junior,Developer Experience,Visual Studio Code,4,1
+junior,Developer Experience,Visual Studio,2,2
+junior,Developer Experience,Sublime Text,2,3
+junior,Developer Experience,RStudio,1,4
+junior,Developer Experience,Notepad++,1,5
+junior,Developer Experience,Jupyter Notebook/JupyterLab,1,6
+junior,Developer Experience,PyCharm,1,7
+junior,Developer Experience,Rider,1,8
+junior,Developer Experience,Neovim,1,9
+junior,Developer Experience,Xcode,1,10
+junior,"Developer, QA or test",Visual Studio Code,57,1
+junior,"Developer, QA or test",Github,46,2
+junior,"Developer, QA or test",Jira,33,3
+junior,"Developer, QA or test",Slack,31,4
+junior,"Developer, QA or test","Google Suite (Docs, Meet, etc)",31,5
+junior,"Developer, QA or test",Visual Studio,24,6
+junior,"Developer, QA or test",Gitlab,23,7
+junior,"Developer, QA or test",Notepad++,22,8
+junior,"Developer, QA or test",Trello,22,9
+junior,"Developer, QA or test",Confluence,19,10
+junior,"Developer, QA or test",Vim,17,11
+junior,"Developer, QA or test",PyCharm,17,12
+junior,"Developer, QA or test",Android Studio,15,13
+junior,"Developer, QA or test",IntelliJ,15,14
+junior,"Developer, QA or test",Sublime Text,14,15
+junior,"Developer, QA or test",Microsoft Teams,13,16
+junior,"Developer, QA or test",Eclipse,11,17
+junior,"Developer, QA or test",Atom,9,18
+junior,"Developer, QA or test",IPython/Jupyter,7,19
+junior,"Developer, QA or test",Xcode,6,20
+junior,"Developer, QA or test",PhpStorm,6,21
+junior,"Developer, QA or test",Neovim,5,22
+junior,"Developer, QA or test",Microsoft Azure,5,23
+junior,"Developer, QA or test",Nano,4,24
+junior,"Developer, QA or test",Webstorm,4,25
+junior,"Developer, QA or test",Stack Overflow for Teams,4,26
+junior,"Developer, QA or test",NetBeans,3,27
+junior,"Developer, QA or test",PHPStorm,3,28
+junior,"Developer, QA or test",Emacs,3,29
+junior,"Developer, QA or test",GoLand,2,30
+junior,"Developer, QA or test",CLion,2,31
+junior,"Developer, QA or test",RubyMine,2,32
+junior,"Developer, QA or test",RStudio,2,33
+junior,"Developer, QA or test",Rider,2,34
+junior,"Developer, QA or test",IntelliJ IDEA,1,35
+junior,"Developer, QA or test",Jupyter Notebook/JupyterLab,1,36
+junior,"Developer, QA or test",TextMate,1,37
+junior,"Developer, QA or test",Facebook Workplace,1,38
+junior,"Developer, back-end",Visual Studio Code,582,1
+junior,"Developer, back-end",Github,319,2
+junior,"Developer, back-end",Slack,209,3
+junior,"Developer, back-end",Visual Studio,199,4
+junior,"Developer, back-end",Jira,175,5
+junior,"Developer, back-end",Notepad++,150,6
+junior,"Developer, back-end",PyCharm,145,7
+junior,"Developer, back-end",Sublime Text,142,8
+junior,"Developer, back-end",Vim,138,9
+junior,"Developer, back-end",IntelliJ,135,10
+junior,"Developer, back-end",Gitlab,133,11
+junior,"Developer, back-end",Trello,130,12
+junior,"Developer, back-end",Android Studio,124,13
+junior,"Developer, back-end","Google Suite (Docs, Meet, etc)",123,14
+junior,"Developer, back-end",Microsoft Teams,98,15
+junior,"Developer, back-end",Confluence,96,16
+junior,"Developer, back-end",Atom,80,17
+junior,"Developer, back-end",Eclipse,79,18
+junior,"Developer, back-end",IPython/Jupyter,68,19
+junior,"Developer, back-end",Microsoft Azure,53,20
+junior,"Developer, back-end",Xcode,45,21
+junior,"Developer, back-end",Webstorm,44,22
+junior,"Developer, back-end",IntelliJ IDEA,38,23
+junior,"Developer, back-end",Neovim,36,24
+junior,"Developer, back-end",NetBeans,36,25
+junior,"Developer, back-end",Nano,35,26
+junior,"Developer, back-end",Rider,32,27
+junior,"Developer, back-end",PHPStorm,32,28
+junior,"Developer, back-end",PhpStorm,29,29
+junior,"Developer, back-end",Stack Overflow for Teams,22,30
+junior,"Developer, back-end",RStudio,17,31
+junior,"Developer, back-end",RubyMine,16,32
+junior,"Developer, back-end",CLion,16,33
+junior,"Developer, back-end",Jupyter Notebook/JupyterLab,14,34
+junior,"Developer, back-end",Emacs,11,35
+junior,"Developer, back-end",GoLand,11,36
+junior,"Developer, back-end",WebStorm,10,37
+junior,"Developer, back-end",Goland,9,38
+junior,"Developer, back-end",IPython,6,39
+junior,"Developer, back-end",DataGrip,6,40
+junior,"Developer, back-end",Spyder,6,41
+junior,"Developer, back-end",Facebook Workplace,5,42
+junior,"Developer, back-end",VSCodium,4,43
+junior,"Developer, back-end",Fleet,3,44
+junior,"Developer, back-end",TextMate,3,45
+junior,"Developer, back-end","RAD Studio (Delphi, C++ Builder)",3,46
+junior,"Developer, back-end",Netbeans,2,47
+junior,"Developer, back-end",Code::Blocks,1,48
+junior,"Developer, back-end","Rad Studio (Delphi, C++ Builder)",1,49
+junior,"Developer, back-end",Kate,1,50
+junior,"Developer, back-end",Qt Creator,1,51
+junior,"Developer, back-end",Helix,1,52
+junior,"Developer, desktop or enterprise applications",Visual Studio Code,116,1
+junior,"Developer, desktop or enterprise applications",Visual Studio,78,2
+junior,"Developer, desktop or enterprise applications",Github,75,3
+junior,"Developer, desktop or enterprise applications",Notepad++,57,4
+junior,"Developer, desktop or enterprise applications",Android Studio,56,5
+junior,"Developer, desktop or enterprise applications",Jira,46,6
+junior,"Developer, desktop or enterprise applications",Slack,38,7
+junior,"Developer, desktop or enterprise applications",Microsoft Teams,36,8
+junior,"Developer, desktop or enterprise applications",Gitlab,35,9
+junior,"Developer, desktop or enterprise applications",Sublime Text,33,10
+junior,"Developer, desktop or enterprise applications","Google Suite (Docs, Meet, etc)",33,11
+junior,"Developer, desktop or enterprise applications",IntelliJ,32,12
+junior,"Developer, desktop or enterprise applications",Trello,31,13
+junior,"Developer, desktop or enterprise applications",Eclipse,27,14
+junior,"Developer, desktop or enterprise applications",PyCharm,25,15
+junior,"Developer, desktop or enterprise applications",Microsoft Azure,23,16
+junior,"Developer, desktop or enterprise applications",Confluence,22,17
+junior,"Developer, desktop or enterprise applications",Atom,20,18
+junior,"Developer, desktop or enterprise applications",Xcode,18,19
+junior,"Developer, desktop or enterprise applications",Vim,15,20
+junior,"Developer, desktop or enterprise applications",NetBeans,13,21
+junior,"Developer, desktop or enterprise applications",IPython/Jupyter,11,22
+junior,"Developer, desktop or enterprise applications",Rider,11,23
+junior,"Developer, desktop or enterprise applications",Webstorm,10,24
+junior,"Developer, desktop or enterprise applications",IntelliJ IDEA,7,25
+junior,"Developer, desktop or enterprise applications",Stack Overflow for Teams,7,26
+junior,"Developer, desktop or enterprise applications",Nano,6,27
+junior,"Developer, desktop or enterprise applications",PHPStorm,6,28
+junior,"Developer, desktop or enterprise applications",PhpStorm,5,29
+junior,"Developer, desktop or enterprise applications",DataGrip,4,30
+junior,"Developer, desktop or enterprise applications",Neovim,4,31
+junior,"Developer, desktop or enterprise applications",CLion,4,32
+junior,"Developer, desktop or enterprise applications",Emacs,4,33
+junior,"Developer, desktop or enterprise applications",Jupyter Notebook/JupyterLab,3,34
+junior,"Developer, desktop or enterprise applications",Spyder,3,35
+junior,"Developer, desktop or enterprise applications",GoLand,3,36
+junior,"Developer, desktop or enterprise applications",RStudio,3,37
+junior,"Developer, desktop or enterprise applications",RubyMine,2,38
+junior,"Developer, desktop or enterprise applications",TextMate,2,39
+junior,"Developer, desktop or enterprise applications","RAD Studio (Delphi, C++ Builder)",2,40
+junior,"Developer, desktop or enterprise applications",IPython,1,41
+junior,"Developer, embedded applications or devices",Visual Studio Code,28,1
+junior,"Developer, embedded applications or devices",Github,26,2
+junior,"Developer, embedded applications or devices",Visual Studio,21,3
+junior,"Developer, embedded applications or devices",Android Studio,17,4
+junior,"Developer, embedded applications or devices",Notepad++,14,5
+junior,"Developer, embedded applications or devices",Jira,14,6
+junior,"Developer, embedded applications or devices",Slack,14,7
+junior,"Developer, embedded applications or devices",IntelliJ,13,8
+junior,"Developer, embedded applications or devices",Trello,13,9
+junior,"Developer, embedded applications or devices",Eclipse,11,10
+junior,"Developer, embedded applications or devices",Sublime Text,11,11
+junior,"Developer, embedded applications or devices",Microsoft Teams,11,12
+junior,"Developer, embedded applications or devices","Google Suite (Docs, Meet, etc)",11,13
+junior,"Developer, embedded applications or devices",Gitlab,10,14
+junior,"Developer, embedded applications or devices",PyCharm,9,15
+junior,"Developer, embedded applications or devices",Microsoft Azure,9,16
+junior,"Developer, embedded applications or devices",Webstorm,7,17
+junior,"Developer, embedded applications or devices",Xcode,6,18
+junior,"Developer, embedded applications or devices",NetBeans,6,19
+junior,"Developer, embedded applications or devices",Confluence,6,20
+junior,"Developer, embedded applications or devices",Vim,5,21
+junior,"Developer, embedded applications or devices",Atom,4,22
+junior,"Developer, embedded applications or devices",IPython/Jupyter,3,23
+junior,"Developer, embedded applications or devices",Rider,2,24
+junior,"Developer, embedded applications or devices",Stack Overflow for Teams,2,25
+junior,"Developer, embedded applications or devices",CLion,1,26
+junior,"Developer, embedded applications or devices",GoLand,1,27
+junior,"Developer, embedded applications or devices",Neovim,1,28
+junior,"Developer, embedded applications or devices","RAD Studio (Delphi, C++ Builder)",1,29
+junior,"Developer, embedded applications or devices",PHPStorm,1,30
+junior,"Developer, embedded applications or devices",RStudio,1,31
+junior,"Developer, embedded applications or devices",Emacs,1,32
+junior,"Developer, front-end",Visual Studio Code,579,1
+junior,"Developer, front-end",Github,316,2
+junior,"Developer, front-end",Slack,218,3
+junior,"Developer, front-end",Visual Studio,163,4
+junior,"Developer, front-end",Jira,163,5
+junior,"Developer, front-end",Android Studio,156,6
+junior,"Developer, front-end",Trello,153,7
+junior,"Developer, front-end","Google Suite (Docs, Meet, etc)",142,8
+junior,"Developer, front-end",Gitlab,128,9
+junior,"Developer, front-end",Sublime Text,114,10
+junior,"Developer, front-end",Notepad++,100,11
+junior,"Developer, front-end",IntelliJ,97,12
+junior,"Developer, front-end",Confluence,87,13
+junior,"Developer, front-end",Vim,86,14
+junior,"Developer, front-end",Xcode,84,15
+junior,"Developer, front-end",Microsoft Teams,76,16
+junior,"Developer, front-end",PyCharm,75,17
+junior,"Developer, front-end",Webstorm,71,18
+junior,"Developer, front-end",Atom,61,19
+junior,"Developer, front-end",Eclipse,60,20
+junior,"Developer, front-end",Microsoft Azure,51,21
+junior,"Developer, front-end",IPython/Jupyter,34,22
+junior,"Developer, front-end",Neovim,33,23
+junior,"Developer, front-end",NetBeans,26,24
+junior,"Developer, front-end",PHPStorm,22,25
+junior,"Developer, front-end",Nano,21,26
+junior,"Developer, front-end",PhpStorm,19,27
+junior,"Developer, front-end",Rider,16,28
+junior,"Developer, front-end",Stack Overflow for Teams,16,29
+junior,"Developer, front-end",RStudio,15,30
+junior,"Developer, front-end",IntelliJ IDEA,14,31
+junior,"Developer, front-end",Emacs,10,32
+junior,"Developer, front-end",Spyder,9,33
+junior,"Developer, front-end",Jupyter Notebook/JupyterLab,7,34
+junior,"Developer, front-end",CLion,6,35
+junior,"Developer, front-end",WebStorm,6,36
+junior,"Developer, front-end",Facebook Workplace,6,37
+junior,"Developer, front-end",GoLand,4,38
+junior,"Developer, front-end",VSCodium,3,39
+junior,"Developer, front-end",Code::Blocks,3,40
+junior,"Developer, front-end",RubyMine,3,41
+junior,"Developer, front-end",Netbeans,2,42
+junior,"Developer, front-end","RAD Studio (Delphi, C++ Builder)",2,43
+junior,"Developer, front-end",BBEdit,1,44
+junior,"Developer, front-end",Geany,1,45
+junior,"Developer, front-end",DataGrip,1,46
+junior,"Developer, front-end",Nova,1,47
+junior,"Developer, front-end",IPython,1,48
+junior,"Developer, front-end",Goland,1,49
+junior,"Developer, front-end",Qt Creator,1,50
+junior,"Developer, front-end",TextMate,1,51
+junior,"Developer, full-stack",Visual Studio Code,1085,1
+junior,"Developer, full-stack",Github,401,2
+junior,"Developer, full-stack",Visual Studio,345,3
+junior,"Developer, full-stack",Slack,285,4
+junior,"Developer, full-stack",Android Studio,243,5
+junior,"Developer, full-stack",Jira,211,6
+junior,"Developer, full-stack",Notepad++,208,7
+junior,"Developer, full-stack",Vim,207,8
+junior,"Developer, full-stack",Sublime Text,184,9
+junior,"Developer, full-stack",Trello,180,10
+junior,"Developer, full-stack","Google Suite (Docs, Meet, etc)",178,11
+junior,"Developer, full-stack",IntelliJ,177,12
+junior,"Developer, full-stack",Gitlab,164,13
+junior,"Developer, full-stack",PyCharm,162,14
+junior,"Developer, full-stack",Xcode,127,15
+junior,"Developer, full-stack",Atom,126,16
+junior,"Developer, full-stack",Confluence,120,17
+junior,"Developer, full-stack",Microsoft Teams,117,18
+junior,"Developer, full-stack",Eclipse,109,19
+junior,"Developer, full-stack",Webstorm,83,20
+junior,"Developer, full-stack",Neovim,80,21
+junior,"Developer, full-stack",IntelliJ IDEA,75,22
+junior,"Developer, full-stack",Microsoft Azure,69,23
+junior,"Developer, full-stack",IPython/Jupyter,66,24
+junior,"Developer, full-stack",Nano,51,25
+junior,"Developer, full-stack",Rider,50,26
+junior,"Developer, full-stack",PHPStorm,40,27
+junior,"Developer, full-stack",NetBeans,37,28
+junior,"Developer, full-stack",PhpStorm,35,29
+junior,"Developer, full-stack",WebStorm,35,30
+junior,"Developer, full-stack",Jupyter Notebook/JupyterLab,30,31
+junior,"Developer, full-stack",RubyMine,29,32
+junior,"Developer, full-stack",Emacs,21,33
+junior,"Developer, full-stack",Stack Overflow for Teams,21,34
+junior,"Developer, full-stack",RStudio,20,35
+junior,"Developer, full-stack",DataGrip,17,36
+junior,"Developer, full-stack",Spyder,11,37
+junior,"Developer, full-stack",Facebook Workplace,9,38
+junior,"Developer, full-stack",Fleet,8,39
+junior,"Developer, full-stack",CLion,8,40
+junior,"Developer, full-stack",Goland,7,41
+junior,"Developer, full-stack",Qt Creator,7,42
+junior,"Developer, full-stack",GoLand,7,43
+junior,"Developer, full-stack",IPython,6,44
+junior,"Developer, full-stack",Code::Blocks,5,45
+junior,"Developer, full-stack",TextMate,5,46
+junior,"Developer, full-stack",Helix,3,47
+junior,"Developer, full-stack",Netbeans,3,48
+junior,"Developer, full-stack",VSCodium,3,49
+junior,"Developer, full-stack",Geany,2,50
+junior,"Developer, full-stack",Micro,1,51
+junior,"Developer, full-stack","RAD Studio (Delphi, C++ Builder)",1,52
+junior,"Developer, game or graphics",Visual Studio Code,14,1
+junior,"Developer, game or graphics",Github,12,2
+junior,"Developer, game or graphics",Visual Studio,11,3
+junior,"Developer, game or graphics",Android Studio,8,4
+junior,"Developer, game or graphics",Slack,8,5
+junior,"Developer, game or graphics",Gitlab,8,6
+junior,"Developer, game or graphics",IntelliJ,7,7
+junior,"Developer, game or graphics",Microsoft Teams,7,8
+junior,"Developer, game or graphics",Jira,7,9
+junior,"Developer, game or graphics",Sublime Text,6,10
+junior,"Developer, game or graphics",Notepad++,6,11
+junior,"Developer, game or graphics",PyCharm,5,12
+junior,"Developer, game or graphics",Trello,5,13
+junior,"Developer, game or graphics",Xcode,4,14
+junior,"Developer, game or graphics",NetBeans,4,15
+junior,"Developer, game or graphics",Eclipse,4,16
+junior,"Developer, game or graphics","Google Suite (Docs, Meet, etc)",4,17
+junior,"Developer, game or graphics",Microsoft Azure,4,18
+junior,"Developer, game or graphics",Vim,3,19
+junior,"Developer, game or graphics",Webstorm,3,20
+junior,"Developer, game or graphics",Atom,3,21
+junior,"Developer, game or graphics",IPython/Jupyter,3,22
+junior,"Developer, game or graphics",Neovim,2,23
+junior,"Developer, game or graphics",CLion,2,24
+junior,"Developer, game or graphics",GoLand,1,25
+junior,"Developer, game or graphics",RStudio,1,26
+junior,"Developer, game or graphics",PHPStorm,1,27
+junior,"Developer, game or graphics",Rider,1,28
+junior,"Developer, game or graphics",Emacs,1,29
+junior,"Developer, game or graphics",Confluence,1,30
+junior,"Developer, game or graphics",Stack Overflow for Teams,1,31
+junior,"Developer, mobile",Visual Studio Code,154,1
+junior,"Developer, mobile",Android Studio,128,2
+junior,"Developer, mobile",Github,105,3
+junior,"Developer, mobile",Visual Studio,63,4
+junior,"Developer, mobile",Xcode,62,5
+junior,"Developer, mobile",Slack,62,6
+junior,"Developer, mobile",IntelliJ,48,7
+junior,"Developer, mobile",Trello,48,8
+junior,"Developer, mobile",Jira,46,9
+junior,"Developer, mobile",Gitlab,44,10
+junior,"Developer, mobile","Google Suite (Docs, Meet, etc)",42,11
+junior,"Developer, mobile",Notepad++,41,12
+junior,"Developer, mobile",Sublime Text,39,13
+junior,"Developer, mobile",Eclipse,34,14
+junior,"Developer, mobile",Atom,34,15
+junior,"Developer, mobile",PyCharm,27,16
+junior,"Developer, mobile",Confluence,24,17
+junior,"Developer, mobile",Microsoft Teams,23,18
+junior,"Developer, mobile",Vim,21,19
+junior,"Developer, mobile",Microsoft Azure,17,20
+junior,"Developer, mobile",NetBeans,16,21
+junior,"Developer, mobile",Webstorm,14,22
+junior,"Developer, mobile",IPython/Jupyter,12,23
+junior,"Developer, mobile",Stack Overflow for Teams,10,24
+junior,"Developer, mobile",PHPStorm,8,25
+junior,"Developer, mobile",RStudio,7,26
+junior,"Developer, mobile",Nano,6,27
+junior,"Developer, mobile",Neovim,6,28
+junior,"Developer, mobile",Rider,5,29
+junior,"Developer, mobile",PhpStorm,5,30
+junior,"Developer, mobile",Jupyter Notebook/JupyterLab,4,31
+junior,"Developer, mobile",IntelliJ IDEA,4,32
+junior,"Developer, mobile",Spyder,4,33
+junior,"Developer, mobile",GoLand,3,34
+junior,"Developer, mobile",CLion,3,35
+junior,"Developer, mobile",Emacs,3,36
+junior,"Developer, mobile",IPython,1,37
+junior,"Developer, mobile",Code::Blocks,1,38
+junior,"Developer, mobile",Netbeans,1,39
+junior,"Developer, mobile",Geany,1,40
+junior,"Developer, mobile",WebStorm,1,41
+junior,"Developer, mobile",RubyMine,1,42
+junior,"Developer, mobile","RAD Studio (Delphi, C++ Builder)",1,43
+junior,"Developer, mobile",TextMate,1,44
+junior,"Developer, mobile",Facebook Workplace,1,45
+junior,Educator,Visual Studio Code,40,1
+junior,Educator,Github,19,2
+junior,Educator,Android Studio,17,3
+junior,Educator,Sublime Text,13,4
+junior,Educator,Notepad++,13,5
+junior,Educator,Visual Studio,13,6
+junior,Educator,Slack,13,7
+junior,Educator,"Google Suite (Docs, Meet, etc)",12,8
+junior,Educator,Xcode,11,9
+junior,Educator,Eclipse,10,10
+junior,Educator,IntelliJ,10,11
+junior,Educator,Gitlab,10,12
+junior,Educator,Vim,9,13
+junior,Educator,Atom,9,14
+junior,Educator,Trello,9,15
+junior,Educator,Jira,8,16
+junior,Educator,IPython/Jupyter,7,17
+junior,Educator,NetBeans,7,18
+junior,Educator,RStudio,5,19
+junior,Educator,Microsoft Teams,5,20
+junior,Educator,PyCharm,4,21
+junior,Educator,Confluence,4,22
+junior,Educator,Stack Overflow for Teams,4,23
+junior,Educator,Nano,3,24
+junior,Educator,PHPStorm,3,25
+junior,Educator,Emacs,3,26
+junior,Educator,Neovim,2,27
+junior,Educator,TextMate,2,28
+junior,Educator,Microsoft Azure,2,29
+junior,Educator,GoLand,1,30
+junior,Educator,Rider,1,31
+junior,Educator,Webstorm,1,32
+junior,Educator,CLion,1,33
+junior,Educator,RubyMine,1,34
+junior,"Engineer, data",Visual Studio Code,78,1
+junior,"Engineer, data",IPython/Jupyter,37,2
+junior,"Engineer, data",Github,35,3
+junior,"Engineer, data",PyCharm,32,4
+junior,"Engineer, data",Notepad++,28,5
+junior,"Engineer, data",Visual Studio,25,6
+junior,"Engineer, data",Sublime Text,25,7
+junior,"Engineer, data",Slack,25,8
+junior,"Engineer, data",Vim,18,9
+junior,"Engineer, data",IntelliJ,17,10
+junior,"Engineer, data",Jira,16,11
+junior,"Engineer, data",Android Studio,13,12
+junior,"Engineer, data",Microsoft Teams,13,13
+junior,"Engineer, data",Atom,12,14
+junior,"Engineer, data",Confluence,12,15
+junior,"Engineer, data",Gitlab,12,16
+junior,"Engineer, data","Google Suite (Docs, Meet, etc)",11,17
+junior,"Engineer, data",RStudio,8,18
+junior,"Engineer, data",Webstorm,8,19
+junior,"Engineer, data",Eclipse,8,20
+junior,"Engineer, data",Trello,7,21
+junior,"Engineer, data",Jupyter Notebook/JupyterLab,6,22
+junior,"Engineer, data",Microsoft Azure,6,23
+junior,"Engineer, data",Xcode,4,24
+junior,"Engineer, data",Nano,3,25
+junior,"Engineer, data",PHPStorm,3,26
+junior,"Engineer, data",IntelliJ IDEA,2,27
+junior,"Engineer, data",Spyder,2,28
+junior,"Engineer, data",Neovim,2,29
+junior,"Engineer, data",Rider,2,30
+junior,"Engineer, data",Emacs,2,31
+junior,"Engineer, data",NetBeans,2,32
+junior,"Engineer, data",Stack Overflow for Teams,2,33
+junior,"Engineer, data",IPython,1,34
+junior,"Engineer, data",PhpStorm,1,35
+junior,"Engineer, data",RubyMine,1,36
+junior,"Engineer, data",Facebook Workplace,1,37
+junior,"Engineer, site reliability",Visual Studio Code,25,1
+junior,"Engineer, site reliability",Github,11,2
+junior,"Engineer, site reliability",Vim,10,3
+junior,"Engineer, site reliability",PyCharm,10,4
+junior,"Engineer, site reliability",Android Studio,8,5
+junior,"Engineer, site reliability",Visual Studio,8,6
+junior,"Engineer, site reliability",Jira,8,7
+junior,"Engineer, site reliability",Atom,7,8
+junior,"Engineer, site reliability",IntelliJ,7,9
+junior,"Engineer, site reliability",IPython/Jupyter,7,10
+junior,"Engineer, site reliability",Slack,7,11
+junior,"Engineer, site reliability",Notepad++,6,12
+junior,"Engineer, site reliability","Google Suite (Docs, Meet, etc)",6,13
+junior,"Engineer, site reliability",Confluence,6,14
+junior,"Engineer, site reliability",Gitlab,6,15
+junior,"Engineer, site reliability",Neovim,5,16
+junior,"Engineer, site reliability",Eclipse,5,17
+junior,"Engineer, site reliability",Sublime Text,5,18
+junior,"Engineer, site reliability",Webstorm,4,19
+junior,"Engineer, site reliability",Stack Overflow for Teams,4,20
+junior,"Engineer, site reliability",Emacs,3,21
+junior,"Engineer, site reliability",Xcode,3,22
+junior,"Engineer, site reliability",Microsoft Teams,3,23
+junior,"Engineer, site reliability",Nano,2,24
+junior,"Engineer, site reliability",RStudio,2,25
+junior,"Engineer, site reliability",Spyder,1,26
+junior,"Engineer, site reliability",Rider,1,27
+junior,"Engineer, site reliability",NetBeans,1,28
+junior,"Engineer, site reliability",PHPStorm,1,29
+junior,"Engineer, site reliability",Trello,1,30
+junior,"Engineer, site reliability",Microsoft Azure,1,31
+junior,Engineering manager,Visual Studio Code,21,1
+junior,Engineering manager,Visual Studio,12,2
+junior,Engineering manager,Android Studio,9,3
+junior,Engineering manager,PyCharm,7,4
+junior,Engineering manager,Vim,6,5
+junior,Engineering manager,Atom,6,6
+junior,Engineering manager,Sublime Text,5,7
+junior,Engineering manager,Webstorm,5,8
+junior,Engineering manager,Xcode,4,9
+junior,Engineering manager,Notepad++,4,10
+junior,Engineering manager,IPython/Jupyter,4,11
+junior,Engineering manager,IntelliJ,4,12
+junior,Engineering manager,Neovim,3,13
+junior,Engineering manager,PHPStorm,3,14
+junior,Engineering manager,Eclipse,3,15
+junior,Engineering manager,Rider,2,16
+junior,Engineering manager,GoLand,2,17
+junior,Engineering manager,Nano,2,18
+junior,Engineering manager,CLion,2,19
+junior,Engineering manager,Emacs,2,20
+junior,Engineering manager,RStudio,2,21
+junior,Engineering manager,Github,2,22
+junior,Engineering manager,TextMate,1,23
+junior,Engineering manager,RubyMine,1,24
+junior,Engineering manager,Microsoft Azure,1,25
+junior,Engineering manager,"Google Suite (Docs, Meet, etc)",1,26
+junior,Engineering manager,Gitlab,1,27
+junior,Engineering manager,Stack Overflow for Teams,1,28
+junior,Engineering manager,Slack,1,29
+junior,Engineering manager,Microsoft Teams,1,30
+junior,Marketing or sales professional,Visual Studio Code,14,1
+junior,Marketing or sales professional,Github,11,2
+junior,Marketing or sales professional,Slack,9,3
+junior,Marketing or sales professional,"Google Suite (Docs, Meet, etc)",8,4
+junior,Marketing or sales professional,Notepad++,7,5
+junior,Marketing or sales professional,Trello,6,6
+junior,Marketing or sales professional,Android Studio,5,7
+junior,Marketing or sales professional,Atom,5,8
+junior,Marketing or sales professional,Visual Studio,4,9
+junior,Marketing or sales professional,IntelliJ,4,10
+junior,Marketing or sales professional,Xcode,4,11
+junior,Marketing or sales professional,PyCharm,4,12
+junior,Marketing or sales professional,Eclipse,3,13
+junior,Marketing or sales professional,NetBeans,3,14
+junior,Marketing or sales professional,Webstorm,3,15
+junior,Marketing or sales professional,Jira,3,16
+junior,Marketing or sales professional,Microsoft Teams,3,17
+junior,Marketing or sales professional,Gitlab,3,18
+junior,Marketing or sales professional,RStudio,2,19
+junior,Marketing or sales professional,Emacs,2,20
+junior,Marketing or sales professional,IPython/Jupyter,2,21
+junior,Marketing or sales professional,Rider,1,22
+junior,Marketing or sales professional,Sublime Text,1,23
+junior,Marketing or sales professional,Vim,1,24
+junior,Marketing or sales professional,Neovim,1,25
+junior,Marketing or sales professional,Facebook Workplace,1,26
+junior,Marketing or sales professional,Stack Overflow for Teams,1,27
+junior,Marketing or sales professional,Confluence,1,28
+junior,Other (please specify):,Visual Studio Code,44,1
+junior,Other (please specify):,Notepad++,19,2
+junior,Other (please specify):,PyCharm,18,3
+junior,Other (please specify):,Visual Studio,17,4
+junior,Other (please specify):,Vim,16,5
+junior,Other (please specify):,Android Studio,12,6
+junior,Other (please specify):,IPython/Jupyter,10,7
+junior,Other (please specify):,Xcode,8,8
+junior,Other (please specify):,IntelliJ,7,9
+junior,Other (please specify):,Atom,7,10
+junior,Other (please specify):,Sublime Text,6,11
+junior,Other (please specify):,Neovim,5,12
+junior,Other (please specify):,NetBeans,4,13
+junior,Other (please specify):,Nano,3,14
+junior,Other (please specify):,Webstorm,3,15
+junior,Other (please specify):,Qt Creator,2,16
+junior,Other (please specify):,Jupyter Notebook/JupyterLab,2,17
+junior,Other (please specify):,Emacs,2,18
+junior,Other (please specify):,PHPStorm,2,19
+junior,Other (please specify):,Eclipse,2,20
+junior,Other (please specify):,IPython,1,21
+junior,Other (please specify):,Spyder,1,22
+junior,Other (please specify):,IntelliJ IDEA,1,23
+junior,Other (please specify):,WebStorm,1,24
+junior,Other (please specify):,Fleet,1,25
+junior,Other (please specify):,CLion,1,26
+junior,Other (please specify):,DataGrip,1,27
+junior,Other (please specify):,RStudio,1,28
+junior,Other (please specify):,PhpStorm,1,29
+junior,Other (please specify):,TextMate,1,30
+junior,Product manager,Visual Studio Code,27,1
+junior,Product manager,Notepad++,12,2
+junior,Product manager,Android Studio,12,3
+junior,Product manager,Github,11,4
+junior,Product manager,PyCharm,10,5
+junior,Product manager,Visual Studio,10,6
+junior,Product manager,Atom,9,7
+junior,Product manager,Vim,8,8
+junior,Product manager,Trello,8,9
+junior,Product manager,Slack,8,10
+junior,Product manager,"Google Suite (Docs, Meet, etc)",8,11
+junior,Product manager,Sublime Text,7,12
+junior,Product manager,Jira,7,13
+junior,Product manager,IPython/Jupyter,5,14
+junior,Product manager,Eclipse,5,15
+junior,Product manager,Neovim,4,16
+junior,Product manager,RStudio,4,17
+junior,Product manager,Confluence,4,18
+junior,Product manager,Microsoft Teams,4,19
+junior,Product manager,Xcode,3,20
+junior,Product manager,IntelliJ,3,21
+junior,Product manager,Gitlab,3,22
+junior,Product manager,Microsoft Azure,3,23
+junior,Product manager,IntelliJ IDEA,2,24
+junior,Product manager,Jupyter Notebook/JupyterLab,2,25
+junior,Product manager,Webstorm,2,26
+junior,Product manager,Emacs,2,27
+junior,Product manager,Facebook Workplace,2,28
+junior,Product manager,Rider,2,29
+junior,Product manager,condo,1,30
+junior,Product manager,Nano,1,31
+junior,Product manager,IPython,1,32
+junior,Product manager,"RAD Studio (Delphi, C++ Builder)",1,33
+junior,Product manager,NetBeans,1,34
+junior,Product manager,PHPStorm,1,35
+junior,Product manager,Stack Overflow for Teams,1,36
+junior,Project manager,Visual Studio Code,16,1
+junior,Project manager,Visual Studio,7,2
+junior,Project manager,Xcode,5,3
+junior,Project manager,Atom,5,4
+junior,Project manager,Android Studio,5,5
+junior,Project manager,Nano,4,6
+junior,Project manager,Sublime Text,4,7
+junior,Project manager,PyCharm,4,8
+junior,Project manager,Notepad++,4,9
+junior,Project manager,Neovim,3,10
+junior,Project manager,Vim,3,11
+junior,Project manager,IPython/Jupyter,2,12
+junior,Project manager,IntelliJ,2,13
+junior,Project manager,Webstorm,2,14
+junior,Project manager,Spyder,1,15
+junior,Project manager,PhpStorm,1,16
+junior,Project manager,Jupyter Notebook/JupyterLab,1,17
+junior,Project manager,RStudio,1,18
+junior,Project manager,CLion,1,19
+junior,Project manager,Rider,1,20
+junior,Project manager,Eclipse,1,21
+junior,Project manager,GoLand,1,22
+junior,Research & Development role,Visual Studio Code,6,1
+junior,Research & Development role,Notepad++,4,2
+junior,Research & Development role,WebStorm,2,3
+junior,Research & Development role,IntelliJ IDEA,2,4
+junior,Research & Development role,Sublime Text,2,5
+junior,Research & Development role,Jupyter Notebook/JupyterLab,2,6
+junior,Research & Development role,Visual Studio,2,7
+junior,Research & Development role,PyCharm,2,8
+junior,Research & Development role,PhpStorm,2,9
+junior,Research & Development role,Vim,1,10
+junior,Research & Development role,Eclipse,1,11
+junior,Research & Development role,Geany,1,12
+junior,Research & Development role,Android Studio,1,13
+junior,Research & Development role,IPython,1,14
+junior,Research & Development role,Netbeans,1,15
+junior,Scientist,Github,8,1
+junior,Scientist,Visual Studio Code,7,2
+junior,Scientist,Slack,7,3
+junior,Scientist,Android Studio,6,4
+junior,Scientist,Vim,6,5
+junior,Scientist,"Google Suite (Docs, Meet, etc)",6,6
+junior,Scientist,Sublime Text,5,7
+junior,Scientist,Notepad++,4,8
+junior,Scientist,Atom,4,9
+junior,Scientist,Emacs,4,10
+junior,Scientist,IPython/Jupyter,4,11
+junior,Scientist,Xcode,3,12
+junior,Scientist,RStudio,3,13
+junior,Scientist,PyCharm,3,14
+junior,Scientist,Trello,3,15
+junior,Scientist,Jira,3,16
+junior,Scientist,Visual Studio,2,17
+junior,Scientist,RubyMine,2,18
+junior,Scientist,Eclipse,2,19
+junior,Scientist,IntelliJ,2,20
+junior,Scientist,Gitlab,2,21
+junior,Scientist,Jupyter Notebook/JupyterLab,1,22
+junior,Scientist,Spyder,1,23
+junior,Scientist,Kate,1,24
+junior,Scientist,IPython,1,25
+junior,Scientist,Neovim,1,26
+junior,Scientist,PHPStorm,1,27
+junior,Scientist,TextMate,1,28
+junior,Scientist,Webstorm,1,29
+junior,Scientist,NetBeans,1,30
+junior,Scientist,Confluence,1,31
+junior,Scientist,Microsoft Teams,1,32
+junior,Scientist,Microsoft Azure,1,33
+junior,Scientist,Stack Overflow for Teams,1,34
+junior,Security professional,Visual Studio Code,12,1
+junior,Security professional,Visual Studio,7,2
+junior,Security professional,PyCharm,5,3
+junior,Security professional,Android Studio,4,4
+junior,Security professional,RStudio,3,5
+junior,Security professional,Eclipse,3,6
+junior,Security professional,Vim,3,7
+junior,Security professional,Atom,3,8
+junior,Security professional,Notepad++,3,9
+junior,Security professional,Webstorm,3,10
+junior,Security professional,CLion,3,11
+junior,Security professional,Rider,2,12
+junior,Security professional,VSCodium,2,13
+junior,Security professional,Neovim,2,14
+junior,Security professional,IntelliJ,2,15
+junior,Security professional,Xcode,2,16
+junior,Security professional,GoLand,2,17
+junior,Security professional,RubyMine,1,18
+junior,Security professional,Spyder,1,19
+junior,Security professional,"Rad Studio (Delphi, C++ Builder)",1,20
+junior,Security professional,WebStorm,1,21
+junior,Security professional,IPython,1,22
+junior,Security professional,PhpStorm,1,23
+junior,Security professional,DataGrip,1,24
+junior,Security professional,Micro,1,25
+junior,Security professional,Jupyter Notebook/JupyterLab,1,26
+junior,Security professional,Sublime Text,1,27
+junior,Security professional,Code::Blocks,1,28
+junior,Security professional,Nano,1,29
+junior,"Senior Executive (C-Suite, VP, etc.)",Visual Studio Code,7,1
+junior,"Senior Executive (C-Suite, VP, etc.)",Android Studio,4,2
+junior,"Senior Executive (C-Suite, VP, etc.)",Visual Studio,3,3
+junior,"Senior Executive (C-Suite, VP, etc.)",PyCharm,3,4
+junior,"Senior Executive (C-Suite, VP, etc.)",Notepad++,2,5
+junior,"Senior Executive (C-Suite, VP, etc.)",Eclipse,2,6
+junior,"Senior Executive (C-Suite, VP, etc.)",IPython/Jupyter,2,7
+junior,"Senior Executive (C-Suite, VP, etc.)",IntelliJ,1,8
+junior,"Senior Executive (C-Suite, VP, etc.)",Webstorm,1,9
+junior,"Senior Executive (C-Suite, VP, etc.)",Xcode,1,10
+junior,"Senior Executive (C-Suite, VP, etc.)",RStudio,1,11
+junior,"Senior Executive (C-Suite, VP, etc.)",Vim,1,12
+junior,"Senior Executive (C-Suite, VP, etc.)",Atom,1,13
+junior,"Senior Executive (C-Suite, VP, etc.)",Emacs,1,14
+junior,Senior executive/VP,Github,2,1
+junior,Senior executive/VP,"Google Suite (Docs, Meet, etc)",1,2
+junior,Senior executive/VP,Slack,1,3
+junior,Senior executive/VP,Gitlab,1,4
+junior,Student,Visual Studio Code,77,1
+junior,Student,Visual Studio,36,2
+junior,Student,IntelliJ,33,3
+junior,Student,Android Studio,30,4
+junior,Student,Sublime Text,30,5
+junior,Student,PyCharm,21,6
+junior,Student,Vim,20,7
+junior,Student,Notepad++,20,8
+junior,Student,IPython/Jupyter,18,9
+junior,Student,NetBeans,16,10
+junior,Student,Eclipse,16,11
+junior,Student,Atom,14,12
+junior,Student,Webstorm,11,13
+junior,Student,RStudio,8,14
+junior,Student,PHPStorm,8,15
+junior,Student,Xcode,8,16
+junior,Student,Neovim,5,17
+junior,Student,Rider,5,18
+junior,Student,CLion,3,19
+junior,Student,PhpStorm,3,20
+junior,Student,Nano,3,21
+junior,Student,Spyder,2,22
+junior,Student,Emacs,2,23
+junior,Student,RubyMine,1,24
+junior,Student,Qt Creator,1,25
+junior,Student,Jupyter Notebook/JupyterLab,1,26
+junior,System administrator,Visual Studio Code,45,1
+junior,System administrator,Github,24,2
+junior,System administrator,Visual Studio,22,3
+junior,System administrator,Notepad++,20,4
+junior,System administrator,Vim,17,5
+junior,System administrator,Sublime Text,17,6
+junior,System administrator,"Google Suite (Docs, Meet, etc)",17,7
+junior,System administrator,PyCharm,15,8
+junior,System administrator,Gitlab,12,9
+junior,System administrator,Slack,12,10
+junior,System administrator,Jira,12,11
+junior,System administrator,Android Studio,11,12
+junior,System administrator,Atom,11,13
+junior,System administrator,Eclipse,10,14
+junior,System administrator,Webstorm,9,15
+junior,System administrator,Microsoft Teams,9,16
+junior,System administrator,Trello,9,17
+junior,System administrator,IntelliJ,7,18
+junior,System administrator,Confluence,7,19
+junior,System administrator,Neovim,6,20
+junior,System administrator,Xcode,6,21
+junior,System administrator,Rider,4,22
+junior,System administrator,IPython/Jupyter,4,23
+junior,System administrator,Stack Overflow for Teams,4,24
+junior,System administrator,Nano,3,25
+junior,System administrator,RStudio,3,26
+junior,System administrator,NetBeans,3,27
+junior,System administrator,Microsoft Azure,3,28
+junior,System administrator,CLion,2,29
+junior,System administrator,GoLand,2,30
+junior,System administrator,Emacs,2,31
+junior,System administrator,IntelliJ IDEA,1,32
+junior,System administrator,Spyder,1,33
+junior,System administrator,"RAD Studio (Delphi, C++ Builder)",1,34
+junior,System administrator,PHPStorm,1,35
+junior,System administrator,TextMate,1,36

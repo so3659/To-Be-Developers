@@ -1,0 +1,1290 @@
+YearsGroup,DevType,Tools,Count,Rank
+middle,Academic researcher,Github,120,1
+middle,Academic researcher,Visual Studio Code,112,2
+middle,Academic researcher,Slack,81,3
+middle,Academic researcher,"Google Suite (Docs, Meet, etc)",64,4
+middle,Academic researcher,Gitlab,64,5
+middle,Academic researcher,PyCharm,55,6
+middle,Academic researcher,IPython/Jupyter,53,7
+middle,Academic researcher,Visual Studio,50,8
+middle,Academic researcher,Trello,48,9
+middle,Academic researcher,Jira,43,10
+middle,Academic researcher,IntelliJ,41,11
+middle,Academic researcher,Android Studio,40,12
+middle,Academic researcher,Sublime Text,40,13
+middle,Academic researcher,Vim,33,14
+middle,Academic researcher,Notepad++,33,15
+middle,Academic researcher,Eclipse,25,16
+middle,Academic researcher,Atom,23,17
+middle,Academic researcher,Microsoft Teams,21,18
+middle,Academic researcher,RStudio,20,19
+middle,Academic researcher,Confluence,19,20
+middle,Academic researcher,Xcode,17,21
+middle,Academic researcher,Webstorm,17,22
+middle,Academic researcher,Microsoft Azure,17,23
+middle,Academic researcher,Stack Overflow for Teams,14,24
+middle,Academic researcher,Neovim,13,25
+middle,Academic researcher,NetBeans,13,26
+middle,Academic researcher,Emacs,9,27
+middle,Academic researcher,Nano,8,28
+middle,Academic researcher,Jupyter Notebook/JupyterLab,7,29
+middle,Academic researcher,CLion,6,30
+middle,Academic researcher,PHPStorm,6,31
+middle,Academic researcher,Facebook Workplace,6,32
+middle,Academic researcher,Spyder,5,33
+middle,Academic researcher,IntelliJ IDEA,5,34
+middle,Academic researcher,PhpStorm,5,35
+middle,Academic researcher,Qt Creator,4,36
+middle,Academic researcher,Rider,4,37
+middle,Academic researcher,IPython,3,38
+middle,Academic researcher,Helix,2,39
+middle,Academic researcher,Goland,2,40
+middle,Academic researcher,TextMate,2,41
+middle,Academic researcher,GoLand,2,42
+middle,Academic researcher,DataGrip,1,43
+middle,Academic researcher,WebStorm,1,44
+middle,Academic researcher,Fleet,1,45
+middle,Academic researcher,"RAD Studio (Delphi, C++ Builder)",1,46
+middle,Academic researcher,RubyMine,1,47
+middle,Blockchain,Visual Studio Code,78,1
+middle,Blockchain,Vim,22,2
+middle,Blockchain,Android Studio,18,3
+middle,Blockchain,Visual Studio,16,4
+middle,Blockchain,Nano,15,5
+middle,Blockchain,IntelliJ,14,6
+middle,Blockchain,Neovim,13,7
+middle,Blockchain,Sublime Text,13,8
+middle,Blockchain,Eclipse,12,9
+middle,Blockchain,Xcode,11,10
+middle,Blockchain,PyCharm,11,11
+middle,Blockchain,IPython/Jupyter,11,12
+middle,Blockchain,Notepad++,10,13
+middle,Blockchain,Webstorm,9,14
+middle,Blockchain,Atom,8,15
+middle,Blockchain,Emacs,7,16
+middle,Blockchain,PhpStorm,6,17
+middle,Blockchain,CLion,3,18
+middle,Blockchain,GoLand,3,19
+middle,Blockchain,NetBeans,3,20
+middle,Blockchain,VSCodium,2,21
+middle,Blockchain,Rider,2,22
+middle,Blockchain,Qt Creator,2,23
+middle,Blockchain,Jupyter Notebook/JupyterLab,1,24
+middle,Blockchain,DataGrip,1,25
+middle,Blockchain,Goland,1,26
+middle,Blockchain,Kate,1,27
+middle,Blockchain,IntelliJ IDEA,1,28
+middle,Blockchain,WebStorm,1,29
+middle,Blockchain,"RAD Studio (Delphi, C++ Builder)",1,30
+middle,Blockchain,Spyder,1,31
+middle,Blockchain,RStudio,1,32
+middle,Blockchain,BBEdit,1,33
+middle,Cloud infrastructure engineer,Visual Studio Code,192,1
+middle,Cloud infrastructure engineer,Vim,83,2
+middle,Cloud infrastructure engineer,PyCharm,64,3
+middle,Cloud infrastructure engineer,Visual Studio,62,4
+middle,Cloud infrastructure engineer,Notepad++,56,5
+middle,Cloud infrastructure engineer,IntelliJ,56,6
+middle,Cloud infrastructure engineer,Android Studio,42,7
+middle,Cloud infrastructure engineer,IPython/Jupyter,41,8
+middle,Cloud infrastructure engineer,Sublime Text,40,9
+middle,Cloud infrastructure engineer,Nano,37,10
+middle,Cloud infrastructure engineer,Neovim,29,11
+middle,Cloud infrastructure engineer,Webstorm,24,12
+middle,Cloud infrastructure engineer,Atom,23,13
+middle,Cloud infrastructure engineer,Eclipse,22,14
+middle,Cloud infrastructure engineer,Xcode,21,15
+middle,Cloud infrastructure engineer,GoLand,19,16
+middle,Cloud infrastructure engineer,CLion,15,17
+middle,Cloud infrastructure engineer,PhpStorm,14,18
+middle,Cloud infrastructure engineer,RStudio,12,19
+middle,Cloud infrastructure engineer,Emacs,12,20
+middle,Cloud infrastructure engineer,Spyder,12,21
+middle,Cloud infrastructure engineer,IntelliJ IDEA,11,22
+middle,Cloud infrastructure engineer,Rider,10,23
+middle,Cloud infrastructure engineer,Jupyter Notebook/JupyterLab,8,24
+middle,Cloud infrastructure engineer,NetBeans,8,25
+middle,Cloud infrastructure engineer,Qt Creator,6,26
+middle,Cloud infrastructure engineer,VSCodium,5,27
+middle,Cloud infrastructure engineer,DataGrip,3,28
+middle,Cloud infrastructure engineer,RubyMine,2,29
+middle,Cloud infrastructure engineer,Helix,2,30
+middle,Cloud infrastructure engineer,IPython,1,31
+middle,Cloud infrastructure engineer,WebStorm,1,32
+middle,Cloud infrastructure engineer,Goland,1,33
+middle,Cloud infrastructure engineer,Kate,1,34
+middle,Cloud infrastructure engineer,Netbeans,1,35
+middle,Cloud infrastructure engineer,TextMate,1,36
+middle,Data or business analyst,Visual Studio Code,238,1
+middle,Data or business analyst,Github,150,2
+middle,Data or business analyst,IPython/Jupyter,117,3
+middle,Data or business analyst,PyCharm,96,4
+middle,Data or business analyst,Slack,95,5
+middle,Data or business analyst,Notepad++,91,6
+middle,Data or business analyst,Visual Studio,90,7
+middle,Data or business analyst,"Google Suite (Docs, Meet, etc)",81,8
+middle,Data or business analyst,Jira,76,9
+middle,Data or business analyst,Trello,69,10
+middle,Data or business analyst,Sublime Text,65,11
+middle,Data or business analyst,IntelliJ,63,12
+middle,Data or business analyst,Gitlab,57,13
+middle,Data or business analyst,Vim,55,14
+middle,Data or business analyst,Microsoft Teams,52,15
+middle,Data or business analyst,Android Studio,50,16
+middle,Data or business analyst,RStudio,48,17
+middle,Data or business analyst,Confluence,43,18
+middle,Data or business analyst,Atom,42,19
+middle,Data or business analyst,Eclipse,33,20
+middle,Data or business analyst,Microsoft Azure,29,21
+middle,Data or business analyst,Xcode,28,22
+middle,Data or business analyst,NetBeans,22,23
+middle,Data or business analyst,Nano,16,24
+middle,Data or business analyst,Webstorm,16,25
+middle,Data or business analyst,Jupyter Notebook/JupyterLab,15,26
+middle,Data or business analyst,Spyder,14,27
+middle,Data or business analyst,Emacs,11,28
+middle,Data or business analyst,Stack Overflow for Teams,11,29
+middle,Data or business analyst,Neovim,10,30
+middle,Data or business analyst,IPython,9,31
+middle,Data or business analyst,PHPStorm,7,32
+middle,Data or business analyst,IntelliJ IDEA,6,33
+middle,Data or business analyst,Rider,6,34
+middle,Data or business analyst,PhpStorm,6,35
+middle,Data or business analyst,Facebook Workplace,6,36
+middle,Data or business analyst,CLion,5,37
+middle,Data or business analyst,GoLand,4,38
+middle,Data or business analyst,DataGrip,3,39
+middle,Data or business analyst,Qt Creator,3,40
+middle,Data or business analyst,RubyMine,3,41
+middle,Data or business analyst,Netbeans,2,42
+middle,Data or business analyst,TextMate,2,43
+middle,Data or business analyst,VSCodium,1,44
+middle,Data or business analyst,WebStorm,1,45
+middle,Data or business analyst,Kate,1,46
+middle,Data or business analyst,"RAD Studio (Delphi, C++ Builder)",1,47
+middle,Data scientist or machine learning specialist,Visual Studio Code,310,1
+middle,Data scientist or machine learning specialist,IPython/Jupyter,201,2
+middle,Data scientist or machine learning specialist,Github,185,3
+middle,Data scientist or machine learning specialist,PyCharm,173,4
+middle,Data scientist or machine learning specialist,Slack,123,5
+middle,Data scientist or machine learning specialist,Vim,97,6
+middle,Data scientist or machine learning specialist,Sublime Text,92,7
+middle,Data scientist or machine learning specialist,Visual Studio,91,8
+middle,Data scientist or machine learning specialist,Notepad++,91,9
+middle,Data scientist or machine learning specialist,"Google Suite (Docs, Meet, etc)",88,10
+middle,Data scientist or machine learning specialist,Jira,85,11
+middle,Data scientist or machine learning specialist,IntelliJ,80,12
+middle,Data scientist or machine learning specialist,Gitlab,77,13
+middle,Data scientist or machine learning specialist,RStudio,73,14
+middle,Data scientist or machine learning specialist,Trello,69,15
+middle,Data scientist or machine learning specialist,Microsoft Teams,69,16
+middle,Data scientist or machine learning specialist,Android Studio,57,17
+middle,Data scientist or machine learning specialist,Atom,57,18
+middle,Data scientist or machine learning specialist,Jupyter Notebook/JupyterLab,55,19
+middle,Data scientist or machine learning specialist,Confluence,54,20
+middle,Data scientist or machine learning specialist,Eclipse,43,21
+middle,Data scientist or machine learning specialist,Microsoft Azure,38,22
+middle,Data scientist or machine learning specialist,Xcode,34,23
+middle,Data scientist or machine learning specialist,Spyder,32,24
+middle,Data scientist or machine learning specialist,IPython,30,25
+middle,Data scientist or machine learning specialist,Neovim,24,26
+middle,Data scientist or machine learning specialist,Nano,20,27
+middle,Data scientist or machine learning specialist,NetBeans,19,28
+middle,Data scientist or machine learning specialist,IntelliJ IDEA,18,29
+middle,Data scientist or machine learning specialist,Webstorm,16,30
+middle,Data scientist or machine learning specialist,Emacs,13,31
+middle,Data scientist or machine learning specialist,Stack Overflow for Teams,10,32
+middle,Data scientist or machine learning specialist,Facebook Workplace,10,33
+middle,Data scientist or machine learning specialist,PHPStorm,8,34
+middle,Data scientist or machine learning specialist,GoLand,6,35
+middle,Data scientist or machine learning specialist,Qt Creator,5,36
+middle,Data scientist or machine learning specialist,PhpStorm,4,37
+middle,Data scientist or machine learning specialist,TextMate,3,38
+middle,Data scientist or machine learning specialist,CLion,3,39
+middle,Data scientist or machine learning specialist,Rider,3,40
+middle,Data scientist or machine learning specialist,DataGrip,2,41
+middle,Data scientist or machine learning specialist,"RAD Studio (Delphi, C++ Builder)",2,42
+middle,Data scientist or machine learning specialist,VSCodium,2,43
+middle,Data scientist or machine learning specialist,RubyMine,2,44
+middle,Data scientist or machine learning specialist,Code::Blocks,1,45
+middle,Data scientist or machine learning specialist,condo,1,46
+middle,Data scientist or machine learning specialist,Netbeans,1,47
+middle,Database administrator,Visual Studio Code,292,1
+middle,Database administrator,Github,197,2
+middle,Database administrator,Visual Studio,136,3
+middle,Database administrator,Notepad++,123,4
+middle,Database administrator,Slack,123,5
+middle,Database administrator,Android Studio,113,6
+middle,Database administrator,"Google Suite (Docs, Meet, etc)",106,7
+middle,Database administrator,Gitlab,104,8
+middle,Database administrator,IntelliJ,96,9
+middle,Database administrator,Trello,91,10
+middle,Database administrator,Jira,91,11
+middle,Database administrator,Vim,89,12
+middle,Database administrator,PyCharm,88,13
+middle,Database administrator,IPython/Jupyter,83,14
+middle,Database administrator,Sublime Text,83,15
+middle,Database administrator,Eclipse,66,16
+middle,Database administrator,Microsoft Teams,66,17
+middle,Database administrator,Atom,60,18
+middle,Database administrator,Xcode,48,19
+middle,Database administrator,Microsoft Azure,48,20
+middle,Database administrator,NetBeans,47,21
+middle,Database administrator,Confluence,42,22
+middle,Database administrator,Webstorm,40,23
+middle,Database administrator,PHPStorm,31,24
+middle,Database administrator,Stack Overflow for Teams,22,25
+middle,Database administrator,RStudio,21,26
+middle,Database administrator,Nano,21,27
+middle,Database administrator,Neovim,18,28
+middle,Database administrator,Rider,17,29
+middle,Database administrator,PhpStorm,16,30
+middle,Database administrator,Spyder,11,31
+middle,Database administrator,Emacs,7,32
+middle,Database administrator,Facebook Workplace,7,33
+middle,Database administrator,RubyMine,6,34
+middle,Database administrator,GoLand,5,35
+middle,Database administrator,CLion,5,36
+middle,Database administrator,Qt Creator,4,37
+middle,Database administrator,TextMate,2,38
+middle,Database administrator,IntelliJ IDEA,1,39
+middle,Database administrator,Jupyter Notebook/JupyterLab,1,40
+middle,Database administrator,"RAD Studio (Delphi, C++ Builder)",1,41
+middle,Designer,Visual Studio Code,249,1
+middle,Designer,Github,229,2
+middle,Designer,Slack,147,3
+middle,Designer,"Google Suite (Docs, Meet, etc)",123,4
+middle,Designer,Gitlab,118,5
+middle,Designer,Visual Studio,112,6
+middle,Designer,Trello,108,7
+middle,Designer,Android Studio,102,8
+middle,Designer,Jira,102,9
+middle,Designer,Notepad++,90,10
+middle,Designer,Sublime Text,84,11
+middle,Designer,IntelliJ,83,12
+middle,Designer,Microsoft Teams,69,13
+middle,Designer,PyCharm,56,14
+middle,Designer,Vim,53,15
+middle,Designer,Atom,53,16
+middle,Designer,Xcode,49,17
+middle,Designer,Confluence,45,18
+middle,Designer,Eclipse,42,19
+middle,Designer,Webstorm,40,20
+middle,Designer,Microsoft Azure,38,21
+middle,Designer,IPython/Jupyter,35,22
+middle,Designer,NetBeans,34,23
+middle,Designer,Stack Overflow for Teams,30,24
+middle,Designer,PHPStorm,25,25
+middle,Designer,Nano,16,26
+middle,Designer,RStudio,13,27
+middle,Designer,Neovim,12,28
+middle,Designer,PhpStorm,11,29
+middle,Designer,Rider,9,30
+middle,Designer,RubyMine,6,31
+middle,Designer,Facebook Workplace,6,32
+middle,Designer,CLion,5,33
+middle,Designer,Emacs,5,34
+middle,Designer,Qt Creator,4,35
+middle,Designer,Spyder,3,36
+middle,Designer,GoLand,3,37
+middle,Designer,TextMate,3,38
+middle,Designer,Jupyter Notebook/JupyterLab,1,39
+middle,Designer,IntelliJ IDEA,1,40
+middle,DevOps specialist,Visual Studio Code,452,1
+middle,DevOps specialist,Github,196,2
+middle,DevOps specialist,Vim,195,3
+middle,DevOps specialist,IntelliJ,165,4
+middle,DevOps specialist,Visual Studio,159,5
+middle,DevOps specialist,Slack,141,6
+middle,DevOps specialist,PyCharm,134,7
+middle,DevOps specialist,Jira,134,8
+middle,DevOps specialist,Notepad++,132,9
+middle,DevOps specialist,Gitlab,124,10
+middle,DevOps specialist,Android Studio,119,11
+middle,DevOps specialist,Sublime Text,105,12
+middle,DevOps specialist,Confluence,105,13
+middle,DevOps specialist,"Google Suite (Docs, Meet, etc)",95,14
+middle,DevOps specialist,Trello,91,15
+middle,DevOps specialist,Microsoft Teams,78,16
+middle,DevOps specialist,IPython/Jupyter,72,17
+middle,DevOps specialist,Webstorm,65,18
+middle,DevOps specialist,Eclipse,57,19
+middle,DevOps specialist,Xcode,56,20
+middle,DevOps specialist,Atom,55,21
+middle,DevOps specialist,Neovim,54,22
+middle,DevOps specialist,Microsoft Azure,48,23
+middle,DevOps specialist,Nano,43,24
+middle,DevOps specialist,Rider,36,25
+middle,DevOps specialist,NetBeans,35,26
+middle,DevOps specialist,GoLand,23,27
+middle,DevOps specialist,PHPStorm,19,28
+middle,DevOps specialist,CLion,18,29
+middle,DevOps specialist,PhpStorm,16,30
+middle,DevOps specialist,Emacs,16,31
+middle,DevOps specialist,RStudio,16,32
+middle,DevOps specialist,IntelliJ IDEA,14,33
+middle,DevOps specialist,Stack Overflow for Teams,14,34
+middle,DevOps specialist,RubyMine,10,35
+middle,DevOps specialist,Facebook Workplace,9,36
+middle,DevOps specialist,Spyder,7,37
+middle,DevOps specialist,DataGrip,4,38
+middle,DevOps specialist,Jupyter Notebook/JupyterLab,4,39
+middle,DevOps specialist,Qt Creator,4,40
+middle,DevOps specialist,Netbeans,3,41
+middle,DevOps specialist,WebStorm,3,42
+middle,DevOps specialist,IPython,3,43
+middle,DevOps specialist,Goland,3,44
+middle,DevOps specialist,TextMate,3,45
+middle,DevOps specialist,VSCodium,2,46
+middle,DevOps specialist,Fleet,2,47
+middle,DevOps specialist,Helix,1,48
+middle,DevOps specialist,Code::Blocks,1,49
+middle,DevOps specialist,"RAD Studio (Delphi, C++ Builder)",1,50
+middle,Developer Advocate,Visual Studio Code,2,1
+middle,Developer Advocate,Jupyter Notebook/JupyterLab,1,2
+middle,Developer Advocate,Visual Studio,1,3
+middle,Developer Advocate,Helix,1,4
+middle,Developer Advocate,Micro,1,5
+middle,Developer Advocate,IntelliJ IDEA,1,6
+middle,Developer Advocate,Vim,1,7
+middle,Developer Advocate,Eclipse,1,8
+middle,Developer Advocate,VSCodium,1,9
+middle,Developer Advocate,Neovim,1,10
+middle,Developer Experience,Visual Studio Code,4,1
+middle,Developer Experience,Neovim,2,2
+middle,Developer Experience,Vim,1,3
+middle,Developer Experience,PhpStorm,1,4
+middle,Developer Experience,IPython,1,5
+middle,Developer Experience,Android Studio,1,6
+middle,Developer Experience,Sublime Text,1,7
+middle,Developer Experience,Xcode,1,8
+middle,Developer Experience,Atom,1,9
+middle,Developer Experience,Notepad++,1,10
+middle,Developer Experience,WebStorm,1,11
+middle,Developer Experience,RubyMine,1,12
+middle,Developer Experience,Jupyter Notebook/JupyterLab,1,13
+middle,Developer Experience,PyCharm,1,14
+middle,Developer Experience,Visual Studio,1,15
+middle,Developer Experience,Eclipse,1,16
+middle,Developer Experience,Netbeans,1,17
+middle,Developer Experience,Code::Blocks,1,18
+middle,"Developer, QA or test",Visual Studio Code,247,1
+middle,"Developer, QA or test",Github,166,2
+middle,"Developer, QA or test",Slack,120,3
+middle,"Developer, QA or test",Visual Studio,104,4
+middle,"Developer, QA or test",Jira,102,5
+middle,"Developer, QA or test","Google Suite (Docs, Meet, etc)",97,6
+middle,"Developer, QA or test",IntelliJ,93,7
+middle,"Developer, QA or test",Notepad++,86,8
+middle,"Developer, QA or test",Android Studio,80,9
+middle,"Developer, QA or test",Gitlab,73,10
+middle,"Developer, QA or test",Confluence,71,11
+middle,"Developer, QA or test",Trello,67,12
+middle,"Developer, QA or test",Vim,65,13
+middle,"Developer, QA or test",PyCharm,61,14
+middle,"Developer, QA or test",Microsoft Teams,59,15
+middle,"Developer, QA or test",Sublime Text,55,16
+middle,"Developer, QA or test",Eclipse,55,17
+middle,"Developer, QA or test",Atom,36,18
+middle,"Developer, QA or test",Xcode,36,19
+middle,"Developer, QA or test",Webstorm,31,20
+middle,"Developer, QA or test",Microsoft Azure,31,21
+middle,"Developer, QA or test",IPython/Jupyter,30,22
+middle,"Developer, QA or test",NetBeans,29,23
+middle,"Developer, QA or test",Nano,20,24
+middle,"Developer, QA or test",Stack Overflow for Teams,18,25
+middle,"Developer, QA or test",PHPStorm,16,26
+middle,"Developer, QA or test",Neovim,15,27
+middle,"Developer, QA or test",Rider,10,28
+middle,"Developer, QA or test",RStudio,9,29
+middle,"Developer, QA or test",IntelliJ IDEA,7,30
+middle,"Developer, QA or test",Emacs,7,31
+middle,"Developer, QA or test",PhpStorm,7,32
+middle,"Developer, QA or test",RubyMine,5,33
+middle,"Developer, QA or test",Qt Creator,4,34
+middle,"Developer, QA or test",CLion,4,35
+middle,"Developer, QA or test",Facebook Workplace,4,36
+middle,"Developer, QA or test",Jupyter Notebook/JupyterLab,3,37
+middle,"Developer, QA or test",WebStorm,2,38
+middle,"Developer, QA or test",DataGrip,2,39
+middle,"Developer, QA or test",IPython,2,40
+middle,"Developer, QA or test",GoLand,2,41
+middle,"Developer, QA or test","RAD Studio (Delphi, C++ Builder)",1,42
+middle,"Developer, QA or test",Spyder,1,43
+middle,"Developer, back-end",Visual Studio Code,2765,1
+middle,"Developer, back-end",Github,1316,2
+middle,"Developer, back-end",Visual Studio,1019,3
+middle,"Developer, back-end",IntelliJ,951,4
+middle,"Developer, back-end",Slack,931,5
+middle,"Developer, back-end",Jira,812,6
+middle,"Developer, back-end",Notepad++,801,7
+middle,"Developer, back-end",PyCharm,780,8
+middle,"Developer, back-end",Vim,759,9
+middle,"Developer, back-end",Android Studio,721,10
+middle,"Developer, back-end",Sublime Text,708,11
+middle,"Developer, back-end",Gitlab,655,12
+middle,"Developer, back-end","Google Suite (Docs, Meet, etc)",631,13
+middle,"Developer, back-end",Trello,569,14
+middle,"Developer, back-end",Confluence,505,15
+middle,"Developer, back-end",Eclipse,439,16
+middle,"Developer, back-end",Microsoft Teams,398,17
+middle,"Developer, back-end",IPython/Jupyter,388,18
+middle,"Developer, back-end",Atom,372,19
+middle,"Developer, back-end",Webstorm,319,20
+middle,"Developer, back-end",Xcode,282,21
+middle,"Developer, back-end",Neovim,250,22
+middle,"Developer, back-end",Microsoft Azure,247,23
+middle,"Developer, back-end",IntelliJ IDEA,236,24
+middle,"Developer, back-end",NetBeans,220,25
+middle,"Developer, back-end",Rider,178,26
+middle,"Developer, back-end",Nano,174,27
+middle,"Developer, back-end",PhpStorm,168,28
+middle,"Developer, back-end",PHPStorm,156,29
+middle,"Developer, back-end",Emacs,93,30
+middle,"Developer, back-end",Stack Overflow for Teams,90,31
+middle,"Developer, back-end",Jupyter Notebook/JupyterLab,89,32
+middle,"Developer, back-end",RStudio,83,33
+middle,"Developer, back-end",RubyMine,76,34
+middle,"Developer, back-end",CLion,72,35
+middle,"Developer, back-end",GoLand,71,36
+middle,"Developer, back-end",DataGrip,55,37
+middle,"Developer, back-end",WebStorm,52,38
+middle,"Developer, back-end",Facebook Workplace,46,39
+middle,"Developer, back-end",Goland,43,40
+middle,"Developer, back-end",Spyder,41,41
+middle,"Developer, back-end",IPython,35,42
+middle,"Developer, back-end",Qt Creator,22,43
+middle,"Developer, back-end",VSCodium,20,44
+middle,"Developer, back-end",Code::Blocks,18,45
+middle,"Developer, back-end",Netbeans,14,46
+middle,"Developer, back-end",TextMate,13,47
+middle,"Developer, back-end",Fleet,10,48
+middle,"Developer, back-end","RAD Studio (Delphi, C++ Builder)",6,49
+middle,"Developer, back-end",Helix,5,50
+middle,"Developer, back-end",Micro,5,51
+middle,"Developer, back-end",Kate,4,52
+middle,"Developer, back-end",Geany,3,53
+middle,"Developer, back-end",BBEdit,1,54
+middle,"Developer, back-end","Rad Studio (Delphi, C++ Builder)",1,55
+middle,"Developer, desktop or enterprise applications",Visual Studio Code,565,1
+middle,"Developer, desktop or enterprise applications",Github,395,2
+middle,"Developer, desktop or enterprise applications",Visual Studio,376,3
+middle,"Developer, desktop or enterprise applications",Notepad++,251,4
+middle,"Developer, desktop or enterprise applications",Slack,239,5
+middle,"Developer, desktop or enterprise applications",Jira,210,6
+middle,"Developer, desktop or enterprise applications",IntelliJ,193,7
+middle,"Developer, desktop or enterprise applications",Android Studio,188,8
+middle,"Developer, desktop or enterprise applications",Gitlab,184,9
+middle,"Developer, desktop or enterprise applications","Google Suite (Docs, Meet, etc)",168,10
+middle,"Developer, desktop or enterprise applications",Trello,155,11
+middle,"Developer, desktop or enterprise applications",Microsoft Teams,153,12
+middle,"Developer, desktop or enterprise applications",PyCharm,152,13
+middle,"Developer, desktop or enterprise applications",Eclipse,137,14
+middle,"Developer, desktop or enterprise applications",Sublime Text,128,15
+middle,"Developer, desktop or enterprise applications",Vim,124,16
+middle,"Developer, desktop or enterprise applications",Confluence,122,17
+middle,"Developer, desktop or enterprise applications",Microsoft Azure,107,18
+middle,"Developer, desktop or enterprise applications",Atom,85,19
+middle,"Developer, desktop or enterprise applications",Xcode,77,20
+middle,"Developer, desktop or enterprise applications",IPython/Jupyter,76,21
+middle,"Developer, desktop or enterprise applications",Webstorm,74,22
+middle,"Developer, desktop or enterprise applications",NetBeans,67,23
+middle,"Developer, desktop or enterprise applications",Rider,54,24
+middle,"Developer, desktop or enterprise applications",Neovim,42,25
+middle,"Developer, desktop or enterprise applications",Stack Overflow for Teams,37,26
+middle,"Developer, desktop or enterprise applications",PHPStorm,29,27
+middle,"Developer, desktop or enterprise applications",Nano,27,28
+middle,"Developer, desktop or enterprise applications",RStudio,24,29
+middle,"Developer, desktop or enterprise applications",Emacs,14,30
+middle,"Developer, desktop or enterprise applications",CLion,13,31
+middle,"Developer, desktop or enterprise applications",IntelliJ IDEA,13,32
+middle,"Developer, desktop or enterprise applications",PhpStorm,13,33
+middle,"Developer, desktop or enterprise applications",Spyder,12,34
+middle,"Developer, desktop or enterprise applications",Qt Creator,11,35
+middle,"Developer, desktop or enterprise applications",Facebook Workplace,11,36
+middle,"Developer, desktop or enterprise applications",Jupyter Notebook/JupyterLab,9,37
+middle,"Developer, desktop or enterprise applications",GoLand,7,38
+middle,"Developer, desktop or enterprise applications",RubyMine,6,39
+middle,"Developer, desktop or enterprise applications",IPython,5,40
+middle,"Developer, desktop or enterprise applications",WebStorm,5,41
+middle,"Developer, desktop or enterprise applications",Netbeans,4,42
+middle,"Developer, desktop or enterprise applications","RAD Studio (Delphi, C++ Builder)",3,43
+middle,"Developer, desktop or enterprise applications","Rad Studio (Delphi, C++ Builder)",2,44
+middle,"Developer, desktop or enterprise applications",DataGrip,2,45
+middle,"Developer, desktop or enterprise applications",Fleet,2,46
+middle,"Developer, desktop or enterprise applications",Goland,2,47
+middle,"Developer, desktop or enterprise applications",Helix,2,48
+middle,"Developer, desktop or enterprise applications",TextMate,2,49
+middle,"Developer, desktop or enterprise applications",VSCodium,1,50
+middle,"Developer, desktop or enterprise applications",Code::Blocks,1,51
+middle,"Developer, embedded applications or devices",Visual Studio Code,194,1
+middle,"Developer, embedded applications or devices",Github,128,2
+middle,"Developer, embedded applications or devices",Visual Studio,109,3
+middle,"Developer, embedded applications or devices",Android Studio,88,4
+middle,"Developer, embedded applications or devices",Notepad++,84,5
+middle,"Developer, embedded applications or devices",IntelliJ,76,6
+middle,"Developer, embedded applications or devices",Slack,75,7
+middle,"Developer, embedded applications or devices",Vim,63,8
+middle,"Developer, embedded applications or devices","Google Suite (Docs, Meet, etc)",62,9
+middle,"Developer, embedded applications or devices",PyCharm,61,10
+middle,"Developer, embedded applications or devices",Jira,59,11
+middle,"Developer, embedded applications or devices",Eclipse,58,12
+middle,"Developer, embedded applications or devices",Gitlab,56,13
+middle,"Developer, embedded applications or devices",Trello,54,14
+middle,"Developer, embedded applications or devices",Sublime Text,51,15
+middle,"Developer, embedded applications or devices",IPython/Jupyter,42,16
+middle,"Developer, embedded applications or devices",NetBeans,42,17
+middle,"Developer, embedded applications or devices",Microsoft Teams,41,18
+middle,"Developer, embedded applications or devices",Atom,36,19
+middle,"Developer, embedded applications or devices",Xcode,34,20
+middle,"Developer, embedded applications or devices",Confluence,29,21
+middle,"Developer, embedded applications or devices",Microsoft Azure,29,22
+middle,"Developer, embedded applications or devices",Webstorm,26,23
+middle,"Developer, embedded applications or devices",Nano,20,24
+middle,"Developer, embedded applications or devices",Neovim,20,25
+middle,"Developer, embedded applications or devices",PHPStorm,14,26
+middle,"Developer, embedded applications or devices",Qt Creator,12,27
+middle,"Developer, embedded applications or devices",CLion,11,28
+middle,"Developer, embedded applications or devices",Stack Overflow for Teams,10,29
+middle,"Developer, embedded applications or devices",Rider,9,30
+middle,"Developer, embedded applications or devices",Emacs,9,31
+middle,"Developer, embedded applications or devices",PhpStorm,9,32
+middle,"Developer, embedded applications or devices",IntelliJ IDEA,7,33
+middle,"Developer, embedded applications or devices",RStudio,6,34
+middle,"Developer, embedded applications or devices",VSCodium,5,35
+middle,"Developer, embedded applications or devices",RubyMine,5,36
+middle,"Developer, embedded applications or devices",Jupyter Notebook/JupyterLab,4,37
+middle,"Developer, embedded applications or devices",Spyder,4,38
+middle,"Developer, embedded applications or devices",GoLand,3,39
+middle,"Developer, embedded applications or devices",TextMate,3,40
+middle,"Developer, embedded applications or devices",Facebook Workplace,3,41
+middle,"Developer, embedded applications or devices","RAD Studio (Delphi, C++ Builder)",2,42
+middle,"Developer, embedded applications or devices",WebStorm,1,43
+middle,"Developer, embedded applications or devices",Helix,1,44
+middle,"Developer, embedded applications or devices",IPython,1,45
+middle,"Developer, embedded applications or devices",Kate,1,46
+middle,"Developer, front-end",Visual Studio Code,1886,1
+middle,"Developer, front-end",Github,999,2
+middle,"Developer, front-end",Slack,678,3
+middle,"Developer, front-end",Android Studio,667,4
+middle,"Developer, front-end",Visual Studio,658,5
+middle,"Developer, front-end",Jira,561,6
+middle,"Developer, front-end",Notepad++,528,7
+middle,"Developer, front-end",IntelliJ,526,8
+middle,"Developer, front-end","Google Suite (Docs, Meet, etc)",525,9
+middle,"Developer, front-end",Gitlab,489,10
+middle,"Developer, front-end",Trello,456,11
+middle,"Developer, front-end",Sublime Text,421,12
+middle,"Developer, front-end",Vim,387,13
+middle,"Developer, front-end",Xcode,348,14
+middle,"Developer, front-end",PyCharm,324,15
+middle,"Developer, front-end",Eclipse,317,16
+middle,"Developer, front-end",Confluence,311,17
+middle,"Developer, front-end",Atom,283,18
+middle,"Developer, front-end",Microsoft Teams,282,19
+middle,"Developer, front-end",Webstorm,279,20
+middle,"Developer, front-end",NetBeans,184,21
+middle,"Developer, front-end",IPython/Jupyter,184,22
+middle,"Developer, front-end",Microsoft Azure,176,23
+middle,"Developer, front-end",PHPStorm,115,24
+middle,"Developer, front-end",Neovim,105,25
+middle,"Developer, front-end",Nano,92,26
+middle,"Developer, front-end",PhpStorm,90,27
+middle,"Developer, front-end",Stack Overflow for Teams,79,28
+middle,"Developer, front-end",RStudio,64,29
+middle,"Developer, front-end",Rider,62,30
+middle,"Developer, front-end",IntelliJ IDEA,56,31
+middle,"Developer, front-end",WebStorm,42,32
+middle,"Developer, front-end",Emacs,42,33
+middle,"Developer, front-end",Facebook Workplace,36,34
+middle,"Developer, front-end",CLion,30,35
+middle,"Developer, front-end",RubyMine,27,36
+middle,"Developer, front-end",Jupyter Notebook/JupyterLab,26,37
+middle,"Developer, front-end",GoLand,26,38
+middle,"Developer, front-end",Spyder,24,39
+middle,"Developer, front-end",Qt Creator,14,40
+middle,"Developer, front-end",DataGrip,8,41
+middle,"Developer, front-end",Fleet,7,42
+middle,"Developer, front-end",Code::Blocks,6,43
+middle,"Developer, front-end",TextMate,6,44
+middle,"Developer, front-end",IPython,5,45
+middle,"Developer, front-end",VSCodium,3,46
+middle,"Developer, front-end","RAD Studio (Delphi, C++ Builder)",3,47
+middle,"Developer, front-end",Netbeans,2,48
+middle,"Developer, front-end",Helix,2,49
+middle,"Developer, front-end",Micro,1,50
+middle,"Developer, front-end",Goland,1,51
+middle,"Developer, front-end",Kate,1,52
+middle,"Developer, full-stack",Visual Studio Code,4314,1
+middle,"Developer, full-stack",Visual Studio,1651,2
+middle,"Developer, full-stack",Github,1551,3
+middle,"Developer, full-stack",Android Studio,1218,4
+middle,"Developer, full-stack",Notepad++,1189,5
+middle,"Developer, full-stack",IntelliJ,1102,6
+middle,"Developer, full-stack",Slack,1095,7
+middle,"Developer, full-stack",Vim,934,8
+middle,"Developer, full-stack",Jira,924,9
+middle,"Developer, full-stack",Sublime Text,886,10
+middle,"Developer, full-stack",PyCharm,844,11
+middle,"Developer, full-stack","Google Suite (Docs, Meet, etc)",784,12
+middle,"Developer, full-stack",Gitlab,743,13
+middle,"Developer, full-stack",Trello,695,14
+middle,"Developer, full-stack",Eclipse,612,15
+middle,"Developer, full-stack",Xcode,558,16
+middle,"Developer, full-stack",Confluence,551,17
+middle,"Developer, full-stack",Atom,500,18
+middle,"Developer, full-stack",Webstorm,491,19
+middle,"Developer, full-stack",Microsoft Teams,484,20
+middle,"Developer, full-stack",IPython/Jupyter,400,21
+middle,"Developer, full-stack",IntelliJ IDEA,357,22
+middle,"Developer, full-stack",Neovim,338,23
+middle,"Developer, full-stack",Microsoft Azure,301,24
+middle,"Developer, full-stack",NetBeans,294,25
+middle,"Developer, full-stack",Rider,272,26
+middle,"Developer, full-stack",Nano,258,27
+middle,"Developer, full-stack",PhpStorm,215,28
+middle,"Developer, full-stack",PHPStorm,210,29
+middle,"Developer, full-stack",WebStorm,158,30
+middle,"Developer, full-stack",Jupyter Notebook/JupyterLab,151,31
+middle,"Developer, full-stack",RStudio,112,32
+middle,"Developer, full-stack",Stack Overflow for Teams,106,33
+middle,"Developer, full-stack",Emacs,97,34
+middle,"Developer, full-stack",RubyMine,85,35
+middle,"Developer, full-stack",CLion,84,36
+middle,"Developer, full-stack",DataGrip,79,37
+middle,"Developer, full-stack",Spyder,56,38
+middle,"Developer, full-stack",GoLand,51,39
+middle,"Developer, full-stack",Facebook Workplace,46,40
+middle,"Developer, full-stack",VSCodium,43,41
+middle,"Developer, full-stack",Netbeans,43,42
+middle,"Developer, full-stack",IPython,43,43
+middle,"Developer, full-stack",Qt Creator,37,44
+middle,"Developer, full-stack",Goland,32,45
+middle,"Developer, full-stack",Code::Blocks,31,46
+middle,"Developer, full-stack",Fleet,30,47
+middle,"Developer, full-stack",Helix,19,48
+middle,"Developer, full-stack",TextMate,12,49
+middle,"Developer, full-stack",Kate,8,50
+middle,"Developer, full-stack",Micro,4,51
+middle,"Developer, full-stack",Nova,3,52
+middle,"Developer, full-stack","RAD Studio (Delphi, C++ Builder)",3,53
+middle,"Developer, full-stack","Rad Studio (Delphi, C++ Builder)",2,54
+middle,"Developer, full-stack",Geany,2,55
+middle,"Developer, full-stack",BBEdit,1,56
+middle,"Developer, full-stack",condo,1,57
+middle,"Developer, game or graphics",Github,79,1
+middle,"Developer, game or graphics",Visual Studio Code,75,2
+middle,"Developer, game or graphics",Slack,52,3
+middle,"Developer, game or graphics",Visual Studio,48,4
+middle,"Developer, game or graphics","Google Suite (Docs, Meet, etc)",39,5
+middle,"Developer, game or graphics",Gitlab,39,6
+middle,"Developer, game or graphics",Android Studio,37,7
+middle,"Developer, game or graphics",Notepad++,36,8
+middle,"Developer, game or graphics",Trello,33,9
+middle,"Developer, game or graphics",Jira,33,10
+middle,"Developer, game or graphics",IntelliJ,30,11
+middle,"Developer, game or graphics",Eclipse,20,12
+middle,"Developer, game or graphics",PyCharm,17,13
+middle,"Developer, game or graphics",Confluence,17,14
+middle,"Developer, game or graphics",Xcode,16,15
+middle,"Developer, game or graphics",Vim,15,16
+middle,"Developer, game or graphics",Sublime Text,15,17
+middle,"Developer, game or graphics",Microsoft Teams,15,18
+middle,"Developer, game or graphics",Microsoft Azure,13,19
+middle,"Developer, game or graphics",IPython/Jupyter,11,20
+middle,"Developer, game or graphics",Atom,11,21
+middle,"Developer, game or graphics",Webstorm,10,22
+middle,"Developer, game or graphics",NetBeans,8,23
+middle,"Developer, game or graphics",IntelliJ IDEA,7,24
+middle,"Developer, game or graphics",PHPStorm,7,25
+middle,"Developer, game or graphics",Neovim,6,26
+middle,"Developer, game or graphics",CLion,4,27
+middle,"Developer, game or graphics",WebStorm,3,28
+middle,"Developer, game or graphics",RStudio,3,29
+middle,"Developer, game or graphics",Rider,3,30
+middle,"Developer, game or graphics",Nano,3,31
+middle,"Developer, game or graphics",PhpStorm,3,32
+middle,"Developer, game or graphics",Facebook Workplace,3,33
+middle,"Developer, game or graphics",Stack Overflow for Teams,3,34
+middle,"Developer, game or graphics",Emacs,2,35
+middle,"Developer, game or graphics",Qt Creator,1,36
+middle,"Developer, game or graphics",Goland,1,37
+middle,"Developer, game or graphics",DataGrip,1,38
+middle,"Developer, game or graphics","RAD Studio (Delphi, C++ Builder)",1,39
+middle,"Developer, mobile",Visual Studio Code,782,1
+middle,"Developer, mobile",Android Studio,640,2
+middle,"Developer, mobile",Github,422,3
+middle,"Developer, mobile",Xcode,401,4
+middle,"Developer, mobile",Visual Studio,328,5
+middle,"Developer, mobile",IntelliJ,321,6
+middle,"Developer, mobile",Slack,265,7
+middle,"Developer, mobile",Notepad++,254,8
+middle,"Developer, mobile",Sublime Text,227,9
+middle,"Developer, mobile",Gitlab,207,10
+middle,"Developer, mobile",Jira,204,11
+middle,"Developer, mobile",Trello,201,12
+middle,"Developer, mobile","Google Suite (Docs, Meet, etc)",189,13
+middle,"Developer, mobile",Eclipse,177,14
+middle,"Developer, mobile",PyCharm,166,15
+middle,"Developer, mobile",Atom,140,16
+middle,"Developer, mobile",NetBeans,138,17
+middle,"Developer, mobile",Vim,133,18
+middle,"Developer, mobile",Webstorm,120,19
+middle,"Developer, mobile",Microsoft Teams,110,20
+middle,"Developer, mobile",Confluence,95,21
+middle,"Developer, mobile",IPython/Jupyter,94,22
+middle,"Developer, mobile",PHPStorm,69,23
+middle,"Developer, mobile",Microsoft Azure,58,24
+middle,"Developer, mobile",Nano,49,25
+middle,"Developer, mobile",PhpStorm,40,26
+middle,"Developer, mobile",Neovim,37,27
+middle,"Developer, mobile",Stack Overflow for Teams,34,28
+middle,"Developer, mobile",Rider,31,29
+middle,"Developer, mobile",RStudio,30,30
+middle,"Developer, mobile",IntelliJ IDEA,28,31
+middle,"Developer, mobile",CLion,18,32
+middle,"Developer, mobile",Spyder,17,33
+middle,"Developer, mobile",Facebook Workplace,17,34
+middle,"Developer, mobile",Emacs,15,35
+middle,"Developer, mobile",RubyMine,11,36
+middle,"Developer, mobile",Jupyter Notebook/JupyterLab,10,37
+middle,"Developer, mobile",Qt Creator,8,38
+middle,"Developer, mobile",GoLand,8,39
+middle,"Developer, mobile",Netbeans,6,40
+middle,"Developer, mobile",WebStorm,6,41
+middle,"Developer, mobile","RAD Studio (Delphi, C++ Builder)",5,42
+middle,"Developer, mobile",Code::Blocks,4,43
+middle,"Developer, mobile",DataGrip,3,44
+middle,"Developer, mobile",TextMate,3,45
+middle,"Developer, mobile",Kate,2,46
+middle,"Developer, mobile",IPython,1,47
+middle,"Developer, mobile",VSCodium,1,48
+middle,"Developer, mobile",Fleet,1,49
+middle,Educator,Visual Studio Code,104,1
+middle,Educator,Github,90,2
+middle,Educator,Slack,69,3
+middle,Educator,Android Studio,51,4
+middle,Educator,Gitlab,50,5
+middle,Educator,"Google Suite (Docs, Meet, etc)",49,6
+middle,Educator,Jira,45,7
+middle,Educator,Trello,42,8
+middle,Educator,Visual Studio,41,9
+middle,Educator,IntelliJ,40,10
+middle,Educator,Sublime Text,38,11
+middle,Educator,PyCharm,37,12
+middle,Educator,Notepad++,35,13
+middle,Educator,Vim,33,14
+middle,Educator,Eclipse,29,15
+middle,Educator,IPython/Jupyter,25,16
+middle,Educator,Atom,23,17
+middle,Educator,Xcode,22,18
+middle,Educator,Webstorm,22,19
+middle,Educator,NetBeans,21,20
+middle,Educator,Confluence,18,21
+middle,Educator,Microsoft Teams,14,22
+middle,Educator,PHPStorm,11,23
+middle,Educator,Stack Overflow for Teams,11,24
+middle,Educator,RStudio,10,25
+middle,Educator,Microsoft Azure,9,26
+middle,Educator,Facebook Workplace,7,27
+middle,Educator,Neovim,6,28
+middle,Educator,Nano,5,29
+middle,Educator,PhpStorm,4,30
+middle,Educator,Rider,4,31
+middle,Educator,Spyder,3,32
+middle,Educator,Emacs,3,33
+middle,Educator,GoLand,2,34
+middle,Educator,Qt Creator,2,35
+middle,Educator,"RAD Studio (Delphi, C++ Builder)",1,36
+middle,Educator,CLion,1,37
+middle,Educator,RubyMine,1,38
+middle,Educator,TextMate,1,39
+middle,"Engineer, data",Visual Studio Code,358,1
+middle,"Engineer, data",PyCharm,177,2
+middle,"Engineer, data",Github,174,3
+middle,"Engineer, data",IPython/Jupyter,159,4
+middle,"Engineer, data",Vim,126,5
+middle,"Engineer, data",IntelliJ,122,6
+middle,"Engineer, data",Slack,118,7
+middle,"Engineer, data",Visual Studio,117,8
+middle,"Engineer, data",Notepad++,113,9
+middle,"Engineer, data",Sublime Text,104,10
+middle,"Engineer, data",Jira,102,11
+middle,"Engineer, data","Google Suite (Docs, Meet, etc)",91,12
+middle,"Engineer, data",Gitlab,82,13
+middle,"Engineer, data",Android Studio,74,14
+middle,"Engineer, data",Trello,72,15
+middle,"Engineer, data",Microsoft Teams,70,16
+middle,"Engineer, data",Confluence,65,17
+middle,"Engineer, data",Atom,64,18
+middle,"Engineer, data",Eclipse,51,19
+middle,"Engineer, data",RStudio,44,20
+middle,"Engineer, data",Microsoft Azure,38,21
+middle,"Engineer, data",Xcode,36,22
+middle,"Engineer, data",Webstorm,36,23
+middle,"Engineer, data",Neovim,34,24
+middle,"Engineer, data",NetBeans,33,25
+middle,"Engineer, data",Jupyter Notebook/JupyterLab,31,26
+middle,"Engineer, data",Nano,26,27
+middle,"Engineer, data",Spyder,20,28
+middle,"Engineer, data",PHPStorm,20,29
+middle,"Engineer, data",Emacs,18,30
+middle,"Engineer, data",IntelliJ IDEA,13,31
+middle,"Engineer, data",IPython,10,32
+middle,"Engineer, data",Rider,9,33
+middle,"Engineer, data",PhpStorm,7,34
+middle,"Engineer, data",GoLand,7,35
+middle,"Engineer, data",Stack Overflow for Teams,7,36
+middle,"Engineer, data",DataGrip,6,37
+middle,"Engineer, data",Facebook Workplace,5,38
+middle,"Engineer, data",CLion,4,39
+middle,"Engineer, data",VSCodium,2,40
+middle,"Engineer, data",Qt Creator,2,41
+middle,"Engineer, data",Helix,2,42
+middle,"Engineer, data",RubyMine,2,43
+middle,"Engineer, data",TextMate,2,44
+middle,"Engineer, data",Goland,1,45
+middle,"Engineer, data",Netbeans,1,46
+middle,"Engineer, data",Fleet,1,47
+middle,"Engineer, data","RAD Studio (Delphi, C++ Builder)",1,48
+middle,"Engineer, site reliability",Visual Studio Code,130,1
+middle,"Engineer, site reliability",Vim,78,2
+middle,"Engineer, site reliability",Github,68,3
+middle,"Engineer, site reliability",Slack,50,4
+middle,"Engineer, site reliability",PyCharm,47,5
+middle,"Engineer, site reliability",IntelliJ,45,6
+middle,"Engineer, site reliability",Jira,42,7
+middle,"Engineer, site reliability",Notepad++,37,8
+middle,"Engineer, site reliability",Gitlab,37,9
+middle,"Engineer, site reliability",Visual Studio,34,10
+middle,"Engineer, site reliability","Google Suite (Docs, Meet, etc)",34,11
+middle,"Engineer, site reliability",Android Studio,33,12
+middle,"Engineer, site reliability",Sublime Text,30,13
+middle,"Engineer, site reliability",Trello,30,14
+middle,"Engineer, site reliability",Confluence,28,15
+middle,"Engineer, site reliability",IPython/Jupyter,26,16
+middle,"Engineer, site reliability",Neovim,24,17
+middle,"Engineer, site reliability",Atom,20,18
+middle,"Engineer, site reliability",Microsoft Teams,18,19
+middle,"Engineer, site reliability",Webstorm,16,20
+middle,"Engineer, site reliability",Nano,13,21
+middle,"Engineer, site reliability",NetBeans,11,22
+middle,"Engineer, site reliability",Xcode,11,23
+middle,"Engineer, site reliability",PHPStorm,11,24
+middle,"Engineer, site reliability",Eclipse,10,25
+middle,"Engineer, site reliability",Emacs,7,26
+middle,"Engineer, site reliability",RubyMine,7,27
+middle,"Engineer, site reliability",Microsoft Azure,7,28
+middle,"Engineer, site reliability",CLion,6,29
+middle,"Engineer, site reliability",GoLand,6,30
+middle,"Engineer, site reliability",Jupyter Notebook/JupyterLab,5,31
+middle,"Engineer, site reliability",RStudio,5,32
+middle,"Engineer, site reliability",Rider,5,33
+middle,"Engineer, site reliability",Facebook Workplace,5,34
+middle,"Engineer, site reliability",Stack Overflow for Teams,5,35
+middle,"Engineer, site reliability",IntelliJ IDEA,4,36
+middle,"Engineer, site reliability",PhpStorm,4,37
+middle,"Engineer, site reliability",VSCodium,3,38
+middle,"Engineer, site reliability",Goland,2,39
+middle,"Engineer, site reliability",Qt Creator,2,40
+middle,"Engineer, site reliability",Spyder,2,41
+middle,"Engineer, site reliability",Micro,1,42
+middle,"Engineer, site reliability",Fleet,1,43
+middle,"Engineer, site reliability",Netbeans,1,44
+middle,"Engineer, site reliability",DataGrip,1,45
+middle,"Engineer, site reliability","RAD Studio (Delphi, C++ Builder)",1,46
+middle,"Engineer, site reliability",WebStorm,1,47
+middle,"Engineer, site reliability",IPython,1,48
+middle,"Engineer, site reliability",TextMate,1,49
+middle,Engineering manager,Visual Studio Code,96,1
+middle,Engineering manager,Github,40,2
+middle,Engineering manager,Android Studio,35,3
+middle,Engineering manager,Slack,32,4
+middle,Engineering manager,Sublime Text,29,5
+middle,Engineering manager,Vim,27,6
+middle,Engineering manager,Visual Studio,25,7
+middle,Engineering manager,"Google Suite (Docs, Meet, etc)",24,8
+middle,Engineering manager,PyCharm,23,9
+middle,Engineering manager,IntelliJ,22,10
+middle,Engineering manager,Jira,22,11
+middle,Engineering manager,Trello,19,12
+middle,Engineering manager,Xcode,18,13
+middle,Engineering manager,IPython/Jupyter,18,14
+middle,Engineering manager,Atom,17,15
+middle,Engineering manager,Gitlab,16,16
+middle,Engineering manager,Notepad++,14,17
+middle,Engineering manager,Confluence,12,18
+middle,Engineering manager,Neovim,10,19
+middle,Engineering manager,Eclipse,9,20
+middle,Engineering manager,Nano,8,21
+middle,Engineering manager,Webstorm,8,22
+middle,Engineering manager,NetBeans,7,23
+middle,Engineering manager,Microsoft Azure,7,24
+middle,Engineering manager,Microsoft Teams,7,25
+middle,Engineering manager,PhpStorm,5,26
+middle,Engineering manager,IntelliJ IDEA,5,27
+middle,Engineering manager,RStudio,5,28
+middle,Engineering manager,PHPStorm,5,29
+middle,Engineering manager,WebStorm,4,30
+middle,Engineering manager,GoLand,4,31
+middle,Engineering manager,Rider,4,32
+middle,Engineering manager,Emacs,3,33
+middle,Engineering manager,IPython,3,34
+middle,Engineering manager,DataGrip,3,35
+middle,Engineering manager,RubyMine,3,36
+middle,Engineering manager,Goland,2,37
+middle,Engineering manager,Jupyter Notebook/JupyterLab,2,38
+middle,Engineering manager,Spyder,2,39
+middle,Engineering manager,Facebook Workplace,2,40
+middle,Engineering manager,Stack Overflow for Teams,2,41
+middle,Engineering manager,VSCodium,1,42
+middle,Engineering manager,Netbeans,1,43
+middle,Engineering manager,Qt Creator,1,44
+middle,Engineering manager,TextMate,1,45
+middle,Engineering manager,CLion,1,46
+middle,Hardware Engineer,Visual Studio Code,2,1
+middle,Hardware Engineer,CLion,2,2
+middle,Hardware Engineer,Android Studio,1,3
+middle,Hardware Engineer,WebStorm,1,4
+middle,Hardware Engineer,PhpStorm,1,5
+middle,Hardware Engineer,PyCharm,1,6
+middle,Hardware Engineer,Neovim,1,7
+middle,Hardware Engineer,Kate,1,8
+middle,Hardware Engineer,Nano,1,9
+middle,Hardware Engineer,Qt Creator,1,10
+middle,Hardware Engineer,Jupyter Notebook/JupyterLab,1,11
+middle,Marketing or sales professional,Visual Studio Code,23,1
+middle,Marketing or sales professional,Github,20,2
+middle,Marketing or sales professional,"Google Suite (Docs, Meet, etc)",14,3
+middle,Marketing or sales professional,Slack,12,4
+middle,Marketing or sales professional,Trello,11,5
+middle,Marketing or sales professional,Android Studio,10,6
+middle,Marketing or sales professional,Gitlab,9,7
+middle,Marketing or sales professional,PyCharm,7,8
+middle,Marketing or sales professional,Xcode,7,9
+middle,Marketing or sales professional,Notepad++,7,10
+middle,Marketing or sales professional,Sublime Text,6,11
+middle,Marketing or sales professional,Visual Studio,6,12
+middle,Marketing or sales professional,Jira,6,13
+middle,Marketing or sales professional,IPython/Jupyter,5,14
+middle,Marketing or sales professional,Atom,5,15
+middle,Marketing or sales professional,IntelliJ,4,16
+middle,Marketing or sales professional,Microsoft Teams,4,17
+middle,Marketing or sales professional,RStudio,3,18
+middle,Marketing or sales professional,Eclipse,3,19
+middle,Marketing or sales professional,Nano,3,20
+middle,Marketing or sales professional,Vim,3,21
+middle,Marketing or sales professional,Confluence,3,22
+middle,Marketing or sales professional,Microsoft Azure,3,23
+middle,Marketing or sales professional,PhpStorm,2,24
+middle,Marketing or sales professional,Stack Overflow for Teams,2,25
+middle,Marketing or sales professional,Jupyter Notebook/JupyterLab,1,26
+middle,Marketing or sales professional,Qt Creator,1,27
+middle,Marketing or sales professional,NetBeans,1,28
+middle,Marketing or sales professional,Neovim,1,29
+middle,Marketing or sales professional,Webstorm,1,30
+middle,Other (please specify):,Visual Studio Code,138,1
+middle,Other (please specify):,Vim,47,2
+middle,Other (please specify):,PyCharm,46,3
+middle,Other (please specify):,Notepad++,40,4
+middle,Other (please specify):,Visual Studio,36,5
+middle,Other (please specify):,IntelliJ,33,6
+middle,Other (please specify):,Sublime Text,31,7
+middle,Other (please specify):,IPython/Jupyter,31,8
+middle,Other (please specify):,Android Studio,28,9
+middle,Other (please specify):,Eclipse,24,10
+middle,Other (please specify):,Atom,22,11
+middle,Other (please specify):,Jupyter Notebook/JupyterLab,15,12
+middle,Other (please specify):,IntelliJ IDEA,13,13
+middle,Other (please specify):,Neovim,13,14
+middle,Other (please specify):,Webstorm,13,15
+middle,Other (please specify):,Nano,12,16
+middle,Other (please specify):,NetBeans,10,17
+middle,Other (please specify):,RStudio,9,18
+middle,Other (please specify):,PhpStorm,9,19
+middle,Other (please specify):,DataGrip,8,20
+middle,Other (please specify):,Xcode,8,21
+middle,Other (please specify):,Rider,5,22
+middle,Other (please specify):,Goland,5,23
+middle,Other (please specify):,IPython,5,24
+middle,Other (please specify):,PHPStorm,5,25
+middle,Other (please specify):,Netbeans,4,26
+middle,Other (please specify):,Spyder,4,27
+middle,Other (please specify):,WebStorm,3,28
+middle,Other (please specify):,VSCodium,3,29
+middle,Other (please specify):,CLion,3,30
+middle,Other (please specify):,Emacs,2,31
+middle,Other (please specify):,Code::Blocks,2,32
+middle,Other (please specify):,Helix,2,33
+middle,Other (please specify):,Fleet,1,34
+middle,Other (please specify):,Micro,1,35
+middle,Other (please specify):,Qt Creator,1,36
+middle,Other (please specify):,GoLand,1,37
+middle,Product manager,Visual Studio Code,133,1
+middle,Product manager,Github,59,2
+middle,Product manager,Android Studio,46,3
+middle,Product manager,Sublime Text,41,4
+middle,Product manager,Slack,39,5
+middle,Product manager,Visual Studio,36,6
+middle,Product manager,Notepad++,36,7
+middle,Product manager,IntelliJ,35,8
+middle,Product manager,Trello,35,9
+middle,Product manager,"Google Suite (Docs, Meet, etc)",33,10
+middle,Product manager,Gitlab,33,11
+middle,Product manager,Xcode,30,12
+middle,Product manager,Jira,30,13
+middle,Product manager,PyCharm,27,14
+middle,Product manager,Vim,27,15
+middle,Product manager,IPython/Jupyter,25,16
+middle,Product manager,Atom,23,17
+middle,Product manager,Eclipse,19,18
+middle,Product manager,Webstorm,17,19
+middle,Product manager,NetBeans,14,20
+middle,Product manager,Microsoft Teams,13,21
+middle,Product manager,Confluence,13,22
+middle,Product manager,PHPStorm,10,23
+middle,Product manager,Microsoft Azure,9,24
+middle,Product manager,Nano,8,25
+middle,Product manager,PhpStorm,7,26
+middle,Product manager,Neovim,7,27
+middle,Product manager,RStudio,7,28
+middle,Product manager,Rider,5,29
+middle,Product manager,Emacs,3,30
+middle,Product manager,Qt Creator,2,31
+middle,Product manager,Stack Overflow for Teams,2,32
+middle,Product manager,Facebook Workplace,2,33
+middle,Product manager,DataGrip,1,34
+middle,Product manager,GoLand,1,35
+middle,Product manager,RubyMine,1,36
+middle,Product manager,Spyder,1,37
+middle,Project manager,Visual Studio Code,88,1
+middle,Project manager,Visual Studio,35,2
+middle,Project manager,Android Studio,31,3
+middle,Project manager,Notepad++,28,4
+middle,Project manager,Sublime Text,24,5
+middle,Project manager,IntelliJ,24,6
+middle,Project manager,PyCharm,21,7
+middle,Project manager,Xcode,20,8
+middle,Project manager,Nano,19,9
+middle,Project manager,IPython/Jupyter,16,10
+middle,Project manager,PhpStorm,15,11
+middle,Project manager,Vim,15,12
+middle,Project manager,Webstorm,15,13
+middle,Project manager,Eclipse,11,14
+middle,Project manager,Atom,9,15
+middle,Project manager,NetBeans,8,16
+middle,Project manager,RStudio,5,17
+middle,Project manager,IntelliJ IDEA,4,18
+middle,Project manager,GoLand,4,19
+middle,Project manager,Rider,4,20
+middle,Project manager,CLion,3,21
+middle,Project manager,Spyder,3,22
+middle,Project manager,Neovim,2,23
+middle,Project manager,"RAD Studio (Delphi, C++ Builder)",2,24
+middle,Project manager,RubyMine,2,25
+middle,Project manager,Qt Creator,2,26
+middle,Project manager,Netbeans,1,27
+middle,Project manager,Jupyter Notebook/JupyterLab,1,28
+middle,Project manager,WebStorm,1,29
+middle,Project manager,Emacs,1,30
+middle,Research & Development role,Visual Studio Code,16,1
+middle,Research & Development role,Visual Studio,10,2
+middle,Research & Development role,Android Studio,10,3
+middle,Research & Development role,Jupyter Notebook/JupyterLab,8,4
+middle,Research & Development role,Vim,7,5
+middle,Research & Development role,PyCharm,6,6
+middle,Research & Development role,Notepad++,5,7
+middle,Research & Development role,Eclipse,4,8
+middle,Research & Development role,Sublime Text,4,9
+middle,Research & Development role,Atom,4,10
+middle,Research & Development role,Neovim,4,11
+middle,Research & Development role,IntelliJ IDEA,3,12
+middle,Research & Development role,Nano,3,13
+middle,Research & Development role,Rider,3,14
+middle,Research & Development role,DataGrip,2,15
+middle,Research & Development role,Emacs,2,16
+middle,Research & Development role,Xcode,2,17
+middle,Research & Development role,Spyder,2,18
+middle,Research & Development role,Code::Blocks,1,19
+middle,Research & Development role,Goland,1,20
+middle,Research & Development role,RStudio,1,21
+middle,Research & Development role,Geany,1,22
+middle,Research & Development role,IPython,1,23
+middle,Research & Development role,"Rad Studio (Delphi, C++ Builder)",1,24
+middle,Research & Development role,Fleet,1,25
+middle,Scientist,Github,56,1
+middle,Scientist,Visual Studio Code,43,2
+middle,Scientist,Slack,40,3
+middle,Scientist,Gitlab,33,4
+middle,Scientist,IPython/Jupyter,27,5
+middle,Scientist,"Google Suite (Docs, Meet, etc)",27,6
+middle,Scientist,PyCharm,23,7
+middle,Scientist,Trello,22,8
+middle,Scientist,Jira,17,9
+middle,Scientist,Vim,16,10
+middle,Scientist,Notepad++,15,11
+middle,Scientist,IntelliJ,15,12
+middle,Scientist,Visual Studio,15,13
+middle,Scientist,Microsoft Teams,15,14
+middle,Scientist,Sublime Text,14,15
+middle,Scientist,Android Studio,13,16
+middle,Scientist,Confluence,10,17
+middle,Scientist,Eclipse,9,18
+middle,Scientist,Atom,9,19
+middle,Scientist,Microsoft Azure,9,20
+middle,Scientist,RStudio,8,21
+middle,Scientist,Webstorm,8,22
+middle,Scientist,Xcode,5,23
+middle,Scientist,NetBeans,5,24
+middle,Scientist,Neovim,4,25
+middle,Scientist,Stack Overflow for Teams,4,26
+middle,Scientist,CLion,3,27
+middle,Scientist,Nano,3,28
+middle,Scientist,Emacs,3,29
+middle,Scientist,PHPStorm,3,30
+middle,Scientist,Spyder,2,31
+middle,Scientist,Jupyter Notebook/JupyterLab,1,32
+middle,Scientist,WebStorm,1,33
+middle,Scientist,IntelliJ IDEA,1,34
+middle,Scientist,Goland,1,35
+middle,Scientist,PhpStorm,1,36
+middle,Scientist,Rider,1,37
+middle,Scientist,Facebook Workplace,1,38
+middle,Security professional,Visual Studio Code,46,1
+middle,Security professional,Vim,22,2
+middle,Security professional,IntelliJ,18,3
+middle,Security professional,Notepad++,15,4
+middle,Security professional,Android Studio,14,5
+middle,Security professional,Visual Studio,13,6
+middle,Security professional,Nano,13,7
+middle,Security professional,PyCharm,13,8
+middle,Security professional,Atom,9,9
+middle,Security professional,Eclipse,8,10
+middle,Security professional,IPython/Jupyter,7,11
+middle,Security professional,Sublime Text,6,12
+middle,Security professional,Xcode,6,13
+middle,Security professional,Neovim,5,14
+middle,Security professional,PhpStorm,5,15
+middle,Security professional,Webstorm,5,16
+middle,Security professional,CLion,3,17
+middle,Security professional,GoLand,3,18
+middle,Security professional,Rider,3,19
+middle,Security professional,Helix,2,20
+middle,Security professional,RubyMine,2,21
+middle,Security professional,RStudio,1,22
+middle,Security professional,VSCodium,1,23
+middle,Security professional,Emacs,1,24
+middle,Security professional,NetBeans,1,25
+middle,"Senior Executive (C-Suite, VP, etc.)",Visual Studio Code,50,1
+middle,"Senior Executive (C-Suite, VP, etc.)",Android Studio,17,2
+middle,"Senior Executive (C-Suite, VP, etc.)",Sublime Text,16,3
+middle,"Senior Executive (C-Suite, VP, etc.)",PyCharm,15,4
+middle,"Senior Executive (C-Suite, VP, etc.)",IntelliJ,15,5
+middle,"Senior Executive (C-Suite, VP, etc.)",Notepad++,13,6
+middle,"Senior Executive (C-Suite, VP, etc.)",Visual Studio,13,7
+middle,"Senior Executive (C-Suite, VP, etc.)",Xcode,11,8
+middle,"Senior Executive (C-Suite, VP, etc.)",IPython/Jupyter,11,9
+middle,"Senior Executive (C-Suite, VP, etc.)",Vim,10,10
+middle,"Senior Executive (C-Suite, VP, etc.)",Atom,9,11
+middle,"Senior Executive (C-Suite, VP, etc.)",Nano,8,12
+middle,"Senior Executive (C-Suite, VP, etc.)",Webstorm,6,13
+middle,"Senior Executive (C-Suite, VP, etc.)",Eclipse,5,14
+middle,"Senior Executive (C-Suite, VP, etc.)",IntelliJ IDEA,4,15
+middle,"Senior Executive (C-Suite, VP, etc.)",PHPStorm,3,16
+middle,"Senior Executive (C-Suite, VP, etc.)",DataGrip,2,17
+middle,"Senior Executive (C-Suite, VP, etc.)",Jupyter Notebook/JupyterLab,2,18
+middle,"Senior Executive (C-Suite, VP, etc.)",RubyMine,2,19
+middle,"Senior Executive (C-Suite, VP, etc.)",IPython,2,20
+middle,"Senior Executive (C-Suite, VP, etc.)",CLion,2,21
+middle,"Senior Executive (C-Suite, VP, etc.)",PhpStorm,2,22
+middle,"Senior Executive (C-Suite, VP, etc.)",NetBeans,2,23
+middle,"Senior Executive (C-Suite, VP, etc.)",VSCodium,1,24
+middle,"Senior Executive (C-Suite, VP, etc.)",Neovim,1,25
+middle,"Senior Executive (C-Suite, VP, etc.)",GoLand,1,26
+middle,"Senior Executive (C-Suite, VP, etc.)",Spyder,1,27
+middle,"Senior Executive (C-Suite, VP, etc.)",Qt Creator,1,28
+middle,"Senior Executive (C-Suite, VP, etc.)",Emacs,1,29
+middle,Senior executive/VP,Github,10,1
+middle,Senior executive/VP,Slack,6,2
+middle,Senior executive/VP,Gitlab,6,3
+middle,Senior executive/VP,"Google Suite (Docs, Meet, etc)",5,4
+middle,Senior executive/VP,Trello,4,5
+middle,Senior executive/VP,Microsoft Teams,3,6
+middle,Senior executive/VP,Jira,2,7
+middle,Senior executive/VP,Microsoft Azure,2,8
+middle,Senior executive/VP,Stack Overflow for Teams,1,9
+middle,Senior executive/VP,Facebook Workplace,1,10
+middle,Senior executive/VP,Confluence,1,11
+middle,Student,Visual Studio Code,291,1
+middle,Student,Visual Studio,145,2
+middle,Student,IntelliJ,142,3
+middle,Student,Android Studio,138,4
+middle,Student,PyCharm,107,5
+middle,Student,Notepad++,102,6
+middle,Student,Sublime Text,95,7
+middle,Student,Eclipse,84,8
+middle,Student,Vim,84,9
+middle,Student,IPython/Jupyter,76,10
+middle,Student,NetBeans,61,11
+middle,Student,Atom,60,12
+middle,Student,Xcode,58,13
+middle,Student,Webstorm,51,14
+middle,Student,PHPStorm,28,15
+middle,Student,Rider,24,16
+middle,Student,PhpStorm,21,17
+middle,Student,Neovim,21,18
+middle,Student,RStudio,20,19
+middle,Student,Nano,17,20
+middle,Student,RubyMine,11,21
+middle,Student,Emacs,10,22
+middle,Student,GoLand,9,23
+middle,Student,CLion,8,24
+middle,Student,Spyder,6,25
+middle,Student,Qt Creator,5,26
+middle,Student,TextMate,3,27
+middle,Student,Code::Blocks,1,28
+middle,System administrator,Visual Studio Code,254,1
+middle,System administrator,Github,113,2
+middle,System administrator,Vim,109,3
+middle,System administrator,Notepad++,103,4
+middle,System administrator,Visual Studio,93,5
+middle,System administrator,Android Studio,93,6
+middle,System administrator,IntelliJ,84,7
+middle,System administrator,Sublime Text,82,8
+middle,System administrator,PyCharm,81,9
+middle,System administrator,Slack,68,10
+middle,System administrator,Gitlab,66,11
+middle,System administrator,Trello,57,12
+middle,System administrator,Jira,55,13
+middle,System administrator,"Google Suite (Docs, Meet, etc)",53,14
+middle,System administrator,Atom,51,15
+middle,System administrator,IPython/Jupyter,50,16
+middle,System administrator,Eclipse,47,17
+middle,System administrator,NetBeans,43,18
+middle,System administrator,Webstorm,41,19
+middle,System administrator,Microsoft Teams,34,20
+middle,System administrator,Xcode,32,21
+middle,System administrator,PHPStorm,29,22
+middle,System administrator,Confluence,29,23
+middle,System administrator,Neovim,25,24
+middle,System administrator,Nano,20,25
+middle,System administrator,Microsoft Azure,20,26
+middle,System administrator,Rider,14,27
+middle,System administrator,RStudio,13,28
+middle,System administrator,PhpStorm,11,29
+middle,System administrator,Stack Overflow for Teams,9,30
+middle,System administrator,CLion,8,31
+middle,System administrator,GoLand,7,32
+middle,System administrator,Emacs,7,33
+middle,System administrator,Facebook Workplace,6,34
+middle,System administrator,Spyder,5,35
+middle,System administrator,TextMate,5,36
+middle,System administrator,Qt Creator,4,37
+middle,System administrator,Jupyter Notebook/JupyterLab,3,38
+middle,System administrator,VSCodium,3,39
+middle,System administrator,IntelliJ IDEA,3,40
+middle,System administrator,RubyMine,3,41
+middle,System administrator,Netbeans,1,42
+middle,System administrator,BBEdit,1,43
+middle,System administrator,Code::Blocks,1,44
+middle,System administrator,IPython,1,45

@@ -1,0 +1,765 @@
+YearsGroup,DevType,Webframe,Count,Rank
+junior,Academic researcher,React.js,18,1
+junior,Academic researcher,jQuery,15,2
+junior,Academic researcher,Django,12,3
+junior,Academic researcher,Flask,10,4
+junior,Academic researcher,Angular.js,10,5
+junior,Academic researcher,ASP.NET,10,6
+junior,Academic researcher,Express,8,7
+junior,Academic researcher,ASP.NET Core ,4,8
+junior,Academic researcher,Vue.js,4,9
+junior,Academic researcher,Spring,4,10
+junior,Academic researcher,ASP.NET Core,4,11
+junior,Academic researcher,Gatsby,3,12
+junior,Academic researcher,Node.js,3,13
+junior,Academic researcher,Angular,3,14
+junior,Academic researcher,FastAPI,2,15
+junior,Academic researcher,Nuxt.js,1,16
+junior,Academic researcher,Laravel,1,17
+junior,Blockchain,Node.js,20,1
+junior,Blockchain,React.js,19,2
+junior,Blockchain,Express,15,3
+junior,Blockchain,Next.js,10,4
+junior,Blockchain,Django,7,5
+junior,Blockchain,Flask,5,6
+junior,Blockchain,jQuery,4,7
+junior,Blockchain,ASP.NET,3,8
+junior,Blockchain,Angular,3,9
+junior,Blockchain,Angular.js,3,10
+junior,Blockchain,React,2,11
+junior,Blockchain,Vue.js,2,12
+junior,Blockchain,Laravel,2,13
+junior,Blockchain,Remix,1,14
+junior,Blockchain,ASP.NET CORE,1,15
+junior,Blockchain,Fastify,1,16
+junior,Blockchain,FastAPI,1,17
+junior,Blockchain,Svelte,1,18
+junior,Blockchain,Nuxt.js,1,19
+junior,Cloud infrastructure engineer,Node.js,16,1
+junior,Cloud infrastructure engineer,React.js,13,2
+junior,Cloud infrastructure engineer,Express,10,3
+junior,Cloud infrastructure engineer,FastAPI,6,4
+junior,Cloud infrastructure engineer,Vue.js,5,5
+junior,Cloud infrastructure engineer,jQuery,5,6
+junior,Cloud infrastructure engineer,Flask,4,7
+junior,Cloud infrastructure engineer,Next.js,4,8
+junior,Cloud infrastructure engineer,ASP.NET,4,9
+junior,Cloud infrastructure engineer,ASP.NET Core ,4,10
+junior,Cloud infrastructure engineer,Angular,3,11
+junior,Cloud infrastructure engineer,Django,2,12
+junior,Cloud infrastructure engineer,Nuxt.js,2,13
+junior,Cloud infrastructure engineer,ASP.NET CORE,1,14
+junior,Cloud infrastructure engineer,Angular.js,1,15
+junior,Cloud infrastructure engineer,Fastify,1,16
+junior,Cloud infrastructure engineer,Laravel,1,17
+junior,Cloud infrastructure engineer,Blazor,1,18
+junior,Data or business analyst,Django,62,1
+junior,Data or business analyst,Flask,47,2
+junior,Data or business analyst,React.js,43,3
+junior,Data or business analyst,jQuery,42,4
+junior,Data or business analyst,Express,27,5
+junior,Data or business analyst,Node.js,21,6
+junior,Data or business analyst,FastAPI,19,7
+junior,Data or business analyst,ASP.NET,19,8
+junior,Data or business analyst,Angular,17,9
+junior,Data or business analyst,Vue.js,15,10
+junior,Data or business analyst,Laravel,12,11
+junior,Data or business analyst,ASP.NET Core ,10,12
+junior,Data or business analyst,React,5,13
+junior,Data or business analyst,Gatsby,5,14
+junior,Data or business analyst,Angular.js,5,15
+junior,Data or business analyst,Ruby on Rails,5,16
+junior,Data or business analyst,Spring,5,17
+junior,Data or business analyst,Svelte,4,18
+junior,Data or business analyst,WordPress,3,19
+junior,Data or business analyst,Next.js,3,20
+junior,Data or business analyst,Nuxt.js,3,21
+junior,Data or business analyst,Drupal,3,22
+junior,Data or business analyst,ASP.NET Core,3,23
+junior,Data or business analyst,Blazor,2,24
+junior,Data or business analyst,Symfony,2,25
+junior,Data or business analyst,Fastify,1,26
+junior,Data or business analyst,Deno,1,27
+junior,Data or business analyst,NestJS,1,28
+junior,Data scientist or machine learning specialist,Flask,58,1
+junior,Data scientist or machine learning specialist,Django,38,2
+junior,Data scientist or machine learning specialist,jQuery,27,3
+junior,Data scientist or machine learning specialist,React.js,23,4
+junior,Data scientist or machine learning specialist,FastAPI,22,5
+junior,Data scientist or machine learning specialist,Express,14,6
+junior,Data scientist or machine learning specialist,ASP.NET,12,7
+junior,Data scientist or machine learning specialist,Angular,8,8
+junior,Data scientist or machine learning specialist,Vue.js,8,9
+junior,Data scientist or machine learning specialist,Node.js,7,10
+junior,Data scientist or machine learning specialist,ASP.NET Core ,5,11
+junior,Data scientist or machine learning specialist,Laravel,5,12
+junior,Data scientist or machine learning specialist,Angular.js,5,13
+junior,Data scientist or machine learning specialist,Spring,4,14
+junior,Data scientist or machine learning specialist,ASP.NET Core,4,15
+junior,Data scientist or machine learning specialist,WordPress,2,16
+junior,Data scientist or machine learning specialist,React,2,17
+junior,Data scientist or machine learning specialist,Nuxt.js,2,18
+junior,Data scientist or machine learning specialist,Symfony,2,19
+junior,Data scientist or machine learning specialist,Fastify,1,20
+junior,Data scientist or machine learning specialist,Spring Boot,1,21
+junior,Data scientist or machine learning specialist,AngularJS,1,22
+junior,Data scientist or machine learning specialist,Ruby on Rails,1,23
+junior,Data scientist or machine learning specialist,Gatsby,1,24
+junior,Data scientist or machine learning specialist,Drupal,1,25
+junior,Database administrator,jQuery,53,1
+junior,Database administrator,React.js,43,2
+junior,Database administrator,Express,31,3
+junior,Database administrator,ASP.NET,30,4
+junior,Database administrator,Angular,27,5
+junior,Database administrator,Django,26,6
+junior,Database administrator,Flask,23,7
+junior,Database administrator,Laravel,21,8
+junior,Database administrator,Node.js,19,9
+junior,Database administrator,Angular.js,16,10
+junior,Database administrator,Vue.js,15,11
+junior,Database administrator,ASP.NET Core ,15,12
+junior,Database administrator,FastAPI,13,13
+junior,Database administrator,Spring,10,14
+junior,Database administrator,ASP.NET Core,8,15
+junior,Database administrator,Gatsby,5,16
+junior,Database administrator,Fastify,4,17
+junior,Database administrator,Ruby on Rails,4,18
+junior,Database administrator,Blazor,3,19
+junior,Database administrator,Next.js,3,20
+junior,Database administrator,Symfony,3,21
+junior,Database administrator,Nuxt.js,2,22
+junior,Database administrator,Svelte,2,23
+junior,Database administrator,WordPress,1,24
+junior,Database administrator,Spring Boot,1,25
+junior,Database administrator,Deno,1,26
+junior,Database administrator,Play Framework,1,27
+junior,Designer,React.js,76,1
+junior,Designer,jQuery,61,2
+junior,Designer,Express,51,3
+junior,Designer,Angular,39,4
+junior,Designer,Django,27,5
+junior,Designer,Angular.js,24,6
+junior,Designer,Vue.js,23,7
+junior,Designer,ASP.NET,23,8
+junior,Designer,Laravel,18,9
+junior,Designer,Node.js,17,10
+junior,Designer,Spring,13,11
+junior,Designer,Flask,11,12
+junior,Designer,Gatsby,10,13
+junior,Designer,ASP.NET Core ,8,14
+junior,Designer,ASP.NET Core,8,15
+junior,Designer,Next.js,6,16
+junior,Designer,Nuxt.js,4,17
+junior,Designer,Symfony,4,18
+junior,Designer,Svelte,3,19
+junior,Designer,FastAPI,2,20
+junior,Designer,Ruby on Rails,2,21
+junior,Designer,Drupal,1,22
+junior,DevOps specialist,React.js,48,1
+junior,DevOps specialist,Express,44,2
+junior,DevOps specialist,Flask,36,3
+junior,DevOps specialist,jQuery,34,4
+junior,DevOps specialist,Angular,26,5
+junior,DevOps specialist,Django,24,6
+junior,DevOps specialist,Node.js,21,7
+junior,DevOps specialist,Vue.js,20,8
+junior,DevOps specialist,ASP.NET,19,9
+junior,DevOps specialist,ASP.NET Core ,12,10
+junior,DevOps specialist,Laravel,11,11
+junior,DevOps specialist,Angular.js,11,12
+junior,DevOps specialist,FastAPI,10,13
+junior,DevOps specialist,Next.js,10,14
+junior,DevOps specialist,Spring,10,15
+junior,DevOps specialist,ASP.NET Core,10,16
+junior,DevOps specialist,Ruby on Rails,7,17
+junior,DevOps specialist,React,6,18
+junior,DevOps specialist,Symfony,6,19
+junior,DevOps specialist,Gatsby,5,20
+junior,DevOps specialist,ASP.NET CORE,3,21
+junior,DevOps specialist,Svelte,3,22
+junior,DevOps specialist,Fastify,2,23
+junior,DevOps specialist,Drupal,2,24
+junior,DevOps specialist,Blazor,1,25
+junior,DevOps specialist,NestJS,1,26
+junior,DevOps specialist,Nuxt.js,1,27
+junior,DevOps specialist,Phoenix,1,28
+junior,Developer Advocate,FastAPI,1,1
+junior,Developer Advocate,Next.js,1,2
+junior,Developer Advocate,NestJS,1,3
+junior,Developer Experience,React,3,1
+junior,Developer Experience,Node.js,3,2
+junior,Developer Experience,ASP.NET CORE,2,3
+junior,Developer Experience,ASP.NET,1,4
+junior,Developer Experience,NestJS,1,5
+junior,Developer Experience,AngularJS,1,6
+junior,Developer Experience,Svelte,1,7
+junior,Developer Experience,Express,1,8
+junior,Developer Experience,Flask,1,9
+junior,Developer Experience,jQuery,1,10
+junior,Developer Experience,Next.js,1,11
+junior,"Developer, QA or test",jQuery,60,1
+junior,"Developer, QA or test",React.js,58,2
+junior,"Developer, QA or test",Express,35,3
+junior,"Developer, QA or test",Angular.js,26,4
+junior,"Developer, QA or test",Angular,26,5
+junior,"Developer, QA or test",ASP.NET,24,6
+junior,"Developer, QA or test",Node.js,22,7
+junior,"Developer, QA or test",Spring,22,8
+junior,"Developer, QA or test",Vue.js,21,9
+junior,"Developer, QA or test",Django,20,10
+junior,"Developer, QA or test",Flask,20,11
+junior,"Developer, QA or test",Laravel,12,12
+junior,"Developer, QA or test",Next.js,11,13
+junior,"Developer, QA or test",Ruby on Rails,11,14
+junior,"Developer, QA or test",ASP.NET Core ,11,15
+junior,"Developer, QA or test",ASP.NET Core,10,16
+junior,"Developer, QA or test",FastAPI,7,17
+junior,"Developer, QA or test",React,6,18
+junior,"Developer, QA or test",Gatsby,5,19
+junior,"Developer, QA or test",Blazor,4,20
+junior,"Developer, QA or test",Symfony,4,21
+junior,"Developer, QA or test",Nuxt.js,2,22
+junior,"Developer, QA or test",Svelte,2,23
+junior,"Developer, QA or test",Fastify,2,24
+junior,"Developer, QA or test",Phoenix,1,25
+junior,"Developer, QA or test",Solid.js,1,26
+junior,"Developer, QA or test",Drupal,1,27
+junior,"Developer, back-end",React.js,402,1
+junior,"Developer, back-end",Express,320,2
+junior,"Developer, back-end",jQuery,308,3
+junior,"Developer, back-end",Django,214,4
+junior,"Developer, back-end",Angular,206,5
+junior,"Developer, back-end",Node.js,183,6
+junior,"Developer, back-end",Flask,174,7
+junior,"Developer, back-end",ASP.NET,153,8
+junior,"Developer, back-end",Vue.js,139,9
+junior,"Developer, back-end",Laravel,139,10
+junior,"Developer, back-end",Spring,118,11
+junior,"Developer, back-end",Angular.js,101,12
+junior,"Developer, back-end",ASP.NET Core ,98,13
+junior,"Developer, back-end",Ruby on Rails,87,14
+junior,"Developer, back-end",FastAPI,82,15
+junior,"Developer, back-end",ASP.NET Core,67,16
+junior,"Developer, back-end",Next.js,66,17
+junior,"Developer, back-end",React,48,18
+junior,"Developer, back-end",Gatsby,39,19
+junior,"Developer, back-end",Symfony,34,20
+junior,"Developer, back-end",Spring Boot,28,21
+junior,"Developer, back-end",Blazor,16,22
+junior,"Developer, back-end",Svelte,16,23
+junior,"Developer, back-end",Nuxt.js,14,24
+junior,"Developer, back-end",Fastify,14,25
+junior,"Developer, back-end",ASP.NET CORE,12,26
+junior,"Developer, back-end",Drupal,11,27
+junior,"Developer, back-end",NestJS,9,28
+junior,"Developer, back-end",Phoenix,7,29
+junior,"Developer, back-end",AngularJS,6,30
+junior,"Developer, back-end",Deno,4,31
+junior,"Developer, back-end",WordPress,3,32
+junior,"Developer, back-end",CodeIgniter,2,33
+junior,"Developer, back-end",Play Framework,2,34
+junior,"Developer, back-end",Solid.js,1,35
+junior,"Developer, desktop or enterprise applications",jQuery,92,1
+junior,"Developer, desktop or enterprise applications",React.js,78,2
+junior,"Developer, desktop or enterprise applications",ASP.NET,69,3
+junior,"Developer, desktop or enterprise applications",Angular,66,4
+junior,"Developer, desktop or enterprise applications",Express,55,5
+junior,"Developer, desktop or enterprise applications",Angular.js,45,6
+junior,"Developer, desktop or enterprise applications",ASP.NET Core ,41,7
+junior,"Developer, desktop or enterprise applications",Spring,36,8
+junior,"Developer, desktop or enterprise applications",Django,35,9
+junior,"Developer, desktop or enterprise applications",Vue.js,33,10
+junior,"Developer, desktop or enterprise applications",ASP.NET Core,31,11
+junior,"Developer, desktop or enterprise applications",Node.js,30,12
+junior,"Developer, desktop or enterprise applications",Flask,27,13
+junior,"Developer, desktop or enterprise applications",Laravel,20,14
+junior,"Developer, desktop or enterprise applications",Blazor,12,15
+junior,"Developer, desktop or enterprise applications",Ruby on Rails,12,16
+junior,"Developer, desktop or enterprise applications",Next.js,11,17
+junior,"Developer, desktop or enterprise applications",Gatsby,9,18
+junior,"Developer, desktop or enterprise applications",ASP.NET CORE,7,19
+junior,"Developer, desktop or enterprise applications",FastAPI,7,20
+junior,"Developer, desktop or enterprise applications",Spring Boot,6,21
+junior,"Developer, desktop or enterprise applications",Svelte,6,22
+junior,"Developer, desktop or enterprise applications",AngularJS,5,23
+junior,"Developer, desktop or enterprise applications",React,5,24
+junior,"Developer, desktop or enterprise applications",Drupal,5,25
+junior,"Developer, desktop or enterprise applications",Deno,4,26
+junior,"Developer, desktop or enterprise applications",Fastify,3,27
+junior,"Developer, desktop or enterprise applications",Symfony,3,28
+junior,"Developer, desktop or enterprise applications",WordPress,2,29
+junior,"Developer, desktop or enterprise applications",Nuxt.js,2,30
+junior,"Developer, desktop or enterprise applications",NestJS,2,31
+junior,"Developer, desktop or enterprise applications",Play Framework,1,32
+junior,"Developer, embedded applications or devices",jQuery,30,1
+junior,"Developer, embedded applications or devices",React.js,30,2
+junior,"Developer, embedded applications or devices",ASP.NET,23,3
+junior,"Developer, embedded applications or devices",Angular.js,19,4
+junior,"Developer, embedded applications or devices",Angular,17,5
+junior,"Developer, embedded applications or devices",Express,16,6
+junior,"Developer, embedded applications or devices",Django,12,7
+junior,"Developer, embedded applications or devices",Vue.js,11,8
+junior,"Developer, embedded applications or devices",ASP.NET Core,10,9
+junior,"Developer, embedded applications or devices",ASP.NET Core ,9,10
+junior,"Developer, embedded applications or devices",Node.js,9,11
+junior,"Developer, embedded applications or devices",Spring,7,12
+junior,"Developer, embedded applications or devices",Next.js,5,13
+junior,"Developer, embedded applications or devices",Laravel,5,14
+junior,"Developer, embedded applications or devices",Flask,5,15
+junior,"Developer, embedded applications or devices",Gatsby,3,16
+junior,"Developer, embedded applications or devices",Nuxt.js,2,17
+junior,"Developer, embedded applications or devices",Symfony,2,18
+junior,"Developer, embedded applications or devices",FastAPI,1,19
+junior,"Developer, embedded applications or devices",Fastify,1,20
+junior,"Developer, embedded applications or devices",Blazor,1,21
+junior,"Developer, front-end",React.js,579,1
+junior,"Developer, front-end",Express,420,2
+junior,"Developer, front-end",jQuery,343,3
+junior,"Developer, front-end",Node.js,258,4
+junior,"Developer, front-end",Angular,247,5
+junior,"Developer, front-end",Vue.js,219,6
+junior,"Developer, front-end",Next.js,156,7
+junior,"Developer, front-end",Django,116,8
+junior,"Developer, front-end",Angular.js,112,9
+junior,"Developer, front-end",ASP.NET,111,10
+junior,"Developer, front-end",Laravel,110,11
+junior,"Developer, front-end",React,100,12
+junior,"Developer, front-end",Gatsby,97,13
+junior,"Developer, front-end",Flask,90,14
+junior,"Developer, front-end",Spring,58,15
+junior,"Developer, front-end",ASP.NET Core ,57,16
+junior,"Developer, front-end",Ruby on Rails,53,17
+junior,"Developer, front-end",ASP.NET Core,47,18
+junior,"Developer, front-end",Svelte,31,19
+junior,"Developer, front-end",Nuxt.js,28,20
+junior,"Developer, front-end",FastAPI,24,21
+junior,"Developer, front-end",WordPress,22,22
+junior,"Developer, front-end",Drupal,20,23
+junior,"Developer, front-end",Symfony,18,24
+junior,"Developer, front-end",Fastify,12,25
+junior,"Developer, front-end",Blazor,8,26
+junior,"Developer, front-end",NestJS,6,27
+junior,"Developer, front-end",Deno,4,28
+junior,"Developer, front-end",Remix,4,29
+junior,"Developer, front-end",Phoenix,3,30
+junior,"Developer, front-end",AngularJS,3,31
+junior,"Developer, front-end",Qwik,2,32
+junior,"Developer, front-end",Spring Boot,2,33
+junior,"Developer, front-end",CodeIgniter,2,34
+junior,"Developer, front-end",ASP.NET CORE,1,35
+junior,"Developer, front-end",Play Framework,1,36
+junior,"Developer, full-stack",React.js,850,1
+junior,"Developer, full-stack",Express,686,2
+junior,"Developer, full-stack",jQuery,532,3
+junior,"Developer, full-stack",Node.js,477,4
+junior,"Developer, full-stack",Angular,404,5
+junior,"Developer, full-stack",Vue.js,343,6
+junior,"Developer, full-stack",Django,263,7
+junior,"Developer, full-stack",ASP.NET,255,8
+junior,"Developer, full-stack",Next.js,247,9
+junior,"Developer, full-stack",React,237,10
+junior,"Developer, full-stack",Flask,231,11
+junior,"Developer, full-stack",Laravel,196,12
+junior,"Developer, full-stack",Ruby on Rails,178,13
+junior,"Developer, full-stack",Angular.js,161,14
+junior,"Developer, full-stack",ASP.NET Core ,143,15
+junior,"Developer, full-stack",Spring,111,16
+junior,"Developer, full-stack",Gatsby,105,17
+junior,"Developer, full-stack",ASP.NET Core,79,18
+junior,"Developer, full-stack",FastAPI,71,19
+junior,"Developer, full-stack",Svelte,62,20
+junior,"Developer, full-stack",ASP.NET CORE,58,21
+junior,"Developer, full-stack",Spring Boot,41,22
+junior,"Developer, full-stack",Nuxt.js,38,23
+junior,"Developer, full-stack",Symfony,35,24
+junior,"Developer, full-stack",WordPress,34,25
+junior,"Developer, full-stack",NestJS,33,26
+junior,"Developer, full-stack",Blazor,32,27
+junior,"Developer, full-stack",AngularJS,24,28
+junior,"Developer, full-stack",Drupal,22,29
+junior,"Developer, full-stack",Fastify,19,30
+junior,"Developer, full-stack",Deno,13,31
+junior,"Developer, full-stack",Phoenix,10,32
+junior,"Developer, full-stack",CodeIgniter,9,33
+junior,"Developer, full-stack",Remix,7,34
+junior,"Developer, full-stack",Solid.js,7,35
+junior,"Developer, full-stack",Play Framework,4,36
+junior,"Developer, full-stack",Lit,3,37
+junior,"Developer, full-stack",Qwik,3,38
+junior,"Developer, game or graphics",jQuery,16,1
+junior,"Developer, game or graphics",Express,12,2
+junior,"Developer, game or graphics",Angular,10,3
+junior,"Developer, game or graphics",ASP.NET,10,4
+junior,"Developer, game or graphics",React.js,9,5
+junior,"Developer, game or graphics",Vue.js,8,6
+junior,"Developer, game or graphics",Angular.js,8,7
+junior,"Developer, game or graphics",ASP.NET Core,5,8
+junior,"Developer, game or graphics",Node.js,4,9
+junior,"Developer, game or graphics",Django,4,10
+junior,"Developer, game or graphics",Laravel,4,11
+junior,"Developer, game or graphics",ASP.NET Core ,4,12
+junior,"Developer, game or graphics",Flask,3,13
+junior,"Developer, game or graphics",Nuxt.js,2,14
+junior,"Developer, game or graphics",FastAPI,2,15
+junior,"Developer, game or graphics",Spring,2,16
+junior,"Developer, game or graphics",Next.js,1,17
+junior,"Developer, game or graphics",Fastify,1,18
+junior,"Developer, game or graphics",Svelte,1,19
+junior,"Developer, game or graphics",Symfony,1,20
+junior,"Developer, mobile",React.js,147,1
+junior,"Developer, mobile",Express,113,2
+junior,"Developer, mobile",jQuery,96,3
+junior,"Developer, mobile",Angular,84,4
+junior,"Developer, mobile",ASP.NET,52,5
+junior,"Developer, mobile",Node.js,47,6
+junior,"Developer, mobile",Vue.js,47,7
+junior,"Developer, mobile",Angular.js,47,8
+junior,"Developer, mobile",Django,46,9
+junior,"Developer, mobile",Laravel,42,10
+junior,"Developer, mobile",Flask,35,11
+junior,"Developer, mobile",Spring,27,12
+junior,"Developer, mobile",Next.js,22,13
+junior,"Developer, mobile",ASP.NET Core,19,14
+junior,"Developer, mobile",Gatsby,17,15
+junior,"Developer, mobile",ASP.NET Core ,16,16
+junior,"Developer, mobile",Ruby on Rails,10,17
+junior,"Developer, mobile",FastAPI,8,18
+junior,"Developer, mobile",Nuxt.js,8,19
+junior,"Developer, mobile",React,7,20
+junior,"Developer, mobile",NestJS,4,21
+junior,"Developer, mobile",WordPress,4,22
+junior,"Developer, mobile",Drupal,4,23
+junior,"Developer, mobile",Fastify,4,24
+junior,"Developer, mobile",Svelte,4,25
+junior,"Developer, mobile",Deno,3,26
+junior,"Developer, mobile",Spring Boot,2,27
+junior,"Developer, mobile",ASP.NET CORE,2,28
+junior,"Developer, mobile",AngularJS,2,29
+junior,"Developer, mobile",Blazor,2,30
+junior,"Developer, mobile",CodeIgniter,1,31
+junior,"Developer, mobile",Play Framework,1,32
+junior,"Developer, mobile",Symfony,1,33
+junior,Educator,React.js,38,1
+junior,Educator,Express,30,2
+junior,Educator,jQuery,30,3
+junior,Educator,ASP.NET,15,4
+junior,Educator,Node.js,14,5
+junior,Educator,Angular,14,6
+junior,Educator,Vue.js,13,7
+junior,Educator,Django,13,8
+junior,Educator,Flask,12,9
+junior,Educator,Angular.js,12,10
+junior,Educator,Laravel,11,11
+junior,Educator,ASP.NET Core ,7,12
+junior,Educator,Gatsby,7,13
+junior,Educator,Spring,6,14
+junior,Educator,ASP.NET Core,6,15
+junior,Educator,FastAPI,5,16
+junior,Educator,Ruby on Rails,5,17
+junior,Educator,Next.js,4,18
+junior,Educator,Svelte,3,19
+junior,Educator,Nuxt.js,2,20
+junior,Educator,Symfony,2,21
+junior,Educator,WordPress,1,22
+junior,Educator,Blazor,1,23
+junior,Educator,Play Framework,1,24
+junior,Educator,Drupal,1,25
+junior,Educator,Deno,1,26
+junior,Educator,Fastify,1,27
+junior,"Engineer, data",Flask,52,1
+junior,"Engineer, data",Django,42,2
+junior,"Engineer, data",jQuery,40,3
+junior,"Engineer, data",React.js,37,4
+junior,"Engineer, data",Express,26,5
+junior,"Engineer, data",FastAPI,22,6
+junior,"Engineer, data",Node.js,18,7
+junior,"Engineer, data",Angular,18,8
+junior,"Engineer, data",ASP.NET,14,9
+junior,"Engineer, data",ASP.NET Core ,12,10
+junior,"Engineer, data",Angular.js,10,11
+junior,"Engineer, data",Laravel,10,12
+junior,"Engineer, data",Vue.js,9,13
+junior,"Engineer, data",Spring,5,14
+junior,"Engineer, data",ASP.NET Core,5,15
+junior,"Engineer, data",Next.js,4,16
+junior,"Engineer, data",React,3,17
+junior,"Engineer, data",Gatsby,3,18
+junior,"Engineer, data",NestJS,2,19
+junior,"Engineer, data",Svelte,2,20
+junior,"Engineer, data",Symfony,2,21
+junior,"Engineer, data",Spring Boot,1,22
+junior,"Engineer, data",Fastify,1,23
+junior,"Engineer, data",WordPress,1,24
+junior,"Engineer, data",Solid.js,1,25
+junior,"Engineer, data",Blazor,1,26
+junior,"Engineer, data",Ruby on Rails,1,27
+junior,"Engineer, data",Drupal,1,28
+junior,"Engineer, site reliability",React.js,19,1
+junior,"Engineer, site reliability",Express,12,2
+junior,"Engineer, site reliability",Django,12,3
+junior,"Engineer, site reliability",jQuery,12,4
+junior,"Engineer, site reliability",Flask,10,5
+junior,"Engineer, site reliability",ASP.NET,7,6
+junior,"Engineer, site reliability",Node.js,6,7
+junior,"Engineer, site reliability",Angular,6,8
+junior,"Engineer, site reliability",Angular.js,6,9
+junior,"Engineer, site reliability",Vue.js,5,10
+junior,"Engineer, site reliability",ASP.NET Core ,5,11
+junior,"Engineer, site reliability",FastAPI,4,12
+junior,"Engineer, site reliability",ASP.NET Core,4,13
+junior,"Engineer, site reliability",Spring,3,14
+junior,"Engineer, site reliability",Laravel,3,15
+junior,"Engineer, site reliability",Next.js,2,16
+junior,"Engineer, site reliability",Ruby on Rails,2,17
+junior,"Engineer, site reliability",Gatsby,2,18
+junior,"Engineer, site reliability",React,1,19
+junior,"Engineer, site reliability",WordPress,1,20
+junior,"Engineer, site reliability",NestJS,1,21
+junior,"Engineer, site reliability",Symfony,1,22
+junior,Engineering manager,React.js,15,1
+junior,Engineering manager,jQuery,11,2
+junior,Engineering manager,ASP.NET,11,3
+junior,Engineering manager,Node.js,10,4
+junior,Engineering manager,Express,9,5
+junior,Engineering manager,Django,8,6
+junior,Engineering manager,Angular,8,7
+junior,Engineering manager,ASP.NET Core ,7,8
+junior,Engineering manager,Flask,6,9
+junior,Engineering manager,Next.js,4,10
+junior,Engineering manager,Laravel,4,11
+junior,Engineering manager,Vue.js,4,12
+junior,Engineering manager,Gatsby,4,13
+junior,Engineering manager,Angular.js,4,14
+junior,Engineering manager,FastAPI,3,15
+junior,Engineering manager,Ruby on Rails,2,16
+junior,Engineering manager,Fastify,2,17
+junior,Engineering manager,Svelte,2,18
+junior,Engineering manager,Symfony,2,19
+junior,Engineering manager,Drupal,2,20
+junior,Engineering manager,React,1,21
+junior,Engineering manager,Nuxt.js,1,22
+junior,Engineering manager,Deno,1,23
+junior,Engineering manager,Spring,1,24
+junior,Engineering manager,Play Framework,1,25
+junior,Engineering manager,ASP.NET Core,1,26
+junior,Marketing or sales professional,jQuery,13,1
+junior,Marketing or sales professional,React.js,13,2
+junior,Marketing or sales professional,Django,6,3
+junior,Marketing or sales professional,Express,6,4
+junior,Marketing or sales professional,Vue.js,6,5
+junior,Marketing or sales professional,Angular.js,4,6
+junior,Marketing or sales professional,Angular,3,7
+junior,Marketing or sales professional,Flask,3,8
+junior,Marketing or sales professional,ASP.NET,3,9
+junior,Marketing or sales professional,Laravel,3,10
+junior,Marketing or sales professional,WordPress,2,11
+junior,Marketing or sales professional,ASP.NET Core ,2,12
+junior,Marketing or sales professional,Ruby on Rails,2,13
+junior,Marketing or sales professional,Svelte,1,14
+junior,Marketing or sales professional,Spring,1,15
+junior,Marketing or sales professional,Node.js,1,16
+junior,Marketing or sales professional,Nuxt.js,1,17
+junior,Marketing or sales professional,Symfony,1,18
+junior,Other (please specify):,Flask,19,1
+junior,Other (please specify):,jQuery,16,2
+junior,Other (please specify):,Express,15,3
+junior,Other (please specify):,React.js,14,4
+junior,Other (please specify):,Django,12,5
+junior,Other (please specify):,Vue.js,11,6
+junior,Other (please specify):,Node.js,9,7
+junior,Other (please specify):,ASP.NET,8,8
+junior,Other (please specify):,Angular,7,9
+junior,Other (please specify):,ASP.NET Core ,6,10
+junior,Other (please specify):,React,5,11
+junior,Other (please specify):,FastAPI,5,12
+junior,Other (please specify):,Angular.js,4,13
+junior,Other (please specify):,Symfony,3,14
+junior,Other (please specify):,Next.js,3,15
+junior,Other (please specify):,Drupal,2,16
+junior,Other (please specify):,Blazor,2,17
+junior,Other (please specify):,Gatsby,2,18
+junior,Other (please specify):,Laravel,2,19
+junior,Other (please specify):,WordPress,1,20
+junior,Other (please specify):,Ruby on Rails,1,21
+junior,Other (please specify):,Spring Boot,1,22
+junior,Other (please specify):,Nuxt.js,1,23
+junior,Other (please specify):,Deno,1,24
+junior,Other (please specify):,Spring,1,25
+junior,Product manager,React.js,20,1
+junior,Product manager,jQuery,14,2
+junior,Product manager,Express,13,3
+junior,Product manager,Angular,12,4
+junior,Product manager,Vue.js,10,5
+junior,Product manager,Django,9,6
+junior,Product manager,Flask,8,7
+junior,Product manager,Node.js,8,8
+junior,Product manager,Laravel,7,9
+junior,Product manager,ASP.NET,7,10
+junior,Product manager,Angular.js,7,11
+junior,Product manager,FastAPI,6,12
+junior,Product manager,Next.js,5,13
+junior,Product manager,Gatsby,5,14
+junior,Product manager,React,4,15
+junior,Product manager,Nuxt.js,3,16
+junior,Product manager,ASP.NET Core ,3,17
+junior,Product manager,Spring,2,18
+junior,Product manager,Ruby on Rails,2,19
+junior,Product manager,WordPress,1,20
+junior,Product manager,NestJS,1,21
+junior,Product manager,Symfony,1,22
+junior,Product manager,Svelte,1,23
+junior,Product manager,Fastify,1,24
+junior,Product manager,ASP.NET Core,1,25
+junior,Product manager,Drupal,1,26
+junior,Project manager,React.js,11,1
+junior,Project manager,Node.js,10,2
+junior,Project manager,Django,7,3
+junior,Project manager,Express,6,4
+junior,Project manager,Next.js,6,5
+junior,Project manager,jQuery,6,6
+junior,Project manager,Laravel,5,7
+junior,Project manager,FastAPI,5,8
+junior,Project manager,Vue.js,4,9
+junior,Project manager,Angular,4,10
+junior,Project manager,Nuxt.js,3,11
+junior,Project manager,Flask,2,12
+junior,Project manager,Angular.js,2,13
+junior,Project manager,Gatsby,2,14
+junior,Project manager,ASP.NET,2,15
+junior,Project manager,WordPress,1,16
+junior,Project manager,ASP.NET Core ,1,17
+junior,Project manager,Deno,1,18
+junior,Project manager,Fastify,1,19
+junior,Project manager,Play Framework,1,20
+junior,Research & Development role,React,4,1
+junior,Research & Development role,Next.js,4,2
+junior,Research & Development role,Node.js,4,3
+junior,Research & Development role,Flask,3,4
+junior,Research & Development role,Express,2,5
+junior,Research & Development role,Django,2,6
+junior,Research & Development role,Laravel,2,7
+junior,Research & Development role,jQuery,2,8
+junior,Research & Development role,Gatsby,2,9
+junior,Research & Development role,ASP.NET,2,10
+junior,Research & Development role,Deno,2,11
+junior,Research & Development role,Nuxt.js,1,12
+junior,Research & Development role,FastAPI,1,13
+junior,Research & Development role,AngularJS,1,14
+junior,Research & Development role,WordPress,1,15
+junior,Research & Development role,Vue.js,1,16
+junior,Research & Development role,ASP.NET CORE,1,17
+junior,Research & Development role,Drupal,1,18
+junior,Research & Development role,Svelte,1,19
+junior,Scientist,React.js,9,1
+junior,Scientist,Django,7,2
+junior,Scientist,jQuery,7,3
+junior,Scientist,Flask,6,4
+junior,Scientist,ASP.NET,5,5
+junior,Scientist,ASP.NET Core ,4,6
+junior,Scientist,Express,4,7
+junior,Scientist,Vue.js,3,8
+junior,Scientist,FastAPI,3,9
+junior,Scientist,Spring,3,10
+junior,Scientist,Angular,3,11
+junior,Scientist,Ruby on Rails,2,12
+junior,Scientist,Symfony,2,13
+junior,Scientist,Angular.js,2,14
+junior,Scientist,Gatsby,2,15
+junior,Scientist,Laravel,2,16
+junior,Scientist,Drupal,2,17
+junior,Scientist,Node.js,1,18
+junior,Scientist,WordPress,1,19
+junior,Scientist,Svelte,1,20
+junior,Scientist,ASP.NET Core,1,21
+junior,Security professional,Node.js,7,1
+junior,Security professional,Express,6,2
+junior,Security professional,jQuery,4,3
+junior,Security professional,Next.js,4,4
+junior,Security professional,React.js,4,5
+junior,Security professional,ASP.NET,3,6
+junior,Security professional,Fastify,3,7
+junior,Security professional,Django,3,8
+junior,Security professional,Play Framework,2,9
+junior,Security professional,Deno,2,10
+junior,Security professional,Angular,2,11
+junior,Security professional,WordPress,2,12
+junior,Security professional,FastAPI,2,13
+junior,Security professional,ASP.NET Core ,2,14
+junior,Security professional,Remix,1,15
+junior,Security professional,Phoenix,1,16
+junior,Security professional,React,1,17
+junior,Security professional,Spring Boot,1,18
+junior,Security professional,Symfony,1,19
+junior,Security professional,Nuxt.js,1,20
+junior,Security professional,Flask,1,21
+junior,Security professional,Svelte,1,22
+junior,Security professional,Vue.js,1,23
+junior,Security professional,Angular.js,1,24
+junior,Security professional,Laravel,1,25
+junior,Security professional,Gatsby,1,26
+junior,"Senior Executive (C-Suite, VP, etc.)",React.js,5,1
+junior,"Senior Executive (C-Suite, VP, etc.)",Express,3,2
+junior,"Senior Executive (C-Suite, VP, etc.)",Node.js,3,3
+junior,"Senior Executive (C-Suite, VP, etc.)",Django,3,4
+junior,"Senior Executive (C-Suite, VP, etc.)",Next.js,2,5
+junior,"Senior Executive (C-Suite, VP, etc.)",ASP.NET,2,6
+junior,"Senior Executive (C-Suite, VP, etc.)",ASP.NET Core ,2,7
+junior,"Senior Executive (C-Suite, VP, etc.)",Gatsby,1,8
+junior,"Senior Executive (C-Suite, VP, etc.)",Flask,1,9
+junior,"Senior Executive (C-Suite, VP, etc.)",Vue.js,1,10
+junior,"Senior Executive (C-Suite, VP, etc.)",FastAPI,1,11
+junior,"Senior Executive (C-Suite, VP, etc.)",jQuery,1,12
+junior,"Senior Executive (C-Suite, VP, etc.)",Angular,1,13
+junior,"Senior Executive (C-Suite, VP, etc.)",Angular.js,1,14
+junior,Senior executive/VP,React.js,1,1
+junior,Senior executive/VP,jQuery,1,2
+junior,Student,React.js,48,1
+junior,Student,Express,34,2
+junior,Student,jQuery,33,3
+junior,Student,Vue.js,24,4
+junior,Student,Angular,20,5
+junior,Student,Django,20,6
+junior,Student,Flask,19,7
+junior,Student,ASP.NET Core ,17,8
+junior,Student,Node.js,15,9
+junior,Student,ASP.NET,15,10
+junior,Student,Laravel,15,11
+junior,Student,FastAPI,10,12
+junior,Student,Angular.js,8,13
+junior,Student,Gatsby,7,14
+junior,Student,Spring,6,15
+junior,Student,Ruby on Rails,5,16
+junior,Student,Next.js,5,17
+junior,Student,Blazor,3,18
+junior,Student,Svelte,3,19
+junior,Student,Fastify,2,20
+junior,Student,Nuxt.js,2,21
+junior,Student,Symfony,2,22
+junior,Student,React,1,23
+junior,System administrator,jQuery,36,1
+junior,System administrator,React.js,25,2
+junior,System administrator,Express,19,3
+junior,System administrator,Flask,18,4
+junior,System administrator,Angular,16,5
+junior,System administrator,Django,16,6
+junior,System administrator,ASP.NET,16,7
+junior,System administrator,Angular.js,13,8
+junior,System administrator,Vue.js,10,9
+junior,System administrator,Node.js,9,10
+junior,System administrator,ASP.NET Core ,8,11
+junior,System administrator,Spring,8,12
+junior,System administrator,FastAPI,7,13
+junior,System administrator,Laravel,7,14
+junior,System administrator,Ruby on Rails,6,15
+junior,System administrator,ASP.NET Core,6,16
+junior,System administrator,Fastify,3,17
+junior,System administrator,Next.js,3,18
+junior,System administrator,Symfony,3,19
+junior,System administrator,Svelte,2,20
+junior,System administrator,ASP.NET CORE,1,21
+junior,System administrator,Nuxt.js,1,22
+junior,System administrator,Phoenix,1,23
+junior,System administrator,Deno,1,24
+junior,System administrator,Play Framework,1,25
+junior,System administrator,Gatsby,1,26
+junior,System administrator,Blazor,1,27
