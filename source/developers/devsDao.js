@@ -31,6 +31,17 @@ const devsDao = {
             return {error: true, message: e.message};
         }
     },
+
+    selectJobCode: async (devType, role, connection) => {
+        const sql = 'select percent from jobCode where role = ? and develop_id = ? order by `rank` asc limit 1';
+        try {
+            const [result] = await connection.query(sql, [role, Number(devType)]);
+            return result;
+        } catch (e) {
+            console.log(e);
+            return {error: true, message: e.message};
+        }
+    },
 };
 
 export default devsDao;
