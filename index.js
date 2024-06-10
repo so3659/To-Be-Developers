@@ -1,3 +1,3 @@
 import app from "./config/express";
 
-app.listen(3000, () => "🚀 Server is now listening on port 3000");
+app.listen(3000, () => console.log("🚀 Server is now listening on port 3000"));
