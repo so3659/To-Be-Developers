@@ -77,14 +77,14 @@ class _CatalogScreenState extends State<CatalogScreen> {
               Padding(
                 padding: const EdgeInsets.all(10.0),
                 child: SizedBox(
-                  height: 400, // 적절한 높이 설정
+                  height: 150, // 적절한 높이 설정
                   child: GridView.builder(
                     physics:
                         const NeverScrollableScrollPhysics(), // 부모 스크롤에 영향을 받도록 설정
                     itemCount: jobCategories.length,
                     gridDelegate:
                         const SliverGridDelegateWithFixedCrossAxisCount(
-                      crossAxisCount: 2,
+                      crossAxisCount: 3,
                       crossAxisSpacing: 7,
                       mainAxisSpacing: 7,
                     ),
@@ -163,7 +163,7 @@ class SelectableCategoryItem extends StatelessWidget {
           children: [
             Icon(
               category['icon'],
-              size: 50,
+              size: 30,
               color: Colors.white,
             ),
             const SizedBox(height: 10),
@@ -183,27 +183,18 @@ class SelectableCategoryItem extends StatelessWidget {
 }
 
 final List<Map<String, dynamic>> jobCategories = [
-  {'color': Colors.purple, 'icon': Icons.child_care, 'label': 'Junior'},
-  {
-    'color': Colors.deepOrangeAccent,
-    'icon': Icons.person,
-    'label': 'Intermediate'
-  },
-  {
-    'color': Colors.cyanAccent[200],
-    'icon': Icons.escalator_warning,
-    'label': 'Senior'
-  },
-  {'color': Colors.indigo, 'icon': Icons.star, 'label': 'Lead'},
+  {'color': Colors.indigo, 'icon': Icons.child_care, 'label': 'Junior'},
+  {'color': Colors.indigo, 'icon': Icons.person, 'label': 'Mid-level'},
+  {'color': Colors.indigo, 'icon': Icons.escalator_warning, 'label': 'Senior'},
 ];
 
 final List<Map<String, dynamic>> categories = [
-  {'color': Colors.red, 'icon': Icons.computer, 'label': '프론트엔드'},
-  {'color': Colors.green, 'icon': Icons.code, 'label': '백엔드'},
-  {'color': Colors.amber, 'icon': Icons.memory, 'label': 'AI'},
-  {'color': Colors.blueAccent, 'icon': Icons.bar_chart, 'label': '빅데이터'},
-  {'color': Colors.deepPurple, 'icon': Icons.block, 'label': '블록체인'},
-  {'color': Colors.lightGreen, 'icon': Icons.school, 'label': '머신러닝'},
-  {'color': Colors.brown, 'icon': Icons.games, 'label': '게임개발'},
-  {'color': Colors.grey, 'icon': Icons.analytics, 'label': '데이터분석'},
+  {'color': Colors.green[400], 'icon': Icons.computer, 'label': '프론트엔드'},
+  {'color': Colors.green[400], 'icon': Icons.code, 'label': '백엔드'},
+  {'color': Colors.green[400], 'icon': Icons.memory, 'label': 'AI'},
+  {'color': Colors.green[400], 'icon': Icons.bar_chart, 'label': '빅데이터'},
+  {'color': Colors.green[400], 'icon': Icons.block, 'label': '블록체인'},
+  {'color': Colors.green[400], 'icon': Icons.school, 'label': '머신러닝'},
+  {'color': Colors.green[400], 'icon': Icons.games, 'label': '게임개발'},
+  {'color': Colors.green[400], 'icon': Icons.analytics, 'label': '데이터분석'},
 ];
