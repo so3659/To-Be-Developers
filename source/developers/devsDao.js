@@ -75,6 +75,17 @@ const devsDao = {
             return {error: true, message: e.message};
         }
     },
+
+    selectLectures: async (category, connection) => {
+        const sql = 'select * from lectures where category regexp ? order by rand() limit 10';
+        try {
+            const [result] = await connection.query(sql, category);
+            return result?result:null;
+        } catch (e) {
+            console.log(e);
+            return {error: true, message: e.message};
+        }
+    },
 };
 
 export default devsDao;
