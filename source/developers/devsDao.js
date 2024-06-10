@@ -35,8 +35,41 @@ const devsDao = {
     selectJobCode: async (devType, role, connection) => {
         const sql = 'select percent from jobCode where role = ? and develop_id = ? order by `rank` asc limit 1';
         try {
-            const [result] = await connection.query(sql, [role, Number(devType)]);
+            const [[result]] = await connection.query(sql, [role, Number(devType)]);
             return result;
+        } catch (e) {
+            console.log(e);
+            return {error: true, message: e.message};
+        }
+    },
+
+    selectLearnTime: async (devType, role, connection) => {
+        const sql = 'select hours from learnTime where role = ? and develop_id = ? order by `rank` asc limit 1';
+        try {
+            const [[result]] = await connection.query(sql, [role, Number(devType)]);
+            return result;
+        } catch (e) {
+            console.log(e);
+            return {error: true, message: e.message};
+        }
+    },
+
+    selectProductiveToJob: async (devType, role, connection) => {
+        const sql = 'select product from productiveToJob where role = ? and develop_id = ? order by `rank` asc limit 3';
+        try {
+            const [result] = await connection.query(sql, [role, Number(devType)]);
+            return result?result:null;
+        } catch (e) {
+            console.log(e);
+            return {error: true, message: e.message};
+        }
+    },
+
+    selectSleep: async (devType, role, connection) => {
+        const sql = 'select hours from sleep where role = ? and develop_id = ? order by `rank` asc limit 1';
+        try {
+            const [[result]] = await connection.query(sql, [role, Number(devType)]);
+            return result?result:null;
         } catch (e) {
             console.log(e);
             return {error: true, message: e.message};
