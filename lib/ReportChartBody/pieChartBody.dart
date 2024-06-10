@@ -1,4 +1,4 @@
-import 'package:bigdata_project/indicator.dart';
+import 'package:bigdata_project/ReportChartBody/indicator.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 

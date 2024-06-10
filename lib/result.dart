@@ -1,6 +1,6 @@
-import 'package:bigdata_project/courseBody.dart';
-import 'package:bigdata_project/chartBody.dart';
-import 'package:bigdata_project/pieChartBody.dart';
+import 'package:bigdata_project/ReportChartBody/courseBody.dart';
+import 'package:bigdata_project/ReportChartBody/chartBody.dart';
+import 'package:bigdata_project/ReportChartBody/pieChartBody.dart';
 import 'package:flutter/material.dart';
 
 class Result extends StatefulWidget {

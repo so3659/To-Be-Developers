@@ -1,6 +1,6 @@
 import 'package:bigdata_project/caterory.dart';
-import 'package:bigdata_project/inflearn.dart';
-import 'package:bigdata_project/udemy.dart';
+import 'package:bigdata_project/WebView/inflearn.dart';
+import 'package:bigdata_project/WebView/udemy.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
