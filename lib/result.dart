@@ -48,6 +48,7 @@ class _ResultState extends State<Result> {
 
   @override
   Widget build(BuildContext context) {
+    final screenSize = MediaQuery.of(context).size;
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(
@@ -109,6 +110,7 @@ class _ResultState extends State<Result> {
                         values: editorpercentages,
                       ),
                       const Divider(),
+                      SizedBox(height: screenSize.height * 0.02),
                       const Text(
                         '언어 순위',
                         style: TextStyle(
@@ -118,6 +120,8 @@ class _ResultState extends State<Result> {
                         titles: langTitles,
                         values: langpercentages,
                       ),
+                      const Divider(),
+                      SizedBox(height: screenSize.height * 0.02),
                       const Text(
                         '프레임워크 순위',
                         style: TextStyle(

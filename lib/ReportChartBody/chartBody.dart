@@ -41,7 +41,7 @@ class CustomBarChart extends StatelessWidget {
             barGroups: sortedBarGroups,
             gridData: const FlGridData(show: false),
             alignment: BarChartAlignment.spaceAround,
-            maxY: 20,
+            maxY: 60,
           ),
         ));
   }
@@ -66,7 +66,7 @@ class CustomBarChart extends StatelessWidget {
         touchTooltipData: BarTouchTooltipData(
           getTooltipColor: (group) => Colors.transparent,
           tooltipPadding: EdgeInsets.zero,
-          tooltipMargin: 8,
+          tooltipMargin: 10,
           getTooltipItem: (
             BarChartGroupData group,
             int groupIndex,
@@ -74,7 +74,7 @@ class CustomBarChart extends StatelessWidget {
             int rodIndex,
           ) {
             return BarTooltipItem(
-              rod.toY.round().toString(),
+              '${rod.toY.round().toString()}%',
               const TextStyle(
                 fontWeight: FontWeight.bold,
               ),
@@ -86,7 +86,7 @@ class CustomBarChart extends StatelessWidget {
   Widget getTitles(double value, TitleMeta meta, List<String> titles) {
     const style = TextStyle(
       fontWeight: FontWeight.bold,
-      fontSize: 14,
+      fontSize: 7,
     );
     String text;
     int index = value.toInt();
