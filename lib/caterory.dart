@@ -39,7 +39,7 @@ class _CatalogScreenState extends State<CatalogScreen> {
               Padding(
                 padding: const EdgeInsets.all(10.0),
                 child: SizedBox(
-                  height: 730, // 적절한 높이 설정
+                  height: 1300, // 적절한 높이 설정
                   child: GridView.builder(
                     physics:
                         const NeverScrollableScrollPhysics(), // 부모 스크롤에 영향을 받도록 설정
@@ -54,11 +54,11 @@ class _CatalogScreenState extends State<CatalogScreen> {
                       final category = categories[index];
                       return SelectableCategoryItem(
                         category: category,
-                        isSelected: selectedCategory == category['label'],
+                        isSelected: selectedCategory == category['num'],
                         onSelected: (isSelected) {
                           setState(() {
                             selectedCategory =
-                                isSelected ? category['label'] : null;
+                                isSelected ? category['num'] : null;
                           });
                         },
                       );
@@ -92,11 +92,11 @@ class _CatalogScreenState extends State<CatalogScreen> {
                       final category = jobCategories[index];
                       return SelectableCategoryItem(
                         category: category,
-                        isSelected: selectedJobCategory == category['label'],
+                        isSelected: selectedJobCategory == category['param'],
                         onSelected: (isSelected) {
                           setState(() {
                             selectedJobCategory =
-                                isSelected ? category['label'] : null;
+                                isSelected ? category['param'] : null;
                           });
                         },
                       );
@@ -116,10 +116,22 @@ class _CatalogScreenState extends State<CatalogScreen> {
                     ),
                   ),
                   onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (context) => const Result()),
-                    );
+                    if (selectedCategory != null &&
+                        selectedJobCategory != null) {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => Result(
+                                devType: selectedCategory,
+                                role: selectedJobCategory)),
+                      );
+                    } else {
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        const SnackBar(
+                          content: Text('직무와 직책을 모두 선택해주세요'),
+                        ),
+                      );
+                    }
                   },
                   child: const Text(
                     '검색',
@@ -183,18 +195,109 @@ class SelectableCategoryItem extends StatelessWidget {
 }
 
 final List<Map<String, dynamic>> jobCategories = [
-  {'color': Colors.indigo, 'icon': Icons.child_care, 'label': 'Junior'},
-  {'color': Colors.indigo, 'icon': Icons.person, 'label': 'Mid-level'},
-  {'color': Colors.indigo, 'icon': Icons.escalator_warning, 'label': 'Senior'},
+  {
+    'color': Colors.indigo,
+    'icon': Icons.child_care,
+    'label': 'Junior',
+    'param': 'junior'
+  },
+  {
+    'color': Colors.indigo,
+    'icon': Icons.person,
+    'label': 'Mid-level',
+    'param': 'mid-level'
+  },
+  {
+    'color': Colors.indigo,
+    'icon': Icons.escalator_warning,
+    'label': 'Senior',
+    'param': 'senior'
+  },
 ];
 
 final List<Map<String, dynamic>> categories = [
-  {'color': Colors.green[400], 'icon': Icons.computer, 'label': '프론트엔드'},
-  {'color': Colors.green[400], 'icon': Icons.code, 'label': '백엔드'},
-  {'color': Colors.green[400], 'icon': Icons.memory, 'label': 'AI'},
-  {'color': Colors.green[400], 'icon': Icons.bar_chart, 'label': '빅데이터'},
-  {'color': Colors.green[400], 'icon': Icons.block, 'label': '블록체인'},
-  {'color': Colors.green[400], 'icon': Icons.school, 'label': '머신러닝'},
-  {'color': Colors.green[400], 'icon': Icons.games, 'label': '게임개발'},
-  {'color': Colors.green[400], 'icon': Icons.analytics, 'label': '데이터분석'},
+  {
+    'color': Colors.green[400],
+    'icon': Icons.storage,
+    'label': '데이터베이스 관리자',
+    'num': '1'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.business,
+    'label': '데이터 / 비즈니스 \n분석가',
+    'num': '2'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.science,
+    'label': '데이터 과학자 / \n머신러닝 전문가',
+    'num': '3'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.support,
+    'label': '개발자 옹호자',
+    'num': '4'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.developer_mode,
+    'label': '백엔드 개발자',
+    'num': '5'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.web,
+    'label': '프론트엔드 개발자',
+    'num': '6'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.fullscreen,
+    'label': '풀스택 개발자',
+    'num': '7'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.sports_esports,
+    'label': '게임/그래픽 개발자',
+    'num': '8'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.phone_android,
+    'label': '모바일 개발자',
+    'num': '9'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.bug_report,
+    'label': 'QA/테스트 개발자',
+    'num': '10'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.cloud,
+    'label': 'DevOps 전문가',
+    'num': '11'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.data_usage,
+    'label': '데이터 엔지니어',
+    'num': '12'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.manage_accounts,
+    'label': '제품 관리자',
+    'num': '13'
+  },
+  {
+    'color': Colors.green[400],
+    'icon': Icons.design_services,
+    'label': 'UX/UI 디자이너',
+    'num': '14'
+  },
 ];
