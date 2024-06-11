@@ -95,6 +95,11 @@ class _ResultState extends State<Result> {
                   url: lecture.linkUrl,
                 );
               }).toList();
+              final jobCodeHours = data.result.jobCodeHours.percent;
+              final learnTime = data.result.learnTime.hours;
+              final productiveToJob =
+                  data.result.productiveToJob.map((p) => p.product).toList();
+              final sleepHours = data.result.sleepHours.hours;
               return Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: SingleChildScrollView(
@@ -133,21 +138,76 @@ class _ResultState extends State<Result> {
                       ),
                       const Divider(),
                       const Text(
-                        '코드에 사용하는 시간',
+                        '코딩에 사용하는 시간 비율',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                       ),
-                      const Divider(),
-                      const Text(
-                        '주에 일하는 시간',
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold),
+                      FilterChip(
+                        onSelected: null,
+                        showCheckmark: false,
+                        label: SizedBox(
+                          width: screenSize.width * 0.9,
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text(jobCodeHours),
+                            ],
+                          ),
+                        ),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(10),
+                        ),
                       ),
                       const Divider(),
                       const Text(
-                        '효율을 늘리기 위한 방법?',
+                        '공부하는 시간',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
+                      ),
+                      FilterChip(
+                        onSelected: null,
+                        showCheckmark: false,
+                        label: SizedBox(
+                          width: screenSize.width * 0.9,
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text(learnTime),
+                            ],
+                          ),
+                        ),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(10),
+                        ),
+                      ),
+                      const Divider(),
+                      const Text(
+                        '효율을 늘리기 위해 사용하는 방법',
+                        style: TextStyle(
+                            fontSize: 16, fontWeight: FontWeight.bold),
+                      ),
+                      Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: productiveToJob
+                            .map(
+                              (product) => FilterChip(
+                                onSelected: null,
+                                showCheckmark: false,
+                                label: SizedBox(
+                                  width: screenSize.width * 0.9,
+                                  child: Row(
+                                    mainAxisAlignment: MainAxisAlignment.center,
+                                    children: [
+                                      Text(product),
+                                    ],
+                                  ),
+                                ),
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                              ),
+                            )
+                            .toList(),
                       ),
                       const Divider(),
                       const Text(
@@ -155,9 +215,21 @@ class _ResultState extends State<Result> {
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                       ),
-                      const PieChartSample2(
-                        sectionTitles: ['4시간', '8시간', '6시간'],
-                        sectionValues: ['30%', '15%', '15%'],
+                      FilterChip(
+                        onSelected: null,
+                        showCheckmark: false,
+                        label: SizedBox(
+                          width: screenSize.width * 0.9,
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text(sleepHours),
+                            ],
+                          ),
+                        ),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(10),
+                        ),
                       ),
                       const Divider(),
                       const Text(

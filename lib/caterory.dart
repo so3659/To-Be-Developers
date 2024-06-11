@@ -32,7 +32,7 @@ class _CatalogScreenState extends State<CatalogScreen> {
           child: Column(
             children: [
               const Text(
-                '원하는 직무',
+                'Developer Type',
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: screenSize.height * 0.02),
@@ -70,7 +70,7 @@ class _CatalogScreenState extends State<CatalogScreen> {
               const Divider(),
               SizedBox(height: screenSize.height * 0.02),
               const Text(
-                '직책',
+                'Position',
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: screenSize.height * 0.02),
@@ -219,85 +219,85 @@ final List<Map<String, dynamic>> categories = [
   {
     'color': Colors.green[400],
     'icon': Icons.storage,
-    'label': '데이터베이스 관리자',
+    'label': 'Database Administrator',
     'num': '1'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.business,
-    'label': '데이터 / 비즈니스 \n분석가',
+    'label': 'Data or Business Analyst',
     'num': '2'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.science,
-    'label': '데이터 과학자 / \n머신러닝 전문가',
+    'label': 'Data Scientist or Machine Learning Specialist',
     'num': '3'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.support,
-    'label': '개발자 옹호자',
+    'label': 'Developer Advocate',
     'num': '4'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.developer_mode,
-    'label': '백엔드 개발자',
+    'label': 'Developer Back-end',
     'num': '5'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.web,
-    'label': '프론트엔드 개발자',
+    'label': 'Developer Front-end',
     'num': '6'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.fullscreen,
-    'label': '풀스택 개발자',
+    'label': 'Developer Full-stack',
     'num': '7'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.sports_esports,
-    'label': '게임/그래픽 개발자',
+    'label': 'Developer Game or Graphics',
     'num': '8'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.phone_android,
-    'label': '모바일 개발자',
+    'label': 'Developer Mobile',
     'num': '9'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.bug_report,
-    'label': 'QA/테스트 개발자',
+    'label': 'Developer QA or Test',
     'num': '10'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.cloud,
-    'label': 'DevOps 전문가',
+    'label': 'DevOps Specialist',
     'num': '11'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.data_usage,
-    'label': '데이터 엔지니어',
+    'label': 'Engineer Data',
     'num': '12'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.manage_accounts,
-    'label': '제품 관리자',
+    'label': 'Product Manager',
     'num': '13'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.design_services,
-    'label': 'UX/UI 디자이너',
+    'label': 'UX/UI Designer',
     'num': '14'
   },
 ];
