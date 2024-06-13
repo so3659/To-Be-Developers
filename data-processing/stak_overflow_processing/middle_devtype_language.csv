@@ -1,0 +1,1420 @@
+YearsGroup,DevType,Language,Count,Rank
+middle,Academic researcher,Python,257,1
+middle,Academic researcher,JavaScript,243,2
+middle,Academic researcher,HTML/CSS,228,3
+middle,Academic researcher,SQL,205,4
+middle,Academic researcher,Java,149,5
+middle,Academic researcher,C++,123,6
+middle,Academic researcher,C,112,7
+middle,Academic researcher,PHP,92,8
+middle,Academic researcher,C#,91,9
+middle,Academic researcher,TypeScript,86,10
+middle,Academic researcher,R,81,11
+middle,Academic researcher,Bash/Shell/PowerShell,61,12
+middle,Academic researcher,Bash/Shell,53,13
+middle,Academic researcher,Assembly,41,14
+middle,Academic researcher,Go,37,15
+middle,Academic researcher,Kotlin,33,16
+middle,Academic researcher,Node.js,33,17
+middle,Academic researcher,Rust,30,18
+middle,Academic researcher,Dart,30,19
+middle,Academic researcher,VBA,26,20
+middle,Academic researcher,PowerShell,24,21
+middle,Academic researcher,Ruby,24,22
+middle,Academic researcher,Scala,17,23
+middle,Academic researcher,Swift,17,24
+middle,Academic researcher,Objective-C,15,25
+middle,Academic researcher,MATLAB,14,26
+middle,Academic researcher,Julia,14,27
+middle,Academic researcher,Matlab,13,28
+middle,Academic researcher,Haskell,12,29
+middle,Academic researcher,Bash/Shell (all shells),8,30
+middle,Academic researcher,Lua,7,31
+middle,Academic researcher,Perl,7,32
+middle,Academic researcher,LISP,7,33
+middle,Academic researcher,Other(s):,7,34
+middle,Academic researcher,Elixir,6,35
+middle,Academic researcher,F#,5,36
+middle,Academic researcher,Groovy,5,37
+middle,Academic researcher,Erlang,4,38
+middle,Academic researcher,Visual Basic (.Net),3,39
+middle,Academic researcher,Solidity,3,40
+middle,Academic researcher,APL,2,41
+middle,Academic researcher,Delphi,2,42
+middle,Academic researcher,COBOL,2,43
+middle,Academic researcher,Clojure,2,44
+middle,Academic researcher,Crystal,1,45
+middle,Academic researcher,OCaml,1,46
+middle,Academic researcher,Fortran,1,47
+middle,Academic researcher,SAS,1,48
+middle,Blockchain,JavaScript,66,1
+middle,Blockchain,TypeScript,52,2
+middle,Blockchain,HTML/CSS,51,3
+middle,Blockchain,Python,49,4
+middle,Blockchain,SQL,40,5
+middle,Blockchain,Solidity,32,6
+middle,Blockchain,Rust,24,7
+middle,Blockchain,C++,24,8
+middle,Blockchain,Bash/Shell,24,9
+middle,Blockchain,Java,23,10
+middle,Blockchain,C,23,11
+middle,Blockchain,C#,19,12
+middle,Blockchain,Go,17,13
+middle,Blockchain,Dart,13,14
+middle,Blockchain,PHP,12,15
+middle,Blockchain,PowerShell,9,16
+middle,Blockchain,Kotlin,7,17
+middle,Blockchain,Haskell,6,18
+middle,Blockchain,R,6,19
+middle,Blockchain,Swift,6,20
+middle,Blockchain,Lua,4,21
+middle,Blockchain,Bash/Shell (all shells),4,22
+middle,Blockchain,Ruby,4,23
+middle,Blockchain,Elixir,4,24
+middle,Blockchain,MATLAB,4,25
+middle,Blockchain,Objective-C,4,26
+middle,Blockchain,Groovy,4,27
+middle,Blockchain,Assembly,4,28
+middle,Blockchain,Scala,4,29
+middle,Blockchain,VBA,3,30
+middle,Blockchain,Delphi,2,31
+middle,Blockchain,LISP,2,32
+middle,Blockchain,Ada,1,33
+middle,Blockchain,APL,1,34
+middle,Blockchain,Julia,1,35
+middle,Blockchain,COBOL,1,36
+middle,Blockchain,F#,1,37
+middle,Blockchain,OCaml,1,38
+middle,Blockchain,Erlang,1,39
+middle,Blockchain,Clojure,1,40
+middle,Cloud infrastructure engineer,Python,206,1
+middle,Cloud infrastructure engineer,JavaScript,179,2
+middle,Cloud infrastructure engineer,SQL,165,3
+middle,Cloud infrastructure engineer,HTML/CSS,143,4
+middle,Cloud infrastructure engineer,Bash/Shell,124,5
+middle,Cloud infrastructure engineer,TypeScript,116,6
+middle,Cloud infrastructure engineer,Go,92,7
+middle,Cloud infrastructure engineer,Java,89,8
+middle,Cloud infrastructure engineer,C#,57,9
+middle,Cloud infrastructure engineer,C++,53,10
+middle,Cloud infrastructure engineer,PowerShell,50,11
+middle,Cloud infrastructure engineer,C,48,12
+middle,Cloud infrastructure engineer,Rust,46,13
+middle,Cloud infrastructure engineer,PHP,36,14
+middle,Cloud infrastructure engineer,Dart,23,15
+middle,Cloud infrastructure engineer,Bash/Shell (all shells),18,16
+middle,Cloud infrastructure engineer,Groovy,16,17
+middle,Cloud infrastructure engineer,Ruby,16,18
+middle,Cloud infrastructure engineer,Scala,13,19
+middle,Cloud infrastructure engineer,Assembly,13,20
+middle,Cloud infrastructure engineer,R,13,21
+middle,Cloud infrastructure engineer,Lua,12,22
+middle,Cloud infrastructure engineer,Haskell,11,23
+middle,Cloud infrastructure engineer,Kotlin,11,24
+middle,Cloud infrastructure engineer,MATLAB,8,25
+middle,Cloud infrastructure engineer,VBA,8,26
+middle,Cloud infrastructure engineer,Swift,8,27
+middle,Cloud infrastructure engineer,Perl,5,28
+middle,Cloud infrastructure engineer,Elixir,5,29
+middle,Cloud infrastructure engineer,Clojure,4,30
+middle,Cloud infrastructure engineer,Objective-C,4,31
+middle,Cloud infrastructure engineer,Solidity,4,32
+middle,Cloud infrastructure engineer,Erlang,4,33
+middle,Cloud infrastructure engineer,Lisp,2,34
+middle,Cloud infrastructure engineer,F#,2,35
+middle,Cloud infrastructure engineer,Visual Basic (.Net),1,36
+middle,Cloud infrastructure engineer,OCaml,1,37
+middle,Cloud infrastructure engineer,APL,1,38
+middle,Cloud infrastructure engineer,Fortran,1,39
+middle,Cloud infrastructure engineer,LISP,1,40
+middle,Cloud infrastructure engineer,Julia,1,41
+middle,Cloud infrastructure engineer,SAS,1,42
+middle,Data or business analyst,Python,525,1
+middle,Data or business analyst,SQL,514,2
+middle,Data or business analyst,JavaScript,375,3
+middle,Data or business analyst,HTML/CSS,369,4
+middle,Data or business analyst,R,184,5
+middle,Data or business analyst,Java,169,6
+middle,Data or business analyst,C#,147,7
+middle,Data or business analyst,TypeScript,118,8
+middle,Data or business analyst,VBA,114,9
+middle,Data or business analyst,PHP,106,10
+middle,Data or business analyst,Bash/Shell,96,11
+middle,Data or business analyst,C++,94,12
+middle,Data or business analyst,Bash/Shell/PowerShell,86,13
+middle,Data or business analyst,C,84,14
+middle,Data or business analyst,PowerShell,74,15
+middle,Data or business analyst,Node.js,52,16
+middle,Data or business analyst,Go,34,17
+middle,Data or business analyst,Scala,33,18
+middle,Data or business analyst,Dart,30,19
+middle,Data or business analyst,Assembly,22,20
+middle,Data or business analyst,Kotlin,22,21
+middle,Data or business analyst,Rust,20,22
+middle,Data or business analyst,Ruby,18,23
+middle,Data or business analyst,Swift,18,24
+middle,Data or business analyst,Objective-C,14,25
+middle,Data or business analyst,Julia,13,26
+middle,Data or business analyst,Matlab,13,27
+middle,Data or business analyst,MATLAB,12,28
+middle,Data or business analyst,Bash/Shell (all shells),10,29
+middle,Data or business analyst,SAS,6,30
+middle,Data or business analyst,Lua,5,31
+middle,Data or business analyst,Clojure,5,32
+middle,Data or business analyst,Other(s):,5,33
+middle,Data or business analyst,Haskell,4,34
+middle,Data or business analyst,Perl,4,35
+middle,Data or business analyst,LISP,4,36
+middle,Data or business analyst,Groovy,4,37
+middle,Data or business analyst,Visual Basic (.Net),3,38
+middle,Data or business analyst,Delphi,3,39
+middle,Data or business analyst,Solidity,3,40
+middle,Data or business analyst,APL,3,41
+middle,Data or business analyst,Elixir,2,42
+middle,Data or business analyst,Fortran,2,43
+middle,Data or business analyst,OCaml,2,44
+middle,Data or business analyst,Crystal,2,45
+middle,Data or business analyst,COBOL,2,46
+middle,Data or business analyst,F#,2,47
+middle,Data or business analyst,Nim,1,48
+middle,Data or business analyst,Erlang,1,49
+middle,Data scientist or machine learning specialist,Python,797,1
+middle,Data scientist or machine learning specialist,SQL,582,2
+middle,Data scientist or machine learning specialist,JavaScript,381,3
+middle,Data scientist or machine learning specialist,HTML/CSS,367,4
+middle,Data scientist or machine learning specialist,R,262,5
+middle,Data scientist or machine learning specialist,Java,216,6
+middle,Data scientist or machine learning specialist,C++,170,7
+middle,Data scientist or machine learning specialist,C,154,8
+middle,Data scientist or machine learning specialist,Bash/Shell,131,9
+middle,Data scientist or machine learning specialist,Bash/Shell/PowerShell,128,10
+middle,Data scientist or machine learning specialist,C#,123,11
+middle,Data scientist or machine learning specialist,TypeScript,119,12
+middle,Data scientist or machine learning specialist,PHP,99,13
+middle,Data scientist or machine learning specialist,Node.js,66,14
+middle,Data scientist or machine learning specialist,PowerShell,65,15
+middle,Data scientist or machine learning specialist,Scala,62,16
+middle,Data scientist or machine learning specialist,VBA,55,17
+middle,Data scientist or machine learning specialist,Go,46,18
+middle,Data scientist or machine learning specialist,Julia,43,19
+middle,Data scientist or machine learning specialist,Bash/Shell (all shells),39,20
+middle,Data scientist or machine learning specialist,Dart,37,21
+middle,Data scientist or machine learning specialist,Rust,37,22
+middle,Data scientist or machine learning specialist,Assembly,33,23
+middle,Data scientist or machine learning specialist,Kotlin,31,24
+middle,Data scientist or machine learning specialist,Matlab,30,25
+middle,Data scientist or machine learning specialist,Swift,28,26
+middle,Data scientist or machine learning specialist,MATLAB,27,27
+middle,Data scientist or machine learning specialist,Ruby,24,28
+middle,Data scientist or machine learning specialist,Haskell,13,29
+middle,Data scientist or machine learning specialist,SAS,11,30
+middle,Data scientist or machine learning specialist,Perl,11,31
+middle,Data scientist or machine learning specialist,Objective-C,10,32
+middle,Data scientist or machine learning specialist,Elixir,9,33
+middle,Data scientist or machine learning specialist,Other(s):,9,34
+middle,Data scientist or machine learning specialist,Lua,7,35
+middle,Data scientist or machine learning specialist,F#,7,36
+middle,Data scientist or machine learning specialist,Groovy,6,37
+middle,Data scientist or machine learning specialist,LISP,6,38
+middle,Data scientist or machine learning specialist,Solidity,5,39
+middle,Data scientist or machine learning specialist,Erlang,4,40
+middle,Data scientist or machine learning specialist,Fortran,4,41
+middle,Data scientist or machine learning specialist,OCaml,3,42
+middle,Data scientist or machine learning specialist,Clojure,3,43
+middle,Data scientist or machine learning specialist,Prolog,2,44
+middle,Data scientist or machine learning specialist,Ada,2,45
+middle,Data scientist or machine learning specialist,GDScript,2,46
+middle,Data scientist or machine learning specialist,Delphi,2,47
+middle,Data scientist or machine learning specialist,APL,2,48
+middle,Data scientist or machine learning specialist,COBOL,2,49
+middle,Data scientist or machine learning specialist,Raku,1,50
+middle,Data scientist or machine learning specialist,Crystal,1,51
+middle,Database administrator,SQL,603,1
+middle,Database administrator,JavaScript,576,2
+middle,Database administrator,HTML/CSS,530,3
+middle,Database administrator,Python,431,4
+middle,Database administrator,C#,278,5
+middle,Database administrator,PHP,276,6
+middle,Database administrator,Java,265,7
+middle,Database administrator,TypeScript,236,8
+middle,Database administrator,C++,160,9
+middle,Database administrator,Bash/Shell/PowerShell,148,10
+middle,Database administrator,C,135,11
+middle,Database administrator,Bash/Shell,119,12
+middle,Database administrator,Node.js,102,13
+middle,Database administrator,VBA,83,14
+middle,Database administrator,Go,77,15
+middle,Database administrator,R,68,16
+middle,Database administrator,PowerShell,68,17
+middle,Database administrator,Dart,65,18
+middle,Database administrator,Kotlin,58,19
+middle,Database administrator,Assembly,48,20
+middle,Database administrator,Ruby,39,21
+middle,Database administrator,Rust,35,22
+middle,Database administrator,Swift,34,23
+middle,Database administrator,Scala,22,24
+middle,Database administrator,Objective-C,17,25
+middle,Database administrator,Perl,13,26
+middle,Database administrator,MATLAB,10,27
+middle,Database administrator,Elixir,8,28
+middle,Database administrator,Matlab,8,29
+middle,Database administrator,Lua,7,30
+middle,Database administrator,Haskell,7,31
+middle,Database administrator,Groovy,7,32
+middle,Database administrator,Other(s):,7,33
+middle,Database administrator,F#,6,34
+middle,Database administrator,Julia,5,35
+middle,Database administrator,Crystal,4,36
+middle,Database administrator,Clojure,4,37
+middle,Database administrator,Bash/Shell (all shells),3,38
+middle,Database administrator,COBOL,3,39
+middle,Database administrator,Erlang,3,40
+middle,Database administrator,Solidity,3,41
+middle,Database administrator,SAS,3,42
+middle,Database administrator,LISP,3,43
+middle,Database administrator,Fortran,3,44
+middle,Database administrator,APL,2,45
+middle,Database administrator,Delphi,1,46
+middle,Database administrator,WebAssembly,1,47
+middle,Designer,JavaScript,595,1
+middle,Designer,HTML/CSS,580,2
+middle,Designer,SQL,421,3
+middle,Designer,Python,296,4
+middle,Designer,Java,283,5
+middle,Designer,PHP,282,6
+middle,Designer,TypeScript,278,7
+middle,Designer,C#,237,8
+middle,Designer,C++,151,9
+middle,Designer,C,132,10
+middle,Designer,Bash/Shell/PowerShell,102,11
+middle,Designer,Node.js,84,12
+middle,Designer,Kotlin,76,13
+middle,Designer,Bash/Shell,72,14
+middle,Designer,Dart,64,15
+middle,Designer,VBA,48,16
+middle,Designer,Ruby,47,17
+middle,Designer,PowerShell,46,18
+middle,Designer,Swift,42,19
+middle,Designer,R,41,20
+middle,Designer,Assembly,41,21
+middle,Designer,Go,39,22
+middle,Designer,Rust,29,23
+middle,Designer,Objective-C,22,24
+middle,Designer,Perl,10,25
+middle,Designer,Other(s):,9,26
+middle,Designer,Haskell,8,27
+middle,Designer,Matlab,8,28
+middle,Designer,Scala,8,29
+middle,Designer,MATLAB,6,30
+middle,Designer,Lua,5,31
+middle,Designer,Elixir,5,32
+middle,Designer,Crystal,4,33
+middle,Designer,Julia,4,34
+middle,Designer,LISP,3,35
+middle,Designer,Bash/Shell (all shells),2,36
+middle,Designer,Delphi,2,37
+middle,Designer,SAS,2,38
+middle,Designer,Solidity,2,39
+middle,Designer,Erlang,2,40
+middle,Designer,Clojure,2,41
+middle,Designer,Visual Basic (.Net),1,42
+middle,Designer,Lisp,1,43
+middle,Designer,Groovy,1,44
+middle,Designer,APL,1,45
+middle,DevOps specialist,JavaScript,667,1
+middle,DevOps specialist,Python,626,2
+middle,DevOps specialist,SQL,553,3
+middle,DevOps specialist,HTML/CSS,546,4
+middle,DevOps specialist,TypeScript,367,5
+middle,DevOps specialist,Java,359,6
+middle,DevOps specialist,Bash/Shell,279,7
+middle,DevOps specialist,C#,274,8
+middle,DevOps specialist,Go,219,9
+middle,DevOps specialist,Bash/Shell/PowerShell,200,10
+middle,DevOps specialist,PHP,192,11
+middle,DevOps specialist,C++,174,12
+middle,DevOps specialist,C,162,13
+middle,DevOps specialist,Node.js,145,14
+middle,DevOps specialist,PowerShell,137,15
+middle,DevOps specialist,Ruby,82,16
+middle,DevOps specialist,Rust,78,17
+middle,DevOps specialist,Kotlin,78,18
+middle,DevOps specialist,Dart,60,19
+middle,DevOps specialist,Groovy,54,20
+middle,DevOps specialist,R,50,21
+middle,DevOps specialist,Bash/Shell (all shells),44,22
+middle,DevOps specialist,VBA,42,23
+middle,DevOps specialist,Assembly,41,24
+middle,DevOps specialist,Scala,38,25
+middle,DevOps specialist,Swift,32,26
+middle,DevOps specialist,Perl,19,27
+middle,DevOps specialist,Objective-C,19,28
+middle,DevOps specialist,Haskell,17,29
+middle,DevOps specialist,Matlab,13,30
+middle,DevOps specialist,Elixir,12,31
+middle,DevOps specialist,Lua,10,32
+middle,DevOps specialist,F#,10,33
+middle,DevOps specialist,Clojure,9,34
+middle,DevOps specialist,MATLAB,8,35
+middle,DevOps specialist,Solidity,7,36
+middle,DevOps specialist,Erlang,6,37
+middle,DevOps specialist,LISP,6,38
+middle,DevOps specialist,Other(s):,5,39
+middle,DevOps specialist,Delphi,4,40
+middle,DevOps specialist,COBOL,3,41
+middle,DevOps specialist,APL,3,42
+middle,DevOps specialist,Julia,3,43
+middle,DevOps specialist,WebAssembly,2,44
+middle,DevOps specialist,Prolog,1,45
+middle,DevOps specialist,GDScript,1,46
+middle,DevOps specialist,Visual Basic (.Net),1,47
+middle,DevOps specialist,Fortran,1,48
+middle,DevOps specialist,Crystal,1,49
+middle,Developer Advocate,HTML/CSS,2,1
+middle,Developer Advocate,Python,2,2
+middle,Developer Advocate,GDScript,1,3
+middle,Developer Advocate,Bash/Shell (all shells),1,4
+middle,Developer Advocate,C++,1,5
+middle,Developer Advocate,SQL,1,6
+middle,Developer Advocate,Java,1,7
+middle,Developer Advocate,JavaScript,1,8
+middle,Developer Experience,Rust,3,1
+middle,Developer Experience,Python,3,2
+middle,Developer Experience,Go,2,3
+middle,Developer Experience,Bash/Shell (all shells),2,4
+middle,Developer Experience,SQL,2,5
+middle,Developer Experience,Dart,1,6
+middle,Developer Experience,C,1,7
+middle,Developer Experience,PHP,1,8
+middle,Developer Experience,Ruby,1,9
+middle,Developer Experience,PowerShell,1,10
+middle,Developer Experience,TypeScript,1,11
+middle,Developer Experience,HTML/CSS,1,12
+middle,Developer Experience,Fortran,1,13
+middle,Developer Experience,MATLAB,1,14
+middle,Developer Experience,JavaScript,1,15
+middle,Developer Experience,Kotlin,1,16
+middle,Developer Experience,R,1,17
+middle,Developer Experience,Lua,1,18
+middle,Developer Experience,C++,1,19
+middle,Developer Experience,C#,1,20
+middle,Developer Experience,Java,1,21
+middle,Developer Experience,Haskell,1,22
+middle,Developer Experience,Erlang,1,23
+middle,Developer Experience,Solidity,1,24
+middle,"Developer, QA or test",JavaScript,468,1
+middle,"Developer, QA or test",HTML/CSS,424,2
+middle,"Developer, QA or test",SQL,373,3
+middle,"Developer, QA or test",Python,293,4
+middle,"Developer, QA or test",Java,287,5
+middle,"Developer, QA or test",C#,220,6
+middle,"Developer, QA or test",TypeScript,216,7
+middle,"Developer, QA or test",PHP,162,8
+middle,"Developer, QA or test",C++,143,9
+middle,"Developer, QA or test",C,131,10
+middle,"Developer, QA or test",Bash/Shell/PowerShell,104,11
+middle,"Developer, QA or test",Node.js,91,12
+middle,"Developer, QA or test",Bash/Shell,85,13
+middle,"Developer, QA or test",Kotlin,60,14
+middle,"Developer, QA or test",Go,58,15
+middle,"Developer, QA or test",PowerShell,52,16
+middle,"Developer, QA or test",Ruby,49,17
+middle,"Developer, QA or test",Dart,43,18
+middle,"Developer, QA or test",VBA,40,19
+middle,"Developer, QA or test",Rust,34,20
+middle,"Developer, QA or test",Assembly,34,21
+middle,"Developer, QA or test",Swift,31,22
+middle,"Developer, QA or test",R,25,23
+middle,"Developer, QA or test",Objective-C,19,24
+middle,"Developer, QA or test",Groovy,17,25
+middle,"Developer, QA or test",Bash/Shell (all shells),13,26
+middle,"Developer, QA or test",Scala,13,27
+middle,"Developer, QA or test",Haskell,11,28
+middle,"Developer, QA or test",Other(s):,9,29
+middle,"Developer, QA or test",Perl,8,30
+middle,"Developer, QA or test",Matlab,8,31
+middle,"Developer, QA or test",Elixir,8,32
+middle,"Developer, QA or test",Clojure,7,33
+middle,"Developer, QA or test",MATLAB,6,34
+middle,"Developer, QA or test",Delphi,4,35
+middle,"Developer, QA or test",Lua,3,36
+middle,"Developer, QA or test",Erlang,3,37
+middle,"Developer, QA or test",LISP,3,38
+middle,"Developer, QA or test",COBOL,2,39
+middle,"Developer, QA or test",APL,2,40
+middle,"Developer, QA or test",Julia,2,41
+middle,"Developer, QA or test",Crystal,1,42
+middle,"Developer, QA or test",F#,1,43
+middle,"Developer, back-end",JavaScript,4190,1
+middle,"Developer, back-end",SQL,3462,2
+middle,"Developer, back-end",HTML/CSS,3390,3
+middle,"Developer, back-end",Python,2941,4
+middle,"Developer, back-end",Java,2308,5
+middle,"Developer, back-end",TypeScript,2094,6
+middle,"Developer, back-end",C#,1696,7
+middle,"Developer, back-end",PHP,1421,8
+middle,"Developer, back-end",C++,1014,9
+middle,"Developer, back-end",C,847,10
+middle,"Developer, back-end",Go,792,11
+middle,"Developer, back-end",Bash/Shell,763,12
+middle,"Developer, back-end",Bash/Shell/PowerShell,703,13
+middle,"Developer, back-end",Node.js,673,14
+middle,"Developer, back-end",Kotlin,484,15
+middle,"Developer, back-end",Ruby,469,16
+middle,"Developer, back-end",Dart,376,17
+middle,"Developer, back-end",Rust,365,18
+middle,"Developer, back-end",PowerShell,357,19
+middle,"Developer, back-end",VBA,229,20
+middle,"Developer, back-end",Scala,214,21
+middle,"Developer, back-end",R,211,22
+middle,"Developer, back-end",Bash/Shell (all shells),201,23
+middle,"Developer, back-end",Swift,200,24
+middle,"Developer, back-end",Assembly,187,25
+middle,"Developer, back-end",Groovy,109,26
+middle,"Developer, back-end",Elixir,105,27
+middle,"Developer, back-end",Haskell,88,28
+middle,"Developer, back-end",Objective-C,69,29
+middle,"Developer, back-end",Perl,65,30
+middle,"Developer, back-end",Lua,62,31
+middle,"Developer, back-end",MATLAB,61,32
+middle,"Developer, back-end",Matlab,60,33
+middle,"Developer, back-end",Clojure,58,34
+middle,"Developer, back-end",Solidity,35,35
+middle,"Developer, back-end",Erlang,35,36
+middle,"Developer, back-end",Julia,31,37
+middle,"Developer, back-end",F#,30,38
+middle,"Developer, back-end",Other(s):,29,39
+middle,"Developer, back-end",LISP,22,40
+middle,"Developer, back-end",Visual Basic (.Net),16,41
+middle,"Developer, back-end",Delphi,15,42
+middle,"Developer, back-end",APL,10,43
+middle,"Developer, back-end",Crystal,9,44
+middle,"Developer, back-end",COBOL,9,45
+middle,"Developer, back-end",SAS,8,46
+middle,"Developer, back-end",GDScript,8,47
+middle,"Developer, back-end",Fortran,5,48
+middle,"Developer, back-end",Zig,4,49
+middle,"Developer, back-end",OCaml,4,50
+middle,"Developer, back-end",Prolog,2,51
+middle,"Developer, back-end",Apex,2,52
+middle,"Developer, back-end",Cobol,1,53
+middle,"Developer, back-end",Raku,1,54
+middle,"Developer, back-end",Ada,1,55
+middle,"Developer, back-end",Lisp,1,56
+middle,"Developer, back-end",Nim,1,57
+middle,"Developer, back-end",WebAssembly,1,58
+middle,"Developer, desktop or enterprise applications",JavaScript,1045,1
+middle,"Developer, desktop or enterprise applications",HTML/CSS,968,2
+middle,"Developer, desktop or enterprise applications",SQL,918,3
+middle,"Developer, desktop or enterprise applications",C#,784,4
+middle,"Developer, desktop or enterprise applications",Python,687,5
+middle,"Developer, desktop or enterprise applications",Java,663,6
+middle,"Developer, desktop or enterprise applications",TypeScript,519,7
+middle,"Developer, desktop or enterprise applications",C++,392,8
+middle,"Developer, desktop or enterprise applications",C,318,9
+middle,"Developer, desktop or enterprise applications",PHP,313,10
+middle,"Developer, desktop or enterprise applications",Bash/Shell/PowerShell,215,11
+middle,"Developer, desktop or enterprise applications",Bash/Shell,165,12
+middle,"Developer, desktop or enterprise applications",VBA,153,13
+middle,"Developer, desktop or enterprise applications",Node.js,136,14
+middle,"Developer, desktop or enterprise applications",PowerShell,131,15
+middle,"Developer, desktop or enterprise applications",Kotlin,125,16
+middle,"Developer, desktop or enterprise applications",Go,108,17
+middle,"Developer, desktop or enterprise applications",Dart,101,18
+middle,"Developer, desktop or enterprise applications",Assembly,86,19
+middle,"Developer, desktop or enterprise applications",Rust,78,20
+middle,"Developer, desktop or enterprise applications",Swift,75,21
+middle,"Developer, desktop or enterprise applications",Ruby,67,22
+middle,"Developer, desktop or enterprise applications",R,58,23
+middle,"Developer, desktop or enterprise applications",Objective-C,31,24
+middle,"Developer, desktop or enterprise applications",Scala,30,25
+middle,"Developer, desktop or enterprise applications",Haskell,24,26
+middle,"Developer, desktop or enterprise applications",Groovy,24,27
+middle,"Developer, desktop or enterprise applications",Matlab,21,28
+middle,"Developer, desktop or enterprise applications",Bash/Shell (all shells),18,29
+middle,"Developer, desktop or enterprise applications",F#,17,30
+middle,"Developer, desktop or enterprise applications",Delphi,14,31
+middle,"Developer, desktop or enterprise applications",MATLAB,14,32
+middle,"Developer, desktop or enterprise applications",Other(s):,13,33
+middle,"Developer, desktop or enterprise applications",Julia,11,34
+middle,"Developer, desktop or enterprise applications",Perl,11,35
+middle,"Developer, desktop or enterprise applications",Lua,9,36
+middle,"Developer, desktop or enterprise applications",LISP,8,37
+middle,"Developer, desktop or enterprise applications",Elixir,8,38
+middle,"Developer, desktop or enterprise applications",APL,7,39
+middle,"Developer, desktop or enterprise applications",Crystal,6,40
+middle,"Developer, desktop or enterprise applications",Visual Basic (.Net),6,41
+middle,"Developer, desktop or enterprise applications",SAS,5,42
+middle,"Developer, desktop or enterprise applications",COBOL,5,43
+middle,"Developer, desktop or enterprise applications",Erlang,3,44
+middle,"Developer, desktop or enterprise applications",Solidity,3,45
+middle,"Developer, desktop or enterprise applications",Clojure,3,46
+middle,"Developer, desktop or enterprise applications",WebAssembly,2,47
+middle,"Developer, desktop or enterprise applications",GDScript,1,48
+middle,"Developer, desktop or enterprise applications",Prolog,1,49
+middle,"Developer, desktop or enterprise applications",Apex,1,50
+middle,"Developer, desktop or enterprise applications",Cobol,1,51
+middle,"Developer, desktop or enterprise applications",OCaml,1,52
+middle,"Developer, desktop or enterprise applications",Fortran,1,53
+middle,"Developer, embedded applications or devices",JavaScript,326,1
+middle,"Developer, embedded applications or devices",HTML/CSS,310,2
+middle,"Developer, embedded applications or devices",Python,283,3
+middle,"Developer, embedded applications or devices",SQL,278,4
+middle,"Developer, embedded applications or devices",Java,225,5
+middle,"Developer, embedded applications or devices",C++,224,6
+middle,"Developer, embedded applications or devices",C,207,7
+middle,"Developer, embedded applications or devices",C#,190,8
+middle,"Developer, embedded applications or devices",TypeScript,141,9
+middle,"Developer, embedded applications or devices",PHP,131,10
+middle,"Developer, embedded applications or devices",Bash/Shell,86,11
+middle,"Developer, embedded applications or devices",Bash/Shell/PowerShell,67,12
+middle,"Developer, embedded applications or devices",Assembly,58,13
+middle,"Developer, embedded applications or devices",VBA,53,14
+middle,"Developer, embedded applications or devices",Kotlin,49,15
+middle,"Developer, embedded applications or devices",Rust,48,16
+middle,"Developer, embedded applications or devices",Dart,48,17
+middle,"Developer, embedded applications or devices",Node.js,45,18
+middle,"Developer, embedded applications or devices",Swift,42,19
+middle,"Developer, embedded applications or devices",Go,40,20
+middle,"Developer, embedded applications or devices",PowerShell,37,21
+middle,"Developer, embedded applications or devices",Ruby,24,22
+middle,"Developer, embedded applications or devices",R,24,23
+middle,"Developer, embedded applications or devices",Objective-C,21,24
+middle,"Developer, embedded applications or devices",MATLAB,19,25
+middle,"Developer, embedded applications or devices",Scala,16,26
+middle,"Developer, embedded applications or devices",Bash/Shell (all shells),15,27
+middle,"Developer, embedded applications or devices",Matlab,15,28
+middle,"Developer, embedded applications or devices",Groovy,13,29
+middle,"Developer, embedded applications or devices",Haskell,11,30
+middle,"Developer, embedded applications or devices",Lua,10,31
+middle,"Developer, embedded applications or devices",Perl,10,32
+middle,"Developer, embedded applications or devices",Elixir,6,33
+middle,"Developer, embedded applications or devices",F#,4,34
+middle,"Developer, embedded applications or devices",Julia,4,35
+middle,"Developer, embedded applications or devices",Erlang,4,36
+middle,"Developer, embedded applications or devices",APL,4,37
+middle,"Developer, embedded applications or devices",Other(s):,4,38
+middle,"Developer, embedded applications or devices",Crystal,3,39
+middle,"Developer, embedded applications or devices",Delphi,3,40
+middle,"Developer, embedded applications or devices",LISP,3,41
+middle,"Developer, embedded applications or devices",Visual Basic (.Net),2,42
+middle,"Developer, embedded applications or devices",Lisp,2,43
+middle,"Developer, embedded applications or devices",Nim,1,44
+middle,"Developer, embedded applications or devices",Prolog,1,45
+middle,"Developer, embedded applications or devices",Ada,1,46
+middle,"Developer, embedded applications or devices",OCaml,1,47
+middle,"Developer, embedded applications or devices",SAS,1,48
+middle,"Developer, embedded applications or devices",Solidity,1,49
+middle,"Developer, embedded applications or devices",Clojure,1,50
+middle,"Developer, embedded applications or devices",COBOL,1,51
+middle,"Developer, front-end",JavaScript,3355,1
+middle,"Developer, front-end",HTML/CSS,2986,2
+middle,"Developer, front-end",TypeScript,1975,3
+middle,"Developer, front-end",SQL,1925,4
+middle,"Developer, front-end",Python,1399,5
+middle,"Developer, front-end",Java,1260,6
+middle,"Developer, front-end",PHP,1106,7
+middle,"Developer, front-end",C#,1008,8
+middle,"Developer, front-end",C++,604,9
+middle,"Developer, front-end",Node.js,598,10
+middle,"Developer, front-end",C,541,11
+middle,"Developer, front-end",Bash/Shell/PowerShell,407,12
+middle,"Developer, front-end",Bash/Shell,364,13
+middle,"Developer, front-end",Dart,331,14
+middle,"Developer, front-end",Kotlin,298,15
+middle,"Developer, front-end",Go,261,16
+middle,"Developer, front-end",Ruby,227,17
+middle,"Developer, front-end",Swift,195,18
+middle,"Developer, front-end",PowerShell,193,19
+middle,"Developer, front-end",VBA,169,20
+middle,"Developer, front-end",Rust,142,21
+middle,"Developer, front-end",R,126,22
+middle,"Developer, front-end",Assembly,121,23
+middle,"Developer, front-end",Objective-C,71,24
+middle,"Developer, front-end",Scala,61,25
+middle,"Developer, front-end",Bash/Shell (all shells),45,26
+middle,"Developer, front-end",Haskell,44,27
+middle,"Developer, front-end",MATLAB,42,28
+middle,"Developer, front-end",Matlab,37,29
+middle,"Developer, front-end",Groovy,32,30
+middle,"Developer, front-end",Elixir,29,31
+middle,"Developer, front-end",Perl,28,32
+middle,"Developer, front-end",Lua,28,33
+middle,"Developer, front-end",Solidity,21,34
+middle,"Developer, front-end",Other(s):,15,35
+middle,"Developer, front-end",Erlang,14,36
+middle,"Developer, front-end",Julia,13,37
+middle,"Developer, front-end",F#,12,38
+middle,"Developer, front-end",Crystal,11,39
+middle,"Developer, front-end",APL,10,40
+middle,"Developer, front-end",COBOL,9,41
+middle,"Developer, front-end",Visual Basic (.Net),7,42
+middle,"Developer, front-end",Delphi,7,43
+middle,"Developer, front-end",SAS,7,44
+middle,"Developer, front-end",LISP,7,45
+middle,"Developer, front-end",Clojure,6,46
+middle,"Developer, front-end",GDScript,3,47
+middle,"Developer, front-end",OCaml,2,48
+middle,"Developer, front-end",Flow,1,49
+middle,"Developer, front-end",Prolog,1,50
+middle,"Developer, front-end",Lisp,1,51
+middle,"Developer, front-end",Cobol,1,52
+middle,"Developer, front-end",Fortran,1,53
+middle,"Developer, full-stack",JavaScript,6573,1
+middle,"Developer, full-stack",HTML/CSS,5586,2
+middle,"Developer, full-stack",SQL,4424,3
+middle,"Developer, full-stack",TypeScript,3913,4
+middle,"Developer, full-stack",Python,3310,5
+middle,"Developer, full-stack",Java,2579,6
+middle,"Developer, full-stack",C#,2339,7
+middle,"Developer, full-stack",PHP,1980,8
+middle,"Developer, full-stack",Node.js,1141,9
+middle,"Developer, full-stack",C++,1128,10
+middle,"Developer, full-stack",C,964,11
+middle,"Developer, full-stack",Bash/Shell,829,12
+middle,"Developer, full-stack",Go,719,13
+middle,"Developer, full-stack",Bash/Shell/PowerShell,710,14
+middle,"Developer, full-stack",PowerShell,636,15
+middle,"Developer, full-stack",Ruby,613,16
+middle,"Developer, full-stack",Dart,590,17
+middle,"Developer, full-stack",Kotlin,590,18
+middle,"Developer, full-stack",Rust,405,19
+middle,"Developer, full-stack",Bash/Shell (all shells),358,20
+middle,"Developer, full-stack",Swift,311,21
+middle,"Developer, full-stack",VBA,306,22
+middle,"Developer, full-stack",R,255,23
+middle,"Developer, full-stack",Assembly,241,24
+middle,"Developer, full-stack",Scala,164,25
+middle,"Developer, full-stack",Objective-C,110,26
+middle,"Developer, full-stack",Groovy,106,27
+middle,"Developer, full-stack",Elixir,100,28
+middle,"Developer, full-stack",Lua,95,29
+middle,"Developer, full-stack",Haskell,89,30
+middle,"Developer, full-stack",MATLAB,86,31
+middle,"Developer, full-stack",Matlab,77,32
+middle,"Developer, full-stack",Perl,66,33
+middle,"Developer, full-stack",Visual Basic (.Net),61,34
+middle,"Developer, full-stack",Solidity,55,35
+middle,"Developer, full-stack",Clojure,54,36
+middle,"Developer, full-stack",Julia,41,37
+middle,"Developer, full-stack",F#,29,38
+middle,"Developer, full-stack",Erlang,26,39
+middle,"Developer, full-stack",Other(s):,25,40
+middle,"Developer, full-stack",LISP,15,41
+middle,"Developer, full-stack",Crystal,14,42
+middle,"Developer, full-stack",APL,14,43
+middle,"Developer, full-stack",COBOL,14,44
+middle,"Developer, full-stack",SAS,13,45
+middle,"Developer, full-stack",Prolog,9,46
+middle,"Developer, full-stack",OCaml,9,47
+middle,"Developer, full-stack",Delphi,9,48
+middle,"Developer, full-stack",GDScript,9,49
+middle,"Developer, full-stack",Zig,8,50
+middle,"Developer, full-stack",Ada,7,51
+middle,"Developer, full-stack",Apex,6,52
+middle,"Developer, full-stack",Lisp,5,53
+middle,"Developer, full-stack",Nim,4,54
+middle,"Developer, full-stack",Fortran,3,55
+middle,"Developer, full-stack",Flow,3,56
+middle,"Developer, full-stack",WebAssembly,2,57
+middle,"Developer, full-stack",Cobol,1,58
+middle,"Developer, game or graphics",JavaScript,192,1
+middle,"Developer, game or graphics",HTML/CSS,173,2
+middle,"Developer, game or graphics",C#,150,3
+middle,"Developer, game or graphics",SQL,132,4
+middle,"Developer, game or graphics",Python,120,5
+middle,"Developer, game or graphics",Java,119,6
+middle,"Developer, game or graphics",TypeScript,94,7
+middle,"Developer, game or graphics",C++,89,8
+middle,"Developer, game or graphics",C,73,9
+middle,"Developer, game or graphics",PHP,71,10
+middle,"Developer, game or graphics",Bash/Shell/PowerShell,44,11
+middle,"Developer, game or graphics",Kotlin,32,12
+middle,"Developer, game or graphics",Node.js,26,13
+middle,"Developer, game or graphics",Rust,25,14
+middle,"Developer, game or graphics",Assembly,24,15
+middle,"Developer, game or graphics",Go,22,16
+middle,"Developer, game or graphics",Dart,21,17
+middle,"Developer, game or graphics",Swift,21,18
+middle,"Developer, game or graphics",Bash/Shell,18,19
+middle,"Developer, game or graphics",PowerShell,17,20
+middle,"Developer, game or graphics",R,17,21
+middle,"Developer, game or graphics",VBA,16,22
+middle,"Developer, game or graphics",Objective-C,12,23
+middle,"Developer, game or graphics",Ruby,11,24
+middle,"Developer, game or graphics",Other(s):,8,25
+middle,"Developer, game or graphics",Haskell,6,26
+middle,"Developer, game or graphics",Scala,6,27
+middle,"Developer, game or graphics",Lua,5,28
+middle,"Developer, game or graphics",Matlab,5,29
+middle,"Developer, game or graphics",Groovy,4,30
+middle,"Developer, game or graphics",Solidity,3,31
+middle,"Developer, game or graphics",Perl,3,32
+middle,"Developer, game or graphics",LISP,3,33
+middle,"Developer, game or graphics",Bash/Shell (all shells),2,34
+middle,"Developer, game or graphics",MATLAB,2,35
+middle,"Developer, game or graphics",Clojure,2,36
+middle,"Developer, game or graphics",Visual Basic (.Net),1,37
+middle,"Developer, game or graphics",Zig,1,38
+middle,"Developer, game or graphics",Delphi,1,39
+middle,"Developer, game or graphics",SAS,1,40
+middle,"Developer, game or graphics",Julia,1,41
+middle,"Developer, game or graphics",F#,1,42
+middle,"Developer, game or graphics",Erlang,1,43
+middle,"Developer, game or graphics",APL,1,44
+middle,"Developer, game or graphics",Elixir,1,45
+middle,"Developer, mobile",JavaScript,1289,1
+middle,"Developer, mobile",HTML/CSS,1128,2
+middle,"Developer, mobile",Java,1038,3
+middle,"Developer, mobile",SQL,864,4
+middle,"Developer, mobile",TypeScript,691,5
+middle,"Developer, mobile",Python,677,6
+middle,"Developer, mobile",Kotlin,568,7
+middle,"Developer, mobile",PHP,559,8
+middle,"Developer, mobile",Dart,535,9
+middle,"Developer, mobile",C#,524,10
+middle,"Developer, mobile",C++,414,11
+middle,"Developer, mobile",C,383,12
+middle,"Developer, mobile",Swift,380,13
+middle,"Developer, mobile",Node.js,260,14
+middle,"Developer, mobile",Objective-C,168,15
+middle,"Developer, mobile",Bash/Shell/PowerShell,147,16
+middle,"Developer, mobile",Bash/Shell,143,17
+middle,"Developer, mobile",Go,111,18
+middle,"Developer, mobile",Ruby,96,19
+middle,"Developer, mobile",Assembly,86,20
+middle,"Developer, mobile",VBA,80,21
+middle,"Developer, mobile",PowerShell,67,22
+middle,"Developer, mobile",R,60,23
+middle,"Developer, mobile",Rust,52,24
+middle,"Developer, mobile",Groovy,37,25
+middle,"Developer, mobile",MATLAB,30,26
+middle,"Developer, mobile",Haskell,25,27
+middle,"Developer, mobile",Matlab,23,28
+middle,"Developer, mobile",Scala,17,29
+middle,"Developer, mobile",Lua,16,30
+middle,"Developer, mobile",Perl,14,31
+middle,"Developer, mobile",Bash/Shell (all shells),12,32
+middle,"Developer, mobile",Solidity,12,33
+middle,"Developer, mobile",Elixir,12,34
+middle,"Developer, mobile",Julia,9,35
+middle,"Developer, mobile",F#,8,36
+middle,"Developer, mobile",Other(s):,7,37
+middle,"Developer, mobile",SAS,5,38
+middle,"Developer, mobile",Crystal,5,39
+middle,"Developer, mobile",APL,5,40
+middle,"Developer, mobile",COBOL,5,41
+middle,"Developer, mobile",Delphi,5,42
+middle,"Developer, mobile",Clojure,5,43
+middle,"Developer, mobile",Erlang,5,44
+middle,"Developer, mobile",LISP,4,45
+middle,"Developer, mobile",Lisp,1,46
+middle,"Developer, mobile",Apex,1,47
+middle,"Developer, mobile",Prolog,1,48
+middle,"Developer, mobile",OCaml,1,49
+middle,"Developer, mobile",Fortran,1,50
+middle,Educator,JavaScript,218,1
+middle,Educator,HTML/CSS,199,2
+middle,Educator,Python,156,3
+middle,Educator,SQL,145,4
+middle,Educator,Java,108,5
+middle,Educator,TypeScript,96,6
+middle,Educator,PHP,90,7
+middle,Educator,C++,80,8
+middle,Educator,C,74,9
+middle,Educator,C#,67,10
+middle,Educator,Bash/Shell/PowerShell,48,11
+middle,Educator,Node.js,39,12
+middle,Educator,Bash/Shell,37,13
+middle,Educator,Kotlin,33,14
+middle,Educator,Dart,32,15
+middle,Educator,Go,28,16
+middle,Educator,Ruby,27,17
+middle,Educator,R,21,18
+middle,Educator,Assembly,20,19
+middle,Educator,Swift,19,20
+middle,Educator,PowerShell,14,21
+middle,Educator,VBA,12,22
+middle,Educator,Rust,11,23
+middle,Educator,Objective-C,10,24
+middle,Educator,Perl,7,25
+middle,Educator,Matlab,5,26
+middle,Educator,Haskell,5,27
+middle,Educator,Clojure,4,28
+middle,Educator,Scala,4,29
+middle,Educator,Julia,4,30
+middle,Educator,Erlang,3,31
+middle,Educator,APL,2,32
+middle,Educator,Solidity,2,33
+middle,Educator,MATLAB,2,34
+middle,Educator,Lua,2,35
+middle,Educator,LISP,2,36
+middle,Educator,Elixir,2,37
+middle,Educator,F#,2,38
+middle,Educator,Groovy,2,39
+middle,Educator,Other(s):,2,40
+middle,Educator,Delphi,1,41
+middle,Educator,SAS,1,42
+middle,Educator,COBOL,1,43
+middle,"Engineer, data",Python,737,1
+middle,"Engineer, data",SQL,626,2
+middle,"Engineer, data",JavaScript,478,3
+middle,"Engineer, data",HTML/CSS,393,4
+middle,"Engineer, data",Java,294,5
+middle,"Engineer, data",Bash/Shell,184,6
+middle,"Engineer, data",TypeScript,175,7
+middle,"Engineer, data",C#,162,8
+middle,"Engineer, data",C++,147,9
+middle,"Engineer, data",R,145,10
+middle,"Engineer, data",C,142,11
+middle,"Engineer, data",Bash/Shell/PowerShell,130,12
+middle,"Engineer, data",Go,106,13
+middle,"Engineer, data",Scala,105,14
+middle,"Engineer, data",PHP,102,15
+middle,"Engineer, data",Node.js,77,16
+middle,"Engineer, data",PowerShell,69,17
+middle,"Engineer, data",VBA,62,18
+middle,"Engineer, data",Rust,51,19
+middle,"Engineer, data",Kotlin,47,20
+middle,"Engineer, data",Bash/Shell (all shells),46,21
+middle,"Engineer, data",Dart,45,22
+middle,"Engineer, data",Ruby,35,23
+middle,"Engineer, data",Assembly,32,24
+middle,"Engineer, data",Swift,26,25
+middle,"Engineer, data",Matlab,25,26
+middle,"Engineer, data",Perl,19,27
+middle,"Engineer, data",Julia,17,28
+middle,"Engineer, data",Haskell,16,29
+middle,"Engineer, data",Groovy,15,30
+middle,"Engineer, data",MATLAB,14,31
+middle,"Engineer, data",F#,9,32
+middle,"Engineer, data",Objective-C,8,33
+middle,"Engineer, data",LISP,8,34
+middle,"Engineer, data",Other(s):,8,35
+middle,"Engineer, data",Clojure,7,36
+middle,"Engineer, data",Elixir,7,37
+middle,"Engineer, data",SAS,6,38
+middle,"Engineer, data",Lua,5,39
+middle,"Engineer, data",Fortran,3,40
+middle,"Engineer, data",APL,3,41
+middle,"Engineer, data",COBOL,3,42
+middle,"Engineer, data",OCaml,2,43
+middle,"Engineer, data",Visual Basic (.Net),2,44
+middle,"Engineer, data",Crystal,2,45
+middle,"Engineer, data",Delphi,2,46
+middle,"Engineer, data",Raku,1,47
+middle,"Engineer, data",Ada,1,48
+middle,"Engineer, data",Cobol,1,49
+middle,"Engineer, data",Erlang,1,50
+middle,"Engineer, data",Solidity,1,51
+middle,"Engineer, site reliability",Python,222,1
+middle,"Engineer, site reliability",JavaScript,212,2
+middle,"Engineer, site reliability",SQL,172,3
+middle,"Engineer, site reliability",HTML/CSS,170,4
+middle,"Engineer, site reliability",TypeScript,105,5
+middle,"Engineer, site reliability",Java,101,6
+middle,"Engineer, site reliability",Go,100,7
+middle,"Engineer, site reliability",Bash/Shell,94,8
+middle,"Engineer, site reliability",PHP,60,9
+middle,"Engineer, site reliability",Bash/Shell/PowerShell,57,10
+middle,"Engineer, site reliability",C#,52,11
+middle,"Engineer, site reliability",C++,50,12
+middle,"Engineer, site reliability",C,49,13
+middle,"Engineer, site reliability",Node.js,46,14
+middle,"Engineer, site reliability",Ruby,40,15
+middle,"Engineer, site reliability",Rust,37,16
+middle,"Engineer, site reliability",PowerShell,30,17
+middle,"Engineer, site reliability",Dart,25,18
+middle,"Engineer, site reliability",R,19,19
+middle,"Engineer, site reliability",Groovy,17,20
+middle,"Engineer, site reliability",Scala,17,21
+middle,"Engineer, site reliability",Kotlin,16,22
+middle,"Engineer, site reliability",Assembly,12,23
+middle,"Engineer, site reliability",Bash/Shell (all shells),10,24
+middle,"Engineer, site reliability",VBA,9,25
+middle,"Engineer, site reliability",Elixir,8,26
+middle,"Engineer, site reliability",Swift,8,27
+middle,"Engineer, site reliability",Haskell,6,28
+middle,"Engineer, site reliability",Clojure,6,29
+middle,"Engineer, site reliability",Julia,5,30
+middle,"Engineer, site reliability",LISP,5,31
+middle,"Engineer, site reliability",Erlang,4,32
+middle,"Engineer, site reliability",Perl,4,33
+middle,"Engineer, site reliability",Matlab,4,34
+middle,"Engineer, site reliability",MATLAB,3,35
+middle,"Engineer, site reliability",Objective-C,3,36
+middle,"Engineer, site reliability",Lua,2,37
+middle,"Engineer, site reliability",F#,2,38
+middle,"Engineer, site reliability",Delphi,2,39
+middle,"Engineer, site reliability",Other(s):,2,40
+middle,"Engineer, site reliability",Lisp,1,41
+middle,"Engineer, site reliability",Zig,1,42
+middle,"Engineer, site reliability",Crystal,1,43
+middle,"Engineer, site reliability",Fortran,1,44
+middle,"Engineer, site reliability",COBOL,1,45
+middle,"Engineer, site reliability",APL,1,46
+middle,"Engineer, site reliability",Solidity,1,47
+middle,Engineering manager,JavaScript,139,1
+middle,Engineering manager,SQL,124,2
+middle,Engineering manager,HTML/CSS,122,3
+middle,Engineering manager,Python,103,4
+middle,Engineering manager,TypeScript,78,5
+middle,Engineering manager,Java,50,6
+middle,Engineering manager,Go,44,7
+middle,Engineering manager,PHP,44,8
+middle,Engineering manager,Bash/Shell,42,9
+middle,Engineering manager,C,33,10
+middle,Engineering manager,C#,33,11
+middle,Engineering manager,C++,33,12
+middle,Engineering manager,Node.js,32,13
+middle,Engineering manager,Bash/Shell/PowerShell,24,14
+middle,Engineering manager,Ruby,20,15
+middle,Engineering manager,Kotlin,18,16
+middle,Engineering manager,PowerShell,18,17
+middle,Engineering manager,Rust,15,18
+middle,Engineering manager,Swift,14,19
+middle,Engineering manager,Dart,13,20
+middle,Engineering manager,R,10,21
+middle,Engineering manager,Bash/Shell (all shells),9,22
+middle,Engineering manager,Haskell,8,23
+middle,Engineering manager,Objective-C,8,24
+middle,Engineering manager,Scala,7,25
+middle,Engineering manager,VBA,7,26
+middle,Engineering manager,Elixir,6,27
+middle,Engineering manager,Assembly,6,28
+middle,Engineering manager,MATLAB,5,29
+middle,Engineering manager,Matlab,5,30
+middle,Engineering manager,Lua,3,31
+middle,Engineering manager,Groovy,3,32
+middle,Engineering manager,Solidity,3,33
+middle,Engineering manager,F#,3,34
+middle,Engineering manager,Perl,3,35
+middle,Engineering manager,Clojure,2,36
+middle,Engineering manager,Delphi,1,37
+middle,Engineering manager,Lisp,1,38
+middle,Engineering manager,APL,1,39
+middle,Engineering manager,Erlang,1,40
+middle,Engineering manager,LISP,1,41
+middle,Engineering manager,Julia,1,42
+middle,Hardware Engineer,Python,4,1
+middle,Hardware Engineer,TypeScript,3,2
+middle,Hardware Engineer,Rust,3,3
+middle,Hardware Engineer,C++,3,4
+middle,Hardware Engineer,Dart,2,5
+middle,Hardware Engineer,MATLAB,2,6
+middle,Hardware Engineer,JavaScript,2,7
+middle,Hardware Engineer,Julia,1,8
+middle,Hardware Engineer,C,1,9
+middle,Hardware Engineer,SQL,1,10
+middle,Hardware Engineer,HTML/CSS,1,11
+middle,Hardware Engineer,Lua,1,12
+middle,Hardware Engineer,PowerShell,1,13
+middle,Marketing or sales professional,HTML/CSS,57,1
+middle,Marketing or sales professional,JavaScript,53,2
+middle,Marketing or sales professional,SQL,39,3
+middle,Marketing or sales professional,Python,30,4
+middle,Marketing or sales professional,PHP,29,5
+middle,Marketing or sales professional,TypeScript,17,6
+middle,Marketing or sales professional,Java,16,7
+middle,Marketing or sales professional,C#,13,8
+middle,Marketing or sales professional,Bash/Shell/PowerShell,10,9
+middle,Marketing or sales professional,Bash/Shell,8,10
+middle,Marketing or sales professional,C,8,11
+middle,Marketing or sales professional,Node.js,7,12
+middle,Marketing or sales professional,C++,7,13
+middle,Marketing or sales professional,R,7,14
+middle,Marketing or sales professional,Kotlin,6,15
+middle,Marketing or sales professional,PowerShell,6,16
+middle,Marketing or sales professional,VBA,5,17
+middle,Marketing or sales professional,Dart,5,18
+middle,Marketing or sales professional,Swift,4,19
+middle,Marketing or sales professional,Assembly,3,20
+middle,Marketing or sales professional,Objective-C,3,21
+middle,Marketing or sales professional,Go,3,22
+middle,Marketing or sales professional,Ruby,2,23
+middle,Marketing or sales professional,MATLAB,2,24
+middle,Marketing or sales professional,Solidity,1,25
+middle,Marketing or sales professional,Lua,1,26
+middle,Marketing or sales professional,COBOL,1,27
+middle,Marketing or sales professional,Perl,1,28
+middle,Marketing or sales professional,Clojure,1,29
+middle,Marketing or sales professional,Rust,1,30
+middle,Marketing or sales professional,Scala,1,31
+middle,Other (please specify):,Python,134,1
+middle,Other (please specify):,JavaScript,123,2
+middle,Other (please specify):,SQL,104,3
+middle,Other (please specify):,HTML/CSS,99,4
+middle,Other (please specify):,TypeScript,63,5
+middle,Other (please specify):,Java,53,6
+middle,Other (please specify):,Bash/Shell,50,7
+middle,Other (please specify):,C++,40,8
+middle,Other (please specify):,PHP,38,9
+middle,Other (please specify):,C#,34,10
+middle,Other (please specify):,PowerShell,33,11
+middle,Other (please specify):,C,32,12
+middle,Other (please specify):,Bash/Shell (all shells),29,13
+middle,Other (please specify):,Go,26,14
+middle,Other (please specify):,Node.js,25,15
+middle,Other (please specify):,Rust,18,16
+middle,Other (please specify):,R,17,17
+middle,Other (please specify):,Dart,16,18
+middle,Other (please specify):,Kotlin,15,19
+middle,Other (please specify):,VBA,14,20
+middle,Other (please specify):,Matlab,11,21
+middle,Other (please specify):,Ruby,9,22
+middle,Other (please specify):,Assembly,8,23
+middle,Other (please specify):,Elixir,8,24
+middle,Other (please specify):,Groovy,8,25
+middle,Other (please specify):,MATLAB,7,26
+middle,Other (please specify):,Scala,6,27
+middle,Other (please specify):,Haskell,5,28
+middle,Other (please specify):,Swift,4,29
+middle,Other (please specify):,Perl,4,30
+middle,Other (please specify):,Erlang,3,31
+middle,Other (please specify):,Julia,3,32
+middle,Other (please specify):,Lua,3,33
+middle,Other (please specify):,Objective-C,3,34
+middle,Other (please specify):,Clojure,2,35
+middle,Other (please specify):,Delphi,2,36
+middle,Other (please specify):,Apex,2,37
+middle,Other (please specify):,F#,2,38
+middle,Other (please specify):,Solidity,2,39
+middle,Other (please specify):,Flow,1,40
+middle,Other (please specify):,Visual Basic (.Net),1,41
+middle,Other (please specify):,Crystal,1,42
+middle,Other (please specify):,GDScript,1,43
+middle,Other (please specify):,Zig,1,44
+middle,Other (please specify):,Cobol,1,45
+middle,Other (please specify):,Fortran,1,46
+middle,Other (please specify):,LISP,1,47
+middle,Product manager,JavaScript,220,1
+middle,Product manager,HTML/CSS,202,2
+middle,Product manager,SQL,163,3
+middle,Product manager,Python,139,4
+middle,Product manager,TypeScript,105,5
+middle,Product manager,PHP,90,6
+middle,Product manager,C#,80,7
+middle,Product manager,Java,77,8
+middle,Product manager,C++,62,9
+middle,Product manager,Node.js,56,10
+middle,Product manager,C,53,11
+middle,Product manager,Bash/Shell,43,12
+middle,Product manager,Bash/Shell/PowerShell,33,13
+middle,Product manager,Go,32,14
+middle,Product manager,Dart,29,15
+middle,Product manager,Kotlin,23,16
+middle,Product manager,VBA,22,17
+middle,Product manager,PowerShell,22,18
+middle,Product manager,Ruby,21,19
+middle,Product manager,Swift,19,20
+middle,Product manager,Rust,16,21
+middle,Product manager,R,15,22
+middle,Product manager,Assembly,11,23
+middle,Product manager,Objective-C,9,24
+middle,Product manager,MATLAB,5,25
+middle,Product manager,Haskell,5,26
+middle,Product manager,Solidity,4,27
+middle,Product manager,Matlab,4,28
+middle,Product manager,Other(s):,4,29
+middle,Product manager,Clojure,3,30
+middle,Product manager,APL,3,31
+middle,Product manager,Scala,3,32
+middle,Product manager,Lua,2,33
+middle,Product manager,Groovy,2,34
+middle,Product manager,Elixir,2,35
+middle,Product manager,Perl,2,36
+middle,Product manager,Apex,1,37
+middle,Product manager,COBOL,1,38
+middle,Product manager,LISP,1,39
+middle,Project manager,JavaScript,87,1
+middle,Project manager,SQL,80,2
+middle,Project manager,HTML/CSS,75,3
+middle,Project manager,Python,62,4
+middle,Project manager,TypeScript,45,5
+middle,Project manager,PHP,41,6
+middle,Project manager,Bash/Shell,35,7
+middle,Project manager,Java,34,8
+middle,Project manager,C#,31,9
+middle,Project manager,C++,20,10
+middle,Project manager,C,19,11
+middle,Project manager,Dart,17,12
+middle,Project manager,PowerShell,15,13
+middle,Project manager,Go,14,14
+middle,Project manager,Kotlin,13,15
+middle,Project manager,R,11,16
+middle,Project manager,Swift,10,17
+middle,Project manager,MATLAB,10,18
+middle,Project manager,VBA,8,19
+middle,Project manager,Ruby,8,20
+middle,Project manager,Assembly,7,21
+middle,Project manager,Rust,5,22
+middle,Project manager,Solidity,4,23
+middle,Project manager,Haskell,3,24
+middle,Project manager,Perl,2,25
+middle,Project manager,Lua,2,26
+middle,Project manager,Objective-C,2,27
+middle,Project manager,Elixir,2,28
+middle,Project manager,Ada,1,29
+middle,Project manager,Visual Basic (.Net),1,30
+middle,Project manager,COBOL,1,31
+middle,Project manager,Groovy,1,32
+middle,Project manager,Julia,1,33
+middle,Project manager,APL,1,34
+middle,Project manager,SAS,1,35
+middle,Project manager,Delphi,1,36
+middle,Research & Development role,Python,18,1
+middle,Research & Development role,HTML/CSS,15,2
+middle,Research & Development role,JavaScript,15,3
+middle,Research & Development role,SQL,12,4
+middle,Research & Development role,C#,11,5
+middle,Research & Development role,TypeScript,11,6
+middle,Research & Development role,C,9,7
+middle,Research & Development role,Bash/Shell (all shells),8,8
+middle,Research & Development role,PowerShell,7,9
+middle,Research & Development role,Java,7,10
+middle,Research & Development role,C++,6,11
+middle,Research & Development role,Go,5,12
+middle,Research & Development role,PHP,4,13
+middle,Research & Development role,Rust,4,14
+middle,Research & Development role,Assembly,3,15
+middle,Research & Development role,Kotlin,3,16
+middle,Research & Development role,Dart,3,17
+middle,Research & Development role,R,3,18
+middle,Research & Development role,Visual Basic (.Net),2,19
+middle,Research & Development role,F#,2,20
+middle,Research & Development role,VBA,2,21
+middle,Research & Development role,Lua,2,22
+middle,Research & Development role,OCaml,2,23
+middle,Research & Development role,Erlang,1,24
+middle,Research & Development role,Elixir,1,25
+middle,Research & Development role,Swift,1,26
+middle,Research & Development role,Solidity,1,27
+middle,Research & Development role,SAS,1,28
+middle,Scientist,Python,137,1
+middle,Scientist,SQL,100,2
+middle,Scientist,HTML/CSS,100,3
+middle,Scientist,JavaScript,95,4
+middle,Scientist,C++,67,5
+middle,Scientist,Java,60,6
+middle,Scientist,R,52,7
+middle,Scientist,Bash/Shell/PowerShell,50,8
+middle,Scientist,C,49,9
+middle,Scientist,C#,36,10
+middle,Scientist,TypeScript,33,11
+middle,Scientist,PHP,33,12
+middle,Scientist,Bash/Shell,26,13
+middle,Scientist,Assembly,21,14
+middle,Scientist,Go,20,15
+middle,Scientist,Node.js,16,16
+middle,Scientist,Matlab,14,17
+middle,Scientist,VBA,13,18
+middle,Scientist,Rust,13,19
+middle,Scientist,Ruby,10,20
+middle,Scientist,PowerShell,10,21
+middle,Scientist,Julia,9,22
+middle,Scientist,Kotlin,8,23
+middle,Scientist,Scala,8,24
+middle,Scientist,MATLAB,7,25
+middle,Scientist,Dart,7,26
+middle,Scientist,Haskell,6,27
+middle,Scientist,Objective-C,5,28
+middle,Scientist,Other(s):,5,29
+middle,Scientist,Swift,4,30
+middle,Scientist,F#,3,31
+middle,Scientist,Lua,2,32
+middle,Scientist,Bash/Shell (all shells),2,33
+middle,Scientist,Perl,2,34
+middle,Scientist,Elixir,2,35
+middle,Scientist,LISP,2,36
+middle,Scientist,Solidity,1,37
+middle,Scientist,APL,1,38
+middle,Scientist,Visual Basic (.Net),1,39
+middle,Scientist,Groovy,1,40
+middle,Scientist,Erlang,1,41
+middle,Scientist,Clojure,1,42
+middle,Security professional,Python,52,1
+middle,Security professional,JavaScript,47,2
+middle,Security professional,SQL,41,3
+middle,Security professional,HTML/CSS,34,4
+middle,Security professional,Bash/Shell,34,5
+middle,Security professional,TypeScript,28,6
+middle,Security professional,Java,23,7
+middle,Security professional,C,20,8
+middle,Security professional,Go,18,9
+middle,Security professional,PowerShell,17,10
+middle,Security professional,C#,17,11
+middle,Security professional,C++,16,12
+middle,Security professional,PHP,13,13
+middle,Security professional,Ruby,8,14
+middle,Security professional,Assembly,7,15
+middle,Security professional,Rust,7,16
+middle,Security professional,Bash/Shell (all shells),6,17
+middle,Security professional,Dart,5,18
+middle,Security professional,Kotlin,5,19
+middle,Security professional,Groovy,4,20
+middle,Security professional,VBA,3,21
+middle,Security professional,Haskell,3,22
+middle,Security professional,Scala,3,23
+middle,Security professional,Objective-C,3,24
+middle,Security professional,R,3,25
+middle,Security professional,MATLAB,3,26
+middle,Security professional,Visual Basic (.Net),2,27
+middle,Security professional,Solidity,2,28
+middle,Security professional,Perl,2,29
+middle,Security professional,Lua,2,30
+middle,Security professional,Ada,1,31
+middle,Security professional,COBOL,1,32
+middle,Security professional,Erlang,1,33
+middle,Security professional,Crystal,1,34
+middle,Security professional,Swift,1,35
+middle,Security professional,Elixir,1,36
+middle,"Senior Executive (C-Suite, VP, etc.)",JavaScript,51,1
+middle,"Senior Executive (C-Suite, VP, etc.)",HTML/CSS,49,2
+middle,"Senior Executive (C-Suite, VP, etc.)",Python,43,3
+middle,"Senior Executive (C-Suite, VP, etc.)",SQL,38,4
+middle,"Senior Executive (C-Suite, VP, etc.)",TypeScript,33,5
+middle,"Senior Executive (C-Suite, VP, etc.)",Bash/Shell,21,6
+middle,"Senior Executive (C-Suite, VP, etc.)",Node.js,21,7
+middle,"Senior Executive (C-Suite, VP, etc.)",Java,18,8
+middle,"Senior Executive (C-Suite, VP, etc.)",PHP,18,9
+middle,"Senior Executive (C-Suite, VP, etc.)",C++,15,10
+middle,"Senior Executive (C-Suite, VP, etc.)",Dart,13,11
+middle,"Senior Executive (C-Suite, VP, etc.)",C,12,12
+middle,"Senior Executive (C-Suite, VP, etc.)",Go,11,13
+middle,"Senior Executive (C-Suite, VP, etc.)",C#,11,14
+middle,"Senior Executive (C-Suite, VP, etc.)",PowerShell,10,15
+middle,"Senior Executive (C-Suite, VP, etc.)",Bash/Shell (all shells),7,16
+middle,"Senior Executive (C-Suite, VP, etc.)",Assembly,7,17
+middle,"Senior Executive (C-Suite, VP, etc.)",Kotlin,6,18
+middle,"Senior Executive (C-Suite, VP, etc.)",Rust,5,19
+middle,"Senior Executive (C-Suite, VP, etc.)",R,4,20
+middle,"Senior Executive (C-Suite, VP, etc.)",Swift,4,21
+middle,"Senior Executive (C-Suite, VP, etc.)",Elixir,3,22
+middle,"Senior Executive (C-Suite, VP, etc.)",Ruby,3,23
+middle,"Senior Executive (C-Suite, VP, etc.)",Objective-C,3,24
+middle,"Senior Executive (C-Suite, VP, etc.)",VBA,2,25
+middle,"Senior Executive (C-Suite, VP, etc.)",Lua,2,26
+middle,"Senior Executive (C-Suite, VP, etc.)",Haskell,2,27
+middle,"Senior Executive (C-Suite, VP, etc.)",Matlab,2,28
+middle,"Senior Executive (C-Suite, VP, etc.)",Solidity,1,29
+middle,"Senior Executive (C-Suite, VP, etc.)",Delphi,1,30
+middle,"Senior Executive (C-Suite, VP, etc.)",Groovy,1,31
+middle,"Senior Executive (C-Suite, VP, etc.)",MATLAB,1,32
+middle,"Senior Executive (C-Suite, VP, etc.)",Clojure,1,33
+middle,"Senior Executive (C-Suite, VP, etc.)",Perl,1,34
+middle,"Senior Executive (C-Suite, VP, etc.)",Scala,1,35
+middle,"Senior Executive (C-Suite, VP, etc.)",LISP,1,36
+middle,Senior executive/VP,HTML/CSS,18,1
+middle,Senior executive/VP,JavaScript,18,2
+middle,Senior executive/VP,SQL,14,3
+middle,Senior executive/VP,Python,13,4
+middle,Senior executive/VP,Bash/Shell/PowerShell,10,5
+middle,Senior executive/VP,PHP,8,6
+middle,Senior executive/VP,Java,7,7
+middle,Senior executive/VP,TypeScript,7,8
+middle,Senior executive/VP,C,7,9
+middle,Senior executive/VP,C++,6,10
+middle,Senior executive/VP,C#,6,11
+middle,Senior executive/VP,Kotlin,4,12
+middle,Senior executive/VP,Dart,3,13
+middle,Senior executive/VP,Swift,3,14
+middle,Senior executive/VP,Go,2,15
+middle,Senior executive/VP,R,1,16
+middle,Senior executive/VP,VBA,1,17
+middle,Senior executive/VP,WebAssembly,1,18
+middle,Senior executive/VP,Objective-C,1,19
+middle,Senior executive/VP,Ruby,1,20
+middle,Senior executive/VP,Assembly,1,21
+middle,Senior executive/VP,Scala,1,22
+middle,Senior executive/VP,Other(s):,1,23
+middle,Student,JavaScript,454,1
+middle,Student,HTML/CSS,420,2
+middle,Student,SQL,353,3
+middle,Student,Python,352,4
+middle,Student,Java,322,5
+middle,Student,C#,232,6
+middle,Student,TypeScript,224,7
+middle,Student,C++,213,8
+middle,Student,C,185,9
+middle,Student,PHP,183,10
+middle,Student,Node.js,129,11
+middle,Student,Bash/Shell,99,12
+middle,Student,Bash/Shell/PowerShell,73,13
+middle,Student,Kotlin,72,14
+middle,Student,Dart,70,15
+middle,Student,Assembly,65,16
+middle,Student,Go,61,17
+middle,Student,PowerShell,51,18
+middle,Student,Swift,45,19
+middle,Student,Ruby,44,20
+middle,Student,VBA,41,21
+middle,Student,Rust,37,22
+middle,Student,R,37,23
+middle,Student,Matlab,28,24
+middle,Student,Objective-C,24,25
+middle,Student,Other(s):,19,26
+middle,Student,Haskell,13,27
+middle,Student,F#,13,28
+middle,Student,MATLAB,11,29
+middle,Student,Groovy,11,30
+middle,Student,Scala,6,31
+middle,Student,LISP,6,32
+middle,Student,Elixir,6,33
+middle,Student,Lua,4,34
+middle,Student,Erlang,4,35
+middle,Student,Julia,4,36
+middle,Student,Clojure,4,37
+middle,Student,SAS,3,38
+middle,Student,COBOL,2,39
+middle,Student,Perl,2,40
+middle,Student,Bash/Shell (all shells),1,41
+middle,Student,Solidity,1,42
+middle,Student,APL,1,43
+middle,Student,Crystal,1,44
+middle,Student,WebAssembly,1,45
+middle,System administrator,JavaScript,460,1
+middle,System administrator,HTML/CSS,426,2
+middle,System administrator,SQL,414,3
+middle,System administrator,Python,392,4
+middle,System administrator,PHP,228,5
+middle,System administrator,Java,210,6
+middle,System administrator,C#,188,7
+middle,System administrator,TypeScript,181,8
+middle,System administrator,Bash/Shell/PowerShell,152,9
+middle,System administrator,C++,147,10
+middle,System administrator,Bash/Shell,139,11
+middle,System administrator,C,133,12
+middle,System administrator,Go,91,13
+middle,System administrator,Node.js,90,14
+middle,System administrator,PowerShell,87,15
+middle,System administrator,VBA,52,16
+middle,System administrator,Dart,50,17
+middle,System administrator,Rust,49,18
+middle,System administrator,Ruby,45,19
+middle,System administrator,Kotlin,37,20
+middle,System administrator,Assembly,36,21
+middle,System administrator,R,35,22
+middle,System administrator,Swift,28,23
+middle,System administrator,Groovy,19,24
+middle,System administrator,Perl,17,25
+middle,System administrator,Objective-C,15,26
+middle,System administrator,Bash/Shell (all shells),12,27
+middle,System administrator,Lua,11,28
+middle,System administrator,Haskell,11,29
+middle,System administrator,Matlab,10,30
+middle,System administrator,Other(s):,10,31
+middle,System administrator,Scala,8,32
+middle,System administrator,MATLAB,7,33
+middle,System administrator,Elixir,6,34
+middle,System administrator,LISP,5,35
+middle,System administrator,Clojure,5,36
+middle,System administrator,Erlang,4,37
+middle,System administrator,F#,4,38
+middle,System administrator,Solidity,4,39
+middle,System administrator,Visual Basic (.Net),3,40
+middle,System administrator,Julia,3,41
+middle,System administrator,APL,3,42
+middle,System administrator,COBOL,2,43
+middle,System administrator,GDScript,1,44
+middle,System administrator,Crystal,1,45
+middle,System administrator,Delphi,1,46

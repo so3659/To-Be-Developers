@@ -1,0 +1,1763 @@
+YearsGroup,DevType,Language,Count,Rank
+senior,Academic researcher,Python,1454,1
+senior,Academic researcher,JavaScript,1337,2
+senior,Academic researcher,HTML/CSS,1235,3
+senior,Academic researcher,SQL,1184,4
+senior,Academic researcher,Java,833,5
+senior,Academic researcher,C++,801,6
+senior,Academic researcher,C,706,7
+senior,Academic researcher,Bash/Shell/PowerShell,607,8
+senior,Academic researcher,PHP,538,9
+senior,Academic researcher,C#,515,10
+senior,Academic researcher,TypeScript,503,11
+senior,Academic researcher,R,403,12
+senior,Academic researcher,Bash/Shell,342,13
+senior,Academic researcher,Go,252,14
+senior,Academic researcher,Assembly,192,15
+senior,Academic researcher,Ruby,183,16
+senior,Academic researcher,Rust,178,17
+senior,Academic researcher,Node.js,163,18
+senior,Academic researcher,Kotlin,146,19
+senior,Academic researcher,VBA,145,20
+senior,Academic researcher,PowerShell,129,21
+senior,Academic researcher,Scala,123,22
+senior,Academic researcher,Swift,103,23
+senior,Academic researcher,Objective-C,94,24
+senior,Academic researcher,Dart,93,25
+senior,Academic researcher,Perl,81,26
+senior,Academic researcher,Other(s):,78,27
+senior,Academic researcher,Matlab,75,28
+senior,Academic researcher,Haskell,67,29
+senior,Academic researcher,Julia,58,30
+senior,Academic researcher,MATLAB,57,31
+senior,Academic researcher,Bash/Shell (all shells),35,32
+senior,Academic researcher,Groovy,27,33
+senior,Academic researcher,Erlang,25,34
+senior,Academic researcher,Delphi,25,35
+senior,Academic researcher,LISP,24,36
+senior,Academic researcher,Elixir,20,37
+senior,Academic researcher,Lua,20,38
+senior,Academic researcher,Clojure,19,39
+senior,Academic researcher,F#,16,40
+senior,Academic researcher,Fortran,11,41
+senior,Academic researcher,Crystal,10,42
+senior,Academic researcher,APL,8,43
+senior,Academic researcher,Solidity,8,44
+senior,Academic researcher,SAS,7,45
+senior,Academic researcher,COBOL,7,46
+senior,Academic researcher,OCaml,6,47
+senior,Academic researcher,WebAssembly,6,48
+senior,Academic researcher,Prolog,3,49
+senior,Academic researcher,Nim,3,50
+senior,Academic researcher,Lisp,2,51
+senior,Academic researcher,Visual Basic (.Net),2,52
+senior,Academic researcher,Cobol,1,53
+senior,Blockchain,JavaScript,328,1
+senior,Blockchain,TypeScript,262,2
+senior,Blockchain,Python,216,3
+senior,Blockchain,SQL,210,4
+senior,Blockchain,HTML/CSS,207,5
+senior,Blockchain,Solidity,139,6
+senior,Blockchain,Java,132,7
+senior,Blockchain,Bash/Shell,128,8
+senior,Blockchain,Go,119,9
+senior,Blockchain,Rust,114,10
+senior,Blockchain,PHP,88,11
+senior,Blockchain,C++,88,12
+senior,Blockchain,C#,84,13
+senior,Blockchain,C,77,14
+senior,Blockchain,Kotlin,58,15
+senior,Blockchain,PowerShell,54,16
+senior,Blockchain,Ruby,41,17
+senior,Blockchain,Bash/Shell (all shells),34,18
+senior,Blockchain,Swift,32,19
+senior,Blockchain,Dart,32,20
+senior,Blockchain,Groovy,27,21
+senior,Blockchain,Assembly,26,22
+senior,Blockchain,Haskell,25,23
+senior,Blockchain,Lua,24,24
+senior,Blockchain,Scala,23,25
+senior,Blockchain,Objective-C,21,26
+senior,Blockchain,R,19,27
+senior,Blockchain,MATLAB,19,28
+senior,Blockchain,Elixir,19,29
+senior,Blockchain,Perl,16,30
+senior,Blockchain,Clojure,14,31
+senior,Blockchain,OCaml,13,32
+senior,Blockchain,VBA,11,33
+senior,Blockchain,Julia,10,34
+senior,Blockchain,Delphi,10,35
+senior,Blockchain,Erlang,9,36
+senior,Blockchain,LISP,9,37
+senior,Blockchain,F#,8,38
+senior,Blockchain,SAS,7,39
+senior,Blockchain,COBOL,5,40
+senior,Blockchain,Crystal,5,41
+senior,Blockchain,Fortran,4,42
+senior,Blockchain,APL,3,43
+senior,Blockchain,Apex,2,44
+senior,Blockchain,GDScript,1,45
+senior,Blockchain,Cobol,1,46
+senior,Cloud infrastructure engineer,JavaScript,1944,1
+senior,Cloud infrastructure engineer,SQL,1723,2
+senior,Cloud infrastructure engineer,Python,1709,3
+senior,Cloud infrastructure engineer,HTML/CSS,1451,4
+senior,Cloud infrastructure engineer,TypeScript,1330,5
+senior,Cloud infrastructure engineer,Bash/Shell,1308,6
+senior,Cloud infrastructure engineer,Java,1010,7
+senior,Cloud infrastructure engineer,Go,863,8
+senior,Cloud infrastructure engineer,C#,846,9
+senior,Cloud infrastructure engineer,PowerShell,595,10
+senior,Cloud infrastructure engineer,PHP,493,11
+senior,Cloud infrastructure engineer,C++,420,12
+senior,Cloud infrastructure engineer,Rust,403,13
+senior,Cloud infrastructure engineer,C,364,14
+senior,Cloud infrastructure engineer,Bash/Shell (all shells),304,15
+senior,Cloud infrastructure engineer,Ruby,299,16
+senior,Cloud infrastructure engineer,Kotlin,279,17
+senior,Cloud infrastructure engineer,Groovy,259,18
+senior,Cloud infrastructure engineer,Scala,176,19
+senior,Cloud infrastructure engineer,Lua,151,20
+senior,Cloud infrastructure engineer,Dart,134,21
+senior,Cloud infrastructure engineer,Swift,119,22
+senior,Cloud infrastructure engineer,Assembly,104,23
+senior,Cloud infrastructure engineer,Elixir,96,24
+senior,Cloud infrastructure engineer,Perl,95,25
+senior,Cloud infrastructure engineer,VBA,84,26
+senior,Cloud infrastructure engineer,Objective-C,75,27
+senior,Cloud infrastructure engineer,R,74,28
+senior,Cloud infrastructure engineer,Clojure,67,29
+senior,Cloud infrastructure engineer,MATLAB,53,30
+senior,Cloud infrastructure engineer,Delphi,52,31
+senior,Cloud infrastructure engineer,Erlang,51,32
+senior,Cloud infrastructure engineer,F#,50,33
+senior,Cloud infrastructure engineer,Solidity,49,34
+senior,Cloud infrastructure engineer,Haskell,40,35
+senior,Cloud infrastructure engineer,Julia,35,36
+senior,Cloud infrastructure engineer,LISP,33,37
+senior,Cloud infrastructure engineer,Crystal,16,38
+senior,Cloud infrastructure engineer,COBOL,12,39
+senior,Cloud infrastructure engineer,Fortran,11,40
+senior,Cloud infrastructure engineer,OCaml,10,41
+senior,Cloud infrastructure engineer,SAS,10,42
+senior,Cloud infrastructure engineer,APL,9,43
+senior,Cloud infrastructure engineer,Visual Basic (.Net),9,44
+senior,Cloud infrastructure engineer,Lisp,8,45
+senior,Cloud infrastructure engineer,GDScript,6,46
+senior,Cloud infrastructure engineer,Zig,5,47
+senior,Cloud infrastructure engineer,Cobol,3,48
+senior,Cloud infrastructure engineer,Prolog,3,49
+senior,Cloud infrastructure engineer,Nim,3,50
+senior,Cloud infrastructure engineer,Ada,2,51
+senior,Cloud infrastructure engineer,Flow,1,52
+senior,Cloud infrastructure engineer,Raku,1,53
+senior,Cloud infrastructure engineer,Apex,1,54
+senior,Data or business analyst,SQL,2971,1
+senior,Data or business analyst,JavaScript,2405,2
+senior,Data or business analyst,HTML/CSS,2213,3
+senior,Data or business analyst,Python,2144,4
+senior,Data or business analyst,C#,1301,5
+senior,Data or business analyst,Java,1146,6
+senior,Data or business analyst,TypeScript,941,7
+senior,Data or business analyst,PHP,931,8
+senior,Data or business analyst,Bash/Shell/PowerShell,722,9
+senior,Data or business analyst,Bash/Shell,705,10
+senior,Data or business analyst,C++,628,11
+senior,Data or business analyst,R,615,12
+senior,Data or business analyst,VBA,608,13
+senior,Data or business analyst,C,532,14
+senior,Data or business analyst,PowerShell,442,15
+senior,Data or business analyst,Node.js,361,16
+senior,Data or business analyst,Go,313,17
+senior,Data or business analyst,Ruby,246,18
+senior,Data or business analyst,Scala,215,19
+senior,Data or business analyst,Kotlin,198,20
+senior,Data or business analyst,Assembly,160,21
+senior,Data or business analyst,Perl,156,22
+senior,Data or business analyst,Swift,146,23
+senior,Data or business analyst,Rust,144,24
+senior,Data or business analyst,Dart,129,25
+senior,Data or business analyst,Delphi,122,26
+senior,Data or business analyst,Objective-C,107,27
+senior,Data or business analyst,Groovy,73,28
+senior,Data or business analyst,Julia,64,29
+senior,Data or business analyst,Haskell,57,30
+senior,Data or business analyst,Matlab,53,31
+senior,Data or business analyst,F#,43,32
+senior,Data or business analyst,MATLAB,43,33
+senior,Data or business analyst,Elixir,42,34
+senior,Data or business analyst,Other(s):,38,35
+senior,Data or business analyst,Clojure,36,36
+senior,Data or business analyst,Bash/Shell (all shells),34,37
+senior,Data or business analyst,LISP,30,38
+senior,Data or business analyst,Erlang,25,39
+senior,Data or business analyst,SAS,24,40
+senior,Data or business analyst,COBOL,21,41
+senior,Data or business analyst,Lua,20,42
+senior,Data or business analyst,Fortran,18,43
+senior,Data or business analyst,Crystal,17,44
+senior,Data or business analyst,Solidity,14,45
+senior,Data or business analyst,APL,13,46
+senior,Data or business analyst,Visual Basic (.Net),7,47
+senior,Data or business analyst,WebAssembly,5,48
+senior,Data or business analyst,OCaml,4,49
+senior,Data or business analyst,Prolog,1,50
+senior,Data or business analyst,Apex,1,51
+senior,Data or business analyst,Cobol,1,52
+senior,Data scientist or machine learning specialist,Python,3642,1
+senior,Data scientist or machine learning specialist,SQL,2773,2
+senior,Data scientist or machine learning specialist,JavaScript,2223,3
+senior,Data scientist or machine learning specialist,HTML/CSS,1982,4
+senior,Data scientist or machine learning specialist,Java,1321,5
+senior,Data scientist or machine learning specialist,C++,1124,6
+senior,Data scientist or machine learning specialist,R,1120,7
+senior,Data scientist or machine learning specialist,Bash/Shell/PowerShell,891,8
+senior,Data scientist or machine learning specialist,TypeScript,846,9
+senior,Data scientist or machine learning specialist,C,844,10
+senior,Data scientist or machine learning specialist,C#,833,11
+senior,Data scientist or machine learning specialist,Bash/Shell,832,12
+senior,Data scientist or machine learning specialist,PHP,594,13
+senior,Data scientist or machine learning specialist,Go,524,14
+senior,Data scientist or machine learning specialist,Scala,456,15
+senior,Data scientist or machine learning specialist,Rust,353,16
+senior,Data scientist or machine learning specialist,PowerShell,346,17
+senior,Data scientist or machine learning specialist,Node.js,336,18
+senior,Data scientist or machine learning specialist,VBA,326,19
+senior,Data scientist or machine learning specialist,Ruby,264,20
+senior,Data scientist or machine learning specialist,Kotlin,250,21
+senior,Data scientist or machine learning specialist,Assembly,218,22
+senior,Data scientist or machine learning specialist,Swift,176,23
+senior,Data scientist or machine learning specialist,Bash/Shell (all shells),173,24
+senior,Data scientist or machine learning specialist,Julia,151,25
+senior,Data scientist or machine learning specialist,Dart,134,26
+senior,Data scientist or machine learning specialist,Perl,134,27
+senior,Data scientist or machine learning specialist,Haskell,119,28
+senior,Data scientist or machine learning specialist,Matlab,117,29
+senior,Data scientist or machine learning specialist,Objective-C,115,30
+senior,Data scientist or machine learning specialist,MATLAB,106,31
+senior,Data scientist or machine learning specialist,Groovy,81,32
+senior,Data scientist or machine learning specialist,Clojure,73,33
+senior,Data scientist or machine learning specialist,Other(s):,65,34
+senior,Data scientist or machine learning specialist,Elixir,61,35
+senior,Data scientist or machine learning specialist,Lua,57,36
+senior,Data scientist or machine learning specialist,SAS,47,37
+senior,Data scientist or machine learning specialist,Delphi,46,38
+senior,Data scientist or machine learning specialist,LISP,45,39
+senior,Data scientist or machine learning specialist,F#,42,40
+senior,Data scientist or machine learning specialist,Erlang,39,41
+senior,Data scientist or machine learning specialist,Solidity,23,42
+senior,Data scientist or machine learning specialist,Fortran,16,43
+senior,Data scientist or machine learning specialist,COBOL,15,44
+senior,Data scientist or machine learning specialist,Visual Basic (.Net),11,45
+senior,Data scientist or machine learning specialist,Crystal,11,46
+senior,Data scientist or machine learning specialist,APL,10,47
+senior,Data scientist or machine learning specialist,OCaml,10,48
+senior,Data scientist or machine learning specialist,Lisp,7,49
+senior,Data scientist or machine learning specialist,Prolog,7,50
+senior,Data scientist or machine learning specialist,GDScript,5,51
+senior,Data scientist or machine learning specialist,WebAssembly,5,52
+senior,Data scientist or machine learning specialist,Zig,2,53
+senior,Data scientist or machine learning specialist,Apex,1,54
+senior,Data scientist or machine learning specialist,Ada,1,55
+senior,Database administrator,SQL,5146,1
+senior,Database administrator,JavaScript,4894,2
+senior,Database administrator,HTML/CSS,4480,3
+senior,Database administrator,Python,2835,4
+senior,Database administrator,C#,2621,5
+senior,Database administrator,PHP,2368,6
+senior,Database administrator,TypeScript,2153,7
+senior,Database administrator,Java,2043,8
+senior,Database administrator,Bash/Shell,1418,9
+senior,Database administrator,Bash/Shell/PowerShell,1370,10
+senior,Database administrator,C++,1140,11
+senior,Database administrator,C,1034,12
+senior,Database administrator,PowerShell,829,13
+senior,Database administrator,Node.js,826,14
+senior,Database administrator,Go,805,15
+senior,Database administrator,VBA,674,16
+senior,Database administrator,Ruby,553,17
+senior,Database administrator,Kotlin,415,18
+senior,Database administrator,Rust,364,19
+senior,Database administrator,Swift,348,20
+senior,Database administrator,Perl,341,21
+senior,Database administrator,R,328,22
+senior,Database administrator,Dart,322,23
+senior,Database administrator,Assembly,318,24
+senior,Database administrator,Objective-C,249,25
+senior,Database administrator,Delphi,188,26
+senior,Database administrator,Scala,186,27
+senior,Database administrator,Elixir,125,28
+senior,Database administrator,Groovy,121,29
+senior,Database administrator,Haskell,98,30
+senior,Database administrator,Clojure,85,31
+senior,Database administrator,F#,73,32
+senior,Database administrator,Erlang,73,33
+senior,Database administrator,Lua,68,34
+senior,Database administrator,Other(s):,62,35
+senior,Database administrator,Matlab,57,36
+senior,Database administrator,Crystal,49,37
+senior,Database administrator,LISP,43,38
+senior,Database administrator,MATLAB,42,39
+senior,Database administrator,Julia,36,40
+senior,Database administrator,COBOL,31,41
+senior,Database administrator,Bash/Shell (all shells),28,42
+senior,Database administrator,Solidity,28,43
+senior,Database administrator,Fortran,17,44
+senior,Database administrator,SAS,14,45
+senior,Database administrator,APL,14,46
+senior,Database administrator,WebAssembly,11,47
+senior,Database administrator,Apex,8,48
+senior,Database administrator,OCaml,8,49
+senior,Database administrator,Visual Basic (.Net),6,50
+senior,Database administrator,Lisp,3,51
+senior,Database administrator,Cobol,1,52
+senior,Designer,JavaScript,3173,1
+senior,Designer,HTML/CSS,2937,2
+senior,Designer,SQL,2636,3
+senior,Designer,C#,1596,4
+senior,Designer,Python,1511,5
+senior,Designer,TypeScript,1494,6
+senior,Designer,PHP,1398,7
+senior,Designer,Java,1370,8
+senior,Designer,C++,850,9
+senior,Designer,Bash/Shell/PowerShell,759,10
+senior,Designer,C,735,11
+senior,Designer,Bash/Shell,646,12
+senior,Designer,Node.js,568,13
+senior,Designer,PowerShell,421,14
+senior,Designer,VBA,374,15
+senior,Designer,Go,335,16
+senior,Designer,Kotlin,301,17
+senior,Designer,Ruby,284,18
+senior,Designer,Swift,281,19
+senior,Designer,Dart,234,20
+senior,Designer,Assembly,221,21
+senior,Designer,Objective-C,202,22
+senior,Designer,R,162,23
+senior,Designer,Rust,162,24
+senior,Designer,Perl,161,25
+senior,Designer,Delphi,105,26
+senior,Designer,Scala,90,27
+senior,Designer,Groovy,71,28
+senior,Designer,Other(s):,45,29
+senior,Designer,Elixir,38,30
+senior,Designer,MATLAB,37,31
+senior,Designer,Haskell,37,32
+senior,Designer,F#,35,33
+senior,Designer,Lua,34,34
+senior,Designer,Matlab,33,35
+senior,Designer,LISP,27,36
+senior,Designer,Clojure,24,37
+senior,Designer,Erlang,21,38
+senior,Designer,COBOL,20,39
+senior,Designer,Julia,18,40
+senior,Designer,Crystal,17,41
+senior,Designer,Solidity,14,42
+senior,Designer,Fortran,11,43
+senior,Designer,APL,10,44
+senior,Designer,Bash/Shell (all shells),9,45
+senior,Designer,SAS,8,46
+senior,Designer,OCaml,5,47
+senior,Designer,WebAssembly,4,48
+senior,Designer,Visual Basic (.Net),2,49
+senior,Designer,Nim,1,50
+senior,Designer,Ada,1,51
+senior,Designer,GDScript,1,52
+senior,DevOps specialist,JavaScript,6925,1
+senior,DevOps specialist,SQL,6194,2
+senior,DevOps specialist,HTML/CSS,5735,3
+senior,DevOps specialist,Python,5108,4
+senior,DevOps specialist,TypeScript,3884,5
+senior,DevOps specialist,Java,3626,6
+senior,DevOps specialist,C#,3350,7
+senior,DevOps specialist,Bash/Shell,2943,8
+senior,DevOps specialist,PHP,2294,9
+senior,DevOps specialist,Go,2218,10
+senior,DevOps specialist,Bash/Shell/PowerShell,2126,11
+senior,DevOps specialist,PowerShell,1514,12
+senior,DevOps specialist,C++,1512,13
+senior,DevOps specialist,Node.js,1419,14
+senior,DevOps specialist,C,1385,15
+senior,DevOps specialist,Ruby,1099,16
+senior,DevOps specialist,Kotlin,860,17
+senior,DevOps specialist,Rust,825,18
+senior,DevOps specialist,Groovy,627,19
+senior,DevOps specialist,Scala,487,20
+senior,DevOps specialist,Perl,430,21
+senior,DevOps specialist,VBA,414,22
+senior,DevOps specialist,Dart,399,23
+senior,DevOps specialist,Swift,394,24
+senior,DevOps specialist,Assembly,377,25
+senior,DevOps specialist,Bash/Shell (all shells),372,26
+senior,DevOps specialist,R,313,27
+senior,DevOps specialist,Objective-C,304,28
+senior,DevOps specialist,Elixir,205,29
+senior,DevOps specialist,Haskell,173,30
+senior,DevOps specialist,Clojure,150,31
+senior,DevOps specialist,Lua,134,32
+senior,DevOps specialist,Delphi,108,33
+senior,DevOps specialist,F#,104,34
+senior,DevOps specialist,Erlang,96,35
+senior,DevOps specialist,LISP,76,36
+senior,DevOps specialist,MATLAB,74,37
+senior,DevOps specialist,Matlab,70,38
+senior,DevOps specialist,Crystal,50,39
+senior,DevOps specialist,Julia,50,40
+senior,DevOps specialist,Other(s):,50,41
+senior,DevOps specialist,Solidity,46,42
+senior,DevOps specialist,COBOL,37,43
+senior,DevOps specialist,Visual Basic (.Net),23,44
+senior,DevOps specialist,Lisp,15,45
+senior,DevOps specialist,APL,15,46
+senior,DevOps specialist,Fortran,14,47
+senior,DevOps specialist,OCaml,14,48
+senior,DevOps specialist,WebAssembly,14,49
+senior,DevOps specialist,SAS,10,50
+senior,DevOps specialist,GDScript,9,51
+senior,DevOps specialist,Apex,5,52
+senior,DevOps specialist,Zig,5,53
+senior,DevOps specialist,Cobol,4,54
+senior,DevOps specialist,Ada,3,55
+senior,DevOps specialist,Raku,3,56
+senior,DevOps specialist,Prolog,2,57
+senior,DevOps specialist,Flow,1,58
+senior,DevOps specialist,Nim,1,59
+senior,Developer Advocate,JavaScript,49,1
+senior,Developer Advocate,SQL,42,2
+senior,Developer Advocate,HTML/CSS,40,3
+senior,Developer Advocate,TypeScript,29,4
+senior,Developer Advocate,Java,25,5
+senior,Developer Advocate,C#,25,6
+senior,Developer Advocate,Python,23,7
+senior,Developer Advocate,Bash/Shell (all shells),16,8
+senior,Developer Advocate,PHP,13,9
+senior,Developer Advocate,Go,13,10
+senior,Developer Advocate,Rust,12,11
+senior,Developer Advocate,Kotlin,11,12
+senior,Developer Advocate,C,10,13
+senior,Developer Advocate,PowerShell,10,14
+senior,Developer Advocate,C++,9,15
+senior,Developer Advocate,Swift,8,16
+senior,Developer Advocate,Ruby,7,17
+senior,Developer Advocate,Dart,5,18
+senior,Developer Advocate,Objective-C,3,19
+senior,Developer Advocate,Groovy,3,20
+senior,Developer Advocate,Elixir,3,21
+senior,Developer Advocate,Apex,2,22
+senior,Developer Advocate,Lua,2,23
+senior,Developer Advocate,Visual Basic (.Net),2,24
+senior,Developer Advocate,Scala,1,25
+senior,Developer Advocate,R,1,26
+senior,Developer Advocate,Assembly,1,27
+senior,Developer Advocate,Prolog,1,28
+senior,Developer Advocate,Lisp,1,29
+senior,Developer Advocate,Ada,1,30
+senior,Developer Advocate,Solidity,1,31
+senior,Developer Advocate,F#,1,32
+senior,Developer Advocate,Perl,1,33
+senior,Developer Experience,JavaScript,75,1
+senior,Developer Experience,Python,63,2
+senior,Developer Experience,Bash/Shell (all shells),59,3
+senior,Developer Experience,TypeScript,52,4
+senior,Developer Experience,HTML/CSS,48,5
+senior,Developer Experience,SQL,43,6
+senior,Developer Experience,Go,38,7
+senior,Developer Experience,Java,27,8
+senior,Developer Experience,C#,23,9
+senior,Developer Experience,Groovy,22,10
+senior,Developer Experience,Rust,21,11
+senior,Developer Experience,C++,19,12
+senior,Developer Experience,PHP,17,13
+senior,Developer Experience,Ruby,17,14
+senior,Developer Experience,Kotlin,15,15
+senior,Developer Experience,Dart,11,16
+senior,Developer Experience,PowerShell,9,17
+senior,Developer Experience,C,9,18
+senior,Developer Experience,Swift,7,19
+senior,Developer Experience,Lua,7,20
+senior,Developer Experience,Objective-C,6,21
+senior,Developer Experience,Scala,5,22
+senior,Developer Experience,Zig,5,23
+senior,Developer Experience,Elixir,4,24
+senior,Developer Experience,Delphi,4,25
+senior,Developer Experience,GDScript,3,26
+senior,Developer Experience,Assembly,3,27
+senior,Developer Experience,Lisp,3,28
+senior,Developer Experience,VBA,3,29
+senior,Developer Experience,F#,2,30
+senior,Developer Experience,Haskell,2,31
+senior,Developer Experience,Visual Basic (.Net),2,32
+senior,Developer Experience,Perl,2,33
+senior,Developer Experience,R,1,34
+senior,Developer Experience,Clojure,1,35
+senior,Developer Experience,Flow,1,36
+senior,Developer Experience,Crystal,1,37
+senior,Developer Experience,Erlang,1,38
+senior,Developer Experience,Solidity,1,39
+senior,Developer Experience,MATLAB,1,40
+senior,Developer Experience,Fortran,1,41
+senior,Developer Experience,Cobol,1,42
+senior,"Developer, QA or test",JavaScript,3077,1
+senior,"Developer, QA or test",SQL,2698,2
+senior,"Developer, QA or test",HTML/CSS,2680,3
+senior,"Developer, QA or test",Python,1859,4
+senior,"Developer, QA or test",Java,1705,5
+senior,"Developer, QA or test",TypeScript,1545,6
+senior,"Developer, QA or test",C#,1537,7
+senior,"Developer, QA or test",PHP,1175,8
+senior,"Developer, QA or test",Bash/Shell,898,9
+senior,"Developer, QA or test",Bash/Shell/PowerShell,890,10
+senior,"Developer, QA or test",C++,804,11
+senior,"Developer, QA or test",C,719,12
+senior,"Developer, QA or test",Go,540,13
+senior,"Developer, QA or test",Node.js,533,14
+senior,"Developer, QA or test",PowerShell,503,15
+senior,"Developer, QA or test",Kotlin,429,16
+senior,"Developer, QA or test",Ruby,393,17
+senior,"Developer, QA or test",VBA,304,18
+senior,"Developer, QA or test",Rust,251,19
+senior,"Developer, QA or test",Swift,233,20
+senior,"Developer, QA or test",Assembly,214,21
+senior,"Developer, QA or test",Perl,206,22
+senior,"Developer, QA or test",Dart,205,23
+senior,"Developer, QA or test",Groovy,205,24
+senior,"Developer, QA or test",Objective-C,179,25
+senior,"Developer, QA or test",R,149,26
+senior,"Developer, QA or test",Scala,149,27
+senior,"Developer, QA or test",Delphi,75,28
+senior,"Developer, QA or test",Haskell,67,29
+senior,"Developer, QA or test",Lua,62,30
+senior,"Developer, QA or test",Elixir,59,31
+senior,"Developer, QA or test",Bash/Shell (all shells),54,32
+senior,"Developer, QA or test",F#,44,33
+senior,"Developer, QA or test",Clojure,39,34
+senior,"Developer, QA or test",Erlang,37,35
+senior,"Developer, QA or test",Julia,32,36
+senior,"Developer, QA or test",Matlab,32,37
+senior,"Developer, QA or test",Other(s):,31,38
+senior,"Developer, QA or test",MATLAB,29,39
+senior,"Developer, QA or test",Solidity,25,40
+senior,"Developer, QA or test",Crystal,25,41
+senior,"Developer, QA or test",LISP,24,42
+senior,"Developer, QA or test",OCaml,13,43
+senior,"Developer, QA or test",COBOL,13,44
+senior,"Developer, QA or test",Fortran,10,45
+senior,"Developer, QA or test",SAS,9,46
+senior,"Developer, QA or test",APL,8,47
+senior,"Developer, QA or test",WebAssembly,5,48
+senior,"Developer, QA or test",GDScript,3,49
+senior,"Developer, QA or test",Visual Basic (.Net),3,50
+senior,"Developer, QA or test",Nim,1,51
+senior,"Developer, QA or test",Prolog,1,52
+senior,"Developer, QA or test",Raku,1,53
+senior,"Developer, QA or test",Lisp,1,54
+senior,"Developer, back-end",JavaScript,25651,1
+senior,"Developer, back-end",SQL,23870,2
+senior,"Developer, back-end",HTML/CSS,20282,3
+senior,"Developer, back-end",Python,16262,4
+senior,"Developer, back-end",Java,14777,5
+senior,"Developer, back-end",TypeScript,13668,6
+senior,"Developer, back-end",C#,12629,7
+senior,"Developer, back-end",PHP,8500,8
+senior,"Developer, back-end",Bash/Shell,6882,9
+senior,"Developer, back-end",Go,6238,10
+senior,"Developer, back-end",C++,5987,11
+senior,"Developer, back-end",Bash/Shell/PowerShell,5531,12
+senior,"Developer, back-end",C,4992,13
+senior,"Developer, back-end",Node.js,4004,14
+senior,"Developer, back-end",Ruby,3728,15
+senior,"Developer, back-end",Kotlin,3718,16
+senior,"Developer, back-end",PowerShell,3493,17
+senior,"Developer, back-end",Rust,3027,18
+senior,"Developer, back-end",Scala,2234,19
+senior,"Developer, back-end",Bash/Shell (all shells),2005,20
+senior,"Developer, back-end",VBA,1566,21
+senior,"Developer, back-end",Swift,1512,22
+senior,"Developer, back-end",Dart,1497,23
+senior,"Developer, back-end",Groovy,1382,24
+senior,"Developer, back-end",Assembly,1248,25
+senior,"Developer, back-end",Perl,1136,26
+senior,"Developer, back-end",R,1116,27
+senior,"Developer, back-end",Objective-C,1028,28
+senior,"Developer, back-end",Elixir,993,29
+senior,"Developer, back-end",Clojure,768,30
+senior,"Developer, back-end",Haskell,651,31
+senior,"Developer, back-end",Lua,575,32
+senior,"Developer, back-end",Delphi,498,33
+senior,"Developer, back-end",Erlang,442,34
+senior,"Developer, back-end",F#,397,35
+senior,"Developer, back-end",MATLAB,253,36
+senior,"Developer, back-end",LISP,217,37
+senior,"Developer, back-end",Matlab,200,38
+senior,"Developer, back-end",Solidity,188,39
+senior,"Developer, back-end",Other(s):,184,40
+senior,"Developer, back-end",Julia,183,41
+senior,"Developer, back-end",Crystal,145,42
+senior,"Developer, back-end",Visual Basic (.Net),126,43
+senior,"Developer, back-end",COBOL,108,44
+senior,"Developer, back-end",Lisp,65,45
+senior,"Developer, back-end",Fortran,64,46
+senior,"Developer, back-end",OCaml,57,47
+senior,"Developer, back-end",APL,54,48
+senior,"Developer, back-end",GDScript,48,49
+senior,"Developer, back-end",Prolog,39,50
+senior,"Developer, back-end",SAS,36,51
+senior,"Developer, back-end",Zig,27,52
+senior,"Developer, back-end",Apex,25,53
+senior,"Developer, back-end",Ada,24,54
+senior,"Developer, back-end",WebAssembly,24,55
+senior,"Developer, back-end",Cobol,14,56
+senior,"Developer, back-end",Nim,12,57
+senior,"Developer, back-end",Flow,4,58
+senior,"Developer, back-end",Raku,3,59
+senior,"Developer, desktop or enterprise applications",JavaScript,8394,1
+senior,"Developer, desktop or enterprise applications",SQL,8091,2
+senior,"Developer, desktop or enterprise applications",HTML/CSS,7279,3
+senior,"Developer, desktop or enterprise applications",C#,6675,4
+senior,"Developer, desktop or enterprise applications",Java,4653,5
+senior,"Developer, desktop or enterprise applications",TypeScript,4428,6
+senior,"Developer, desktop or enterprise applications",Python,4427,7
+senior,"Developer, desktop or enterprise applications",C++,3174,8
+senior,"Developer, desktop or enterprise applications",PHP,2476,9
+senior,"Developer, desktop or enterprise applications",C,2421,10
+senior,"Developer, desktop or enterprise applications",Bash/Shell/PowerShell,2301,11
+senior,"Developer, desktop or enterprise applications",Bash/Shell,1801,12
+senior,"Developer, desktop or enterprise applications",PowerShell,1636,13
+senior,"Developer, desktop or enterprise applications",Node.js,1256,14
+senior,"Developer, desktop or enterprise applications",VBA,1154,15
+senior,"Developer, desktop or enterprise applications",Go,1130,16
+senior,"Developer, desktop or enterprise applications",Kotlin,929,17
+senior,"Developer, desktop or enterprise applications",Rust,741,18
+senior,"Developer, desktop or enterprise applications",Assembly,707,19
+senior,"Developer, desktop or enterprise applications",Swift,682,20
+senior,"Developer, desktop or enterprise applications",Ruby,652,21
+senior,"Developer, desktop or enterprise applications",Objective-C,578,22
+senior,"Developer, desktop or enterprise applications",Delphi,563,23
+senior,"Developer, desktop or enterprise applications",Dart,529,24
+senior,"Developer, desktop or enterprise applications",Perl,415,25
+senior,"Developer, desktop or enterprise applications",R,391,26
+senior,"Developer, desktop or enterprise applications",Scala,375,27
+senior,"Developer, desktop or enterprise applications",Groovy,327,28
+senior,"Developer, desktop or enterprise applications",Bash/Shell (all shells),239,29
+senior,"Developer, desktop or enterprise applications",F#,173,30
+senior,"Developer, desktop or enterprise applications",Haskell,167,31
+senior,"Developer, desktop or enterprise applications",Lua,132,32
+senior,"Developer, desktop or enterprise applications",Clojure,132,33
+senior,"Developer, desktop or enterprise applications",MATLAB,111,34
+senior,"Developer, desktop or enterprise applications",Other(s):,103,35
+senior,"Developer, desktop or enterprise applications",Elixir,99,36
+senior,"Developer, desktop or enterprise applications",Matlab,95,37
+senior,"Developer, desktop or enterprise applications",Visual Basic (.Net),93,38
+senior,"Developer, desktop or enterprise applications",LISP,82,39
+senior,"Developer, desktop or enterprise applications",Erlang,72,40
+senior,"Developer, desktop or enterprise applications",COBOL,72,41
+senior,"Developer, desktop or enterprise applications",Crystal,62,42
+senior,"Developer, desktop or enterprise applications",Julia,42,43
+senior,"Developer, desktop or enterprise applications",Fortran,42,44
+senior,"Developer, desktop or enterprise applications",Solidity,34,45
+senior,"Developer, desktop or enterprise applications",APL,27,46
+senior,"Developer, desktop or enterprise applications",SAS,17,47
+senior,"Developer, desktop or enterprise applications",WebAssembly,17,48
+senior,"Developer, desktop or enterprise applications",Ada,11,49
+senior,"Developer, desktop or enterprise applications",Cobol,11,50
+senior,"Developer, desktop or enterprise applications",Lisp,11,51
+senior,"Developer, desktop or enterprise applications",Apex,10,52
+senior,"Developer, desktop or enterprise applications",OCaml,8,53
+senior,"Developer, desktop or enterprise applications",GDScript,6,54
+senior,"Developer, desktop or enterprise applications",Prolog,5,55
+senior,"Developer, desktop or enterprise applications",Flow,3,56
+senior,"Developer, desktop or enterprise applications",Zig,2,57
+senior,"Developer, embedded applications or devices",JavaScript,2659,1
+senior,"Developer, embedded applications or devices",HTML/CSS,2323,2
+senior,"Developer, embedded applications or devices",SQL,2292,3
+senior,"Developer, embedded applications or devices",Python,2240,4
+senior,"Developer, embedded applications or devices",C++,2024,5
+senior,"Developer, embedded applications or devices",C,1972,6
+senior,"Developer, embedded applications or devices",C#,1646,7
+senior,"Developer, embedded applications or devices",Java,1567,8
+senior,"Developer, embedded applications or devices",TypeScript,1297,9
+senior,"Developer, embedded applications or devices",PHP,1020,10
+senior,"Developer, embedded applications or devices",Bash/Shell/PowerShell,985,11
+senior,"Developer, embedded applications or devices",Bash/Shell,845,12
+senior,"Developer, embedded applications or devices",Assembly,603,13
+senior,"Developer, embedded applications or devices",Go,585,14
+senior,"Developer, embedded applications or devices",Rust,521,15
+senior,"Developer, embedded applications or devices",Node.js,456,16
+senior,"Developer, embedded applications or devices",Kotlin,433,17
+senior,"Developer, embedded applications or devices",PowerShell,430,18
+senior,"Developer, embedded applications or devices",Swift,396,19
+senior,"Developer, embedded applications or devices",Objective-C,351,20
+senior,"Developer, embedded applications or devices",VBA,341,21
+senior,"Developer, embedded applications or devices",Ruby,290,22
+senior,"Developer, embedded applications or devices",Dart,274,23
+senior,"Developer, embedded applications or devices",Perl,195,24
+senior,"Developer, embedded applications or devices",Delphi,163,25
+senior,"Developer, embedded applications or devices",R,155,26
+senior,"Developer, embedded applications or devices",Bash/Shell (all shells),155,27
+senior,"Developer, embedded applications or devices",Scala,119,28
+senior,"Developer, embedded applications or devices",Groovy,103,29
+senior,"Developer, embedded applications or devices",Lua,97,30
+senior,"Developer, embedded applications or devices",MATLAB,85,31
+senior,"Developer, embedded applications or devices",Haskell,84,32
+senior,"Developer, embedded applications or devices",Elixir,67,33
+senior,"Developer, embedded applications or devices",Matlab,59,34
+senior,"Developer, embedded applications or devices",Other(s):,51,35
+senior,"Developer, embedded applications or devices",LISP,46,36
+senior,"Developer, embedded applications or devices",Erlang,44,37
+senior,"Developer, embedded applications or devices",Julia,40,38
+senior,"Developer, embedded applications or devices",F#,37,39
+senior,"Developer, embedded applications or devices",Clojure,33,40
+senior,"Developer, embedded applications or devices",Crystal,26,41
+senior,"Developer, embedded applications or devices",COBOL,20,42
+senior,"Developer, embedded applications or devices",Visual Basic (.Net),15,43
+senior,"Developer, embedded applications or devices",Fortran,15,44
+senior,"Developer, embedded applications or devices",APL,13,45
+senior,"Developer, embedded applications or devices",Solidity,12,46
+senior,"Developer, embedded applications or devices",WebAssembly,11,47
+senior,"Developer, embedded applications or devices",Ada,8,48
+senior,"Developer, embedded applications or devices",OCaml,7,49
+senior,"Developer, embedded applications or devices",SAS,7,50
+senior,"Developer, embedded applications or devices",Zig,4,51
+senior,"Developer, embedded applications or devices",Lisp,3,52
+senior,"Developer, embedded applications or devices",GDScript,2,53
+senior,"Developer, embedded applications or devices",Prolog,2,54
+senior,"Developer, embedded applications or devices",Nim,2,55
+senior,"Developer, embedded applications or devices",Cobol,1,56
+senior,"Developer, embedded applications or devices",Apex,1,57
+senior,"Developer, front-end",JavaScript,16192,1
+senior,"Developer, front-end",HTML/CSS,14337,2
+senior,"Developer, front-end",SQL,11078,3
+senior,"Developer, front-end",TypeScript,9963,4
+senior,"Developer, front-end",C#,6646,5
+senior,"Developer, front-end",Python,6145,6
+senior,"Developer, front-end",Java,6044,7
+senior,"Developer, front-end",PHP,5615,8
+senior,"Developer, front-end",Node.js,3078,9
+senior,"Developer, front-end",Bash/Shell,2932,10
+senior,"Developer, front-end",Bash/Shell/PowerShell,2805,11
+senior,"Developer, front-end",C++,2641,12
+senior,"Developer, front-end",C,2234,13
+senior,"Developer, front-end",Go,1810,14
+senior,"Developer, front-end",PowerShell,1601,15
+senior,"Developer, front-end",Ruby,1515,16
+senior,"Developer, front-end",Kotlin,1492,17
+senior,"Developer, front-end",Swift,1154,18
+senior,"Developer, front-end",Dart,1110,19
+senior,"Developer, front-end",VBA,991,20
+senior,"Developer, front-end",Rust,956,21
+senior,"Developer, front-end",Objective-C,785,22
+senior,"Developer, front-end",Assembly,604,23
+senior,"Developer, front-end",R,495,24
+senior,"Developer, front-end",Scala,473,25
+senior,"Developer, front-end",Perl,452,26
+senior,"Developer, front-end",Groovy,372,27
+senior,"Developer, front-end",Elixir,291,28
+senior,"Developer, front-end",Delphi,271,29
+senior,"Developer, front-end",Haskell,267,30
+senior,"Developer, front-end",Bash/Shell (all shells),245,31
+senior,"Developer, front-end",Clojure,216,32
+senior,"Developer, front-end",Lua,176,33
+senior,"Developer, front-end",F#,140,34
+senior,"Developer, front-end",Matlab,137,35
+senior,"Developer, front-end",MATLAB,107,36
+senior,"Developer, front-end",Other(s):,106,37
+senior,"Developer, front-end",Erlang,105,38
+senior,"Developer, front-end",Solidity,96,39
+senior,"Developer, front-end",LISP,85,40
+senior,"Developer, front-end",Julia,63,41
+senior,"Developer, front-end",COBOL,59,42
+senior,"Developer, front-end",Crystal,49,43
+senior,"Developer, front-end",SAS,31,44
+senior,"Developer, front-end",OCaml,25,45
+senior,"Developer, front-end",Fortran,23,46
+senior,"Developer, front-end",WebAssembly,23,47
+senior,"Developer, front-end",APL,22,48
+senior,"Developer, front-end",Visual Basic (.Net),15,49
+senior,"Developer, front-end",GDScript,8,50
+senior,"Developer, front-end",Prolog,7,51
+senior,"Developer, front-end",Flow,5,52
+senior,"Developer, front-end",Zig,4,53
+senior,"Developer, front-end",Lisp,4,54
+senior,"Developer, front-end",Apex,3,55
+senior,"Developer, front-end",Cobol,2,56
+senior,"Developer, front-end",Raku,1,57
+senior,"Developer, front-end",Ada,1,58
+senior,"Developer, full-stack",JavaScript,37104,1
+senior,"Developer, full-stack",HTML/CSS,31311,2
+senior,"Developer, full-stack",SQL,28170,3
+senior,"Developer, full-stack",TypeScript,22841,4
+senior,"Developer, full-stack",C#,16587,5
+senior,"Developer, full-stack",Python,16455,6
+senior,"Developer, full-stack",Java,14666,7
+senior,"Developer, full-stack",PHP,11495,8
+senior,"Developer, full-stack",Bash/Shell,6727,9
+senior,"Developer, full-stack",C++,5932,10
+senior,"Developer, full-stack",Node.js,5914,11
+senior,"Developer, full-stack",Go,5299,12
+senior,"Developer, full-stack",Bash/Shell/PowerShell,5158,13
+senior,"Developer, full-stack",PowerShell,5009,14
+senior,"Developer, full-stack",C,4810,15
+senior,"Developer, full-stack",Ruby,4470,16
+senior,"Developer, full-stack",Kotlin,3648,17
+senior,"Developer, full-stack",Bash/Shell (all shells),3097,18
+senior,"Developer, full-stack",Rust,2924,19
+senior,"Developer, full-stack",Dart,2329,20
+senior,"Developer, full-stack",Swift,2134,21
+senior,"Developer, full-stack",VBA,1980,22
+senior,"Developer, full-stack",Scala,1408,23
+senior,"Developer, full-stack",Objective-C,1352,24
+senior,"Developer, full-stack",Groovy,1267,25
+senior,"Developer, full-stack",Assembly,1233,26
+senior,"Developer, full-stack",R,1198,27
+senior,"Developer, full-stack",Elixir,1138,28
+senior,"Developer, full-stack",Perl,1063,29
+senior,"Developer, full-stack",Clojure,832,30
+senior,"Developer, full-stack",Lua,715,31
+senior,"Developer, full-stack",Delphi,657,32
+senior,"Developer, full-stack",Haskell,631,33
+senior,"Developer, full-stack",F#,465,34
+senior,"Developer, full-stack",Visual Basic (.Net),434,35
+senior,"Developer, full-stack",MATLAB,351,36
+senior,"Developer, full-stack",Erlang,346,37
+senior,"Developer, full-stack",Solidity,269,38
+senior,"Developer, full-stack",Matlab,263,39
+senior,"Developer, full-stack",LISP,211,40
+senior,"Developer, full-stack",Julia,180,41
+senior,"Developer, full-stack",Other(s):,159,42
+senior,"Developer, full-stack",Crystal,152,43
+senior,"Developer, full-stack",GDScript,102,44
+senior,"Developer, full-stack",COBOL,99,45
+senior,"Developer, full-stack",Lisp,94,46
+senior,"Developer, full-stack",Fortran,86,47
+senior,"Developer, full-stack",OCaml,80,48
+senior,"Developer, full-stack",Apex,63,49
+senior,"Developer, full-stack",SAS,62,50
+senior,"Developer, full-stack",APL,49,51
+senior,"Developer, full-stack",Prolog,46,52
+senior,"Developer, full-stack",Cobol,44,53
+senior,"Developer, full-stack",Zig,40,54
+senior,"Developer, full-stack",Flow,38,55
+senior,"Developer, full-stack",WebAssembly,29,56
+senior,"Developer, full-stack",Nim,22,57
+senior,"Developer, full-stack",Ada,21,58
+senior,"Developer, full-stack",Raku,7,59
+senior,"Developer, game or graphics",JavaScript,1502,1
+senior,"Developer, game or graphics",HTML/CSS,1298,2
+senior,"Developer, game or graphics",C#,1154,3
+senior,"Developer, game or graphics",SQL,1102,4
+senior,"Developer, game or graphics",Python,934,5
+senior,"Developer, game or graphics",C++,866,6
+senior,"Developer, game or graphics",TypeScript,811,7
+senior,"Developer, game or graphics",Java,793,8
+senior,"Developer, game or graphics",PHP,607,9
+senior,"Developer, game or graphics",C,592,10
+senior,"Developer, game or graphics",Bash/Shell/PowerShell,449,11
+senior,"Developer, game or graphics",Bash/Shell,307,12
+senior,"Developer, game or graphics",Go,254,13
+senior,"Developer, game or graphics",Node.js,253,14
+senior,"Developer, game or graphics",Rust,246,15
+senior,"Developer, game or graphics",Kotlin,232,16
+senior,"Developer, game or graphics",Assembly,221,17
+senior,"Developer, game or graphics",Swift,221,18
+senior,"Developer, game or graphics",Objective-C,209,19
+senior,"Developer, game or graphics",PowerShell,184,20
+senior,"Developer, game or graphics",Ruby,177,21
+senior,"Developer, game or graphics",Dart,144,22
+senior,"Developer, game or graphics",VBA,131,23
+senior,"Developer, game or graphics",Perl,70,24
+senior,"Developer, game or graphics",Scala,68,25
+senior,"Developer, game or graphics",Lua,67,26
+senior,"Developer, game or graphics",R,66,27
+senior,"Developer, game or graphics",Haskell,39,28
+senior,"Developer, game or graphics",Bash/Shell (all shells),37,29
+senior,"Developer, game or graphics",Other(s):,37,30
+senior,"Developer, game or graphics",Delphi,36,31
+senior,"Developer, game or graphics",Groovy,33,32
+senior,"Developer, game or graphics",Elixir,32,33
+senior,"Developer, game or graphics",F#,30,34
+senior,"Developer, game or graphics",LISP,23,35
+senior,"Developer, game or graphics",Erlang,21,36
+senior,"Developer, game or graphics",Matlab,21,37
+senior,"Developer, game or graphics",Julia,20,38
+senior,"Developer, game or graphics",MATLAB,17,39
+senior,"Developer, game or graphics",Clojure,17,40
+senior,"Developer, game or graphics",Solidity,11,41
+senior,"Developer, game or graphics",WebAssembly,11,42
+senior,"Developer, game or graphics",GDScript,10,43
+senior,"Developer, game or graphics",COBOL,10,44
+senior,"Developer, game or graphics",Fortran,6,45
+senior,"Developer, game or graphics",Zig,5,46
+senior,"Developer, game or graphics",APL,5,47
+senior,"Developer, game or graphics",Crystal,5,48
+senior,"Developer, game or graphics",OCaml,4,49
+senior,"Developer, game or graphics",Lisp,3,50
+senior,"Developer, game or graphics",SAS,3,51
+senior,"Developer, game or graphics",Nim,2,52
+senior,"Developer, game or graphics",Visual Basic (.Net),1,53
+senior,"Developer, game or graphics",Prolog,1,54
+senior,"Developer, mobile",JavaScript,6665,1
+senior,"Developer, mobile",HTML/CSS,5584,2
+senior,"Developer, mobile",SQL,5013,3
+senior,"Developer, mobile",Java,4362,4
+senior,"Developer, mobile",TypeScript,3839,5
+senior,"Developer, mobile",C#,3320,6
+senior,"Developer, mobile",Python,3023,7
+senior,"Developer, mobile",PHP,2638,8
+senior,"Developer, mobile",Kotlin,2486,9
+senior,"Developer, mobile",Swift,2373,10
+senior,"Developer, mobile",C++,1817,11
+senior,"Developer, mobile",Objective-C,1596,12
+senior,"Developer, mobile",C,1589,13
+senior,"Developer, mobile",Dart,1569,14
+senior,"Developer, mobile",Node.js,1430,15
+senior,"Developer, mobile",Bash/Shell,1278,16
+senior,"Developer, mobile",Bash/Shell/PowerShell,1259,17
+senior,"Developer, mobile",Go,866,18
+senior,"Developer, mobile",Ruby,796,19
+senior,"Developer, mobile",PowerShell,594,20
+senior,"Developer, mobile",VBA,452,21
+senior,"Developer, mobile",Assembly,429,22
+senior,"Developer, mobile",Rust,411,23
+senior,"Developer, mobile",Groovy,260,24
+senior,"Developer, mobile",R,217,25
+senior,"Developer, mobile",Delphi,216,26
+senior,"Developer, mobile",Scala,204,27
+senior,"Developer, mobile",Perl,198,28
+senior,"Developer, mobile",Bash/Shell (all shells),136,29
+senior,"Developer, mobile",Elixir,133,30
+senior,"Developer, mobile",Haskell,123,31
+senior,"Developer, mobile",Matlab,96,32
+senior,"Developer, mobile",MATLAB,87,33
+senior,"Developer, mobile",Lua,79,34
+senior,"Developer, mobile",Clojure,75,35
+senior,"Developer, mobile",F#,62,36
+senior,"Developer, mobile",Other(s):,54,37
+senior,"Developer, mobile",Erlang,49,38
+senior,"Developer, mobile",LISP,44,39
+senior,"Developer, mobile",Solidity,40,40
+senior,"Developer, mobile",Julia,36,41
+senior,"Developer, mobile",COBOL,36,42
+senior,"Developer, mobile",Crystal,32,43
+senior,"Developer, mobile",APL,14,44
+senior,"Developer, mobile",OCaml,12,45
+senior,"Developer, mobile",GDScript,12,46
+senior,"Developer, mobile",Fortran,12,47
+senior,"Developer, mobile",SAS,11,48
+senior,"Developer, mobile",WebAssembly,11,49
+senior,"Developer, mobile",Visual Basic (.Net),10,50
+senior,"Developer, mobile",Lisp,3,51
+senior,"Developer, mobile",Zig,2,52
+senior,"Developer, mobile",Flow,2,53
+senior,"Developer, mobile",Apex,2,54
+senior,"Developer, mobile",Ada,1,55
+senior,"Developer, mobile",Prolog,1,56
+senior,"Developer, mobile",Cobol,1,57
+senior,"Developer, mobile",Nim,1,58
+senior,Educator,JavaScript,1813,1
+senior,Educator,HTML/CSS,1660,2
+senior,Educator,SQL,1495,3
+senior,Educator,Python,1099,4
+senior,Educator,Java,949,5
+senior,Educator,TypeScript,861,6
+senior,Educator,C#,804,7
+senior,Educator,PHP,795,8
+senior,Educator,C++,578,9
+senior,Educator,Bash/Shell/PowerShell,552,10
+senior,Educator,C,518,11
+senior,Educator,Bash/Shell,446,12
+senior,Educator,Go,307,13
+senior,Educator,Node.js,298,14
+senior,Educator,Kotlin,259,15
+senior,Educator,Ruby,247,16
+senior,Educator,R,196,17
+senior,Educator,PowerShell,194,18
+senior,Educator,Swift,174,19
+senior,Educator,Assembly,169,20
+senior,Educator,VBA,163,21
+senior,Educator,Rust,148,22
+senior,Educator,Dart,148,23
+senior,Educator,Objective-C,133,24
+senior,Educator,Scala,103,25
+senior,Educator,Perl,83,26
+senior,Educator,Haskell,64,27
+senior,Educator,Groovy,62,28
+senior,Educator,Delphi,43,29
+senior,Educator,Clojure,40,30
+senior,Educator,Elixir,39,31
+senior,Educator,Other(s):,38,32
+senior,Educator,F#,32,33
+senior,Educator,Lua,30,34
+senior,Educator,Matlab,30,35
+senior,Educator,MATLAB,28,36
+senior,Educator,LISP,26,37
+senior,Educator,Erlang,26,38
+senior,Educator,Julia,22,39
+senior,Educator,Bash/Shell (all shells),20,40
+senior,Educator,COBOL,14,41
+senior,Educator,Crystal,10,42
+senior,Educator,Fortran,9,43
+senior,Educator,Solidity,9,44
+senior,Educator,APL,8,45
+senior,Educator,OCaml,6,46
+senior,Educator,WebAssembly,6,47
+senior,Educator,SAS,4,48
+senior,Educator,Lisp,3,49
+senior,Educator,Visual Basic (.Net),3,50
+senior,Educator,GDScript,2,51
+senior,Educator,Nim,1,52
+senior,Educator,Cobol,1,53
+senior,Educator,Prolog,1,54
+senior,"Engineer, data",Python,3688,1
+senior,"Engineer, data",SQL,3678,2
+senior,"Engineer, data",JavaScript,2907,3
+senior,"Engineer, data",HTML/CSS,2367,4
+senior,"Engineer, data",Java,1958,5
+senior,"Engineer, data",TypeScript,1250,6
+senior,"Engineer, data",C#,1221,7
+senior,"Engineer, data",Bash/Shell,1218,8
+senior,"Engineer, data",Bash/Shell/PowerShell,937,9
+senior,"Engineer, data",C++,912,10
+senior,"Engineer, data",PHP,901,11
+senior,"Engineer, data",Scala,818,12
+senior,"Engineer, data",C,808,13
+senior,"Engineer, data",Go,757,14
+senior,"Engineer, data",R,628,15
+senior,"Engineer, data",PowerShell,529,16
+senior,"Engineer, data",Node.js,508,17
+senior,"Engineer, data",Rust,410,18
+senior,"Engineer, data",VBA,392,19
+senior,"Engineer, data",Ruby,389,20
+senior,"Engineer, data",Kotlin,339,21
+senior,"Engineer, data",Bash/Shell (all shells),254,22
+senior,"Engineer, data",Assembly,220,23
+senior,"Engineer, data",Perl,213,24
+senior,"Engineer, data",Groovy,159,25
+senior,"Engineer, data",Swift,156,26
+senior,"Engineer, data",Clojure,137,27
+senior,"Engineer, data",Objective-C,132,28
+senior,"Engineer, data",Dart,131,29
+senior,"Engineer, data",Haskell,101,30
+senior,"Engineer, data",Julia,88,31
+senior,"Engineer, data",Delphi,86,32
+senior,"Engineer, data",Matlab,86,33
+senior,"Engineer, data",Elixir,79,34
+senior,"Engineer, data",MATLAB,73,35
+senior,"Engineer, data",Lua,59,36
+senior,"Engineer, data",F#,53,37
+senior,"Engineer, data",Erlang,49,38
+senior,"Engineer, data",LISP,46,39
+senior,"Engineer, data",SAS,29,40
+senior,"Engineer, data",Other(s):,29,41
+senior,"Engineer, data",COBOL,28,42
+senior,"Engineer, data",Fortran,27,43
+senior,"Engineer, data",Solidity,26,44
+senior,"Engineer, data",Crystal,25,45
+senior,"Engineer, data",APL,16,46
+senior,"Engineer, data",Visual Basic (.Net),12,47
+senior,"Engineer, data",OCaml,9,48
+senior,"Engineer, data",Lisp,4,49
+senior,"Engineer, data",Prolog,3,50
+senior,"Engineer, data",GDScript,3,51
+senior,"Engineer, data",WebAssembly,3,52
+senior,"Engineer, data",Cobol,2,53
+senior,"Engineer, data",Nim,2,54
+senior,"Engineer, data",Apex,2,55
+senior,"Engineer, data",Zig,2,56
+senior,"Engineer, site reliability",JavaScript,2047,1
+senior,"Engineer, site reliability",Python,1894,2
+senior,"Engineer, site reliability",SQL,1885,3
+senior,"Engineer, site reliability",HTML/CSS,1608,4
+senior,"Engineer, site reliability",Java,1132,5
+senior,"Engineer, site reliability",Go,1081,6
+senior,"Engineer, site reliability",TypeScript,1073,7
+senior,"Engineer, site reliability",Bash/Shell,1071,8
+senior,"Engineer, site reliability",C#,767,9
+senior,"Engineer, site reliability",PHP,731,10
+senior,"Engineer, site reliability",Bash/Shell/PowerShell,705,11
+senior,"Engineer, site reliability",C++,519,12
+senior,"Engineer, site reliability",Ruby,513,13
+senior,"Engineer, site reliability",C,509,14
+senior,"Engineer, site reliability",Node.js,466,15
+senior,"Engineer, site reliability",PowerShell,383,16
+senior,"Engineer, site reliability",Rust,374,17
+senior,"Engineer, site reliability",Kotlin,269,18
+senior,"Engineer, site reliability",Perl,218,19
+senior,"Engineer, site reliability",Scala,203,20
+senior,"Engineer, site reliability",Groovy,187,21
+senior,"Engineer, site reliability",Bash/Shell (all shells),138,22
+senior,"Engineer, site reliability",Assembly,137,23
+senior,"Engineer, site reliability",Swift,120,24
+senior,"Engineer, site reliability",R,113,25
+senior,"Engineer, site reliability",VBA,113,26
+senior,"Engineer, site reliability",Elixir,111,27
+senior,"Engineer, site reliability",Dart,100,28
+senior,"Engineer, site reliability",Objective-C,98,29
+senior,"Engineer, site reliability",Haskell,78,30
+senior,"Engineer, site reliability",Clojure,75,31
+senior,"Engineer, site reliability",Lua,70,32
+senior,"Engineer, site reliability",Erlang,69,33
+senior,"Engineer, site reliability",LISP,28,34
+senior,"Engineer, site reliability",Delphi,27,35
+senior,"Engineer, site reliability",F#,27,36
+senior,"Engineer, site reliability",Julia,26,37
+senior,"Engineer, site reliability",Matlab,25,38
+senior,"Engineer, site reliability",Solidity,24,39
+senior,"Engineer, site reliability",MATLAB,24,40
+senior,"Engineer, site reliability",Crystal,18,41
+senior,"Engineer, site reliability",Other(s):,15,42
+senior,"Engineer, site reliability",Fortran,8,43
+senior,"Engineer, site reliability",COBOL,8,44
+senior,"Engineer, site reliability",APL,5,45
+senior,"Engineer, site reliability",OCaml,5,46
+senior,"Engineer, site reliability",SAS,3,47
+senior,"Engineer, site reliability",WebAssembly,3,48
+senior,"Engineer, site reliability",GDScript,2,49
+senior,"Engineer, site reliability",Lisp,2,50
+senior,"Engineer, site reliability",Visual Basic (.Net),2,51
+senior,"Engineer, site reliability",Apex,2,52
+senior,"Engineer, site reliability",Zig,1,53
+senior,"Engineer, site reliability",Cobol,1,54
+senior,"Engineer, site reliability",Raku,1,55
+senior,Engineering manager,JavaScript,4203,1
+senior,Engineering manager,SQL,3508,2
+senior,Engineering manager,HTML/CSS,3285,3
+senior,Engineering manager,Python,2594,4
+senior,Engineering manager,TypeScript,2486,5
+senior,Engineering manager,Java,1917,6
+senior,Engineering manager,C#,1836,7
+senior,Engineering manager,PHP,1296,8
+senior,Engineering manager,Bash/Shell,1228,9
+senior,Engineering manager,Go,1044,10
+senior,Engineering manager,C++,931,11
+senior,Engineering manager,Ruby,809,12
+senior,Engineering manager,C,795,13
+senior,Engineering manager,Node.js,772,14
+senior,Engineering manager,Bash/Shell/PowerShell,731,15
+senior,Engineering manager,PowerShell,639,16
+senior,Engineering manager,Kotlin,567,17
+senior,Engineering manager,Rust,472,18
+senior,Engineering manager,Swift,419,19
+senior,Engineering manager,Bash/Shell (all shells),350,20
+senior,Engineering manager,Scala,312,21
+senior,Engineering manager,Objective-C,299,22
+senior,Engineering manager,Dart,279,23
+senior,Engineering manager,Groovy,262,24
+senior,Engineering manager,VBA,233,25
+senior,Engineering manager,Elixir,222,26
+senior,Engineering manager,Assembly,219,27
+senior,Engineering manager,Perl,198,28
+senior,Engineering manager,R,196,29
+senior,Engineering manager,Clojure,128,30
+senior,Engineering manager,Delphi,112,31
+senior,Engineering manager,Lua,105,32
+senior,Engineering manager,Haskell,96,33
+senior,Engineering manager,Erlang,92,34
+senior,Engineering manager,F#,81,35
+senior,Engineering manager,MATLAB,62,36
+senior,Engineering manager,Julia,53,37
+senior,Engineering manager,LISP,51,38
+senior,Engineering manager,Matlab,37,39
+senior,Engineering manager,Solidity,33,40
+senior,Engineering manager,Visual Basic (.Net),31,41
+senior,Engineering manager,Crystal,21,42
+senior,Engineering manager,COBOL,20,43
+senior,Engineering manager,Other(s):,20,44
+senior,Engineering manager,OCaml,16,45
+senior,Engineering manager,Fortran,14,46
+senior,Engineering manager,GDScript,12,47
+senior,Engineering manager,APL,10,48
+senior,Engineering manager,Apex,8,49
+senior,Engineering manager,Lisp,6,50
+senior,Engineering manager,Ada,4,51
+senior,Engineering manager,SAS,4,52
+senior,Engineering manager,WebAssembly,4,53
+senior,Engineering manager,Cobol,3,54
+senior,Engineering manager,Flow,3,55
+senior,Engineering manager,Prolog,3,56
+senior,Engineering manager,Zig,2,57
+senior,Hardware Engineer,Python,30,1
+senior,Hardware Engineer,C,23,2
+senior,Hardware Engineer,SQL,22,3
+senior,Hardware Engineer,HTML/CSS,19,4
+senior,Hardware Engineer,JavaScript,19,5
+senior,Hardware Engineer,C++,18,6
+senior,Hardware Engineer,Bash/Shell (all shells),16,7
+senior,Hardware Engineer,C#,14,8
+senior,Hardware Engineer,Assembly,13,9
+senior,Hardware Engineer,PowerShell,9,10
+senior,Hardware Engineer,PHP,6,11
+senior,Hardware Engineer,Java,6,12
+senior,Hardware Engineer,Lua,5,13
+senior,Hardware Engineer,R,5,14
+senior,Hardware Engineer,Swift,4,15
+senior,Hardware Engineer,TypeScript,4,16
+senior,Hardware Engineer,MATLAB,4,17
+senior,Hardware Engineer,Rust,4,18
+senior,Hardware Engineer,Delphi,4,19
+senior,Hardware Engineer,Perl,3,20
+senior,Hardware Engineer,Kotlin,3,21
+senior,Hardware Engineer,Go,3,22
+senior,Hardware Engineer,Groovy,2,23
+senior,Hardware Engineer,Objective-C,2,24
+senior,Hardware Engineer,Cobol,1,25
+senior,Hardware Engineer,GDScript,1,26
+senior,Hardware Engineer,Lisp,1,27
+senior,Hardware Engineer,Visual Basic (.Net),1,28
+senior,Hardware Engineer,Haskell,1,29
+senior,Hardware Engineer,VBA,1,30
+senior,Hardware Engineer,Scala,1,31
+senior,Hardware Engineer,Julia,1,32
+senior,Hardware Engineer,Ruby,1,33
+senior,Hardware Engineer,Zig,1,34
+senior,Marketing or sales professional,JavaScript,363,1
+senior,Marketing or sales professional,HTML/CSS,341,2
+senior,Marketing or sales professional,SQL,284,3
+senior,Marketing or sales professional,PHP,232,4
+senior,Marketing or sales professional,Python,191,5
+senior,Marketing or sales professional,C#,138,6
+senior,Marketing or sales professional,Java,133,7
+senior,Marketing or sales professional,TypeScript,131,8
+senior,Marketing or sales professional,Bash/Shell,94,9
+senior,Marketing or sales professional,C++,83,10
+senior,Marketing or sales professional,C,81,11
+senior,Marketing or sales professional,Node.js,68,12
+senior,Marketing or sales professional,Bash/Shell/PowerShell,64,13
+senior,Marketing or sales professional,Ruby,60,14
+senior,Marketing or sales professional,Go,56,15
+senior,Marketing or sales professional,PowerShell,52,16
+senior,Marketing or sales professional,Kotlin,40,17
+senior,Marketing or sales professional,VBA,36,18
+senior,Marketing or sales professional,R,36,19
+senior,Marketing or sales professional,Swift,35,20
+senior,Marketing or sales professional,Rust,26,21
+senior,Marketing or sales professional,Objective-C,25,22
+senior,Marketing or sales professional,Dart,23,23
+senior,Marketing or sales professional,Assembly,22,24
+senior,Marketing or sales professional,Perl,18,25
+senior,Marketing or sales professional,Delphi,15,26
+senior,Marketing or sales professional,Scala,11,27
+senior,Marketing or sales professional,F#,11,28
+senior,Marketing or sales professional,Groovy,8,29
+senior,Marketing or sales professional,Lua,8,30
+senior,Marketing or sales professional,Julia,7,31
+senior,Marketing or sales professional,Erlang,7,32
+senior,Marketing or sales professional,Elixir,7,33
+senior,Marketing or sales professional,LISP,6,34
+senior,Marketing or sales professional,Crystal,6,35
+senior,Marketing or sales professional,MATLAB,6,36
+senior,Marketing or sales professional,Bash/Shell (all shells),5,37
+senior,Marketing or sales professional,Clojure,5,38
+senior,Marketing or sales professional,Matlab,5,39
+senior,Marketing or sales professional,Haskell,4,40
+senior,Marketing or sales professional,APL,4,41
+senior,Marketing or sales professional,COBOL,3,42
+senior,Marketing or sales professional,OCaml,3,43
+senior,Marketing or sales professional,Solidity,2,44
+senior,Marketing or sales professional,SAS,2,45
+senior,Marketing or sales professional,Fortran,1,46
+senior,Marketing or sales professional,WebAssembly,1,47
+senior,Other (please specify):,JavaScript,1327,1
+senior,Other (please specify):,SQL,1199,2
+senior,Other (please specify):,HTML/CSS,1025,3
+senior,Other (please specify):,Python,987,4
+senior,Other (please specify):,TypeScript,727,5
+senior,Other (please specify):,Java,684,6
+senior,Other (please specify):,C#,663,7
+senior,Other (please specify):,Bash/Shell,549,8
+senior,Other (please specify):,PowerShell,405,9
+senior,Other (please specify):,PHP,376,10
+senior,Other (please specify):,C++,345,11
+senior,Other (please specify):,Go,342,12
+senior,Other (please specify):,Node.js,322,13
+senior,Other (please specify):,C,300,14
+senior,Other (please specify):,Bash/Shell (all shells),279,15
+senior,Other (please specify):,Rust,200,16
+senior,Other (please specify):,Kotlin,191,17
+senior,Other (please specify):,Ruby,172,18
+senior,Other (please specify):,VBA,136,19
+senior,Other (please specify):,Groovy,130,20
+senior,Other (please specify):,Swift,110,21
+senior,Other (please specify):,Assembly,104,22
+senior,Other (please specify):,R,98,23
+senior,Other (please specify):,Perl,87,24
+senior,Other (please specify):,Scala,76,25
+senior,Other (please specify):,Dart,72,26
+senior,Other (please specify):,Objective-C,64,27
+senior,Other (please specify):,Clojure,49,28
+senior,Other (please specify):,Lua,48,29
+senior,Other (please specify):,Delphi,46,30
+senior,Other (please specify):,Elixir,44,31
+senior,Other (please specify):,F#,39,32
+senior,Other (please specify):,Visual Basic (.Net),36,33
+senior,Other (please specify):,MATLAB,34,34
+senior,Other (please specify):,Haskell,33,35
+senior,Other (please specify):,LISP,30,36
+senior,Other (please specify):,Erlang,27,37
+senior,Other (please specify):,Lisp,21,38
+senior,Other (please specify):,Solidity,19,39
+senior,Other (please specify):,Matlab,19,40
+senior,Other (please specify):,Julia,18,41
+senior,Other (please specify):,Fortran,13,42
+senior,Other (please specify):,Crystal,13,43
+senior,Other (please specify):,APL,12,44
+senior,Other (please specify):,COBOL,10,45
+senior,Other (please specify):,SAS,7,46
+senior,Other (please specify):,Cobol,6,47
+senior,Other (please specify):,Apex,6,48
+senior,Other (please specify):,Ada,5,49
+senior,Other (please specify):,Nim,4,50
+senior,Other (please specify):,Prolog,4,51
+senior,Other (please specify):,GDScript,4,52
+senior,Other (please specify):,OCaml,3,53
+senior,Other (please specify):,Zig,2,54
+senior,Other (please specify):,Raku,1,55
+senior,Other (please specify):,Flow,1,56
+senior,Product manager,JavaScript,2470,1
+senior,Product manager,HTML/CSS,2197,2
+senior,Product manager,SQL,2122,3
+senior,Product manager,Python,1294,4
+senior,Product manager,TypeScript,1204,5
+senior,Product manager,C#,1124,6
+senior,Product manager,PHP,1056,7
+senior,Product manager,Java,1037,8
+senior,Product manager,Bash/Shell,609,9
+senior,Product manager,C++,607,10
+senior,Product manager,C,522,11
+senior,Product manager,Node.js,495,12
+senior,Product manager,Bash/Shell/PowerShell,474,13
+senior,Product manager,Go,365,14
+senior,Product manager,PowerShell,324,15
+senior,Product manager,Ruby,299,16
+senior,Product manager,Kotlin,274,17
+senior,Product manager,VBA,271,18
+senior,Product manager,Swift,267,19
+senior,Product manager,Objective-C,206,20
+senior,Product manager,Dart,187,21
+senior,Product manager,R,166,22
+senior,Product manager,Rust,165,23
+senior,Product manager,Assembly,149,24
+senior,Product manager,Delphi,117,25
+senior,Product manager,Perl,102,26
+senior,Product manager,Scala,88,27
+senior,Product manager,Groovy,74,28
+senior,Product manager,Elixir,68,29
+senior,Product manager,Clojure,53,30
+senior,Product manager,F#,42,31
+senior,Product manager,Haskell,38,32
+senior,Product manager,Bash/Shell (all shells),38,33
+senior,Product manager,Matlab,38,34
+senior,Product manager,Lua,36,35
+senior,Product manager,Erlang,30,36
+senior,Product manager,Other(s):,30,37
+senior,Product manager,Julia,27,38
+senior,Product manager,MATLAB,25,39
+senior,Product manager,LISP,25,40
+senior,Product manager,COBOL,24,41
+senior,Product manager,Crystal,17,42
+senior,Product manager,Fortran,13,43
+senior,Product manager,Solidity,12,44
+senior,Product manager,APL,7,45
+senior,Product manager,OCaml,6,46
+senior,Product manager,SAS,6,47
+senior,Product manager,Visual Basic (.Net),5,48
+senior,Product manager,WebAssembly,4,49
+senior,Product manager,Apex,3,50
+senior,Product manager,Lisp,2,51
+senior,Product manager,Zig,2,52
+senior,Product manager,Cobol,2,53
+senior,Project manager,JavaScript,1048,1
+senior,Project manager,SQL,922,2
+senior,Project manager,HTML/CSS,887,3
+senior,Project manager,TypeScript,609,4
+senior,Project manager,Python,559,5
+senior,Project manager,C#,492,6
+senior,Project manager,PHP,486,7
+senior,Project manager,Bash/Shell,448,8
+senior,Project manager,Java,418,9
+senior,Project manager,C++,261,10
+senior,Project manager,PowerShell,249,11
+senior,Project manager,C,215,12
+senior,Project manager,Go,159,13
+senior,Project manager,Kotlin,127,14
+senior,Project manager,VBA,115,15
+senior,Project manager,Ruby,106,16
+senior,Project manager,Dart,105,17
+senior,Project manager,Delphi,102,18
+senior,Project manager,Swift,101,19
+senior,Project manager,Rust,89,20
+senior,Project manager,Groovy,65,21
+senior,Project manager,Assembly,65,22
+senior,Project manager,Objective-C,61,23
+senior,Project manager,R,60,24
+senior,Project manager,Lua,56,25
+senior,Project manager,MATLAB,56,26
+senior,Project manager,Elixir,51,27
+senior,Project manager,Bash/Shell (all shells),39,28
+senior,Project manager,Perl,37,29
+senior,Project manager,Scala,33,30
+senior,Project manager,Haskell,27,31
+senior,Project manager,Erlang,26,32
+senior,Project manager,Solidity,19,33
+senior,Project manager,Fortran,16,34
+senior,Project manager,Clojure,16,35
+senior,Project manager,F#,16,36
+senior,Project manager,Julia,15,37
+senior,Project manager,SAS,14,38
+senior,Project manager,COBOL,14,39
+senior,Project manager,Crystal,13,40
+senior,Project manager,LISP,13,41
+senior,Project manager,Visual Basic (.Net),12,42
+senior,Project manager,APL,11,43
+senior,Project manager,OCaml,10,44
+senior,Project manager,Cobol,4,45
+senior,Project manager,GDScript,2,46
+senior,Project manager,Apex,2,47
+senior,Project manager,Ada,1,48
+senior,Project manager,Lisp,1,49
+senior,Research & Development role,Python,187,1
+senior,Research & Development role,JavaScript,152,2
+senior,Research & Development role,SQL,139,3
+senior,Research & Development role,Bash/Shell (all shells),113,4
+senior,Research & Development role,HTML/CSS,111,5
+senior,Research & Development role,C++,103,6
+senior,Research & Development role,TypeScript,98,7
+senior,Research & Development role,Java,91,8
+senior,Research & Development role,C#,87,9
+senior,Research & Development role,C,78,10
+senior,Research & Development role,Go,55,11
+senior,Research & Development role,Rust,52,12
+senior,Research & Development role,PowerShell,49,13
+senior,Research & Development role,PHP,43,14
+senior,Research & Development role,Kotlin,28,15
+senior,Research & Development role,Assembly,23,16
+senior,Research & Development role,Perl,22,17
+senior,Research & Development role,MATLAB,21,18
+senior,Research & Development role,R,19,19
+senior,Research & Development role,Groovy,18,20
+senior,Research & Development role,Lua,17,21
+senior,Research & Development role,Dart,17,22
+senior,Research & Development role,Scala,15,23
+senior,Research & Development role,Ruby,13,24
+senior,Research & Development role,Swift,12,25
+senior,Research & Development role,Objective-C,11,26
+senior,Research & Development role,Delphi,11,27
+senior,Research & Development role,VBA,9,28
+senior,Research & Development role,Haskell,8,29
+senior,Research & Development role,Lisp,8,30
+senior,Research & Development role,Fortran,7,31
+senior,Research & Development role,Zig,7,32
+senior,Research & Development role,Visual Basic (.Net),6,33
+senior,Research & Development role,Clojure,6,34
+senior,Research & Development role,Elixir,6,35
+senior,Research & Development role,Julia,6,36
+senior,Research & Development role,OCaml,5,37
+senior,Research & Development role,Erlang,5,38
+senior,Research & Development role,Solidity,4,39
+senior,Research & Development role,GDScript,4,40
+senior,Research & Development role,Ada,3,41
+senior,Research & Development role,Prolog,3,42
+senior,Research & Development role,Cobol,3,43
+senior,Research & Development role,Nim,2,44
+senior,Research & Development role,Apex,2,45
+senior,Research & Development role,APL,1,46
+senior,Research & Development role,SAS,1,47
+senior,Research & Development role,Crystal,1,48
+senior,Research & Development role,F#,1,49
+senior,Research & Development role,Raku,1,50
+senior,Scientist,Python,1043,1
+senior,Scientist,JavaScript,846,2
+senior,Scientist,SQL,810,3
+senior,Scientist,HTML/CSS,787,4
+senior,Scientist,C++,581,5
+senior,Scientist,Java,522,6
+senior,Scientist,C,494,7
+senior,Scientist,Bash/Shell/PowerShell,486,8
+senior,Scientist,C#,362,9
+senior,Scientist,R,338,10
+senior,Scientist,PHP,318,11
+senior,Scientist,TypeScript,307,12
+senior,Scientist,Bash/Shell,251,13
+senior,Scientist,Go,187,14
+senior,Scientist,Assembly,166,15
+senior,Scientist,Rust,143,16
+senior,Scientist,Ruby,130,17
+senior,Scientist,VBA,124,18
+senior,Scientist,Node.js,113,19
+senior,Scientist,Scala,99,20
+senior,Scientist,Kotlin,98,21
+senior,Scientist,PowerShell,96,22
+senior,Scientist,Other(s):,80,23
+senior,Scientist,Swift,71,24
+senior,Scientist,Objective-C,67,25
+senior,Scientist,Perl,60,26
+senior,Scientist,Julia,51,27
+senior,Scientist,Matlab,50,28
+senior,Scientist,Dart,48,29
+senior,Scientist,Haskell,46,30
+senior,Scientist,MATLAB,42,31
+senior,Scientist,Clojure,24,32
+senior,Scientist,Erlang,22,33
+senior,Scientist,F#,21,34
+senior,Scientist,Delphi,21,35
+senior,Scientist,Groovy,20,36
+senior,Scientist,Elixir,19,37
+senior,Scientist,LISP,18,38
+senior,Scientist,Fortran,13,39
+senior,Scientist,Lua,12,40
+senior,Scientist,Bash/Shell (all shells),8,41
+senior,Scientist,SAS,7,42
+senior,Scientist,COBOL,7,43
+senior,Scientist,APL,7,44
+senior,Scientist,Solidity,7,45
+senior,Scientist,OCaml,6,46
+senior,Scientist,Crystal,6,47
+senior,Scientist,WebAssembly,4,48
+senior,Scientist,Lisp,2,49
+senior,Scientist,Visual Basic (.Net),1,50
+senior,Security professional,JavaScript,513,1
+senior,Security professional,SQL,456,2
+senior,Security professional,Python,428,3
+senior,Security professional,HTML/CSS,415,4
+senior,Security professional,Bash/Shell,323,5
+senior,Security professional,TypeScript,313,6
+senior,Security professional,Java,263,7
+senior,Security professional,C#,237,8
+senior,Security professional,PowerShell,213,9
+senior,Security professional,Go,203,10
+senior,Security professional,PHP,194,11
+senior,Security professional,C,184,12
+senior,Security professional,C++,180,13
+senior,Security professional,Rust,122,14
+senior,Security professional,Ruby,103,15
+senior,Security professional,Assembly,82,16
+senior,Security professional,Bash/Shell (all shells),80,17
+senior,Security professional,Kotlin,67,18
+senior,Security professional,Perl,61,19
+senior,Security professional,Groovy,61,20
+senior,Security professional,Swift,55,21
+senior,Security professional,Lua,51,22
+senior,Security professional,VBA,47,23
+senior,Security professional,Dart,39,24
+senior,Security professional,Objective-C,38,25
+senior,Security professional,Scala,32,26
+senior,Security professional,Delphi,32,27
+senior,Security professional,Elixir,31,28
+senior,Security professional,Haskell,26,29
+senior,Security professional,R,26,30
+senior,Security professional,Erlang,23,31
+senior,Security professional,Solidity,22,32
+senior,Security professional,MATLAB,21,33
+senior,Security professional,LISP,20,34
+senior,Security professional,Clojure,15,35
+senior,Security professional,F#,14,36
+senior,Security professional,Fortran,10,37
+senior,Security professional,Julia,9,38
+senior,Security professional,OCaml,8,39
+senior,Security professional,Crystal,8,40
+senior,Security professional,Visual Basic (.Net),6,41
+senior,Security professional,APL,5,42
+senior,Security professional,COBOL,4,43
+senior,Security professional,SAS,3,44
+senior,Security professional,Lisp,1,45
+senior,Security professional,Nim,1,46
+senior,Security professional,GDScript,1,47
+senior,"Senior Executive (C-Suite, VP, etc.)",JavaScript,1585,1
+senior,"Senior Executive (C-Suite, VP, etc.)",SQL,1305,2
+senior,"Senior Executive (C-Suite, VP, etc.)",HTML/CSS,1296,3
+senior,"Senior Executive (C-Suite, VP, etc.)",TypeScript,957,4
+senior,"Senior Executive (C-Suite, VP, etc.)",Python,888,5
+senior,"Senior Executive (C-Suite, VP, etc.)",C#,617,6
+senior,"Senior Executive (C-Suite, VP, etc.)",Bash/Shell,551,7
+senior,"Senior Executive (C-Suite, VP, etc.)",PHP,541,8
+senior,"Senior Executive (C-Suite, VP, etc.)",Java,515,9
+senior,"Senior Executive (C-Suite, VP, etc.)",Node.js,405,10
+senior,"Senior Executive (C-Suite, VP, etc.)",Go,331,11
+senior,"Senior Executive (C-Suite, VP, etc.)",C++,307,12
+senior,"Senior Executive (C-Suite, VP, etc.)",PowerShell,298,13
+senior,"Senior Executive (C-Suite, VP, etc.)",C,290,14
+senior,"Senior Executive (C-Suite, VP, etc.)",Ruby,288,15
+senior,"Senior Executive (C-Suite, VP, etc.)",Bash/Shell (all shells),212,16
+senior,"Senior Executive (C-Suite, VP, etc.)",Rust,203,17
+senior,"Senior Executive (C-Suite, VP, etc.)",Kotlin,185,18
+senior,"Senior Executive (C-Suite, VP, etc.)",Swift,169,19
+senior,"Senior Executive (C-Suite, VP, etc.)",Dart,163,20
+senior,"Senior Executive (C-Suite, VP, etc.)",Objective-C,115,21
+senior,"Senior Executive (C-Suite, VP, etc.)",VBA,110,22
+senior,"Senior Executive (C-Suite, VP, etc.)",Elixir,109,23
+senior,"Senior Executive (C-Suite, VP, etc.)",Delphi,92,24
+senior,"Senior Executive (C-Suite, VP, etc.)",Assembly,92,25
+senior,"Senior Executive (C-Suite, VP, etc.)",Groovy,72,26
+senior,"Senior Executive (C-Suite, VP, etc.)",R,70,27
+senior,"Senior Executive (C-Suite, VP, etc.)",Clojure,67,28
+senior,"Senior Executive (C-Suite, VP, etc.)",Scala,64,29
+senior,"Senior Executive (C-Suite, VP, etc.)",Lua,58,30
+senior,"Senior Executive (C-Suite, VP, etc.)",Perl,55,31
+senior,"Senior Executive (C-Suite, VP, etc.)",F#,52,32
+senior,"Senior Executive (C-Suite, VP, etc.)",Erlang,40,33
+senior,"Senior Executive (C-Suite, VP, etc.)",Haskell,30,34
+senior,"Senior Executive (C-Suite, VP, etc.)",Solidity,29,35
+senior,"Senior Executive (C-Suite, VP, etc.)",Visual Basic (.Net),29,36
+senior,"Senior Executive (C-Suite, VP, etc.)",MATLAB,27,37
+senior,"Senior Executive (C-Suite, VP, etc.)",LISP,26,38
+senior,"Senior Executive (C-Suite, VP, etc.)",Julia,25,39
+senior,"Senior Executive (C-Suite, VP, etc.)",Crystal,20,40
+senior,"Senior Executive (C-Suite, VP, etc.)",Fortran,17,41
+senior,"Senior Executive (C-Suite, VP, etc.)",Matlab,17,42
+senior,"Senior Executive (C-Suite, VP, etc.)",APL,14,43
+senior,"Senior Executive (C-Suite, VP, etc.)",COBOL,14,44
+senior,"Senior Executive (C-Suite, VP, etc.)",GDScript,10,45
+senior,"Senior Executive (C-Suite, VP, etc.)",Lisp,10,46
+senior,"Senior Executive (C-Suite, VP, etc.)",OCaml,8,47
+senior,"Senior Executive (C-Suite, VP, etc.)",Prolog,7,48
+senior,"Senior Executive (C-Suite, VP, etc.)",SAS,6,49
+senior,"Senior Executive (C-Suite, VP, etc.)",Apex,5,50
+senior,"Senior Executive (C-Suite, VP, etc.)",Zig,4,51
+senior,"Senior Executive (C-Suite, VP, etc.)",Ada,3,52
+senior,"Senior Executive (C-Suite, VP, etc.)",Cobol,3,53
+senior,"Senior Executive (C-Suite, VP, etc.)",Nim,2,54
+senior,"Senior Executive (C-Suite, VP, etc.)",Raku,2,55
+senior,"Senior Executive (C-Suite, VP, etc.)",Flow,1,56
+senior,Senior executive/VP,JavaScript,505,1
+senior,Senior executive/VP,HTML/CSS,469,2
+senior,Senior executive/VP,SQL,453,3
+senior,Senior executive/VP,Python,304,4
+senior,Senior executive/VP,Bash/Shell/PowerShell,303,5
+senior,Senior executive/VP,C#,218,6
+senior,Senior executive/VP,Java,218,7
+senior,Senior executive/VP,PHP,216,8
+senior,Senior executive/VP,TypeScript,205,9
+senior,Senior executive/VP,C++,151,10
+senior,Senior executive/VP,C,142,11
+senior,Senior executive/VP,Go,97,12
+senior,Senior executive/VP,Ruby,92,13
+senior,Senior executive/VP,Kotlin,65,14
+senior,Senior executive/VP,Swift,64,15
+senior,Senior executive/VP,Objective-C,61,16
+senior,Senior executive/VP,Assembly,55,17
+senior,Senior executive/VP,VBA,48,18
+senior,Senior executive/VP,R,41,19
+senior,Senior executive/VP,Rust,41,20
+senior,Senior executive/VP,Perl,36,21
+senior,Senior executive/VP,Scala,35,22
+senior,Senior executive/VP,Dart,29,23
+senior,Senior executive/VP,Other(s):,18,24
+senior,Senior executive/VP,Haskell,8,25
+senior,Senior executive/VP,Elixir,6,26
+senior,Senior executive/VP,WebAssembly,5,27
+senior,Senior executive/VP,Erlang,4,28
+senior,Senior executive/VP,Julia,3,29
+senior,Senior executive/VP,Clojure,3,30
+senior,Senior executive/VP,F#,2,31
+senior,Student,JavaScript,558,1
+senior,Student,HTML/CSS,512,2
+senior,Student,Python,476,3
+senior,Student,SQL,471,4
+senior,Student,Java,393,5
+senior,Student,TypeScript,303,6
+senior,Student,C++,268,7
+senior,Student,C#,266,8
+senior,Student,C,247,9
+senior,Student,PHP,240,10
+senior,Student,Bash/Shell,194,11
+senior,Student,Node.js,191,12
+senior,Student,Bash/Shell/PowerShell,124,13
+senior,Student,Go,109,14
+senior,Student,Kotlin,101,15
+senior,Student,Assembly,90,16
+senior,Student,PowerShell,85,17
+senior,Student,R,82,18
+senior,Student,Rust,74,19
+senior,Student,Dart,68,20
+senior,Student,Ruby,67,21
+senior,Student,Swift,66,22
+senior,Student,Matlab,56,23
+senior,Student,VBA,42,24
+senior,Student,Scala,36,25
+senior,Student,Objective-C,30,26
+senior,Student,Other(s):,27,27
+senior,Student,Haskell,25,28
+senior,Student,Groovy,22,29
+senior,Student,Elixir,17,30
+senior,Student,MATLAB,17,31
+senior,Student,F#,16,32
+senior,Student,Erlang,14,33
+senior,Student,LISP,13,34
+senior,Student,Perl,12,35
+senior,Student,Delphi,12,36
+senior,Student,Clojure,10,37
+senior,Student,Julia,10,38
+senior,Student,Lua,8,39
+senior,Student,Solidity,8,40
+senior,Student,Crystal,5,41
+senior,Student,SAS,5,42
+senior,Student,WebAssembly,5,43
+senior,Student,Fortran,4,44
+senior,Student,APL,4,45
+senior,Student,Bash/Shell (all shells),3,46
+senior,Student,OCaml,3,47
+senior,Student,COBOL,2,48
+senior,Student,Ada,1,49
+senior,Student,Lisp,1,50
+senior,Student,Prolog,1,51
+senior,Student,Cobol,1,52
+senior,Student,Apex,1,53
+senior,Student,Flow,1,54
+senior,Student,Zig,1,55
+senior,Student,Visual Basic (.Net),1,56
+senior,Student,Nim,1,57
+senior,Student,Raku,1,58
+senior,Student,GDScript,1,59
+senior,System administrator,JavaScript,4561,1
+senior,System administrator,SQL,4268,2
+senior,System administrator,HTML/CSS,4150,3
+senior,System administrator,Python,3114,4
+senior,System administrator,PHP,2401,5
+senior,System administrator,Java,2061,6
+senior,System administrator,C#,1992,7
+senior,System administrator,TypeScript,1947,8
+senior,System administrator,Bash/Shell,1695,9
+senior,System administrator,Bash/Shell/PowerShell,1551,10
+senior,System administrator,C,1277,11
+senior,System administrator,C++,1260,12
+senior,System administrator,Go,1056,13
+senior,System administrator,PowerShell,843,14
+senior,System administrator,Node.js,825,15
+senior,System administrator,Ruby,697,16
+senior,System administrator,VBA,512,17
+senior,System administrator,Rust,491,18
+senior,System administrator,Perl,438,19
+senior,System administrator,Kotlin,435,20
+senior,System administrator,Assembly,370,21
+senior,System administrator,Swift,320,22
+senior,System administrator,Dart,295,23
+senior,System administrator,R,276,24
+senior,System administrator,Objective-C,243,25
+senior,System administrator,Groovy,198,26
+senior,System administrator,Scala,188,27
+senior,System administrator,Elixir,151,28
+senior,System administrator,Delphi,130,29
+senior,System administrator,Haskell,121,30
+senior,System administrator,Lua,101,31
+senior,System administrator,Erlang,86,32
+senior,System administrator,Clojure,74,33
+senior,System administrator,Bash/Shell (all shells),69,34
+senior,System administrator,Matlab,64,35
+senior,System administrator,LISP,62,36
+senior,System administrator,F#,58,37
+senior,System administrator,Other(s):,57,38
+senior,System administrator,MATLAB,50,39
+senior,System administrator,Julia,43,40
+senior,System administrator,Crystal,39,41
+senior,System administrator,COBOL,32,42
+senior,System administrator,Solidity,25,43
+senior,System administrator,Fortran,23,44
+senior,System administrator,APL,20,45
+senior,System administrator,OCaml,15,46
+senior,System administrator,WebAssembly,10,47
+senior,System administrator,Visual Basic (.Net),9,48
+senior,System administrator,SAS,9,49
+senior,System administrator,Cobol,3,50
+senior,System administrator,GDScript,3,51
+senior,System administrator,Flow,1,52
+senior,System administrator,Zig,1,53
+senior,System administrator,Apex,1,54

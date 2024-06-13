@@ -1,0 +1,1202 @@
+DevType,Platform,Count,Rank
+Academic researcher,Linux,1078,1
+Academic researcher,AWS,950,2
+Academic researcher,Windows,779,3
+Academic researcher,Docker,635,4
+Academic researcher,Google Cloud Platform,525,5
+Academic researcher,Microsoft Azure,505,6
+Academic researcher,MacOS,419,7
+Academic researcher,Android,416,8
+Academic researcher,Heroku,393,9
+Academic researcher,Raspberry Pi,305,10
+Academic researcher,WordPress,257,11
+Academic researcher,Arduino,249,12
+Academic researcher,DigitalOcean,187,13
+Academic researcher,Kubernetes,171,14
+Academic researcher,iOS,157,15
+Academic researcher,Google Cloud,130,16
+Academic researcher,IBM Cloud or Watson,99,17
+Academic researcher,Slack Apps and Integrations,93,18
+Academic researcher,Slack,92,19
+Academic researcher,Firebase,69,20
+Academic researcher,VMware,57,21
+Academic researcher,Amazon Web Services (AWS),42,22
+Academic researcher,Managed Hosting,38,23
+Academic researcher,OpenStack,29,24
+Academic researcher,Other(s):,28,25
+Academic researcher,OVH,22,26
+Academic researcher,Oracle Cloud Infrastructure,20,27
+Academic researcher,Linode,13,28
+Academic researcher,Cloudflare,10,29
+Academic researcher,Digital Ocean,9,30
+Academic researcher,Hetzner,9,31
+Academic researcher,Vercel,7,32
+Academic researcher,Netlify,7,33
+Academic researcher,"Linode, now Akamai",6,34
+Academic researcher,Colocation,6,35
+Academic researcher,IBM Cloud Or Watson,3,36
+Academic researcher,Oracle Cloud Infrastructure (OCI),3,37
+Academic researcher,Vultr,1,38
+Academic researcher,OpenShift,1,39
+Academic researcher,Fly.io,1,40
+Academic researcher,Render,1,41
+Blockchain,AWS,316,1
+Blockchain,Google Cloud,192,2
+Blockchain,Firebase,126,3
+Blockchain,DigitalOcean,125,4
+Blockchain,Microsoft Azure,121,5
+Blockchain,Heroku,111,6
+Blockchain,Amazon Web Services (AWS),73,7
+Blockchain,VMware,43,8
+Blockchain,OVH,39,9
+Blockchain,Managed Hosting,33,10
+Blockchain,Linode,32,11
+Blockchain,Cloudflare,27,12
+Blockchain,Digital Ocean,26,13
+Blockchain,OpenStack,19,14
+Blockchain,Colocation,17,15
+Blockchain,Vercel,15,16
+Blockchain,IBM Cloud or Watson,13,17
+Blockchain,Oracle Cloud Infrastructure,11,18
+Blockchain,Hetzner,10,19
+Blockchain,"Linode, now Akamai",8,20
+Blockchain,Netlify,8,21
+Blockchain,OpenShift,4,22
+Blockchain,Vultr,3,23
+Blockchain,IBM Cloud Or Watson,3,24
+Blockchain,Render,2,25
+Blockchain,Fly.io,2,26
+Blockchain,Oracle Cloud Infrastructure (OCI),1,27
+Blockchain,Scaleway,1,28
+Cloud infrastructure engineer,AWS,1956,1
+Cloud infrastructure engineer,Microsoft Azure,1154,2
+Cloud infrastructure engineer,Google Cloud,1072,3
+Cloud infrastructure engineer,DigitalOcean,434,4
+Cloud infrastructure engineer,Firebase,390,5
+Cloud infrastructure engineer,Amazon Web Services (AWS),387,6
+Cloud infrastructure engineer,Heroku,337,7
+Cloud infrastructure engineer,VMware,277,8
+Cloud infrastructure engineer,Managed Hosting,176,9
+Cloud infrastructure engineer,OVH,136,10
+Cloud infrastructure engineer,OpenStack,131,11
+Cloud infrastructure engineer,Linode,119,12
+Cloud infrastructure engineer,Cloudflare,106,13
+Cloud infrastructure engineer,Colocation,74,14
+Cloud infrastructure engineer,Digital Ocean,73,15
+Cloud infrastructure engineer,Oracle Cloud Infrastructure,72,16
+Cloud infrastructure engineer,IBM Cloud or Watson,56,17
+Cloud infrastructure engineer,Hetzner,33,18
+Cloud infrastructure engineer,OpenShift,28,19
+Cloud infrastructure engineer,"Linode, now Akamai",25,20
+Cloud infrastructure engineer,Netlify,25,21
+Cloud infrastructure engineer,Oracle Cloud Infrastructure (OCI),20,22
+Cloud infrastructure engineer,Fly.io,19,23
+Cloud infrastructure engineer,Vercel,18,24
+Cloud infrastructure engineer,Scaleway,11,25
+Cloud infrastructure engineer,Vultr,10,26
+Cloud infrastructure engineer,IBM Cloud Or Watson,5,27
+Cloud infrastructure engineer,Render,4,28
+Data or business analyst,AWS,1952,1
+Data or business analyst,Microsoft Azure,1531,2
+Data or business analyst,Windows,1306,3
+Data or business analyst,Linux,1094,4
+Data or business analyst,Google Cloud Platform,780,5
+Data or business analyst,Docker,687,6
+Data or business analyst,Heroku,569,7
+Data or business analyst,MacOS,431,8
+Data or business analyst,Google Cloud,399,9
+Data or business analyst,Android,374,10
+Data or business analyst,DigitalOcean,363,11
+Data or business analyst,WordPress,330,12
+Data or business analyst,Raspberry Pi,325,13
+Data or business analyst,Kubernetes,204,14
+Data or business analyst,Arduino,201,15
+Data or business analyst,iOS,188,16
+Data or business analyst,Firebase,162,17
+Data or business analyst,VMware,146,18
+Data or business analyst,IBM Cloud or Watson,135,19
+Data or business analyst,Slack Apps and Integrations,135,20
+Data or business analyst,Amazon Web Services (AWS),84,21
+Data or business analyst,Managed Hosting,80,22
+Data or business analyst,Oracle Cloud Infrastructure,65,23
+Data or business analyst,Slack,57,24
+Data or business analyst,Linode,41,25
+Data or business analyst,OVH,38,26
+Data or business analyst,OpenStack,29,27
+Data or business analyst,Colocation,19,28
+Data or business analyst,Digital Ocean,13,29
+Data or business analyst,Cloudflare,12,30
+Data or business analyst,Vercel,9,31
+Data or business analyst,Other(s):,9,32
+Data or business analyst,Netlify,8,33
+Data or business analyst,Oracle Cloud Infrastructure (OCI),8,34
+Data or business analyst,"Linode, now Akamai",6,35
+Data or business analyst,IBM Cloud Or Watson,6,36
+Data or business analyst,Hetzner,5,37
+Data or business analyst,OpenShift,2,38
+Data or business analyst,Fly.io,2,39
+Data or business analyst,Scaleway,1,40
+Data or business analyst,Render,1,41
+Data scientist or machine learning specialist,AWS,2484,1
+Data scientist or machine learning specialist,Linux,1557,2
+Data scientist or machine learning specialist,Microsoft Azure,1503,3
+Data scientist or machine learning specialist,Google Cloud Platform,1155,4
+Data scientist or machine learning specialist,Windows,1082,5
+Data scientist or machine learning specialist,Docker,1076,6
+Data scientist or machine learning specialist,Heroku,688,7
+Data scientist or machine learning specialist,MacOS,630,8
+Data scientist or machine learning specialist,Google Cloud,607,9
+Data scientist or machine learning specialist,Raspberry Pi,416,10
+Data scientist or machine learning specialist,Android,401,11
+Data scientist or machine learning specialist,Kubernetes,386,12
+Data scientist or machine learning specialist,DigitalOcean,371,13
+Data scientist or machine learning specialist,Amazon Web Services (AWS),356,14
+Data scientist or machine learning specialist,Arduino,248,15
+Data scientist or machine learning specialist,WordPress,243,16
+Data scientist or machine learning specialist,IBM Cloud or Watson,192,17
+Data scientist or machine learning specialist,iOS,172,18
+Data scientist or machine learning specialist,Firebase,153,19
+Data scientist or machine learning specialist,Slack Apps and Integrations,150,20
+Data scientist or machine learning specialist,Slack,123,21
+Data scientist or machine learning specialist,VMware,105,22
+Data scientist or machine learning specialist,Managed Hosting,60,23
+Data scientist or machine learning specialist,Digital Ocean,50,24
+Data scientist or machine learning specialist,OVH,44,25
+Data scientist or machine learning specialist,OpenStack,41,26
+Data scientist or machine learning specialist,Oracle Cloud Infrastructure,41,27
+Data scientist or machine learning specialist,Cloudflare,32,28
+Data scientist or machine learning specialist,Linode,27,29
+Data scientist or machine learning specialist,Colocation,19,30
+Data scientist or machine learning specialist,"Linode, now Akamai",16,31
+Data scientist or machine learning specialist,Netlify,16,32
+Data scientist or machine learning specialist,IBM Cloud Or Watson,15,33
+Data scientist or machine learning specialist,Other(s):,15,34
+Data scientist or machine learning specialist,Oracle Cloud Infrastructure (OCI),14,35
+Data scientist or machine learning specialist,Hetzner,13,36
+Data scientist or machine learning specialist,Vercel,12,37
+Data scientist or machine learning specialist,Vultr,8,38
+Data scientist or machine learning specialist,OpenShift,8,39
+Data scientist or machine learning specialist,Fly.io,4,40
+Data scientist or machine learning specialist,Scaleway,2,41
+Database administrator,AWS,3395,1
+Database administrator,Microsoft Azure,2336,2
+Database administrator,Linux,1984,3
+Database administrator,Windows,1974,4
+Database administrator,Docker,1265,5
+Database administrator,Google Cloud Platform,1178,6
+Database administrator,Heroku,916,7
+Database administrator,DigitalOcean,826,8
+Database administrator,Android,822,9
+Database administrator,MacOS,754,10
+Database administrator,WordPress,673,11
+Database administrator,Raspberry Pi,606,12
+Database administrator,Google Cloud,503,13
+Database administrator,iOS,462,14
+Database administrator,Kubernetes,410,15
+Database administrator,Arduino,353,16
+Database administrator,Firebase,283,17
+Database administrator,Slack Apps and Integrations,241,18
+Database administrator,VMware,234,19
+Database administrator,Managed Hosting,180,20
+Database administrator,IBM Cloud or Watson,147,21
+Database administrator,Slack,130,22
+Database administrator,OVH,97,23
+Database administrator,Oracle Cloud Infrastructure,96,24
+Database administrator,Linode,94,25
+Database administrator,OpenStack,50,26
+Database administrator,Colocation,46,27
+Database administrator,Amazon Web Services (AWS),31,28
+Database administrator,Other(s):,31,29
+Database administrator,Oracle Cloud Infrastructure (OCI),24,30
+Database administrator,Cloudflare,7,31
+Database administrator,Digital Ocean,6,32
+Database administrator,"Linode, now Akamai",3,33
+Database administrator,Hetzner,2,34
+Database administrator,Netlify,1,35
+Database administrator,Vultr,1,36
+Database administrator,OpenShift,1,37
+Database administrator,Vercel,1,38
+Designer,AWS,1838,1
+Designer,Windows,1436,2
+Designer,Microsoft Azure,1305,3
+Designer,Linux,1215,4
+Designer,Google Cloud Platform,774,5
+Designer,Heroku,769,6
+Designer,Docker,733,7
+Designer,Android,721,8
+Designer,WordPress,596,9
+Designer,MacOS,585,10
+Designer,DigitalOcean,450,11
+Designer,Raspberry Pi,412,12
+Designer,iOS,398,13
+Designer,Arduino,292,14
+Designer,Google Cloud,274,15
+Designer,Firebase,220,16
+Designer,Kubernetes,212,17
+Designer,Slack Apps and Integrations,155,18
+Designer,VMware,139,19
+Designer,Managed Hosting,103,20
+Designer,IBM Cloud or Watson,101,21
+Designer,Slack,85,22
+Designer,Linode,44,23
+Designer,OVH,39,24
+Designer,Oracle Cloud Infrastructure,36,25
+Designer,Other(s):,23,26
+Designer,OpenStack,21,27
+Designer,Amazon Web Services (AWS),17,28
+Designer,Cloudflare,11,29
+Designer,Digital Ocean,7,30
+Designer,Colocation,7,31
+Designer,Vercel,5,32
+Designer,Oracle Cloud Infrastructure (OCI),4,33
+Designer,IBM Cloud Or Watson,3,34
+Designer,Netlify,3,35
+Designer,Hetzner,2,36
+Designer,Scaleway,1,37
+DevOps specialist,AWS,5838,1
+DevOps specialist,Microsoft Azure,3907,2
+DevOps specialist,Linux,2788,3
+DevOps specialist,Docker,2544,4
+DevOps specialist,Google Cloud Platform,1823,5
+DevOps specialist,Windows,1779,6
+DevOps specialist,Heroku,1254,7
+DevOps specialist,DigitalOcean,1222,8
+DevOps specialist,Kubernetes,1172,9
+DevOps specialist,MacOS,1156,10
+DevOps specialist,Google Cloud,985,11
+DevOps specialist,Raspberry Pi,767,12
+DevOps specialist,Android,760,13
+DevOps specialist,WordPress,533,14
+DevOps specialist,Slack Apps and Integrations,482,15
+DevOps specialist,Amazon Web Services (AWS),417,16
+DevOps specialist,iOS,404,17
+DevOps specialist,VMware,386,18
+DevOps specialist,Firebase,379,19
+DevOps specialist,Arduino,344,20
+DevOps specialist,Managed Hosting,260,21
+DevOps specialist,IBM Cloud or Watson,219,22
+DevOps specialist,OVH,170,23
+DevOps specialist,Slack,150,24
+DevOps specialist,OpenStack,142,25
+DevOps specialist,Oracle Cloud Infrastructure,139,26
+DevOps specialist,Cloudflare,127,27
+DevOps specialist,Linode,122,28
+DevOps specialist,Digital Ocean,104,29
+DevOps specialist,Colocation,85,30
+DevOps specialist,OpenShift,66,31
+DevOps specialist,Hetzner,61,32
+DevOps specialist,Vercel,29,33
+DevOps specialist,Oracle Cloud Infrastructure (OCI),28,34
+DevOps specialist,"Linode, now Akamai",28,35
+DevOps specialist,Other(s):,25,36
+DevOps specialist,Scaleway,19,37
+DevOps specialist,Netlify,16,38
+DevOps specialist,Vultr,10,39
+DevOps specialist,IBM Cloud Or Watson,10,40
+DevOps specialist,Fly.io,7,41
+Developer Advocate,Amazon Web Services (AWS),40,1
+Developer Advocate,Microsoft Azure,29,2
+Developer Advocate,Google Cloud,18,3
+Developer Advocate,Vercel,13,4
+Developer Advocate,Cloudflare,11,5
+Developer Advocate,Netlify,11,6
+Developer Advocate,Firebase,10,7
+Developer Advocate,Heroku,9,8
+Developer Advocate,Digital Ocean,8,9
+Developer Advocate,OpenShift,5,10
+Developer Advocate,Oracle Cloud Infrastructure (OCI),5,11
+Developer Advocate,Fly.io,5,12
+Developer Advocate,Hetzner,3,13
+Developer Advocate,OVH,3,14
+Developer Advocate,Managed Hosting,2,15
+Developer Advocate,VMware,2,16
+Developer Advocate,Render,2,17
+Developer Advocate,"Linode, now Akamai",2,18
+Developer Advocate,Scaleway,2,19
+Developer Advocate,OpenStack,1,20
+Developer Advocate,IBM Cloud Or Watson,1,21
+Developer Experience,Amazon Web Services (AWS),83,1
+Developer Experience,Microsoft Azure,35,2
+Developer Experience,Cloudflare,31,3
+Developer Experience,Google Cloud,30,4
+Developer Experience,Firebase,17,5
+Developer Experience,Digital Ocean,16,6
+Developer Experience,Heroku,16,7
+Developer Experience,Netlify,12,8
+Developer Experience,Vercel,11,9
+Developer Experience,VMware,9,10
+Developer Experience,Fly.io,8,11
+Developer Experience,Hetzner,7,12
+Developer Experience,OpenStack,7,13
+Developer Experience,Oracle Cloud Infrastructure (OCI),4,14
+Developer Experience,OVH,4,15
+Developer Experience,Managed Hosting,4,16
+Developer Experience,"Linode, now Akamai",4,17
+Developer Experience,OpenShift,3,18
+Developer Experience,IBM Cloud Or Watson,3,19
+Developer Experience,Scaleway,2,20
+Developer Experience,Vultr,2,21
+Developer Experience,Colocation,2,22
+Developer Experience,Render,1,23
+"Developer, QA or test",AWS,2096,1
+"Developer, QA or test",Microsoft Azure,1431,2
+"Developer, QA or test",Linux,1296,3
+"Developer, QA or test",Windows,1225,4
+"Developer, QA or test",Docker,990,5
+"Developer, QA or test",Google Cloud Platform,740,6
+"Developer, QA or test",Heroku,688,7
+"Developer, QA or test",MacOS,606,8
+"Developer, QA or test",Android,577,9
+"Developer, QA or test",DigitalOcean,457,10
+"Developer, QA or test",WordPress,367,11
+"Developer, QA or test",Raspberry Pi,358,12
+"Developer, QA or test",Google Cloud,328,13
+"Developer, QA or test",Kubernetes,315,14
+"Developer, QA or test",iOS,311,15
+"Developer, QA or test",Firebase,223,16
+"Developer, QA or test",Slack Apps and Integrations,218,17
+"Developer, QA or test",Arduino,207,18
+"Developer, QA or test",VMware,158,19
+"Developer, QA or test",Amazon Web Services (AWS),105,20
+"Developer, QA or test",IBM Cloud or Watson,101,21
+"Developer, QA or test",Managed Hosting,91,22
+"Developer, QA or test",Slack,76,23
+"Developer, QA or test",Oracle Cloud Infrastructure,50,24
+"Developer, QA or test",OVH,44,25
+"Developer, QA or test",Linode,40,26
+"Developer, QA or test",OpenStack,36,27
+"Developer, QA or test",Digital Ocean,25,28
+"Developer, QA or test",Colocation,20,29
+"Developer, QA or test",Other(s):,19,30
+"Developer, QA or test",Vercel,12,31
+"Developer, QA or test",Cloudflare,8,32
+"Developer, QA or test",Hetzner,7,33
+"Developer, QA or test",Netlify,6,34
+"Developer, QA or test",OpenShift,4,35
+"Developer, QA or test",Scaleway,4,36
+"Developer, QA or test","Linode, now Akamai",3,37
+"Developer, QA or test",IBM Cloud Or Watson,1,38
+"Developer, QA or test",Vultr,1,39
+"Developer, QA or test",Render,1,40
+"Developer, back-end",AWS,19976,1
+"Developer, back-end",Microsoft Azure,12314,2
+"Developer, back-end",Linux,9451,3
+"Developer, back-end",Windows,7870,4
+"Developer, back-end",Docker,7489,5
+"Developer, back-end",Heroku,6331,6
+"Developer, back-end",Google Cloud Platform,5922,7
+"Developer, back-end",Google Cloud,4387,8
+"Developer, back-end",MacOS,4226,9
+"Developer, back-end",Amazon Web Services (AWS),4221,10
+"Developer, back-end",DigitalOcean,3940,11
+"Developer, back-end",Android,3356,12
+"Developer, back-end",Kubernetes,2606,13
+"Developer, back-end",Raspberry Pi,2307,14
+"Developer, back-end",WordPress,2043,15
+"Developer, back-end",Firebase,1970,16
+"Developer, back-end",iOS,1634,17
+"Developer, back-end",Arduino,1316,18
+"Developer, back-end",Slack Apps and Integrations,1310,19
+"Developer, back-end",VMware,1023,20
+"Developer, back-end",Managed Hosting,836,21
+"Developer, back-end",Cloudflare,800,22
+"Developer, back-end",Digital Ocean,773,23
+"Developer, back-end",OVH,598,24
+"Developer, back-end",IBM Cloud or Watson,591,25
+"Developer, back-end",Slack,474,26
+"Developer, back-end",Linode,387,27
+"Developer, back-end",Oracle Cloud Infrastructure,359,28
+"Developer, back-end",OpenStack,302,29
+"Developer, back-end",Vercel,278,30
+"Developer, back-end",Netlify,255,31
+"Developer, back-end",Hetzner,225,32
+"Developer, back-end",OpenShift,213,33
+"Developer, back-end","Linode, now Akamai",203,34
+"Developer, back-end",Colocation,186,35
+"Developer, back-end",Fly.io,144,36
+"Developer, back-end",Oracle Cloud Infrastructure (OCI),116,37
+"Developer, back-end",Vultr,82,38
+"Developer, back-end",Other(s):,80,39
+"Developer, back-end",Scaleway,72,40
+"Developer, back-end",Render,66,41
+"Developer, back-end",IBM Cloud Or Watson,47,42
+"Developer, desktop or enterprise applications",Microsoft Azure,5280,1
+"Developer, desktop or enterprise applications",AWS,4778,2
+"Developer, desktop or enterprise applications",Windows,4627,3
+"Developer, desktop or enterprise applications",Linux,3317,4
+"Developer, desktop or enterprise applications",Docker,2310,5
+"Developer, desktop or enterprise applications",Android,1665,6
+"Developer, desktop or enterprise applications",Google Cloud Platform,1606,7
+"Developer, desktop or enterprise applications",Heroku,1356,8
+"Developer, desktop or enterprise applications",MacOS,1334,9
+"Developer, desktop or enterprise applications",Raspberry Pi,1025,10
+"Developer, desktop or enterprise applications",DigitalOcean,859,11
+"Developer, desktop or enterprise applications",iOS,818,12
+"Developer, desktop or enterprise applications",Google Cloud,767,13
+"Developer, desktop or enterprise applications",WordPress,760,14
+"Developer, desktop or enterprise applications",Kubernetes,742,15
+"Developer, desktop or enterprise applications",Arduino,684,16
+"Developer, desktop or enterprise applications",Firebase,559,17
+"Developer, desktop or enterprise applications",VMware,477,18
+"Developer, desktop or enterprise applications",Amazon Web Services (AWS),368,19
+"Developer, desktop or enterprise applications",Slack Apps and Integrations,368,20
+"Developer, desktop or enterprise applications",Managed Hosting,242,21
+"Developer, desktop or enterprise applications",IBM Cloud or Watson,221,22
+"Developer, desktop or enterprise applications",Oracle Cloud Infrastructure,156,23
+"Developer, desktop or enterprise applications",OVH,140,24
+"Developer, desktop or enterprise applications",Slack,126,25
+"Developer, desktop or enterprise applications",Linode,96,26
+"Developer, desktop or enterprise applications",Cloudflare,87,27
+"Developer, desktop or enterprise applications",Digital Ocean,75,28
+"Developer, desktop or enterprise applications",OpenStack,73,29
+"Developer, desktop or enterprise applications",Colocation,48,30
+"Developer, desktop or enterprise applications",Oracle Cloud Infrastructure (OCI),40,31
+"Developer, desktop or enterprise applications",Netlify,37,32
+"Developer, desktop or enterprise applications",Hetzner,35,33
+"Developer, desktop or enterprise applications","Linode, now Akamai",30,34
+"Developer, desktop or enterprise applications",Other(s):,30,35
+"Developer, desktop or enterprise applications",Vercel,24,36
+"Developer, desktop or enterprise applications",OpenShift,16,37
+"Developer, desktop or enterprise applications",IBM Cloud Or Watson,15,38
+"Developer, desktop or enterprise applications",Vultr,12,39
+"Developer, desktop or enterprise applications",Fly.io,9,40
+"Developer, desktop or enterprise applications",Scaleway,2,41
+"Developer, desktop or enterprise applications",Render,1,42
+"Developer, embedded applications or devices",AWS,1821,1
+"Developer, embedded applications or devices",Linux,1463,2
+"Developer, embedded applications or devices",Microsoft Azure,1347,3
+"Developer, embedded applications or devices",Windows,1325,4
+"Developer, embedded applications or devices",Docker,905,5
+"Developer, embedded applications or devices",Android,868,6
+"Developer, embedded applications or devices",Raspberry Pi,759,7
+"Developer, embedded applications or devices",Google Cloud Platform,756,8
+"Developer, embedded applications or devices",Arduino,571,9
+"Developer, embedded applications or devices",MacOS,566,10
+"Developer, embedded applications or devices",Heroku,510,11
+"Developer, embedded applications or devices",iOS,475,12
+"Developer, embedded applications or devices",DigitalOcean,417,13
+"Developer, embedded applications or devices",Google Cloud,318,14
+"Developer, embedded applications or devices",WordPress,317,15
+"Developer, embedded applications or devices",Kubernetes,255,16
+"Developer, embedded applications or devices",Firebase,221,17
+"Developer, embedded applications or devices",VMware,179,18
+"Developer, embedded applications or devices",Slack Apps and Integrations,163,19
+"Developer, embedded applications or devices",Amazon Web Services (AWS),162,20
+"Developer, embedded applications or devices",IBM Cloud or Watson,98,21
+"Developer, embedded applications or devices",OVH,79,22
+"Developer, embedded applications or devices",Managed Hosting,68,23
+"Developer, embedded applications or devices",Slack,67,24
+"Developer, embedded applications or devices",Oracle Cloud Infrastructure,54,25
+"Developer, embedded applications or devices",Cloudflare,41,26
+"Developer, embedded applications or devices",Digital Ocean,40,27
+"Developer, embedded applications or devices",OpenStack,38,28
+"Developer, embedded applications or devices",Linode,38,29
+"Developer, embedded applications or devices",Colocation,33,30
+"Developer, embedded applications or devices",Other(s):,19,31
+"Developer, embedded applications or devices",Vultr,13,32
+"Developer, embedded applications or devices",Hetzner,13,33
+"Developer, embedded applications or devices",Vercel,10,34
+"Developer, embedded applications or devices","Linode, now Akamai",10,35
+"Developer, embedded applications or devices",Netlify,8,36
+"Developer, embedded applications or devices",Scaleway,7,37
+"Developer, embedded applications or devices",Oracle Cloud Infrastructure (OCI),4,38
+"Developer, embedded applications or devices",OpenShift,4,39
+"Developer, embedded applications or devices",Fly.io,3,40
+"Developer, embedded applications or devices",Render,2,41
+"Developer, embedded applications or devices",IBM Cloud Or Watson,2,42
+"Developer, front-end",AWS,9717,1
+"Developer, front-end",Microsoft Azure,6186,2
+"Developer, front-end",Windows,5076,3
+"Developer, front-end",Linux,4885,4
+"Developer, front-end",Heroku,4498,5
+"Developer, front-end",Docker,3787,6
+"Developer, front-end",Google Cloud Platform,3549,7
+"Developer, front-end",MacOS,2660,8
+"Developer, front-end",Android,2629,9
+"Developer, front-end",DigitalOcean,2397,10
+"Developer, front-end",Firebase,1897,11
+"Developer, front-end",WordPress,1805,12
+"Developer, front-end",Google Cloud,1682,13
+"Developer, front-end",iOS,1495,14
+"Developer, front-end",Raspberry Pi,1362,15
+"Developer, front-end",Kubernetes,1092,16
+"Developer, front-end",Arduino,879,17
+"Developer, front-end",Slack Apps and Integrations,793,18
+"Developer, front-end",Amazon Web Services (AWS),713,19
+"Developer, front-end",VMware,456,20
+"Developer, front-end",Vercel,418,21
+"Developer, front-end",Managed Hosting,392,22
+"Developer, front-end",IBM Cloud or Watson,351,23
+"Developer, front-end",Netlify,341,24
+"Developer, front-end",Slack,292,25
+"Developer, front-end",OVH,275,26
+"Developer, front-end",Cloudflare,245,27
+"Developer, front-end",Digital Ocean,221,28
+"Developer, front-end",Linode,196,29
+"Developer, front-end",Oracle Cloud Infrastructure,143,30
+"Developer, front-end",OpenStack,92,31
+"Developer, front-end",Other(s):,60,32
+"Developer, front-end",Colocation,57,33
+"Developer, front-end","Linode, now Akamai",40,34
+"Developer, front-end",Fly.io,37,35
+"Developer, front-end",Hetzner,35,36
+"Developer, front-end",Render,33,37
+"Developer, front-end",Vultr,22,38
+"Developer, front-end",OpenShift,15,39
+"Developer, front-end",Oracle Cloud Infrastructure (OCI),14,40
+"Developer, front-end",Scaleway,10,41
+"Developer, front-end",IBM Cloud Or Watson,9,42
+"Developer, full-stack",AWS,20895,1
+"Developer, full-stack",Microsoft Azure,15876,2
+"Developer, full-stack",Heroku,9045,3
+"Developer, full-stack",Linux,8769,4
+"Developer, full-stack",Windows,8186,5
+"Developer, full-stack",Docker,7141,6
+"Developer, full-stack",Google Cloud Platform,6542,7
+"Developer, full-stack",Amazon Web Services (AWS),6320,8
+"Developer, full-stack",Google Cloud,5488,9
+"Developer, full-stack",DigitalOcean,4900,10
+"Developer, full-stack",MacOS,4369,11
+"Developer, full-stack",Firebase,3939,12
+"Developer, full-stack",Android,3719,13
+"Developer, full-stack",WordPress,2449,14
+"Developer, full-stack",Raspberry Pi,2308,15
+"Developer, full-stack",Kubernetes,2255,16
+"Developer, full-stack",iOS,1993,17
+"Developer, full-stack",Cloudflare,1785,18
+"Developer, full-stack",Digital Ocean,1775,19
+"Developer, full-stack",VMware,1418,20
+"Developer, full-stack",Vercel,1371,21
+"Developer, full-stack",Arduino,1343,22
+"Developer, full-stack",Slack Apps and Integrations,1329,23
+"Developer, full-stack",Managed Hosting,1182,24
+"Developer, full-stack",Netlify,1099,25
+"Developer, full-stack",OVH,869,26
+"Developer, full-stack",IBM Cloud or Watson,647,27
+"Developer, full-stack",Slack,474,28
+"Developer, full-stack",Hetzner,468,29
+"Developer, full-stack","Linode, now Akamai",434,30
+"Developer, full-stack",Linode,399,31
+"Developer, full-stack",Fly.io,332,32
+"Developer, full-stack",Oracle Cloud Infrastructure,327,33
+"Developer, full-stack",OpenStack,320,34
+"Developer, full-stack",OpenShift,314,35
+"Developer, full-stack",Render,202,36
+"Developer, full-stack",Colocation,188,37
+"Developer, full-stack",Vultr,183,38
+"Developer, full-stack",Oracle Cloud Infrastructure (OCI),173,39
+"Developer, full-stack",Scaleway,106,40
+"Developer, full-stack",IBM Cloud Or Watson,92,41
+"Developer, full-stack",Other(s):,83,42
+"Developer, game or graphics",AWS,906,1
+"Developer, game or graphics",Windows,813,2
+"Developer, game or graphics",Linux,701,3
+"Developer, game or graphics",Microsoft Azure,555,4
+"Developer, game or graphics",Android,549,5
+"Developer, game or graphics",Docker,493,6
+"Developer, game or graphics",Google Cloud Platform,418,7
+"Developer, game or graphics",MacOS,359,8
+"Developer, game or graphics",Heroku,345,9
+"Developer, game or graphics",iOS,318,10
+"Developer, game or graphics",Raspberry Pi,264,11
+"Developer, game or graphics",Arduino,206,12
+"Developer, game or graphics",WordPress,206,13
+"Developer, game or graphics",DigitalOcean,202,14
+"Developer, game or graphics",Google Cloud,158,15
+"Developer, game or graphics",Firebase,145,16
+"Developer, game or graphics",Kubernetes,139,17
+"Developer, game or graphics",Slack Apps and Integrations,99,18
+"Developer, game or graphics",Amazon Web Services (AWS),74,19
+"Developer, game or graphics",VMware,57,20
+"Developer, game or graphics",IBM Cloud or Watson,55,21
+"Developer, game or graphics",OVH,50,22
+"Developer, game or graphics",Slack,47,23
+"Developer, game or graphics",Managed Hosting,40,24
+"Developer, game or graphics",Digital Ocean,31,25
+"Developer, game or graphics",Linode,27,26
+"Developer, game or graphics",OpenStack,21,27
+"Developer, game or graphics",Cloudflare,18,28
+"Developer, game or graphics",Hetzner,17,29
+"Developer, game or graphics",Oracle Cloud Infrastructure,17,30
+"Developer, game or graphics",Other(s):,14,31
+"Developer, game or graphics",Colocation,13,32
+"Developer, game or graphics",Vercel,10,33
+"Developer, game or graphics",Netlify,7,34
+"Developer, game or graphics",Vultr,4,35
+"Developer, game or graphics",Fly.io,3,36
+"Developer, game or graphics","Linode, now Akamai",3,37
+"Developer, game or graphics",Oracle Cloud Infrastructure (OCI),2,38
+"Developer, game or graphics",IBM Cloud Or Watson,1,39
+"Developer, mobile",AWS,4593,1
+"Developer, mobile",Android,3216,2
+"Developer, mobile",Microsoft Azure,2918,3
+"Developer, mobile",Google Cloud Platform,2355,4
+"Developer, mobile",Linux,2139,5
+"Developer, mobile",Windows,2113,6
+"Developer, mobile",iOS,2064,7
+"Developer, mobile",Heroku,2034,8
+"Developer, mobile",Firebase,1873,9
+"Developer, mobile",Docker,1582,10
+"Developer, mobile",MacOS,1549,11
+"Developer, mobile",DigitalOcean,1140,12
+"Developer, mobile",Google Cloud,1027,13
+"Developer, mobile",WordPress,778,14
+"Developer, mobile",Raspberry Pi,746,15
+"Developer, mobile",Arduino,584,16
+"Developer, mobile",Kubernetes,454,17
+"Developer, mobile",Slack Apps and Integrations,372,18
+"Developer, mobile",Amazon Web Services (AWS),321,19
+"Developer, mobile",VMware,228,20
+"Developer, mobile",IBM Cloud or Watson,215,21
+"Developer, mobile",Managed Hosting,182,22
+"Developer, mobile",Slack,147,23
+"Developer, mobile",OVH,117,24
+"Developer, mobile",Linode,91,25
+"Developer, mobile",Oracle Cloud Infrastructure,81,26
+"Developer, mobile",Digital Ocean,80,27
+"Developer, mobile",Cloudflare,58,28
+"Developer, mobile",Vercel,42,29
+"Developer, mobile",OpenStack,38,30
+"Developer, mobile",Netlify,37,31
+"Developer, mobile",Colocation,34,32
+"Developer, mobile",Other(s):,21,33
+"Developer, mobile","Linode, now Akamai",18,34
+"Developer, mobile",Hetzner,11,35
+"Developer, mobile",Fly.io,8,36
+"Developer, mobile",OpenShift,5,37
+"Developer, mobile",IBM Cloud Or Watson,5,38
+"Developer, mobile",Render,5,39
+"Developer, mobile",Oracle Cloud Infrastructure (OCI),3,40
+"Developer, mobile",Scaleway,3,41
+"Developer, mobile",Vultr,2,42
+Educator,AWS,1125,1
+Educator,Linux,877,2
+Educator,Microsoft Azure,729,3
+Educator,Windows,717,4
+Educator,Docker,606,5
+Educator,Heroku,599,6
+Educator,Google Cloud Platform,517,7
+Educator,MacOS,425,8
+Educator,Android,381,9
+Educator,DigitalOcean,300,10
+Educator,WordPress,297,11
+Educator,Raspberry Pi,273,12
+Educator,Arduino,203,13
+Educator,Google Cloud,196,14
+Educator,Kubernetes,183,15
+Educator,iOS,175,16
+Educator,Firebase,159,17
+Educator,Slack Apps and Integrations,118,18
+Educator,IBM Cloud or Watson,87,19
+Educator,VMware,74,20
+Educator,Managed Hosting,65,21
+Educator,Slack,53,22
+Educator,Oracle Cloud Infrastructure,30,23
+Educator,OVH,27,24
+Educator,Linode,26,25
+Educator,Amazon Web Services (AWS),25,26
+Educator,OpenStack,25,27
+Educator,Other(s):,25,28
+Educator,Colocation,11,29
+Educator,Digital Ocean,9,30
+Educator,Cloudflare,8,31
+Educator,Netlify,6,32
+Educator,Vercel,4,33
+Educator,Render,2,34
+Educator,Oracle Cloud Infrastructure (OCI),1,35
+Educator,"Linode, now Akamai",1,36
+Educator,Hetzner,1,37
+Educator,Fly.io,1,38
+Educator,OpenShift,1,39
+Educator,Vultr,1,40
+"Engineer, data",AWS,3187,1
+"Engineer, data",Microsoft Azure,1841,2
+"Engineer, data",Linux,1513,3
+"Engineer, data",Docker,1164,4
+"Engineer, data",Google Cloud Platform,1156,5
+"Engineer, data",Windows,1076,6
+"Engineer, data",Google Cloud,755,7
+"Engineer, data",Heroku,702,8
+"Engineer, data",MacOS,652,9
+"Engineer, data",DigitalOcean,483,10
+"Engineer, data",Kubernetes,483,11
+"Engineer, data",Amazon Web Services (AWS),437,12
+"Engineer, data",Raspberry Pi,418,13
+"Engineer, data",Android,401,14
+"Engineer, data",Arduino,240,15
+"Engineer, data",WordPress,240,16
+"Engineer, data",Slack Apps and Integrations,218,17
+"Engineer, data",Firebase,189,18
+"Engineer, data",iOS,177,19
+"Engineer, data",IBM Cloud or Watson,153,20
+"Engineer, data",VMware,140,21
+"Engineer, data",Managed Hosting,82,22
+"Engineer, data",Slack,82,23
+"Engineer, data",OVH,79,24
+"Engineer, data",Oracle Cloud Infrastructure,69,25
+"Engineer, data",Linode,61,26
+"Engineer, data",Digital Ocean,52,27
+"Engineer, data",OpenStack,46,28
+"Engineer, data",Cloudflare,40,29
+"Engineer, data",Colocation,23,30
+"Engineer, data",Vercel,17,31
+"Engineer, data",OpenShift,17,32
+"Engineer, data","Linode, now Akamai",15,33
+"Engineer, data",Oracle Cloud Infrastructure (OCI),14,34
+"Engineer, data",Netlify,14,35
+"Engineer, data",Hetzner,14,36
+"Engineer, data",Other(s):,12,37
+"Engineer, data",Scaleway,7,38
+"Engineer, data",IBM Cloud Or Watson,7,39
+"Engineer, data",Vultr,6,40
+"Engineer, data",Fly.io,5,41
+"Engineer, data",Render,4,42
+"Engineer, site reliability",AWS,2111,1
+"Engineer, site reliability",Microsoft Azure,973,2
+"Engineer, site reliability",Linux,902,3
+"Engineer, site reliability",Docker,803,4
+"Engineer, site reliability",Google Cloud Platform,762,5
+"Engineer, site reliability",Heroku,454,6
+"Engineer, site reliability",Windows,446,7
+"Engineer, site reliability",Kubernetes,441,8
+"Engineer, site reliability",DigitalOcean,432,9
+"Engineer, site reliability",MacOS,408,10
+"Engineer, site reliability",Google Cloud,372,11
+"Engineer, site reliability",Raspberry Pi,235,12
+"Engineer, site reliability",Android,207,13
+"Engineer, site reliability",Slack Apps and Integrations,177,14
+"Engineer, site reliability",WordPress,177,15
+"Engineer, site reliability",Amazon Web Services (AWS),155,16
+"Engineer, site reliability",VMware,139,17
+"Engineer, site reliability",iOS,123,18
+"Engineer, site reliability",Firebase,110,19
+"Engineer, site reliability",Arduino,109,20
+"Engineer, site reliability",Managed Hosting,80,21
+"Engineer, site reliability",OpenStack,77,22
+"Engineer, site reliability",IBM Cloud or Watson,75,23
+"Engineer, site reliability",Cloudflare,66,24
+"Engineer, site reliability",OVH,66,25
+"Engineer, site reliability",Slack,60,26
+"Engineer, site reliability",Oracle Cloud Infrastructure,56,27
+"Engineer, site reliability",Linode,55,28
+"Engineer, site reliability",Colocation,45,29
+"Engineer, site reliability",Digital Ocean,38,30
+"Engineer, site reliability",Hetzner,14,31
+"Engineer, site reliability",Netlify,14,32
+"Engineer, site reliability","Linode, now Akamai",13,33
+"Engineer, site reliability",Oracle Cloud Infrastructure (OCI),12,34
+"Engineer, site reliability",OpenShift,10,35
+"Engineer, site reliability",Other(s):,10,36
+"Engineer, site reliability",Vercel,8,37
+"Engineer, site reliability",Fly.io,8,38
+"Engineer, site reliability",Scaleway,4,39
+"Engineer, site reliability",IBM Cloud Or Watson,3,40
+"Engineer, site reliability",Vultr,3,41
+"Engineer, site reliability",Render,1,42
+Engineering manager,AWS,3130,1
+Engineering manager,Microsoft Azure,1808,2
+Engineering manager,Linux,1018,3
+Engineering manager,Google Cloud Platform,946,4
+Engineering manager,Heroku,914,5
+Engineering manager,Docker,893,6
+Engineering manager,Google Cloud,822,7
+Engineering manager,Windows,666,8
+Engineering manager,DigitalOcean,657,9
+Engineering manager,Amazon Web Services (AWS),620,10
+Engineering manager,MacOS,568,11
+Engineering manager,Firebase,403,12
+Engineering manager,Kubernetes,378,13
+Engineering manager,Android,375,14
+Engineering manager,Raspberry Pi,275,15
+Engineering manager,iOS,265,16
+Engineering manager,WordPress,230,17
+Engineering manager,Slack Apps and Integrations,196,18
+Engineering manager,Cloudflare,186,19
+Engineering manager,VMware,175,20
+Engineering manager,Managed Hosting,163,21
+Engineering manager,Arduino,151,22
+Engineering manager,Digital Ocean,132,23
+Engineering manager,OVH,115,24
+Engineering manager,IBM Cloud or Watson,105,25
+Engineering manager,Vercel,89,26
+Engineering manager,Linode,74,27
+Engineering manager,Oracle Cloud Infrastructure,69,28
+Engineering manager,Netlify,68,29
+Engineering manager,Slack,60,30
+Engineering manager,OpenStack,59,31
+Engineering manager,Colocation,50,32
+Engineering manager,Hetzner,35,33
+Engineering manager,"Linode, now Akamai",32,34
+Engineering manager,Fly.io,28,35
+Engineering manager,OpenShift,21,36
+Engineering manager,Oracle Cloud Infrastructure (OCI),18,37
+Engineering manager,Scaleway,14,38
+Engineering manager,IBM Cloud Or Watson,14,39
+Engineering manager,Vultr,14,40
+Engineering manager,Other(s):,11,41
+Engineering manager,Render,5,42
+Hardware Engineer,Amazon Web Services (AWS),18,1
+Hardware Engineer,Microsoft Azure,11,2
+Hardware Engineer,Google Cloud,9,3
+Hardware Engineer,Digital Ocean,7,4
+Hardware Engineer,Vercel,5,5
+Hardware Engineer,Firebase,4,6
+Hardware Engineer,Heroku,4,7
+Hardware Engineer,VMware,3,8
+Hardware Engineer,Cloudflare,3,9
+Hardware Engineer,Netlify,3,10
+Hardware Engineer,OpenStack,1,11
+Hardware Engineer,OVH,1,12
+Hardware Engineer,OpenShift,1,13
+Hardware Engineer,Oracle Cloud Infrastructure (OCI),1,14
+Hardware Engineer,Scaleway,1,15
+Marketing or sales professional,AWS,260,1
+Marketing or sales professional,Microsoft Azure,148,2
+Marketing or sales professional,Google Cloud Platform,124,3
+Marketing or sales professional,Linux,113,4
+Marketing or sales professional,Windows,106,5
+Marketing or sales professional,WordPress,103,6
+Marketing or sales professional,Heroku,96,7
+Marketing or sales professional,DigitalOcean,85,8
+Marketing or sales professional,Docker,74,9
+Marketing or sales professional,MacOS,67,10
+Marketing or sales professional,Android,61,11
+Marketing or sales professional,Google Cloud,59,12
+Marketing or sales professional,iOS,44,13
+Marketing or sales professional,Raspberry Pi,40,14
+Marketing or sales professional,Firebase,29,15
+Marketing or sales professional,Managed Hosting,26,16
+Marketing or sales professional,Kubernetes,25,17
+Marketing or sales professional,IBM Cloud or Watson,23,18
+Marketing or sales professional,Arduino,23,19
+Marketing or sales professional,VMware,19,20
+Marketing or sales professional,Slack Apps and Integrations,19,21
+Marketing or sales professional,Linode,13,22
+Marketing or sales professional,OpenStack,12,23
+Marketing or sales professional,Oracle Cloud Infrastructure,11,24
+Marketing or sales professional,Slack,10,25
+Marketing or sales professional,Amazon Web Services (AWS),8,26
+Marketing or sales professional,OVH,8,27
+Marketing or sales professional,Colocation,8,28
+Marketing or sales professional,Other(s):,4,29
+Marketing or sales professional,OpenShift,3,30
+Marketing or sales professional,Vercel,2,31
+Marketing or sales professional,"Linode, now Akamai",2,32
+Marketing or sales professional,Digital Ocean,2,33
+Marketing or sales professional,Netlify,1,34
+Other (please specify):,AWS,874,1
+Other (please specify):,Microsoft Azure,846,2
+Other (please specify):,Amazon Web Services (AWS),427,3
+Other (please specify):,Google Cloud,360,4
+Other (please specify):,Heroku,279,5
+Other (please specify):,Google Cloud Platform,251,6
+Other (please specify):,DigitalOcean,225,7
+Other (please specify):,Firebase,143,8
+Other (please specify):,VMware,116,9
+Other (please specify):,Cloudflare,99,10
+Other (please specify):,Managed Hosting,79,11
+Other (please specify):,Digital Ocean,78,12
+Other (please specify):,IBM Cloud or Watson,55,13
+Other (please specify):,OVH,47,14
+Other (please specify):,Netlify,46,15
+Other (please specify):,Vercel,45,16
+Other (please specify):,OpenStack,43,17
+Other (please specify):,OpenShift,36,18
+Other (please specify):,Hetzner,33,19
+Other (please specify):,"Linode, now Akamai",33,20
+Other (please specify):,Oracle Cloud Infrastructure,31,21
+Other (please specify):,Oracle Cloud Infrastructure (OCI),26,22
+Other (please specify):,Colocation,18,23
+Other (please specify):,Linode,18,24
+Other (please specify):,Fly.io,17,25
+Other (please specify):,IBM Cloud Or Watson,15,26
+Other (please specify):,Vultr,9,27
+Other (please specify):,Scaleway,7,28
+Other (please specify):,Render,4,29
+Product manager,AWS,1696,1
+Product manager,Microsoft Azure,1058,2
+Product manager,Linux,739,3
+Product manager,Google Cloud Platform,720,4
+Product manager,Windows,688,5
+Product manager,Heroku,579,6
+Product manager,Docker,521,7
+Product manager,DigitalOcean,511,8
+Product manager,Android,385,9
+Product manager,MacOS,374,10
+Product manager,WordPress,305,11
+Product manager,Google Cloud,286,12
+Product manager,iOS,260,13
+Product manager,Raspberry Pi,238,14
+Product manager,Firebase,198,15
+Product manager,Kubernetes,159,16
+Product manager,Arduino,145,17
+Product manager,VMware,115,18
+Product manager,Managed Hosting,110,19
+Product manager,Slack Apps and Integrations,110,20
+Product manager,Amazon Web Services (AWS),80,21
+Product manager,IBM Cloud or Watson,75,22
+Product manager,Slack,64,23
+Product manager,OVH,54,24
+Product manager,Linode,44,25
+Product manager,Colocation,29,26
+Product manager,Oracle Cloud Infrastructure,28,27
+Product manager,Cloudflare,26,28
+Product manager,OpenStack,24,29
+Product manager,Other(s):,16,30
+Product manager,Netlify,15,31
+Product manager,Digital Ocean,14,32
+Product manager,Hetzner,8,33
+Product manager,Oracle Cloud Infrastructure (OCI),7,34
+Product manager,Vercel,7,35
+Product manager,Fly.io,6,36
+Product manager,"Linode, now Akamai",4,37
+Product manager,Vultr,2,38
+Product manager,Render,2,39
+Product manager,IBM Cloud Or Watson,1,40
+Product manager,OpenShift,1,41
+Product manager,Scaleway,1,42
+Project manager,AWS,712,1
+Project manager,Microsoft Azure,514,2
+Project manager,Google Cloud,437,3
+Project manager,Firebase,309,4
+Project manager,DigitalOcean,293,5
+Project manager,Heroku,212,6
+Project manager,VMware,172,7
+Project manager,Managed Hosting,169,8
+Project manager,OVH,98,9
+Project manager,Amazon Web Services (AWS),66,10
+Project manager,Linode,65,11
+Project manager,OpenStack,40,12
+Project manager,IBM Cloud or Watson,32,13
+Project manager,Colocation,30,14
+Project manager,Digital Ocean,28,15
+Project manager,Oracle Cloud Infrastructure,22,16
+Project manager,Cloudflare,19,17
+Project manager,Hetzner,10,18
+Project manager,Netlify,9,19
+Project manager,"Linode, now Akamai",7,20
+Project manager,Vercel,7,21
+Project manager,OpenShift,5,22
+Project manager,Scaleway,3,23
+Project manager,Render,3,24
+Project manager,IBM Cloud Or Watson,3,25
+Project manager,Oracle Cloud Infrastructure (OCI),3,26
+Project manager,Vultr,2,27
+Research & Development role,Amazon Web Services (AWS),180,1
+Research & Development role,Microsoft Azure,113,2
+Research & Development role,Google Cloud,77,3
+Research & Development role,Cloudflare,43,4
+Research & Development role,Digital Ocean,38,5
+Research & Development role,VMware,33,6
+Research & Development role,Firebase,30,7
+Research & Development role,Heroku,26,8
+Research & Development role,Hetzner,20,9
+Research & Development role,Netlify,20,10
+Research & Development role,"Linode, now Akamai",17,11
+Research & Development role,Vercel,16,12
+Research & Development role,OpenShift,16,13
+Research & Development role,OVH,15,14
+Research & Development role,Oracle Cloud Infrastructure (OCI),11,15
+Research & Development role,Fly.io,10,16
+Research & Development role,Managed Hosting,8,17
+Research & Development role,Vultr,6,18
+Research & Development role,IBM Cloud Or Watson,5,19
+Research & Development role,OpenStack,4,20
+Research & Development role,Colocation,4,21
+Research & Development role,Scaleway,3,22
+Research & Development role,Render,3,23
+Scientist,Linux,788,1
+Scientist,AWS,697,2
+Scientist,Windows,526,3
+Scientist,Docker,449,4
+Scientist,Microsoft Azure,345,5
+Scientist,Google Cloud Platform,322,6
+Scientist,MacOS,311,7
+Scientist,Raspberry Pi,236,8
+Scientist,Android,235,9
+Scientist,Heroku,200,10
+Scientist,Arduino,161,11
+Scientist,WordPress,135,12
+Scientist,Kubernetes,133,13
+Scientist,DigitalOcean,109,14
+Scientist,iOS,96,15
+Scientist,Slack,90,16
+Scientist,Google Cloud,76,17
+Scientist,IBM Cloud or Watson,70,18
+Scientist,Slack Apps and Integrations,49,19
+Scientist,VMware,45,20
+Scientist,Firebase,30,21
+Scientist,Managed Hosting,21,22
+Scientist,Other(s):,18,23
+Scientist,Oracle Cloud Infrastructure,17,24
+Scientist,OpenStack,12,25
+Scientist,Amazon Web Services (AWS),11,26
+Scientist,Linode,11,27
+Scientist,Colocation,6,28
+Scientist,OVH,6,29
+Scientist,Cloudflare,3,30
+Scientist,Digital Ocean,3,31
+Scientist,Netlify,2,32
+Scientist,"Linode, now Akamai",1,33
+Scientist,Hetzner,1,34
+Scientist,Oracle Cloud Infrastructure (OCI),1,35
+Scientist,IBM Cloud Or Watson,1,36
+Scientist,Fly.io,1,37
+Scientist,Vultr,1,38
+Security professional,AWS,401,1
+Security professional,Microsoft Azure,324,2
+Security professional,Google Cloud,239,3
+Security professional,VMware,149,4
+Security professional,DigitalOcean,143,5
+Security professional,Heroku,112,6
+Security professional,Amazon Web Services (AWS),97,7
+Security professional,Firebase,91,8
+Security professional,Managed Hosting,74,9
+Security professional,OVH,53,10
+Security professional,Linode,41,11
+Security professional,OpenStack,36,12
+Security professional,Colocation,33,13
+Security professional,Cloudflare,29,14
+Security professional,Digital Ocean,27,15
+Security professional,Oracle Cloud Infrastructure,20,16
+Security professional,IBM Cloud or Watson,16,17
+Security professional,Hetzner,15,18
+Security professional,"Linode, now Akamai",10,19
+Security professional,Oracle Cloud Infrastructure (OCI),9,20
+Security professional,Vercel,8,21
+Security professional,Vultr,8,22
+Security professional,Fly.io,7,23
+Security professional,Netlify,6,24
+Security professional,OpenShift,3,25
+Security professional,Scaleway,2,26
+Security professional,Render,2,27
+Security professional,IBM Cloud Or Watson,1,28
+"Senior Executive (C-Suite, VP, etc.)",AWS,1036,1
+"Senior Executive (C-Suite, VP, etc.)",Microsoft Azure,696,2
+"Senior Executive (C-Suite, VP, etc.)",Google Cloud,464,3
+"Senior Executive (C-Suite, VP, etc.)",DigitalOcean,376,4
+"Senior Executive (C-Suite, VP, etc.)",Amazon Web Services (AWS),369,5
+"Senior Executive (C-Suite, VP, etc.)",Heroku,367,6
+"Senior Executive (C-Suite, VP, etc.)",Google Cloud Platform,314,7
+"Senior Executive (C-Suite, VP, etc.)",Firebase,240,8
+"Senior Executive (C-Suite, VP, etc.)",Cloudflare,162,9
+"Senior Executive (C-Suite, VP, etc.)",Digital Ocean,110,10
+"Senior Executive (C-Suite, VP, etc.)",VMware,100,11
+"Senior Executive (C-Suite, VP, etc.)",Managed Hosting,96,12
+"Senior Executive (C-Suite, VP, etc.)",Vercel,73,13
+"Senior Executive (C-Suite, VP, etc.)",OVH,60,14
+"Senior Executive (C-Suite, VP, etc.)",Netlify,48,15
+"Senior Executive (C-Suite, VP, etc.)",Hetzner,41,16
+"Senior Executive (C-Suite, VP, etc.)",Colocation,39,17
+"Senior Executive (C-Suite, VP, etc.)",Linode,37,18
+"Senior Executive (C-Suite, VP, etc.)",IBM Cloud or Watson,32,19
+"Senior Executive (C-Suite, VP, etc.)",OpenStack,31,20
+"Senior Executive (C-Suite, VP, etc.)","Linode, now Akamai",30,21
+"Senior Executive (C-Suite, VP, etc.)",Fly.io,27,22
+"Senior Executive (C-Suite, VP, etc.)",Oracle Cloud Infrastructure,27,23
+"Senior Executive (C-Suite, VP, etc.)",Oracle Cloud Infrastructure (OCI),14,24
+"Senior Executive (C-Suite, VP, etc.)",Render,10,25
+"Senior Executive (C-Suite, VP, etc.)",IBM Cloud Or Watson,10,26
+"Senior Executive (C-Suite, VP, etc.)",Scaleway,9,27
+"Senior Executive (C-Suite, VP, etc.)",OpenShift,8,28
+"Senior Executive (C-Suite, VP, etc.)",Vultr,6,29
+Senior executive/VP,Linux,425,1
+Senior executive/VP,AWS,342,2
+Senior executive/VP,Docker,337,3
+Senior executive/VP,Windows,287,4
+Senior executive/VP,MacOS,242,5
+Senior executive/VP,Android,208,6
+Senior executive/VP,Google Cloud Platform,171,7
+Senior executive/VP,iOS,163,8
+Senior executive/VP,Microsoft Azure,162,9
+Senior executive/VP,WordPress,159,10
+Senior executive/VP,Raspberry Pi,150,11
+Senior executive/VP,Kubernetes,131,12
+Senior executive/VP,Heroku,102,13
+Senior executive/VP,Slack Apps and Integrations,81,14
+Senior executive/VP,Arduino,78,15
+Senior executive/VP,Slack,51,16
+Senior executive/VP,IBM Cloud or Watson,22,17
+Senior executive/VP,Other(s):,6,18
+Student,AWS,592,1
+Student,Heroku,415,2
+Student,Microsoft Azure,389,3
+Student,Google Cloud Platform,354,4
+Student,Windows,343,5
+Student,Linux,336,6
+Student,DigitalOcean,224,7
+Student,Android,210,8
+Student,Docker,193,9
+Student,Raspberry Pi,143,10
+Student,Slack,137,11
+Student,Arduino,125,12
+Student,MacOS,119,13
+Student,Firebase,104,14
+Student,Google Cloud,93,15
+Student,WordPress,87,16
+Student,iOS,76,17
+Student,IBM Cloud or Watson,53,18
+Student,Kubernetes,37,19
+Student,VMware,35,20
+Student,OVH,23,21
+Student,Other(s):,23,22
+Student,Managed Hosting,22,23
+Student,Oracle Cloud Infrastructure,17,24
+Student,Linode,10,25
+Student,Colocation,7,26
+Student,OpenStack,6,27
+Student,Amazon Web Services (AWS),5,28
+Student,Vercel,5,29
+Student,Cloudflare,3,30
+Student,Hetzner,2,31
+Student,Render,2,32
+Student,Digital Ocean,2,33
+Student,IBM Cloud Or Watson,2,34
+Student,Netlify,2,35
+Student,Vultr,1,36
+Student,Scaleway,1,37
+Student,"Linode, now Akamai",1,38
+Student,OpenShift,1,39
+Student,Fly.io,1,40
+Student,Oracle Cloud Infrastructure (OCI),1,41
+System administrator,AWS,3290,1
+System administrator,Linux,2184,2
+System administrator,Microsoft Azure,1958,3
+System administrator,Windows,1526,4
+System administrator,Docker,1447,5
+System administrator,Google Cloud Platform,1182,6
+System administrator,DigitalOcean,952,7
+System administrator,Heroku,831,8
+System administrator,MacOS,771,9
+System administrator,Raspberry Pi,722,10
+System administrator,Android,674,11
+System administrator,WordPress,635,12
+System administrator,Kubernetes,508,13
+System administrator,Google Cloud,476,14
+System administrator,Arduino,375,15
+System administrator,iOS,362,16
+System administrator,VMware,329,17
+System administrator,Firebase,231,18
+System administrator,Slack Apps and Integrations,227,19
+System administrator,Managed Hosting,215,20
+System administrator,OVH,145,21
+System administrator,Slack,144,22
+System administrator,IBM Cloud or Watson,136,23
+System administrator,Linode,133,24
+System administrator,Oracle Cloud Infrastructure,105,25
+System administrator,OpenStack,84,26
+System administrator,Colocation,75,27
+System administrator,Amazon Web Services (AWS),54,28
+System administrator,Other(s):,30,29
+System administrator,Cloudflare,28,30
+System administrator,Digital Ocean,27,31
+System administrator,Hetzner,19,32
+System administrator,"Linode, now Akamai",13,33
+System administrator,Netlify,11,34
+System administrator,OpenShift,8,35
+System administrator,Vercel,5,36
+System administrator,Oracle Cloud Infrastructure (OCI),5,37
+System administrator,IBM Cloud Or Watson,2,38
+System administrator,Vultr,2,39
+System administrator,Fly.io,2,40
+System administrator,Render,1,41

@@ -1,0 +1,977 @@
+YearsGroup,DevType,Webframe,Count,Rank
+middle,Academic researcher,React.js,108,1
+middle,Academic researcher,jQuery,100,2
+middle,Academic researcher,Flask,80,3
+middle,Academic researcher,Django,76,4
+middle,Academic researcher,Express,73,5
+middle,Academic researcher,Angular,66,6
+middle,Academic researcher,Vue.js,58,7
+middle,Academic researcher,Laravel,47,8
+middle,Academic researcher,Angular.js,36,9
+middle,Academic researcher,ASP.NET,34,10
+middle,Academic researcher,Spring,30,11
+middle,Academic researcher,Node.js,29,12
+middle,Academic researcher,FastAPI,24,13
+middle,Academic researcher,Ruby on Rails,24,14
+middle,Academic researcher,ASP.NET Core ,15,15
+middle,Academic researcher,ASP.NET Core,15,16
+middle,Academic researcher,Gatsby,10,17
+middle,Academic researcher,Symfony,10,18
+middle,Academic researcher,Next.js,9,19
+middle,Academic researcher,Drupal,7,20
+middle,Academic researcher,Svelte,7,21
+middle,Academic researcher,WordPress,7,22
+middle,Academic researcher,React,6,23
+middle,Academic researcher,Nuxt.js,6,24
+middle,Academic researcher,Spring Boot,5,25
+middle,Academic researcher,Deno,3,26
+middle,Academic researcher,Phoenix,3,27
+middle,Academic researcher,NestJS,2,28
+middle,Academic researcher,Play Framework,2,29
+middle,Academic researcher,Blazor,2,30
+middle,Academic researcher,AngularJS,1,31
+middle,Academic researcher,ASP.NET CORE,1,32
+middle,Academic researcher,Fastify,1,33
+middle,Blockchain,Node.js,59,1
+middle,Blockchain,React.js,48,2
+middle,Blockchain,Express,36,3
+middle,Blockchain,Next.js,32,4
+middle,Blockchain,Vue.js,23,5
+middle,Blockchain,jQuery,21,6
+middle,Blockchain,Django,21,7
+middle,Blockchain,Angular,20,8
+middle,Blockchain,Flask,18,9
+middle,Blockchain,ASP.NET Core ,11,10
+middle,Blockchain,Laravel,11,11
+middle,Blockchain,FastAPI,10,12
+middle,Blockchain,ASP.NET,8,13
+middle,Blockchain,Angular.js,8,14
+middle,Blockchain,Nuxt.js,8,15
+middle,Blockchain,Svelte,7,16
+middle,Blockchain,React,6,17
+middle,Blockchain,Gatsby,6,18
+middle,Blockchain,Blazor,4,19
+middle,Blockchain,NestJS,3,20
+middle,Blockchain,Ruby on Rails,3,21
+middle,Blockchain,Phoenix,3,22
+middle,Blockchain,Deno,2,23
+middle,Blockchain,Symfony,2,24
+middle,Blockchain,AngularJS,1,25
+middle,Blockchain,Remix,1,26
+middle,Blockchain,Drupal,1,27
+middle,Blockchain,Play Framework,1,28
+middle,Cloud infrastructure engineer,Node.js,110,1
+middle,Cloud infrastructure engineer,React.js,92,2
+middle,Cloud infrastructure engineer,Express,77,3
+middle,Cloud infrastructure engineer,Flask,68,4
+middle,Cloud infrastructure engineer,Django,58,5
+middle,Cloud infrastructure engineer,Angular,54,6
+middle,Cloud infrastructure engineer,Vue.js,50,7
+middle,Cloud infrastructure engineer,Next.js,41,8
+middle,Cloud infrastructure engineer,jQuery,40,9
+middle,Cloud infrastructure engineer,ASP.NET Core ,36,10
+middle,Cloud infrastructure engineer,FastAPI,32,11
+middle,Cloud infrastructure engineer,ASP.NET,27,12
+middle,Cloud infrastructure engineer,Laravel,21,13
+middle,Cloud infrastructure engineer,Angular.js,19,14
+middle,Cloud infrastructure engineer,Nuxt.js,17,15
+middle,Cloud infrastructure engineer,Svelte,17,16
+middle,Cloud infrastructure engineer,Blazor,10,17
+middle,Cloud infrastructure engineer,Fastify,9,18
+middle,Cloud infrastructure engineer,React,8,19
+middle,Cloud infrastructure engineer,Gatsby,8,20
+middle,Cloud infrastructure engineer,Symfony,7,21
+middle,Cloud infrastructure engineer,Deno,6,22
+middle,Cloud infrastructure engineer,Phoenix,6,23
+middle,Cloud infrastructure engineer,Drupal,5,24
+middle,Cloud infrastructure engineer,ASP.NET CORE,4,25
+middle,Cloud infrastructure engineer,Spring Boot,4,26
+middle,Cloud infrastructure engineer,Ruby on Rails,4,27
+middle,Cloud infrastructure engineer,WordPress,3,28
+middle,Cloud infrastructure engineer,Play Framework,3,29
+middle,Cloud infrastructure engineer,AngularJS,2,30
+middle,Cloud infrastructure engineer,CodeIgniter,1,31
+middle,Cloud infrastructure engineer,NestJS,1,32
+middle,Data or business analyst,Flask,167,1
+middle,Data or business analyst,React.js,157,2
+middle,Data or business analyst,jQuery,156,3
+middle,Data or business analyst,Django,154,4
+middle,Data or business analyst,Express,89,5
+middle,Data or business analyst,Angular,78,6
+middle,Data or business analyst,ASP.NET,68,7
+middle,Data or business analyst,Vue.js,68,8
+middle,Data or business analyst,Node.js,57,9
+middle,Data or business analyst,Angular.js,48,10
+middle,Data or business analyst,Laravel,42,11
+middle,Data or business analyst,FastAPI,40,12
+middle,Data or business analyst,ASP.NET Core ,34,13
+middle,Data or business analyst,ASP.NET Core,33,14
+middle,Data or business analyst,Spring,30,15
+middle,Data or business analyst,Next.js,22,16
+middle,Data or business analyst,Gatsby,19,17
+middle,Data or business analyst,Svelte,14,18
+middle,Data or business analyst,Ruby on Rails,14,19
+middle,Data or business analyst,React,9,20
+middle,Data or business analyst,WordPress,7,21
+middle,Data or business analyst,Symfony,7,22
+middle,Data or business analyst,Drupal,6,23
+middle,Data or business analyst,Blazor,5,24
+middle,Data or business analyst,Nuxt.js,4,25
+middle,Data or business analyst,ASP.NET CORE,3,26
+middle,Data or business analyst,Fastify,3,27
+middle,Data or business analyst,AngularJS,2,28
+middle,Data or business analyst,Spring Boot,2,29
+middle,Data or business analyst,Phoenix,2,30
+middle,Data or business analyst,Lit,1,31
+middle,Data or business analyst,Play Framework,1,32
+middle,Data or business analyst,Deno,1,33
+middle,Data scientist or machine learning specialist,Flask,329,1
+middle,Data scientist or machine learning specialist,Django,209,2
+middle,Data scientist or machine learning specialist,React.js,156,3
+middle,Data scientist or machine learning specialist,jQuery,138,4
+middle,Data scientist or machine learning specialist,FastAPI,124,5
+middle,Data scientist or machine learning specialist,Express,87,6
+middle,Data scientist or machine learning specialist,Vue.js,75,7
+middle,Data scientist or machine learning specialist,Angular,74,8
+middle,Data scientist or machine learning specialist,Node.js,59,9
+middle,Data scientist or machine learning specialist,ASP.NET,55,10
+middle,Data scientist or machine learning specialist,Angular.js,48,11
+middle,Data scientist or machine learning specialist,Spring,41,12
+middle,Data scientist or machine learning specialist,Laravel,36,13
+middle,Data scientist or machine learning specialist,ASP.NET Core ,27,14
+middle,Data scientist or machine learning specialist,ASP.NET Core,23,15
+middle,Data scientist or machine learning specialist,Next.js,20,16
+middle,Data scientist or machine learning specialist,Ruby on Rails,19,17
+middle,Data scientist or machine learning specialist,React,16,18
+middle,Data scientist or machine learning specialist,Gatsby,15,19
+middle,Data scientist or machine learning specialist,Symfony,12,20
+middle,Data scientist or machine learning specialist,Svelte,11,21
+middle,Data scientist or machine learning specialist,Drupal,7,22
+middle,Data scientist or machine learning specialist,Nuxt.js,5,23
+middle,Data scientist or machine learning specialist,WordPress,5,24
+middle,Data scientist or machine learning specialist,AngularJS,4,25
+middle,Data scientist or machine learning specialist,Blazor,4,26
+middle,Data scientist or machine learning specialist,ASP.NET CORE,3,27
+middle,Data scientist or machine learning specialist,Fastify,3,28
+middle,Data scientist or machine learning specialist,Phoenix,3,29
+middle,Data scientist or machine learning specialist,Spring Boot,2,30
+middle,Data scientist or machine learning specialist,Solid.js,1,31
+middle,Data scientist or machine learning specialist,Deno,1,32
+middle,Data scientist or machine learning specialist,Play Framework,1,33
+middle,Database administrator,jQuery,269,1
+middle,Database administrator,React.js,218,2
+middle,Database administrator,Express,161,3
+middle,Database administrator,Angular,146,4
+middle,Database administrator,Django,143,5
+middle,Database administrator,ASP.NET,137,6
+middle,Database administrator,Flask,135,7
+middle,Database administrator,Vue.js,128,8
+middle,Database administrator,Laravel,116,9
+middle,Database administrator,Angular.js,88,10
+middle,Database administrator,ASP.NET Core ,71,11
+middle,Database administrator,Node.js,67,12
+middle,Database administrator,Spring,56,13
+middle,Database administrator,ASP.NET Core,54,14
+middle,Database administrator,FastAPI,35,15
+middle,Database administrator,Symfony,33,16
+middle,Database administrator,Ruby on Rails,27,17
+middle,Database administrator,Next.js,27,18
+middle,Database administrator,Gatsby,25,19
+middle,Database administrator,Svelte,16,20
+middle,Database administrator,Drupal,11,21
+middle,Database administrator,Blazor,10,22
+middle,Database administrator,Nuxt.js,8,23
+middle,Database administrator,Fastify,3,24
+middle,Database administrator,Phoenix,3,25
+middle,Database administrator,React,2,26
+middle,Database administrator,WordPress,2,27
+middle,Database administrator,ASP.NET CORE,2,28
+middle,Database administrator,Deno,2,29
+middle,Database administrator,Spring Boot,1,30
+middle,Database administrator,Play Framework,1,31
+middle,Designer,React.js,276,1
+middle,Designer,jQuery,273,2
+middle,Designer,Express,175,3
+middle,Designer,Vue.js,161,4
+middle,Designer,Angular,160,5
+middle,Designer,ASP.NET,114,6
+middle,Designer,Django,112,7
+middle,Designer,Laravel,107,8
+middle,Designer,Angular.js,93,9
+middle,Designer,Flask,89,10
+middle,Designer,Node.js,85,11
+middle,Designer,ASP.NET Core,53,12
+middle,Designer,Spring,49,13
+middle,Designer,ASP.NET Core ,48,14
+middle,Designer,Gatsby,46,15
+middle,Designer,Next.js,43,16
+middle,Designer,Ruby on Rails,31,17
+middle,Designer,Symfony,24,18
+middle,Designer,FastAPI,22,19
+middle,Designer,Drupal,21,20
+middle,Designer,Svelte,20,21
+middle,Designer,Nuxt.js,11,22
+middle,Designer,Fastify,9,23
+middle,Designer,Blazor,8,24
+middle,Designer,React,3,25
+middle,Designer,WordPress,3,26
+middle,Designer,NestJS,1,27
+middle,Designer,ASP.NET CORE,1,28
+middle,Designer,AngularJS,1,29
+middle,Designer,Deno,1,30
+middle,DevOps specialist,React.js,303,1
+middle,DevOps specialist,Express,222,2
+middle,DevOps specialist,Flask,215,3
+middle,DevOps specialist,jQuery,193,4
+middle,DevOps specialist,Angular,189,5
+middle,DevOps specialist,Django,170,6
+middle,DevOps specialist,Vue.js,168,7
+middle,DevOps specialist,Node.js,135,8
+middle,DevOps specialist,ASP.NET,120,9
+middle,DevOps specialist,ASP.NET Core ,102,10
+middle,DevOps specialist,Spring,88,11
+middle,DevOps specialist,Angular.js,86,12
+middle,DevOps specialist,Laravel,68,13
+middle,DevOps specialist,FastAPI,58,14
+middle,DevOps specialist,Next.js,56,15
+middle,DevOps specialist,ASP.NET Core,48,16
+middle,DevOps specialist,Ruby on Rails,42,17
+middle,DevOps specialist,Gatsby,36,18
+middle,DevOps specialist,Svelte,23,19
+middle,DevOps specialist,Nuxt.js,20,20
+middle,DevOps specialist,Blazor,17,21
+middle,DevOps specialist,Symfony,14,22
+middle,DevOps specialist,React,13,23
+middle,DevOps specialist,Drupal,12,24
+middle,DevOps specialist,WordPress,9,25
+middle,DevOps specialist,ASP.NET CORE,9,26
+middle,DevOps specialist,Spring Boot,6,27
+middle,DevOps specialist,Deno,6,28
+middle,DevOps specialist,Fastify,4,29
+middle,DevOps specialist,Phoenix,4,30
+middle,DevOps specialist,NestJS,3,31
+middle,DevOps specialist,AngularJS,2,32
+middle,DevOps specialist,Remix,1,33
+middle,DevOps specialist,Lit,1,34
+middle,DevOps specialist,Play Framework,1,35
+middle,Developer Advocate,Django,1,1
+middle,Developer Advocate,Flask,1,2
+middle,Developer Advocate,Node.js,1,3
+middle,Developer Advocate,ASP.NET,1,4
+middle,Developer Experience,Node.js,4,1
+middle,Developer Experience,Next.js,3,2
+middle,Developer Experience,React,3,3
+middle,Developer Experience,Deno,2,4
+middle,Developer Experience,Svelte,2,5
+middle,Developer Experience,Fastify,2,6
+middle,Developer Experience,FastAPI,2,7
+middle,Developer Experience,NestJS,2,8
+middle,Developer Experience,Elm,1,9
+middle,Developer Experience,ASP.NET CORE,1,10
+middle,Developer Experience,Ruby on Rails,1,11
+middle,Developer Experience,Angular,1,12
+middle,Developer Experience,Django,1,13
+middle,Developer Experience,Symfony,1,14
+middle,Developer Experience,Laravel,1,15
+middle,Developer Experience,jQuery,1,16
+middle,Developer Experience,AngularJS,1,17
+middle,Developer Experience,WordPress,1,18
+middle,Developer Experience,Express,1,19
+middle,"Developer, QA or test",React.js,205,1
+middle,"Developer, QA or test",jQuery,173,2
+middle,"Developer, QA or test",Express,136,3
+middle,"Developer, QA or test",Angular,132,4
+middle,"Developer, QA or test",Vue.js,111,5
+middle,"Developer, QA or test",ASP.NET,95,6
+middle,"Developer, QA or test",Django,87,7
+middle,"Developer, QA or test",Flask,85,8
+middle,"Developer, QA or test",Node.js,69,9
+middle,"Developer, QA or test",Angular.js,59,10
+middle,"Developer, QA or test",Spring,58,11
+middle,"Developer, QA or test",Laravel,51,12
+middle,"Developer, QA or test",ASP.NET Core ,45,13
+middle,"Developer, QA or test",ASP.NET Core,42,14
+middle,"Developer, QA or test",Ruby on Rails,35,15
+middle,"Developer, QA or test",Gatsby,27,16
+middle,"Developer, QA or test",Next.js,26,17
+middle,"Developer, QA or test",FastAPI,17,18
+middle,"Developer, QA or test",Symfony,17,19
+middle,"Developer, QA or test",Svelte,12,20
+middle,"Developer, QA or test",Blazor,9,21
+middle,"Developer, QA or test",Drupal,8,22
+middle,"Developer, QA or test",React,7,23
+middle,"Developer, QA or test",Nuxt.js,7,24
+middle,"Developer, QA or test",ASP.NET CORE,5,25
+middle,"Developer, QA or test",Fastify,4,26
+middle,"Developer, QA or test",Spring Boot,4,27
+middle,"Developer, QA or test",WordPress,3,28
+middle,"Developer, QA or test",Deno,2,29
+middle,"Developer, QA or test",AngularJS,1,30
+middle,"Developer, QA or test",NestJS,1,31
+middle,"Developer, back-end",React.js,1779,1
+middle,"Developer, back-end",jQuery,1468,2
+middle,"Developer, back-end",Express,1334,3
+middle,"Developer, back-end",Angular,1146,4
+middle,"Developer, back-end",Django,1007,5
+middle,"Developer, back-end",Flask,947,6
+middle,"Developer, back-end",Vue.js,852,7
+middle,"Developer, back-end",ASP.NET,830,8
+middle,"Developer, back-end",Node.js,819,9
+middle,"Developer, back-end",Laravel,645,10
+middle,"Developer, back-end",Spring,598,11
+middle,"Developer, back-end",ASP.NET Core ,547,12
+middle,"Developer, back-end",Angular.js,488,13
+middle,"Developer, back-end",Ruby on Rails,388,14
+middle,"Developer, back-end",FastAPI,317,15
+middle,"Developer, back-end",ASP.NET Core,311,16
+middle,"Developer, back-end",Next.js,277,17
+middle,"Developer, back-end",React,219,18
+middle,"Developer, back-end",Gatsby,181,19
+middle,"Developer, back-end",Symfony,153,20
+middle,"Developer, back-end",Spring Boot,150,21
+middle,"Developer, back-end",Svelte,120,22
+middle,"Developer, back-end",ASP.NET CORE,110,23
+middle,"Developer, back-end",Blazor,93,24
+middle,"Developer, back-end",Drupal,67,25
+middle,"Developer, back-end",Nuxt.js,64,26
+middle,"Developer, back-end",Phoenix,44,27
+middle,"Developer, back-end",NestJS,43,28
+middle,"Developer, back-end",Fastify,43,29
+middle,"Developer, back-end",WordPress,30,30
+middle,"Developer, back-end",AngularJS,27,31
+middle,"Developer, back-end",Deno,24,32
+middle,"Developer, back-end",Play Framework,13,33
+middle,"Developer, back-end",CodeIgniter,8,34
+middle,"Developer, back-end",Solid.js,6,35
+middle,"Developer, back-end",Remix,4,36
+middle,"Developer, back-end",Lit,3,37
+middle,"Developer, back-end",Elm,2,38
+middle,"Developer, back-end",Qwik,1,39
+middle,"Developer, desktop or enterprise applications",React.js,414,1
+middle,"Developer, desktop or enterprise applications",jQuery,412,2
+middle,"Developer, desktop or enterprise applications",ASP.NET,381,3
+middle,"Developer, desktop or enterprise applications",Angular,342,4
+middle,"Developer, desktop or enterprise applications",Express,263,5
+middle,"Developer, desktop or enterprise applications",ASP.NET Core ,226,6
+middle,"Developer, desktop or enterprise applications",Vue.js,203,7
+middle,"Developer, desktop or enterprise applications",Django,193,8
+middle,"Developer, desktop or enterprise applications",Flask,184,9
+middle,"Developer, desktop or enterprise applications",Spring,172,10
+middle,"Developer, desktop or enterprise applications",Angular.js,171,11
+middle,"Developer, desktop or enterprise applications",ASP.NET Core,158,12
+middle,"Developer, desktop or enterprise applications",Node.js,153,13
+middle,"Developer, desktop or enterprise applications",Laravel,112,14
+middle,"Developer, desktop or enterprise applications",Blazor,51,15
+middle,"Developer, desktop or enterprise applications",Next.js,49,16
+middle,"Developer, desktop or enterprise applications",Ruby on Rails,43,17
+middle,"Developer, desktop or enterprise applications",FastAPI,41,18
+middle,"Developer, desktop or enterprise applications",Gatsby,34,19
+middle,"Developer, desktop or enterprise applications",Symfony,29,20
+middle,"Developer, desktop or enterprise applications",Svelte,25,21
+middle,"Developer, desktop or enterprise applications",ASP.NET CORE,21,22
+middle,"Developer, desktop or enterprise applications",React,19,23
+middle,"Developer, desktop or enterprise applications",Nuxt.js,11,24
+middle,"Developer, desktop or enterprise applications",Drupal,10,25
+middle,"Developer, desktop or enterprise applications",Spring Boot,8,26
+middle,"Developer, desktop or enterprise applications",Deno,7,27
+middle,"Developer, desktop or enterprise applications",WordPress,7,28
+middle,"Developer, desktop or enterprise applications",Fastify,4,29
+middle,"Developer, desktop or enterprise applications",Play Framework,3,30
+middle,"Developer, desktop or enterprise applications",AngularJS,3,31
+middle,"Developer, desktop or enterprise applications",NestJS,3,32
+middle,"Developer, desktop or enterprise applications",Phoenix,3,33
+middle,"Developer, desktop or enterprise applications",Solid.js,1,34
+middle,"Developer, desktop or enterprise applications",Elm,1,35
+middle,"Developer, embedded applications or devices",React.js,145,1
+middle,"Developer, embedded applications or devices",jQuery,135,2
+middle,"Developer, embedded applications or devices",Express,92,3
+middle,"Developer, embedded applications or devices",ASP.NET,89,4
+middle,"Developer, embedded applications or devices",Angular,89,5
+middle,"Developer, embedded applications or devices",Flask,88,6
+middle,"Developer, embedded applications or devices",Vue.js,75,7
+middle,"Developer, embedded applications or devices",Django,71,8
+middle,"Developer, embedded applications or devices",Node.js,61,9
+middle,"Developer, embedded applications or devices",Angular.js,54,10
+middle,"Developer, embedded applications or devices",Laravel,49,11
+middle,"Developer, embedded applications or devices",ASP.NET Core ,39,12
+middle,"Developer, embedded applications or devices",ASP.NET Core,36,13
+middle,"Developer, embedded applications or devices",Spring,34,14
+middle,"Developer, embedded applications or devices",FastAPI,16,15
+middle,"Developer, embedded applications or devices",Ruby on Rails,15,16
+middle,"Developer, embedded applications or devices",Gatsby,15,17
+middle,"Developer, embedded applications or devices",Symfony,13,18
+middle,"Developer, embedded applications or devices",Next.js,11,19
+middle,"Developer, embedded applications or devices",Drupal,10,20
+middle,"Developer, embedded applications or devices",Svelte,9,21
+middle,"Developer, embedded applications or devices",React,9,22
+middle,"Developer, embedded applications or devices",Blazor,8,23
+middle,"Developer, embedded applications or devices",Nuxt.js,7,24
+middle,"Developer, embedded applications or devices",Deno,3,25
+middle,"Developer, embedded applications or devices",AngularJS,3,26
+middle,"Developer, embedded applications or devices",Spring Boot,2,27
+middle,"Developer, embedded applications or devices",Fastify,2,28
+middle,"Developer, embedded applications or devices",WordPress,1,29
+middle,"Developer, embedded applications or devices",ASP.NET CORE,1,30
+middle,"Developer, embedded applications or devices",Play Framework,1,31
+middle,"Developer, embedded applications or devices",Phoenix,1,32
+middle,"Developer, front-end",React.js,1813,1
+middle,"Developer, front-end",Express,1248,2
+middle,"Developer, front-end",jQuery,1198,3
+middle,"Developer, front-end",Angular,1069,4
+middle,"Developer, front-end",Vue.js,831,5
+middle,"Developer, front-end",Node.js,704,6
+middle,"Developer, front-end",ASP.NET,499,7
+middle,"Developer, front-end",Laravel,459,8
+middle,"Developer, front-end",Angular.js,455,9
+middle,"Developer, front-end",Django,446,10
+middle,"Developer, front-end",Next.js,395,11
+middle,"Developer, front-end",Flask,391,12
+middle,"Developer, front-end",ASP.NET Core ,300,13
+middle,"Developer, front-end",Spring,282,14
+middle,"Developer, front-end",Gatsby,265,15
+middle,"Developer, front-end",ASP.NET Core,204,16
+middle,"Developer, front-end",React,193,17
+middle,"Developer, front-end",Ruby on Rails,190,18
+middle,"Developer, front-end",Svelte,126,19
+middle,"Developer, front-end",Nuxt.js,105,20
+middle,"Developer, front-end",Symfony,96,21
+middle,"Developer, front-end",FastAPI,80,22
+middle,"Developer, front-end",Drupal,66,23
+middle,"Developer, front-end",WordPress,44,24
+middle,"Developer, front-end",Blazor,41,25
+middle,"Developer, front-end",Fastify,36,26
+middle,"Developer, front-end",NestJS,28,27
+middle,"Developer, front-end",Deno,22,28
+middle,"Developer, front-end",Spring Boot,18,29
+middle,"Developer, front-end",AngularJS,14,30
+middle,"Developer, front-end",ASP.NET CORE,13,31
+middle,"Developer, front-end",Remix,9,32
+middle,"Developer, front-end",Phoenix,7,33
+middle,"Developer, front-end",Solid.js,6,34
+middle,"Developer, front-end",Play Framework,6,35
+middle,"Developer, front-end",Lit,4,36
+middle,"Developer, front-end",CodeIgniter,4,37
+middle,"Developer, front-end",Elm,1,38
+middle,"Developer, full-stack",React.js,3035,1
+middle,"Developer, full-stack",Express,2370,2
+middle,"Developer, full-stack",jQuery,2344,3
+middle,"Developer, full-stack",Angular,2022,4
+middle,"Developer, full-stack",Node.js,1698,5
+middle,"Developer, full-stack",Vue.js,1576,6
+middle,"Developer, full-stack",ASP.NET,1252,7
+middle,"Developer, full-stack",Django,1113,8
+middle,"Developer, full-stack",Flask,982,9
+middle,"Developer, full-stack",Laravel,913,10
+middle,"Developer, full-stack",React,817,11
+middle,"Developer, full-stack",Next.js,790,12
+middle,"Developer, full-stack",Angular.js,769,13
+middle,"Developer, full-stack",ASP.NET Core ,748,14
+middle,"Developer, full-stack",Spring,600,15
+middle,"Developer, full-stack",Ruby on Rails,513,16
+middle,"Developer, full-stack",Gatsby,402,17
+middle,"Developer, full-stack",ASP.NET Core,368,18
+middle,"Developer, full-stack",ASP.NET CORE,285,19
+middle,"Developer, full-stack",FastAPI,283,20
+middle,"Developer, full-stack",Svelte,273,21
+middle,"Developer, full-stack",Symfony,192,22
+middle,"Developer, full-stack",Spring Boot,184,23
+middle,"Developer, full-stack",Nuxt.js,177,24
+middle,"Developer, full-stack",Blazor,162,25
+middle,"Developer, full-stack",WordPress,162,26
+middle,"Developer, full-stack",NestJS,126,27
+middle,"Developer, full-stack",AngularJS,106,28
+middle,"Developer, full-stack",Fastify,99,29
+middle,"Developer, full-stack",Drupal,88,30
+middle,"Developer, full-stack",Deno,60,31
+middle,"Developer, full-stack",CodeIgniter,35,32
+middle,"Developer, full-stack",Phoenix,32,33
+middle,"Developer, full-stack",Remix,30,34
+middle,"Developer, full-stack",Solid.js,23,35
+middle,"Developer, full-stack",Play Framework,17,36
+middle,"Developer, full-stack",Qwik,10,37
+middle,"Developer, full-stack",Elm,8,38
+middle,"Developer, full-stack",Lit,7,39
+middle,"Developer, game or graphics",jQuery,80,1
+middle,"Developer, game or graphics",React.js,78,2
+middle,"Developer, game or graphics",Express,57,3
+middle,"Developer, game or graphics",ASP.NET,49,4
+middle,"Developer, game or graphics",Angular,48,5
+middle,"Developer, game or graphics",Vue.js,43,6
+middle,"Developer, game or graphics",Django,33,7
+middle,"Developer, game or graphics",Node.js,30,8
+middle,"Developer, game or graphics",Angular.js,28,9
+middle,"Developer, game or graphics",Flask,23,10
+middle,"Developer, game or graphics",ASP.NET Core ,20,11
+middle,"Developer, game or graphics",ASP.NET Core,19,12
+middle,"Developer, game or graphics",Spring,18,13
+middle,"Developer, game or graphics",Laravel,15,14
+middle,"Developer, game or graphics",Next.js,13,15
+middle,"Developer, game or graphics",React,10,16
+middle,"Developer, game or graphics",Blazor,6,17
+middle,"Developer, game or graphics",Svelte,6,18
+middle,"Developer, game or graphics",Symfony,6,19
+middle,"Developer, game or graphics",Ruby on Rails,6,20
+middle,"Developer, game or graphics",Nuxt.js,5,21
+middle,"Developer, game or graphics",Gatsby,5,22
+middle,"Developer, game or graphics",FastAPI,5,23
+middle,"Developer, game or graphics",WordPress,4,24
+middle,"Developer, game or graphics",ASP.NET CORE,3,25
+middle,"Developer, game or graphics",Deno,1,26
+middle,"Developer, game or graphics",Spring Boot,1,27
+middle,"Developer, game or graphics",CodeIgniter,1,28
+middle,"Developer, game or graphics",Fastify,1,29
+middle,"Developer, game or graphics",Drupal,1,30
+middle,"Developer, mobile",React.js,673,1
+middle,"Developer, mobile",Express,476,2
+middle,"Developer, mobile",jQuery,470,3
+middle,"Developer, mobile",Angular,402,4
+middle,"Developer, mobile",Vue.js,277,5
+middle,"Developer, mobile",Node.js,249,6
+middle,"Developer, mobile",Laravel,246,7
+middle,"Developer, mobile",ASP.NET,230,8
+middle,"Developer, mobile",Django,217,9
+middle,"Developer, mobile",Flask,186,10
+middle,"Developer, mobile",Angular.js,159,11
+middle,"Developer, mobile",Spring,158,12
+middle,"Developer, mobile",ASP.NET Core ,142,13
+middle,"Developer, mobile",Next.js,90,14
+middle,"Developer, mobile",ASP.NET Core,78,15
+middle,"Developer, mobile",Gatsby,71,16
+middle,"Developer, mobile",Ruby on Rails,63,17
+middle,"Developer, mobile",Symfony,42,18
+middle,"Developer, mobile",FastAPI,37,19
+middle,"Developer, mobile",React,30,20
+middle,"Developer, mobile",Svelte,27,21
+middle,"Developer, mobile",Nuxt.js,24,22
+middle,"Developer, mobile",Drupal,20,23
+middle,"Developer, mobile",Blazor,16,24
+middle,"Developer, mobile",Spring Boot,8,25
+middle,"Developer, mobile",WordPress,7,26
+middle,"Developer, mobile",Fastify,7,27
+middle,"Developer, mobile",NestJS,6,28
+middle,"Developer, mobile",Deno,6,29
+middle,"Developer, mobile",CodeIgniter,4,30
+middle,"Developer, mobile",ASP.NET CORE,4,31
+middle,"Developer, mobile",Phoenix,4,32
+middle,"Developer, mobile",AngularJS,2,33
+middle,"Developer, mobile",Remix,1,34
+middle,"Developer, mobile",Play Framework,1,35
+middle,Educator,React.js,118,1
+middle,Educator,jQuery,93,2
+middle,Educator,Express,84,3
+middle,Educator,Flask,60,4
+middle,Educator,Vue.js,60,5
+middle,Educator,Django,59,6
+middle,Educator,Angular,57,7
+middle,Educator,Laravel,44,8
+middle,Educator,Angular.js,35,9
+middle,Educator,Node.js,28,10
+middle,Educator,ASP.NET,27,11
+middle,Educator,Spring,24,12
+middle,Educator,Gatsby,20,13
+middle,Educator,Ruby on Rails,19,14
+middle,Educator,Next.js,16,15
+middle,Educator,FastAPI,15,16
+middle,Educator,ASP.NET Core ,14,17
+middle,Educator,ASP.NET Core,9,18
+middle,Educator,Nuxt.js,8,19
+middle,Educator,Svelte,7,20
+middle,Educator,Symfony,6,21
+middle,Educator,Drupal,5,22
+middle,Educator,Blazor,3,23
+middle,Educator,Fastify,3,24
+middle,Educator,React,2,25
+middle,Educator,Deno,2,26
+middle,Educator,Phoenix,1,27
+middle,"Engineer, data",Flask,268,1
+middle,"Engineer, data",Django,201,2
+middle,"Engineer, data",React.js,187,3
+middle,"Engineer, data",jQuery,165,4
+middle,"Engineer, data",Express,115,5
+middle,"Engineer, data",Angular,105,6
+middle,"Engineer, data",Vue.js,91,7
+middle,"Engineer, data",FastAPI,87,8
+middle,"Engineer, data",Node.js,78,9
+middle,"Engineer, data",ASP.NET,74,10
+middle,"Engineer, data",Spring,67,11
+middle,"Engineer, data",Angular.js,57,12
+middle,"Engineer, data",ASP.NET Core ,53,13
+middle,"Engineer, data",Laravel,38,14
+middle,"Engineer, data",Ruby on Rails,26,15
+middle,"Engineer, data",ASP.NET Core,22,16
+middle,"Engineer, data",Next.js,21,17
+middle,"Engineer, data",Gatsby,17,18
+middle,"Engineer, data",React,16,19
+middle,"Engineer, data",Svelte,13,20
+middle,"Engineer, data",Symfony,8,21
+middle,"Engineer, data",Blazor,7,22
+middle,"Engineer, data",Nuxt.js,6,23
+middle,"Engineer, data",Drupal,5,24
+middle,"Engineer, data",WordPress,3,25
+middle,"Engineer, data",Spring Boot,3,26
+middle,"Engineer, data",AngularJS,3,27
+middle,"Engineer, data",Phoenix,3,28
+middle,"Engineer, data",Fastify,2,29
+middle,"Engineer, data",Solid.js,1,30
+middle,"Engineer, data",ASP.NET CORE,1,31
+middle,"Engineer, data",Play Framework,1,32
+middle,"Engineer, data",Lit,1,33
+middle,"Engineer, data",Deno,1,34
+middle,"Engineer, site reliability",React.js,90,1
+middle,"Engineer, site reliability",Flask,72,2
+middle,"Engineer, site reliability",Express,70,3
+middle,"Engineer, site reliability",jQuery,59,4
+middle,"Engineer, site reliability",Django,58,5
+middle,"Engineer, site reliability",Vue.js,54,6
+middle,"Engineer, site reliability",Angular,42,7
+middle,"Engineer, site reliability",Node.js,34,8
+middle,"Engineer, site reliability",ASP.NET,26,9
+middle,"Engineer, site reliability",FastAPI,25,10
+middle,"Engineer, site reliability",Laravel,25,11
+middle,"Engineer, site reliability",Spring,23,12
+middle,"Engineer, site reliability",Next.js,22,13
+middle,"Engineer, site reliability",Ruby on Rails,22,14
+middle,"Engineer, site reliability",Angular.js,21,15
+middle,"Engineer, site reliability",ASP.NET Core ,17,16
+middle,"Engineer, site reliability",Gatsby,14,17
+middle,"Engineer, site reliability",React,9,18
+middle,"Engineer, site reliability",ASP.NET Core,9,19
+middle,"Engineer, site reliability",Nuxt.js,8,20
+middle,"Engineer, site reliability",Svelte,7,21
+middle,"Engineer, site reliability",Symfony,6,22
+middle,"Engineer, site reliability",Fastify,5,23
+middle,"Engineer, site reliability",Drupal,4,24
+middle,"Engineer, site reliability",Deno,4,25
+middle,"Engineer, site reliability",Phoenix,4,26
+middle,"Engineer, site reliability",WordPress,3,27
+middle,"Engineer, site reliability",ASP.NET CORE,3,28
+middle,"Engineer, site reliability",Spring Boot,2,29
+middle,"Engineer, site reliability",Solid.js,2,30
+middle,"Engineer, site reliability",NestJS,1,31
+middle,"Engineer, site reliability",Blazor,1,32
+middle,"Engineer, site reliability",Elm,1,33
+middle,"Engineer, site reliability",Play Framework,1,34
+middle,Engineering manager,React.js,70,1
+middle,Engineering manager,Express,49,2
+middle,Engineering manager,jQuery,45,3
+middle,Engineering manager,Angular,39,4
+middle,Engineering manager,Node.js,38,5
+middle,Engineering manager,Flask,35,6
+middle,Engineering manager,Vue.js,34,7
+middle,Engineering manager,Django,29,8
+middle,Engineering manager,Laravel,22,9
+middle,Engineering manager,Ruby on Rails,18,10
+middle,Engineering manager,Next.js,17,11
+middle,Engineering manager,FastAPI,17,12
+middle,Engineering manager,ASP.NET,16,13
+middle,Engineering manager,Angular.js,16,14
+middle,Engineering manager,React,14,15
+middle,Engineering manager,Spring,14,16
+middle,Engineering manager,Gatsby,12,17
+middle,Engineering manager,ASP.NET Core ,9,18
+middle,Engineering manager,ASP.NET Core,8,19
+middle,Engineering manager,Symfony,6,20
+middle,Engineering manager,Svelte,6,21
+middle,Engineering manager,Nuxt.js,6,22
+middle,Engineering manager,NestJS,5,23
+middle,Engineering manager,Fastify,5,24
+middle,Engineering manager,AngularJS,4,25
+middle,Engineering manager,Spring Boot,3,26
+middle,Engineering manager,Blazor,2,27
+middle,Engineering manager,ASP.NET CORE,2,28
+middle,Engineering manager,Drupal,2,29
+middle,Engineering manager,Solid.js,1,30
+middle,Engineering manager,WordPress,1,31
+middle,Engineering manager,Lit,1,32
+middle,Hardware Engineer,Node.js,2,1
+middle,Hardware Engineer,React,2,2
+middle,Hardware Engineer,Next.js,1,3
+middle,Hardware Engineer,Django,1,4
+middle,Hardware Engineer,FastAPI,1,5
+middle,Hardware Engineer,Nuxt.js,1,6
+middle,Hardware Engineer,Vue.js,1,7
+middle,Marketing or sales professional,jQuery,25,1
+middle,Marketing or sales professional,React.js,23,2
+middle,Marketing or sales professional,Express,13,3
+middle,Marketing or sales professional,Angular,11,4
+middle,Marketing or sales professional,Django,9,5
+middle,Marketing or sales professional,Node.js,8,6
+middle,Marketing or sales professional,Flask,8,7
+middle,Marketing or sales professional,Angular.js,8,8
+middle,Marketing or sales professional,ASP.NET,7,9
+middle,Marketing or sales professional,Vue.js,7,10
+middle,Marketing or sales professional,Laravel,7,11
+middle,Marketing or sales professional,Gatsby,4,12
+middle,Marketing or sales professional,Next.js,3,13
+middle,Marketing or sales professional,ASP.NET Core ,3,14
+middle,Marketing or sales professional,FastAPI,2,15
+middle,Marketing or sales professional,Ruby on Rails,2,16
+middle,Marketing or sales professional,ASP.NET Core,2,17
+middle,Marketing or sales professional,Drupal,1,18
+middle,Marketing or sales professional,Phoenix,1,19
+middle,Marketing or sales professional,Svelte,1,20
+middle,Marketing or sales professional,Spring,1,21
+middle,Marketing or sales professional,Symfony,1,22
+middle,Other (please specify):,Express,52,1
+middle,Other (please specify):,Flask,49,2
+middle,Other (please specify):,Node.js,44,3
+middle,Other (please specify):,React.js,44,4
+middle,Other (please specify):,Django,41,5
+middle,Other (please specify):,jQuery,34,6
+middle,Other (please specify):,Vue.js,31,7
+middle,Other (please specify):,Angular,24,8
+middle,Other (please specify):,FastAPI,21,9
+middle,Other (please specify):,React,21,10
+middle,Other (please specify):,Next.js,18,11
+middle,Other (please specify):,Laravel,12,12
+middle,Other (please specify):,WordPress,12,13
+middle,Other (please specify):,ASP.NET,11,14
+middle,Other (please specify):,Gatsby,10,15
+middle,Other (please specify):,Svelte,10,16
+middle,Other (please specify):,Spring,10,17
+middle,Other (please specify):,Angular.js,9,18
+middle,Other (please specify):,ASP.NET Core ,9,19
+middle,Other (please specify):,Symfony,7,20
+middle,Other (please specify):,ASP.NET CORE,5,21
+middle,Other (please specify):,Spring Boot,5,22
+middle,Other (please specify):,Ruby on Rails,4,23
+middle,Other (please specify):,Nuxt.js,4,24
+middle,Other (please specify):,AngularJS,2,25
+middle,Other (please specify):,Drupal,2,26
+middle,Other (please specify):,Phoenix,2,27
+middle,Other (please specify):,Fastify,2,28
+middle,Other (please specify):,Solid.js,1,29
+middle,Other (please specify):,Blazor,1,30
+middle,Other (please specify):,Deno,1,31
+middle,Product manager,React.js,97,1
+middle,Product manager,jQuery,85,2
+middle,Product manager,Express,66,3
+middle,Product manager,Vue.js,54,4
+middle,Product manager,Django,53,5
+middle,Product manager,Angular,49,6
+middle,Product manager,Flask,46,7
+middle,Product manager,Laravel,38,8
+middle,Product manager,Node.js,36,9
+middle,Product manager,ASP.NET,31,10
+middle,Product manager,Angular.js,29,11
+middle,Product manager,ASP.NET Core ,27,12
+middle,Product manager,Ruby on Rails,17,13
+middle,Product manager,FastAPI,16,14
+middle,Product manager,Gatsby,15,15
+middle,Product manager,Spring,14,16
+middle,Product manager,Next.js,13,17
+middle,Product manager,ASP.NET Core,11,18
+middle,Product manager,Symfony,7,19
+middle,Product manager,Svelte,7,20
+middle,Product manager,Drupal,4,21
+middle,Product manager,Fastify,2,22
+middle,Product manager,Nuxt.js,2,23
+middle,Product manager,ASP.NET CORE,1,24
+middle,Product manager,Deno,1,25
+middle,Project manager,Node.js,58,1
+middle,Project manager,React.js,45,2
+middle,Project manager,Express,39,3
+middle,Project manager,jQuery,34,4
+middle,Project manager,Django,27,5
+middle,Project manager,Angular,23,6
+middle,Project manager,Vue.js,23,7
+middle,Project manager,Next.js,20,8
+middle,Project manager,Laravel,20,9
+middle,Project manager,Flask,18,10
+middle,Project manager,ASP.NET Core ,18,11
+middle,Project manager,ASP.NET,16,12
+middle,Project manager,Angular.js,14,13
+middle,Project manager,FastAPI,11,14
+middle,Project manager,Nuxt.js,6,15
+middle,Project manager,Symfony,4,16
+middle,Project manager,Svelte,4,17
+middle,Project manager,WordPress,3,18
+middle,Project manager,React,3,19
+middle,Project manager,Gatsby,3,20
+middle,Project manager,Blazor,3,21
+middle,Project manager,Spring Boot,2,22
+middle,Project manager,Ruby on Rails,2,23
+middle,Project manager,Fastify,2,24
+middle,Project manager,Phoenix,2,25
+middle,Project manager,AngularJS,1,26
+middle,Project manager,Deno,1,27
+middle,Project manager,Drupal,1,28
+middle,Project manager,ASP.NET CORE,1,29
+middle,Research & Development role,React,11,1
+middle,Research & Development role,Node.js,11,2
+middle,Research & Development role,Next.js,8,3
+middle,Research & Development role,Flask,7,4
+middle,Research & Development role,Express,5,5
+middle,Research & Development role,FastAPI,4,6
+middle,Research & Development role,Svelte,4,7
+middle,Research & Development role,AngularJS,4,8
+middle,Research & Development role,Django,4,9
+middle,Research & Development role,WordPress,3,10
+middle,Research & Development role,Solid.js,3,11
+middle,Research & Development role,jQuery,3,12
+middle,Research & Development role,Vue.js,3,13
+middle,Research & Development role,Fastify,3,14
+middle,Research & Development role,ASP.NET CORE,2,15
+middle,Research & Development role,Laravel,2,16
+middle,Research & Development role,ASP.NET,2,17
+middle,Research & Development role,Angular,2,18
+middle,Research & Development role,Blazor,1,19
+middle,Research & Development role,Elm,1,20
+middle,Research & Development role,Remix,1,21
+middle,Research & Development role,Phoenix,1,22
+middle,Research & Development role,Lit,1,23
+middle,Research & Development role,Deno,1,24
+middle,Research & Development role,Nuxt.js,1,25
+middle,Research & Development role,Symfony,1,26
+middle,Research & Development role,Gatsby,1,27
+middle,Research & Development role,Spring Boot,1,28
+middle,Scientist,Flask,46,1
+middle,Scientist,React.js,40,2
+middle,Scientist,jQuery,35,3
+middle,Scientist,Django,34,4
+middle,Scientist,Express,24,5
+middle,Scientist,Vue.js,21,6
+middle,Scientist,Angular,17,7
+middle,Scientist,ASP.NET,16,8
+middle,Scientist,Angular.js,12,9
+middle,Scientist,FastAPI,10,10
+middle,Scientist,Spring,10,11
+middle,Scientist,Ruby on Rails,9,12
+middle,Scientist,Node.js,7,13
+middle,Scientist,Gatsby,6,14
+middle,Scientist,ASP.NET Core ,6,15
+middle,Scientist,ASP.NET Core,6,16
+middle,Scientist,Laravel,4,17
+middle,Scientist,Nuxt.js,3,18
+middle,Scientist,Next.js,2,19
+middle,Scientist,Svelte,2,20
+middle,Scientist,Symfony,2,21
+middle,Scientist,React,1,22
+middle,Scientist,Blazor,1,23
+middle,Security professional,Node.js,28,1
+middle,Security professional,Flask,22,2
+middle,Security professional,React.js,21,3
+middle,Security professional,Django,19,4
+middle,Security professional,jQuery,15,5
+middle,Security professional,Vue.js,13,6
+middle,Security professional,Express,13,7
+middle,Security professional,Angular,11,8
+middle,Security professional,FastAPI,10,9
+middle,Security professional,Next.js,8,10
+middle,Security professional,Nuxt.js,8,11
+middle,Security professional,ASP.NET Core ,8,12
+middle,Security professional,ASP.NET,6,13
+middle,Security professional,Angular.js,6,14
+middle,Security professional,Svelte,5,15
+middle,Security professional,Laravel,4,16
+middle,Security professional,Symfony,3,17
+middle,Security professional,Ruby on Rails,3,18
+middle,Security professional,WordPress,2,19
+middle,Security professional,Blazor,2,20
+middle,Security professional,Drupal,2,21
+middle,Security professional,Fastify,2,22
+middle,Security professional,ASP.NET CORE,1,23
+middle,Security professional,AngularJS,1,24
+middle,Security professional,React,1,25
+middle,Security professional,Gatsby,1,26
+middle,Security professional,Phoenix,1,27
+middle,Security professional,Deno,1,28
+middle,"Senior Executive (C-Suite, VP, etc.)",Express,24,1
+middle,"Senior Executive (C-Suite, VP, etc.)",React.js,23,2
+middle,"Senior Executive (C-Suite, VP, etc.)",jQuery,19,3
+middle,"Senior Executive (C-Suite, VP, etc.)",Vue.js,18,4
+middle,"Senior Executive (C-Suite, VP, etc.)",Flask,16,5
+middle,"Senior Executive (C-Suite, VP, etc.)",Django,16,6
+middle,"Senior Executive (C-Suite, VP, etc.)",Node.js,15,7
+middle,"Senior Executive (C-Suite, VP, etc.)",FastAPI,11,8
+middle,"Senior Executive (C-Suite, VP, etc.)",Next.js,10,9
+middle,"Senior Executive (C-Suite, VP, etc.)",Angular,10,10
+middle,"Senior Executive (C-Suite, VP, etc.)",Laravel,9,11
+middle,"Senior Executive (C-Suite, VP, etc.)",React,6,12
+middle,"Senior Executive (C-Suite, VP, etc.)",ASP.NET Core ,6,13
+middle,"Senior Executive (C-Suite, VP, etc.)",Gatsby,5,14
+middle,"Senior Executive (C-Suite, VP, etc.)",ASP.NET,5,15
+middle,"Senior Executive (C-Suite, VP, etc.)",Nuxt.js,4,16
+middle,"Senior Executive (C-Suite, VP, etc.)",Angular.js,4,17
+middle,"Senior Executive (C-Suite, VP, etc.)",Ruby on Rails,3,18
+middle,"Senior Executive (C-Suite, VP, etc.)",Fastify,3,19
+middle,"Senior Executive (C-Suite, VP, etc.)",Svelte,3,20
+middle,"Senior Executive (C-Suite, VP, etc.)",Drupal,2,21
+middle,"Senior Executive (C-Suite, VP, etc.)",WordPress,2,22
+middle,"Senior Executive (C-Suite, VP, etc.)",Phoenix,2,23
+middle,"Senior Executive (C-Suite, VP, etc.)",Spring Boot,2,24
+middle,"Senior Executive (C-Suite, VP, etc.)",Symfony,2,25
+middle,"Senior Executive (C-Suite, VP, etc.)",Spring,2,26
+middle,"Senior Executive (C-Suite, VP, etc.)",Deno,1,27
+middle,"Senior Executive (C-Suite, VP, etc.)",NestJS,1,28
+middle,"Senior Executive (C-Suite, VP, etc.)",CodeIgniter,1,29
+middle,Senior executive/VP,jQuery,4,1
+middle,Senior executive/VP,Angular,4,2
+middle,Senior executive/VP,ASP.NET Core,3,3
+middle,Senior executive/VP,Flask,2,4
+middle,Senior executive/VP,React.js,2,5
+middle,Senior executive/VP,Laravel,2,6
+middle,Senior executive/VP,Spring,2,7
+middle,Senior executive/VP,Vue.js,1,8
+middle,Senior executive/VP,Ruby on Rails,1,9
+middle,Senior executive/VP,ASP.NET,1,10
+middle,Senior executive/VP,Angular.js,1,11
+middle,Student,React.js,178,1
+middle,Student,Express,128,2
+middle,Student,jQuery,124,3
+middle,Student,Angular,90,4
+middle,Student,Django,87,5
+middle,Student,Vue.js,79,6
+middle,Student,Flask,73,7
+middle,Student,Node.js,63,8
+middle,Student,ASP.NET Core ,62,9
+middle,Student,ASP.NET,59,10
+middle,Student,Laravel,52,11
+middle,Student,Angular.js,47,12
+middle,Student,Spring,38,13
+middle,Student,Next.js,26,14
+middle,Student,Gatsby,23,15
+middle,Student,Ruby on Rails,22,16
+middle,Student,FastAPI,22,17
+middle,Student,Svelte,15,18
+middle,Student,Symfony,12,19
+middle,Student,Nuxt.js,8,20
+middle,Student,Drupal,6,21
+middle,Student,Blazor,5,22
+middle,Student,Fastify,4,23
+middle,Student,Deno,3,24
+middle,Student,React,1,25
+middle,Student,Phoenix,1,26
+middle,System administrator,jQuery,183,1
+middle,System administrator,React.js,170,2
+middle,System administrator,Express,126,3
+middle,System administrator,Flask,126,4
+middle,System administrator,Django,116,5
+middle,System administrator,Angular,99,6
+middle,System administrator,Vue.js,93,7
+middle,System administrator,Laravel,77,8
+middle,System administrator,Node.js,76,9
+middle,System administrator,ASP.NET,74,10
+middle,System administrator,Angular.js,53,11
+middle,System administrator,ASP.NET Core ,50,12
+middle,System administrator,Spring,34,13
+middle,System administrator,FastAPI,32,14
+middle,System administrator,Next.js,23,15
+middle,System administrator,Ruby on Rails,23,16
+middle,System administrator,Symfony,20,17
+middle,System administrator,ASP.NET Core,20,18
+middle,System administrator,Svelte,19,19
+middle,System administrator,Gatsby,15,20
+middle,System administrator,Drupal,10,21
+middle,System administrator,React,8,22
+middle,System administrator,WordPress,7,23
+middle,System administrator,Nuxt.js,5,24
+middle,System administrator,Blazor,4,25
+middle,System administrator,Deno,3,26
+middle,System administrator,NestJS,2,27
+middle,System administrator,ASP.NET CORE,2,28
+middle,System administrator,AngularJS,2,29
+middle,System administrator,Fastify,2,30
+middle,System administrator,Phoenix,2,31
+middle,System administrator,CodeIgniter,1,32
+middle,System administrator,Play Framework,1,33

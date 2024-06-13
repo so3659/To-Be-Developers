@@ -1,0 +1,1089 @@
+Database,DevType,Count,Rank
+BigQuery,"Developer, full-stack",489,1
+BigQuery,"Developer, back-end",464,2
+BigQuery,"Engineer, data",175,3
+BigQuery,Data scientist or machine learning specialist,118,4
+BigQuery,Engineering manager,88,5
+BigQuery,Cloud infrastructure engineer,57,6
+BigQuery,Other (please specify):,52,7
+BigQuery,"Senior Executive (C-Suite, VP, etc.)",49,8
+BigQuery,DevOps specialist,38,9
+BigQuery,"Developer, mobile",35,10
+BigQuery,Data or business analyst,35,11
+BigQuery,"Developer, front-end",23,12
+BigQuery,Research & Development role,21,13
+BigQuery,"Engineer, site reliability",16,14
+BigQuery,"Developer, desktop or enterprise applications",16,15
+BigQuery,Security professional,10,16
+BigQuery,Product manager,8,17
+BigQuery,Project manager,7,18
+BigQuery,Developer Experience,7,19
+BigQuery,Blockchain,7,20
+BigQuery,"Developer, game or graphics",6,21
+BigQuery,Database administrator,6,22
+BigQuery,"Developer, embedded applications or devices",6,23
+BigQuery,Designer,5,24
+BigQuery,"Developer, QA or test",5,25
+BigQuery,Developer Advocate,4,26
+BigQuery,System administrator,3,27
+BigQuery,Marketing or sales professional,2,28
+BigQuery,Educator,1,29
+BigQuery,Hardware Engineer,1,30
+BigQuery,Scientist,1,31
+BigQuery,Student,1,32
+Cassandra,"Developer, back-end",1932,1
+Cassandra,"Developer, full-stack",1348,2
+Cassandra,DevOps specialist,530,3
+Cassandra,"Developer, front-end",478,4
+Cassandra,"Engineer, data",406,5
+Cassandra,"Developer, desktop or enterprise applications",389,6
+Cassandra,Engineering manager,288,7
+Cassandra,Data scientist or machine learning specialist,287,8
+Cassandra,"Developer, mobile",272,9
+Cassandra,"Engineer, site reliability",261,10
+Cassandra,System administrator,246,11
+Cassandra,Database administrator,241,12
+Cassandra,Cloud infrastructure engineer,168,13
+Cassandra,"Developer, QA or test",161,14
+Cassandra,"Developer, embedded applications or devices",153,15
+Cassandra,Data or business analyst,142,16
+Cassandra,Academic researcher,119,17
+Cassandra,Educator,117,18
+Cassandra,Product manager,116,19
+Cassandra,Designer,116,20
+Cassandra,Scientist,85,21
+Cassandra,"Senior Executive (C-Suite, VP, etc.)",72,22
+Cassandra,Other (please specify):,68,23
+Cassandra,"Developer, game or graphics",63,24
+Cassandra,Project manager,44,25
+Cassandra,Student,43,26
+Cassandra,Security professional,33,27
+Cassandra,Senior executive/VP,33,28
+Cassandra,Research & Development role,23,29
+Cassandra,Marketing or sales professional,21,30
+Cassandra,Blockchain,21,31
+Cassandra,Developer Experience,4,32
+Cassandra,Developer Advocate,3,33
+Clickhouse,"Developer, back-end",123,1
+Clickhouse,"Developer, full-stack",82,2
+Clickhouse,"Engineer, data",19,3
+Clickhouse,Data scientist or machine learning specialist,13,4
+Clickhouse,"Senior Executive (C-Suite, VP, etc.)",13,5
+Clickhouse,Cloud infrastructure engineer,10,6
+Clickhouse,"Engineer, site reliability",10,7
+Clickhouse,Engineering manager,9,8
+Clickhouse,Other (please specify):,8,9
+Clickhouse,Research & Development role,7,10
+Clickhouse,DevOps specialist,7,11
+Clickhouse,"Developer, front-end",5,12
+Clickhouse,"Developer, desktop or enterprise applications",4,13
+Clickhouse,"Developer, game or graphics",3,14
+Clickhouse,"Developer, QA or test",2,15
+Clickhouse,Blockchain,2,16
+Clickhouse,"Developer, embedded applications or devices",2,17
+Clickhouse,Developer Experience,2,18
+Clickhouse,Security professional,1,19
+Clickhouse,Student,1,20
+Clickhouse,Developer Advocate,1,21
+Clickhouse,Project manager,1,22
+Clickhouse,Data or business analyst,1,23
+Clickhouse,System administrator,1,24
+Clickhouse,"Developer, mobile",1,25
+Clickhouse,Educator,1,26
+Clickhouse,Product manager,1,27
+Cloud Firestore,"Developer, full-stack",1787,1
+Cloud Firestore,"Developer, back-end",840,2
+Cloud Firestore,"Developer, front-end",794,3
+Cloud Firestore,"Developer, mobile",749,4
+Cloud Firestore,Cloud infrastructure engineer,235,5
+Cloud Firestore,"Developer, desktop or enterprise applications",226,6
+Cloud Firestore,Engineering manager,203,7
+Cloud Firestore,DevOps specialist,187,8
+Cloud Firestore,Project manager,153,9
+Cloud Firestore,Database administrator,132,10
+Cloud Firestore,"Senior Executive (C-Suite, VP, etc.)",130,11
+Cloud Firestore,Designer,113,12
+Cloud Firestore,"Engineer, data",111,13
+Cloud Firestore,System administrator,103,14
+Cloud Firestore,Product manager,93,15
+Cloud Firestore,Data scientist or machine learning specialist,90,16
+Cloud Firestore,"Developer, QA or test",86,17
+Cloud Firestore,"Developer, embedded applications or devices",85,18
+Cloud Firestore,Educator,75,19
+Cloud Firestore,Data or business analyst,75,20
+Cloud Firestore,Other (please specify):,74,21
+Cloud Firestore,"Engineer, site reliability",66,22
+Cloud Firestore,Blockchain,58,23
+Cloud Firestore,"Developer, game or graphics",53,24
+Cloud Firestore,Student,50,25
+Cloud Firestore,Security professional,47,26
+Cloud Firestore,Academic researcher,30,27
+Cloud Firestore,Scientist,19,28
+Cloud Firestore,Marketing or sales professional,15,29
+Cloud Firestore,Developer Experience,13,30
+Cloud Firestore,Research & Development role,11,31
+Cloud Firestore,Developer Advocate,6,32
+Cloud Firestore,Hardware Engineer,5,33
+Cockroachdb,"Developer, back-end",93,1
+Cockroachdb,"Developer, full-stack",85,2
+Cockroachdb,"Engineer, site reliability",17,3
+Cockroachdb,Cloud infrastructure engineer,16,4
+Cockroachdb,DevOps specialist,16,5
+Cockroachdb,Other (please specify):,13,6
+Cockroachdb,"Senior Executive (C-Suite, VP, etc.)",12,7
+Cockroachdb,"Engineer, data",11,8
+Cockroachdb,Engineering manager,7,9
+Cockroachdb,Research & Development role,6,10
+Cockroachdb,Blockchain,5,11
+Cockroachdb,Data scientist or machine learning specialist,5,12
+Cockroachdb,"Developer, QA or test",4,13
+Cockroachdb,Developer Experience,4,14
+Cockroachdb,"Developer, desktop or enterprise applications",3,15
+Cockroachdb,Security professional,3,16
+Cockroachdb,"Developer, embedded applications or devices",3,17
+Cockroachdb,Product manager,3,18
+Cockroachdb,"Developer, front-end",3,19
+Cockroachdb,"Developer, game or graphics",2,20
+Cockroachdb,Project manager,1,21
+Cockroachdb,System administrator,1,22
+Cockroachdb,"Developer, mobile",1,23
+Cockroachdb,Designer,1,24
+Cockroachdb,Developer Advocate,1,25
+Cockroachdb,Student,1,26
+Cosmos DB,"Developer, full-stack",666,1
+Cosmos DB,"Developer, back-end",367,2
+Cosmos DB,Other (please specify):,55,3
+Cosmos DB,Engineering manager,54,4
+Cosmos DB,DevOps specialist,48,5
+Cosmos DB,"Developer, desktop or enterprise applications",39,6
+Cosmos DB,"Engineer, data",39,7
+Cosmos DB,Cloud infrastructure engineer,34,8
+Cosmos DB,"Senior Executive (C-Suite, VP, etc.)",34,9
+Cosmos DB,"Developer, front-end",34,10
+Cosmos DB,Data scientist or machine learning specialist,20,11
+Cosmos DB,Research & Development role,19,12
+Cosmos DB,"Developer, QA or test",11,13
+Cosmos DB,"Developer, embedded applications or devices",10,14
+Cosmos DB,Developer Advocate,9,15
+Cosmos DB,Security professional,7,16
+Cosmos DB,Project manager,7,17
+Cosmos DB,"Engineer, site reliability",7,18
+Cosmos DB,Data or business analyst,7,19
+Cosmos DB,"Developer, mobile",7,20
+Cosmos DB,Developer Experience,6,21
+Cosmos DB,"Developer, game or graphics",6,22
+Cosmos DB,Product manager,5,23
+Cosmos DB,System administrator,3,24
+Cosmos DB,Database administrator,3,25
+Cosmos DB,Blockchain,2,26
+Cosmos DB,Marketing or sales professional,2,27
+Cosmos DB,Designer,1,28
+Cosmos DB,Student,1,29
+Cosmos DB,Hardware Engineer,1,30
+Cosmos DB,Academic researcher,1,31
+Couch DB,"Developer, full-stack",127,1
+Couch DB,"Developer, back-end",57,2
+Couch DB,Engineering manager,29,3
+Couch DB,"Developer, front-end",16,4
+Couch DB,Other (please specify):,14,5
+Couch DB,DevOps specialist,14,6
+Couch DB,"Senior Executive (C-Suite, VP, etc.)",13,7
+Couch DB,"Developer, mobile",10,8
+Couch DB,"Developer, desktop or enterprise applications",9,9
+Couch DB,Cloud infrastructure engineer,6,10
+Couch DB,Data scientist or machine learning specialist,6,11
+Couch DB,Research & Development role,6,12
+Couch DB,"Engineer, site reliability",5,13
+Couch DB,Security professional,5,14
+Couch DB,Product manager,5,15
+Couch DB,Project manager,4,16
+Couch DB,Developer Advocate,4,17
+Couch DB,Blockchain,4,18
+Couch DB,"Developer, embedded applications or devices",3,19
+Couch DB,Data or business analyst,3,20
+Couch DB,"Engineer, data",3,21
+Couch DB,Educator,2,22
+Couch DB,Academic researcher,1,23
+Couch DB,System administrator,1,24
+Couch DB,Designer,1,25
+Couch DB,"Developer, QA or test",1,26
+Couch DB,Developer Experience,1,27
+Couch DB,Student,1,28
+Couch DB,Database administrator,1,29
+CouchDB,"Developer, full-stack",186,1
+CouchDB,"Developer, back-end",154,2
+CouchDB,"Developer, front-end",103,3
+CouchDB,DevOps specialist,64,4
+CouchDB,"Developer, desktop or enterprise applications",61,5
+CouchDB,"Developer, mobile",60,6
+CouchDB,Cloud infrastructure engineer,53,7
+CouchDB,Engineering manager,45,8
+CouchDB,Project manager,42,9
+CouchDB,Database administrator,38,10
+CouchDB,System administrator,36,11
+CouchDB,"Developer, embedded applications or devices",30,12
+CouchDB,Designer,29,13
+CouchDB,"Engineer, data",28,14
+CouchDB,"Developer, QA or test",28,15
+CouchDB,"Engineer, site reliability",25,16
+CouchDB,Blockchain,22,17
+CouchDB,Product manager,22,18
+CouchDB,"Senior Executive (C-Suite, VP, etc.)",21,19
+CouchDB,Security professional,20,20
+CouchDB,Data or business analyst,17,21
+CouchDB,Educator,17,22
+CouchDB,Data scientist or machine learning specialist,16,23
+CouchDB,Other (please specify):,14,24
+CouchDB,Academic researcher,12,25
+CouchDB,"Developer, game or graphics",11,26
+CouchDB,Marketing or sales professional,8,27
+CouchDB,Student,6,28
+CouchDB,Scientist,4,29
+Couchbase,"Developer, back-end",851,1
+Couchbase,"Developer, full-stack",801,2
+Couchbase,"Developer, front-end",379,3
+Couchbase,"Developer, mobile",272,4
+Couchbase,"Developer, desktop or enterprise applications",270,5
+Couchbase,DevOps specialist,263,6
+Couchbase,System administrator,156,7
+Couchbase,Database administrator,147,8
+Couchbase,"Engineer, data",144,9
+Couchbase,Engineering manager,142,10
+Couchbase,"Developer, QA or test",120,11
+Couchbase,"Developer, embedded applications or devices",107,12
+Couchbase,Designer,99,13
+Couchbase,"Engineer, site reliability",94,14
+Couchbase,Product manager,86,15
+Couchbase,Data or business analyst,75,16
+Couchbase,Data scientist or machine learning specialist,74,17
+Couchbase,Educator,69,18
+Couchbase,Academic researcher,59,19
+Couchbase,Cloud infrastructure engineer,56,20
+Couchbase,"Developer, game or graphics",53,21
+Couchbase,"Senior Executive (C-Suite, VP, etc.)",51,22
+Couchbase,Other (please specify):,49,23
+Couchbase,Scientist,47,24
+Couchbase,Marketing or sales professional,33,25
+Couchbase,Student,26,26
+Couchbase,Senior executive/VP,23,27
+Couchbase,Project manager,18,28
+Couchbase,Security professional,16,29
+Couchbase,Blockchain,11,30
+Couchbase,Developer Advocate,3,31
+Couchbase,Research & Development role,3,32
+Couchbase,Developer Experience,1,33
+Couchbase,Hardware Engineer,1,34
+Datomic,"Developer, full-stack",51,1
+Datomic,"Developer, back-end",26,2
+Datomic,Engineering manager,7,3
+Datomic,"Engineer, data",4,4
+Datomic,Other (please specify):,3,5
+Datomic,Product manager,2,6
+Datomic,"Senior Executive (C-Suite, VP, etc.)",2,7
+Datomic,Student,1,8
+Datomic,Data scientist or machine learning specialist,1,9
+Datomic,Developer Experience,1,10
+Datomic,Cloud infrastructure engineer,1,11
+Datomic,"Engineer, site reliability",1,12
+Datomic,Research & Development role,1,13
+DuckDB,"Engineer, data",40,1
+DuckDB,"Developer, full-stack",37,2
+DuckDB,"Developer, back-end",35,3
+DuckDB,Data scientist or machine learning specialist,26,4
+DuckDB,"Senior Executive (C-Suite, VP, etc.)",8,5
+DuckDB,Research & Development role,6,6
+DuckDB,Other (please specify):,6,7
+DuckDB,Academic researcher,5,8
+DuckDB,Data or business analyst,4,9
+DuckDB,Cloud infrastructure engineer,4,10
+DuckDB,Engineering manager,3,11
+DuckDB,DevOps specialist,3,12
+DuckDB,Database administrator,2,13
+DuckDB,"Developer, front-end",2,14
+DuckDB,Product manager,2,15
+DuckDB,"Developer, desktop or enterprise applications",2,16
+DuckDB,Student,1,17
+DuckDB,Educator,1,18
+DuckDB,Marketing or sales professional,1,19
+DuckDB,"Developer, embedded applications or devices",1,20
+DuckDB,Developer Experience,1,21
+DuckDB,"Developer, mobile",1,22
+DuckDB,Security professional,1,23
+DynamoDB,"Developer, back-end",4854,1
+DynamoDB,"Developer, full-stack",4647,2
+DynamoDB,"Developer, front-end",2047,3
+DynamoDB,DevOps specialist,1729,4
+DynamoDB,"Developer, desktop or enterprise applications",980,5
+DynamoDB,"Developer, mobile",900,6
+DynamoDB,Engineering manager,851,7
+DynamoDB,"Engineer, data",789,8
+DynamoDB,Cloud infrastructure engineer,772,9
+DynamoDB,"Engineer, site reliability",693,10
+DynamoDB,Database administrator,681,11
+DynamoDB,System administrator,650,12
+DynamoDB,"Developer, QA or test",478,13
+DynamoDB,Data scientist or machine learning specialist,465,14
+DynamoDB,"Developer, embedded applications or devices",389,15
+DynamoDB,Product manager,348,16
+DynamoDB,Data or business analyst,347,17
+DynamoDB,Designer,344,18
+DynamoDB,Educator,291,19
+DynamoDB,"Developer, game or graphics",224,20
+DynamoDB,"Senior Executive (C-Suite, VP, etc.)",224,21
+DynamoDB,Other (please specify):,221,22
+DynamoDB,Academic researcher,169,23
+DynamoDB,Project manager,139,24
+DynamoDB,Scientist,126,25
+DynamoDB,Student,110,26
+DynamoDB,Security professional,103,27
+DynamoDB,Senior executive/VP,82,28
+DynamoDB,Blockchain,80,29
+DynamoDB,Marketing or sales professional,46,30
+Dynamodb,"Developer, full-stack",1423,1
+Dynamodb,"Developer, back-end",1177,2
+Dynamodb,Engineering manager,168,3
+Dynamodb,Cloud infrastructure engineer,163,4
+Dynamodb,DevOps specialist,127,5
+Dynamodb,Other (please specify):,122,6
+Dynamodb,"Senior Executive (C-Suite, VP, etc.)",101,7
+Dynamodb,"Engineer, data",97,8
+Dynamodb,"Developer, front-end",96,9
+Dynamodb,Data scientist or machine learning specialist,67,10
+Dynamodb,"Engineer, site reliability",59,11
+Dynamodb,"Developer, desktop or enterprise applications",47,12
+Dynamodb,Research & Development role,36,13
+Dynamodb,"Developer, mobile",30,14
+Dynamodb,Security professional,28,15
+Dynamodb,Developer Experience,23,16
+Dynamodb,"Developer, QA or test",21,17
+Dynamodb,"Developer, embedded applications or devices",15,18
+Dynamodb,Blockchain,14,19
+Dynamodb,"Developer, game or graphics",13,20
+Dynamodb,Product manager,11,21
+Dynamodb,Developer Advocate,8,22
+Dynamodb,Educator,6,23
+Dynamodb,Project manager,5,24
+Dynamodb,Designer,4,25
+Dynamodb,System administrator,4,26
+Dynamodb,Data or business analyst,3,27
+Dynamodb,Academic researcher,3,28
+Dynamodb,Student,2,29
+Dynamodb,Hardware Engineer,2,30
+Dynamodb,Database administrator,2,31
+Dynamodb,Marketing or sales professional,2,32
+Dynamodb,Scientist,1,33
+Elasticsearch,"Developer, back-end",9424,1
+Elasticsearch,"Developer, full-stack",9273,2
+Elasticsearch,"Developer, front-end",3321,3
+Elasticsearch,DevOps specialist,3201,4
+Elasticsearch,"Developer, desktop or enterprise applications",1919,5
+Elasticsearch,Engineering manager,1600,6
+Elasticsearch,"Engineer, data",1447,7
+Elasticsearch,System administrator,1442,8
+Elasticsearch,"Developer, mobile",1395,9
+Elasticsearch,Database administrator,1311,10
+Elasticsearch,"Engineer, site reliability",1273,11
+Elasticsearch,Data scientist or machine learning specialist,1085,12
+Elasticsearch,"Developer, QA or test",885,13
+Elasticsearch,Cloud infrastructure engineer,880,14
+Elasticsearch,Data or business analyst,658,15
+Elasticsearch,"Developer, embedded applications or devices",631,16
+Elasticsearch,Product manager,613,17
+Elasticsearch,Designer,590,18
+Elasticsearch,"Senior Executive (C-Suite, VP, etc.)",525,19
+Elasticsearch,Educator,461,20
+Elasticsearch,Other (please specify):,425,21
+Elasticsearch,Academic researcher,395,22
+Elasticsearch,"Developer, game or graphics",327,23
+Elasticsearch,Project manager,256,24
+Elasticsearch,Scientist,246,25
+Elasticsearch,Security professional,217,26
+Elasticsearch,Student,181,27
+Elasticsearch,Senior executive/VP,161,28
+Elasticsearch,Blockchain,98,29
+Elasticsearch,Marketing or sales professional,70,30
+Elasticsearch,Research & Development role,55,31
+Elasticsearch,Developer Experience,24,32
+Elasticsearch,Developer Advocate,15,33
+Firebase,"Developer, full-stack",4723,1
+Firebase,"Developer, back-end",3406,2
+Firebase,"Developer, front-end",3287,3
+Firebase,"Developer, mobile",2972,4
+Firebase,"Developer, desktop or enterprise applications",1206,5
+Firebase,DevOps specialist,851,6
+Firebase,Database administrator,727,7
+Firebase,Designer,700,8
+Firebase,"Developer, embedded applications or devices",593,9
+Firebase,System administrator,555,10
+Firebase,"Developer, QA or test",545,11
+Firebase,Engineering manager,492,12
+Firebase,Product manager,487,13
+Firebase,"Engineer, data",449,14
+Firebase,Educator,425,15
+Firebase,"Developer, game or graphics",389,16
+Firebase,Data or business analyst,377,17
+Firebase,Data scientist or machine learning specialist,373,18
+Firebase,Academic researcher,307,19
+Firebase,Student,292,20
+Firebase,"Engineer, site reliability",261,21
+Firebase,"Senior Executive (C-Suite, VP, etc.)",159,22
+Firebase,Scientist,150,23
+Firebase,Other (please specify):,109,24
+Firebase,Senior executive/VP,104,25
+Firebase,Marketing or sales professional,82,26
+Firebase Realtime Database,"Developer, full-stack",1738,1
+Firebase Realtime Database,"Developer, front-end",875,2
+Firebase Realtime Database,"Developer, back-end",853,3
+Firebase Realtime Database,"Developer, mobile",833,4
+Firebase Realtime Database,"Developer, desktop or enterprise applications",259,5
+Firebase Realtime Database,Engineering manager,171,6
+Firebase Realtime Database,Cloud infrastructure engineer,170,7
+Firebase Realtime Database,DevOps specialist,153,8
+Firebase Realtime Database,Project manager,144,9
+Firebase Realtime Database,Database administrator,131,10
+Firebase Realtime Database,"Developer, embedded applications or devices",111,11
+Firebase Realtime Database,Designer,111,12
+Firebase Realtime Database,"Senior Executive (C-Suite, VP, etc.)",108,13
+Firebase Realtime Database,System administrator,92,14
+Firebase Realtime Database,"Developer, QA or test",90,15
+Firebase Realtime Database,"Engineer, data",86,16
+Firebase Realtime Database,Product manager,82,17
+Firebase Realtime Database,Data scientist or machine learning specialist,76,18
+Firebase Realtime Database,Data or business analyst,76,19
+Firebase Realtime Database,Other (please specify):,76,20
+Firebase Realtime Database,Educator,62,21
+Firebase Realtime Database,"Developer, game or graphics",61,22
+Firebase Realtime Database,Student,59,23
+Firebase Realtime Database,Blockchain,59,24
+Firebase Realtime Database,"Engineer, site reliability",53,25
+Firebase Realtime Database,Security professional,43,26
+Firebase Realtime Database,Academic researcher,37,27
+Firebase Realtime Database,Research & Development role,19,28
+Firebase Realtime Database,Scientist,15,29
+Firebase Realtime Database,Marketing or sales professional,12,30
+Firebase Realtime Database,Developer Experience,8,31
+Firebase Realtime Database,Developer Advocate,4,32
+Firebase Realtime Database,Hardware Engineer,2,33
+Firebird,"Developer, full-stack",94,1
+Firebird,"Developer, desktop or enterprise applications",52,2
+Firebird,"Developer, back-end",28,3
+Firebird,"Senior Executive (C-Suite, VP, etc.)",10,4
+Firebird,Other (please specify):,9,5
+Firebird,Engineering manager,9,6
+Firebird,"Developer, front-end",9,7
+Firebird,Project manager,7,8
+Firebird,Research & Development role,5,9
+Firebird,Product manager,5,10
+Firebird,"Developer, mobile",4,11
+Firebird,"Developer, embedded applications or devices",4,12
+Firebird,DevOps specialist,4,13
+Firebird,"Engineer, data",4,14
+Firebird,Data or business analyst,3,15
+Firebird,System administrator,3,16
+Firebird,Developer Experience,3,17
+Firebird,Security professional,2,18
+Firebird,Data scientist or machine learning specialist,2,19
+Firebird,Cloud infrastructure engineer,2,20
+Firebird,Database administrator,2,21
+Firebird,Developer Advocate,2,22
+Firebird,"Developer, QA or test",2,23
+Firebird,Hardware Engineer,1,24
+Firebird,Student,1,25
+Firebird,"Engineer, site reliability",1,26
+Firebird,Educator,1,27
+Firebird,Designer,1,28
+H2,"Developer, full-stack",460,1
+H2,"Developer, back-end",433,2
+H2,Engineering manager,49,3
+H2,"Developer, desktop or enterprise applications",40,4
+H2,Other (please specify):,32,5
+H2,DevOps specialist,26,6
+H2,"Developer, front-end",21,7
+H2,"Senior Executive (C-Suite, VP, etc.)",20,8
+H2,"Engineer, data",14,9
+H2,Research & Development role,11,10
+H2,Project manager,9,11
+H2,"Developer, QA or test",9,12
+H2,Cloud infrastructure engineer,9,13
+H2,"Engineer, site reliability",8,14
+H2,Developer Experience,8,15
+H2,"Developer, mobile",7,16
+H2,Blockchain,7,17
+H2,Data scientist or machine learning specialist,5,18
+H2,"Developer, embedded applications or devices",4,19
+H2,Developer Advocate,3,20
+H2,Product manager,3,21
+H2,System administrator,3,22
+H2,Security professional,3,23
+H2,Educator,2,24
+H2,Academic researcher,2,25
+H2,Data or business analyst,1,26
+H2,Hardware Engineer,1,27
+H2,Student,1,28
+H2,"Developer, game or graphics",1,29
+IBM DB2,"Developer, full-stack",1169,1
+IBM DB2,"Developer, back-end",1063,2
+IBM DB2,"Developer, desktop or enterprise applications",543,3
+IBM DB2,"Developer, front-end",494,4
+IBM DB2,DevOps specialist,285,5
+IBM DB2,"Developer, mobile",229,6
+IBM DB2,Data or business analyst,215,7
+IBM DB2,Database administrator,206,8
+IBM DB2,"Engineer, data",199,9
+IBM DB2,System administrator,181,10
+IBM DB2,"Developer, QA or test",163,11
+IBM DB2,Designer,163,12
+IBM DB2,Data scientist or machine learning specialist,152,13
+IBM DB2,Engineering manager,137,14
+IBM DB2,"Developer, embedded applications or devices",132,15
+IBM DB2,Product manager,93,16
+IBM DB2,Educator,91,17
+IBM DB2,Other (please specify):,70,18
+IBM DB2,"Engineer, site reliability",63,19
+IBM DB2,Academic researcher,59,20
+IBM DB2,Cloud infrastructure engineer,54,21
+IBM DB2,"Senior Executive (C-Suite, VP, etc.)",46,22
+IBM DB2,Project manager,45,23
+IBM DB2,"Developer, game or graphics",42,24
+IBM DB2,Scientist,40,25
+IBM DB2,Student,25,26
+IBM DB2,Marketing or sales professional,21,27
+IBM DB2,Security professional,20,28
+IBM DB2,Senior executive/VP,19,29
+IBM DB2,Blockchain,12,30
+IBM DB2,Research & Development role,8,31
+IBM DB2,Developer Experience,3,32
+IBM DB2,Developer Advocate,2,33
+InfluxDB,"Developer, full-stack",255,1
+InfluxDB,"Developer, back-end",214,2
+InfluxDB,DevOps specialist,62,3
+InfluxDB,Engineering manager,34,4
+InfluxDB,"Engineer, data",33,5
+InfluxDB,"Senior Executive (C-Suite, VP, etc.)",33,6
+InfluxDB,Cloud infrastructure engineer,28,7
+InfluxDB,Other (please specify):,24,8
+InfluxDB,"Developer, desktop or enterprise applications",19,9
+InfluxDB,"Developer, embedded applications or devices",18,10
+InfluxDB,Research & Development role,18,11
+InfluxDB,Data scientist or machine learning specialist,18,12
+InfluxDB,"Engineer, site reliability",17,13
+InfluxDB,System administrator,13,14
+InfluxDB,"Developer, front-end",13,15
+InfluxDB,"Developer, QA or test",9,16
+InfluxDB,Academic researcher,8,17
+InfluxDB,Project manager,7,18
+InfluxDB,"Developer, game or graphics",5,19
+InfluxDB,Developer Experience,5,20
+InfluxDB,Blockchain,5,21
+InfluxDB,Security professional,5,22
+InfluxDB,"Developer, mobile",4,23
+InfluxDB,Product manager,4,24
+InfluxDB,Developer Advocate,3,25
+InfluxDB,Data or business analyst,3,26
+InfluxDB,Database administrator,2,27
+InfluxDB,Hardware Engineer,2,28
+InfluxDB,Student,1,29
+InfluxDB,Designer,1,30
+InfluxDB,Scientist,1,31
+MariaDB,"Developer, full-stack",9473,1
+MariaDB,"Developer, back-end",8010,2
+MariaDB,"Developer, front-end",4278,3
+MariaDB,DevOps specialist,2495,4
+MariaDB,System administrator,2325,5
+MariaDB,"Developer, desktop or enterprise applications",2288,6
+MariaDB,"Developer, mobile",2083,7
+MariaDB,Database administrator,1989,8
+MariaDB,"Developer, QA or test",1026,9
+MariaDB,"Developer, embedded applications or devices",1023,10
+MariaDB,Engineering manager,1008,11
+MariaDB,Designer,1006,12
+MariaDB,"Engineer, data",992,13
+MariaDB,"Engineer, site reliability",851,14
+MariaDB,Data or business analyst,835,15
+MariaDB,Product manager,770,16
+MariaDB,Data scientist or machine learning specialist,736,17
+MariaDB,Educator,688,18
+MariaDB,Cloud infrastructure engineer,575,19
+MariaDB,Academic researcher,542,20
+MariaDB,"Developer, game or graphics",493,21
+MariaDB,"Senior Executive (C-Suite, VP, etc.)",452,22
+MariaDB,Project manager,414,23
+MariaDB,Other (please specify):,354,24
+MariaDB,Student,352,25
+MariaDB,Scientist,338,26
+MariaDB,Security professional,226,27
+MariaDB,Senior executive/VP,175,28
+MariaDB,Marketing or sales professional,156,29
+MariaDB,Blockchain,104,30
+MariaDB,Research & Development role,47,31
+MariaDB,Developer Experience,22,32
+MariaDB,Developer Advocate,8,33
+MariaDB,Hardware Engineer,7,34
+Microsoft Access,"Developer, full-stack",345,1
+Microsoft Access,"Developer, desktop or enterprise applications",90,2
+Microsoft Access,"Developer, back-end",89,3
+Microsoft Access,Other (please specify):,36,4
+Microsoft Access,"Senior Executive (C-Suite, VP, etc.)",28,5
+Microsoft Access,Data or business analyst,26,6
+Microsoft Access,Engineering manager,22,7
+Microsoft Access,DevOps specialist,22,8
+Microsoft Access,"Developer, front-end",21,9
+Microsoft Access,"Engineer, data",20,10
+Microsoft Access,Data scientist or machine learning specialist,18,11
+Microsoft Access,Project manager,17,12
+Microsoft Access,System administrator,12,13
+Microsoft Access,Research & Development role,11,14
+Microsoft Access,"Developer, mobile",10,15
+Microsoft Access,Database administrator,8,16
+Microsoft Access,"Developer, embedded applications or devices",8,17
+Microsoft Access,Product manager,8,18
+Microsoft Access,Developer Experience,7,19
+Microsoft Access,Cloud infrastructure engineer,7,20
+Microsoft Access,Academic researcher,6,21
+Microsoft Access,Designer,5,22
+Microsoft Access,"Developer, QA or test",5,23
+Microsoft Access,Security professional,4,24
+Microsoft Access,"Developer, game or graphics",3,25
+Microsoft Access,Hardware Engineer,3,26
+Microsoft Access,Educator,3,27
+Microsoft Access,Blockchain,3,28
+Microsoft Access,Scientist,3,29
+Microsoft Access,Marketing or sales professional,2,30
+Microsoft Access,Student,1,31
+Microsoft Access,Developer Advocate,1,32
+Microsoft SQL Server,"Developer, full-stack",18498,1
+Microsoft SQL Server,"Developer, back-end",14201,2
+Microsoft SQL Server,"Developer, front-end",7512,3
+Microsoft SQL Server,"Developer, desktop or enterprise applications",7131,4
+Microsoft SQL Server,DevOps specialist,3715,5
+Microsoft SQL Server,"Developer, mobile",3420,6
+Microsoft SQL Server,Database administrator,3349,7
+Microsoft SQL Server,System administrator,2397,8
+Microsoft SQL Server,Data or business analyst,2269,9
+Microsoft SQL Server,"Engineer, data",2077,10
+Microsoft SQL Server,Designer,1828,11
+Microsoft SQL Server,Engineering manager,1791,12
+Microsoft SQL Server,"Developer, QA or test",1742,13
+Microsoft SQL Server,Data scientist or machine learning specialist,1593,14
+Microsoft SQL Server,"Developer, embedded applications or devices",1583,15
+Microsoft SQL Server,Product manager,1249,16
+Microsoft SQL Server,Cloud infrastructure engineer,865,17
+Microsoft SQL Server,Educator,863,18
+Microsoft SQL Server,"Engineer, site reliability",862,19
+Microsoft SQL Server,Other (please specify):,737,20
+Microsoft SQL Server,"Developer, game or graphics",684,21
+Microsoft SQL Server,"Senior Executive (C-Suite, VP, etc.)",627,22
+Microsoft SQL Server,Academic researcher,590,23
+Microsoft SQL Server,Project manager,542,24
+Microsoft SQL Server,Student,433,25
+Microsoft SQL Server,Scientist,410,26
+Microsoft SQL Server,Security professional,247,27
+Microsoft SQL Server,Senior executive/VP,226,28
+Microsoft SQL Server,Marketing or sales professional,178,29
+Microsoft SQL Server,Blockchain,87,30
+Microsoft SQL Server,Research & Development role,87,31
+Microsoft SQL Server,Developer Advocate,21,32
+Microsoft SQL Server,Developer Experience,19,33
+Microsoft SQL Server,Hardware Engineer,9,34
+MongoDB,"Developer, full-stack",15745,1
+MongoDB,"Developer, back-end",12545,2
+MongoDB,"Developer, front-end",7606,3
+MongoDB,"Developer, mobile",3523,4
+MongoDB,"Developer, desktop or enterprise applications",3364,5
+MongoDB,DevOps specialist,3289,6
+MongoDB,Database administrator,1892,7
+MongoDB,System administrator,1825,8
+MongoDB,"Engineer, data",1730,9
+MongoDB,Engineering manager,1715,10
+MongoDB,Data scientist or machine learning specialist,1561,11
+MongoDB,"Developer, QA or test",1351,12
+MongoDB,Designer,1331,13
+MongoDB,"Developer, embedded applications or devices",1257,14
+MongoDB,Data or business analyst,1103,15
+MongoDB,Product manager,1028,16
+MongoDB,"Engineer, site reliability",1011,17
+MongoDB,Educator,938,18
+MongoDB,Cloud infrastructure engineer,877,19
+MongoDB,Academic researcher,834,20
+MongoDB,"Developer, game or graphics",720,21
+MongoDB,"Senior Executive (C-Suite, VP, etc.)",589,22
+MongoDB,Student,580,23
+MongoDB,Other (please specify):,575,24
+MongoDB,Scientist,473,25
+MongoDB,Project manager,416,26
+MongoDB,Blockchain,242,27
+MongoDB,Security professional,225,28
+MongoDB,Senior executive/VP,194,29
+MongoDB,Marketing or sales professional,164,30
+MongoDB,Research & Development role,75,31
+MongoDB,Developer Experience,31,32
+MongoDB,Developer Advocate,18,33
+MongoDB,Hardware Engineer,9,34
+MySQL,"Developer, full-stack",25108,1
+MySQL,"Developer, back-end",20993,2
+MySQL,"Developer, front-end",11946,3
+MySQL,"Developer, desktop or enterprise applications",6169,4
+MySQL,"Developer, mobile",6008,5
+MySQL,DevOps specialist,5004,6
+MySQL,Database administrator,4089,7
+MySQL,System administrator,3897,8
+MySQL,"Engineer, data",2892,9
+MySQL,Designer,2721,10
+MySQL,Engineering manager,2611,11
+MySQL,"Developer, QA or test",2548,12
+MySQL,Data scientist or machine learning specialist,2461,13
+MySQL,Data or business analyst,2370,14
+MySQL,"Developer, embedded applications or devices",2276,15
+MySQL,Product manager,1863,16
+MySQL,"Engineer, site reliability",1726,17
+MySQL,Educator,1547,18
+MySQL,Academic researcher,1391,19
+MySQL,Cloud infrastructure engineer,1322,20
+MySQL,"Developer, game or graphics",1193,21
+MySQL,Student,920,22
+MySQL,"Senior Executive (C-Suite, VP, etc.)",905,23
+MySQL,Other (please specify):,887,24
+MySQL,Scientist,810,25
+MySQL,Project manager,790,26
+MySQL,Senior executive/VP,357,27
+MySQL,Security professional,353,28
+MySQL,Marketing or sales professional,343,29
+MySQL,Blockchain,237,30
+MySQL,Research & Development role,95,31
+MySQL,Developer Experience,49,32
+MySQL,Developer Advocate,26,33
+MySQL,Hardware Engineer,21,34
+Neo4J,"Developer, full-stack",172,1
+Neo4J,"Developer, back-end",126,2
+Neo4J,Data scientist or machine learning specialist,36,3
+Neo4J,"Engineer, data",29,4
+Neo4J,Other (please specify):,28,5
+Neo4J,Engineering manager,27,6
+Neo4J,"Senior Executive (C-Suite, VP, etc.)",17,7
+Neo4J,"Developer, front-end",15,8
+Neo4J,Cloud infrastructure engineer,13,9
+Neo4J,DevOps specialist,13,10
+Neo4J,Research & Development role,11,11
+Neo4J,"Developer, desktop or enterprise applications",10,12
+Neo4J,"Engineer, site reliability",6,13
+Neo4J,"Developer, QA or test",4,14
+Neo4J,"Developer, embedded applications or devices",4,15
+Neo4J,Data or business analyst,3,16
+Neo4J,Academic researcher,3,17
+Neo4J,Blockchain,3,18
+Neo4J,System administrator,3,19
+Neo4J,Security professional,3,20
+Neo4J,"Developer, game or graphics",2,21
+Neo4J,Developer Experience,2,22
+Neo4J,Educator,2,23
+Neo4J,Student,2,24
+Neo4J,Database administrator,1,25
+Neo4J,"Developer, mobile",1,26
+Neo4J,Project manager,1,27
+Neo4J,Product manager,1,28
+Neo4J,Designer,1,29
+Neo4j,"Developer, back-end",268,1
+Neo4j,"Developer, full-stack",238,2
+Neo4j,"Developer, front-end",102,3
+Neo4j,Cloud infrastructure engineer,87,4
+Neo4j,DevOps specialist,79,5
+Neo4j,"Engineer, data",67,6
+Neo4j,Data scientist or machine learning specialist,65,7
+Neo4j,"Developer, desktop or enterprise applications",58,8
+Neo4j,Engineering manager,52,9
+Neo4j,Database administrator,44,10
+Neo4j,"Developer, mobile",42,11
+Neo4j,Project manager,40,12
+Neo4j,Data or business analyst,33,13
+Neo4j,System administrator,32,14
+Neo4j,Designer,30,15
+Neo4j,Product manager,30,16
+Neo4j,"Developer, QA or test",30,17
+Neo4j,Security professional,29,18
+Neo4j,"Developer, embedded applications or devices",26,19
+Neo4j,"Engineer, site reliability",25,20
+Neo4j,"Senior Executive (C-Suite, VP, etc.)",25,21
+Neo4j,Blockchain,23,22
+Neo4j,Academic researcher,22,23
+Neo4j,Other (please specify):,22,24
+Neo4j,Educator,21,25
+Neo4j,Scientist,14,26
+Neo4j,Student,12,27
+Neo4j,"Developer, game or graphics",11,28
+Neo4j,Marketing or sales professional,4,29
+Oracle,"Developer, full-stack",6448,1
+Oracle,"Developer, back-end",6034,2
+Oracle,"Developer, desktop or enterprise applications",2838,3
+Oracle,"Developer, front-end",2793,4
+Oracle,DevOps specialist,1483,5
+Oracle,"Developer, mobile",1334,6
+Oracle,Database administrator,1161,7
+Oracle,"Engineer, data",1018,8
+Oracle,Data or business analyst,994,9
+Oracle,System administrator,955,10
+Oracle,Data scientist or machine learning specialist,793,11
+Oracle,"Developer, QA or test",791,12
+Oracle,Designer,748,13
+Oracle,"Developer, embedded applications or devices",666,14
+Oracle,Engineering manager,645,15
+Oracle,Educator,446,16
+Oracle,Product manager,443,17
+Oracle,"Engineer, site reliability",362,18
+Oracle,Academic researcher,349,19
+Oracle,Cloud infrastructure engineer,286,20
+Oracle,Other (please specify):,281,21
+Oracle,"Developer, game or graphics",271,22
+Oracle,Student,235,23
+Oracle,Scientist,231,24
+Oracle,Project manager,200,25
+Oracle,"Senior Executive (C-Suite, VP, etc.)",153,26
+Oracle,Security professional,93,27
+Oracle,Senior executive/VP,77,28
+Oracle,Marketing or sales professional,63,29
+Oracle,Blockchain,43,30
+Oracle,Research & Development role,28,31
+Oracle,Developer Advocate,16,32
+Oracle,Developer Experience,8,33
+Oracle,Hardware Engineer,1,34
+Other(s):,"Developer, back-end",180,1
+Other(s):,"Developer, full-stack",146,2
+Other(s):,"Developer, desktop or enterprise applications",84,3
+Other(s):,"Developer, front-end",80,4
+Other(s):,Data scientist or machine learning specialist,62,5
+Other(s):,Database administrator,56,6
+Other(s):,DevOps specialist,52,7
+Other(s):,Scientist,52,8
+Other(s):,System administrator,51,9
+Other(s):,Academic researcher,45,10
+Other(s):,"Engineer, data",45,11
+Other(s):,"Developer, mobile",44,12
+Other(s):,Data or business analyst,40,13
+Other(s):,"Developer, embedded applications or devices",34,14
+Other(s):,Product manager,33,15
+Other(s):,Designer,31,16
+Other(s):,Senior executive/VP,25,17
+Other(s):,Student,24,18
+Other(s):,Educator,21,19
+Other(s):,Engineering manager,20,20
+Other(s):,"Developer, QA or test",16,21
+Other(s):,"Engineer, site reliability",14,22
+Other(s):,"Developer, game or graphics",10,23
+Other(s):,Marketing or sales professional,2,24
+PostgreSQL,"Developer, full-stack",25407,1
+PostgreSQL,"Developer, back-end",22820,2
+PostgreSQL,"Developer, front-end",9719,3
+PostgreSQL,DevOps specialist,5808,4
+PostgreSQL,"Developer, desktop or enterprise applications",5207,5
+PostgreSQL,"Developer, mobile",4180,6
+PostgreSQL,"Engineer, data",3540,7
+PostgreSQL,System administrator,3421,8
+PostgreSQL,Database administrator,3398,9
+PostgreSQL,Engineering manager,3286,10
+PostgreSQL,Data scientist or machine learning specialist,2827,11
+PostgreSQL,Data or business analyst,2131,12
+PostgreSQL,"Developer, QA or test",2069,13
+PostgreSQL,"Engineer, site reliability",2048,14
+PostgreSQL,"Developer, embedded applications or devices",1965,15
+PostgreSQL,Cloud infrastructure engineer,1940,16
+PostgreSQL,Designer,1766,17
+PostgreSQL,Product manager,1616,18
+PostgreSQL,Educator,1307,19
+PostgreSQL,Academic researcher,1197,20
+PostgreSQL,"Senior Executive (C-Suite, VP, etc.)",1196,21
+PostgreSQL,Other (please specify):,1089,22
+PostgreSQL,"Developer, game or graphics",903,23
+PostgreSQL,Scientist,778,24
+PostgreSQL,Project manager,711,25
+PostgreSQL,Student,690,26
+PostgreSQL,Security professional,446,27
+PostgreSQL,Blockchain,365,28
+PostgreSQL,Senior executive/VP,343,29
+PostgreSQL,Marketing or sales professional,217,30
+PostgreSQL,Research & Development role,156,31
+PostgreSQL,Developer Experience,68,32
+PostgreSQL,Developer Advocate,36,33
+PostgreSQL,Hardware Engineer,11,34
+RavenDB,"Developer, full-stack",39,1
+RavenDB,"Developer, back-end",20,2
+RavenDB,"Senior Executive (C-Suite, VP, etc.)",9,3
+RavenDB,Other (please specify):,6,4
+RavenDB,Engineering manager,5,5
+RavenDB,"Developer, desktop or enterprise applications",4,6
+RavenDB,"Engineer, site reliability",2,7
+RavenDB,System administrator,1,8
+RavenDB,"Developer, front-end",1,9
+RavenDB,Developer Experience,1,10
+RavenDB,Marketing or sales professional,1,11
+RavenDB,Research & Development role,1,12
+RavenDB,DevOps specialist,1,13
+RavenDB,Project manager,1,14
+RavenDB,Cloud infrastructure engineer,1,15
+RavenDB,"Engineer, data",1,16
+RavenDB,Student,1,17
+RavenDB,"Developer, embedded applications or devices",1,18
+Redis,"Developer, full-stack",14942,1
+Redis,"Developer, back-end",14415,2
+Redis,"Developer, front-end",5325,3
+Redis,DevOps specialist,4078,4
+Redis,"Developer, desktop or enterprise applications",2600,5
+Redis,Engineering manager,2381,6
+Redis,"Developer, mobile",2205,7
+Redis,System administrator,2082,8
+Redis,Database administrator,1974,9
+Redis,"Engineer, data",1712,10
+Redis,"Engineer, site reliability",1643,11
+Redis,Cloud infrastructure engineer,1323,12
+Redis,"Developer, QA or test",1177,13
+Redis,Data scientist or machine learning specialist,1155,14
+Redis,Product manager,998,15
+Redis,"Developer, embedded applications or devices",975,16
+Redis,Designer,872,17
+Redis,"Senior Executive (C-Suite, VP, etc.)",864,18
+Redis,Data or business analyst,797,19
+Redis,Educator,720,20
+Redis,Other (please specify):,568,21
+Redis,"Developer, game or graphics",556,22
+Redis,Academic researcher,509,23
+Redis,Project manager,403,24
+Redis,Scientist,333,25
+Redis,Student,324,26
+Redis,Security professional,261,27
+Redis,Senior executive/VP,251,28
+Redis,Blockchain,217,29
+Redis,Marketing or sales professional,111,30
+Redis,Research & Development role,76,31
+Redis,Developer Experience,36,32
+Redis,Developer Advocate,16,33
+Redis,Hardware Engineer,5,34
+SQLite,"Developer, full-stack",15018,1
+SQLite,"Developer, back-end",12793,2
+SQLite,"Developer, front-end",6769,3
+SQLite,"Developer, mobile",5875,4
+SQLite,"Developer, desktop or enterprise applications",5180,5
+SQLite,DevOps specialist,3413,6
+SQLite,System administrator,2665,7
+SQLite,Database administrator,2571,8
+SQLite,"Developer, embedded applications or devices",2309,9
+SQLite,"Engineer, data",2052,10
+SQLite,Data scientist or machine learning specialist,2044,11
+SQLite,Engineering manager,1802,12
+SQLite,"Developer, QA or test",1664,13
+SQLite,Designer,1653,14
+SQLite,Data or business analyst,1611,15
+SQLite,Product manager,1311,16
+SQLite,Academic researcher,1159,17
+SQLite,Educator,1153,18
+SQLite,"Engineer, site reliability",1117,19
+SQLite,"Developer, game or graphics",969,20
+SQLite,Cloud infrastructure engineer,921,21
+SQLite,Scientist,775,22
+SQLite,Other (please specify):,679,23
+SQLite,"Senior Executive (C-Suite, VP, etc.)",678,24
+SQLite,Student,612,25
+SQLite,Project manager,558,26
+SQLite,Security professional,346,27
+SQLite,Senior executive/VP,233,28
+SQLite,Marketing or sales professional,205,29
+SQLite,Blockchain,180,30
+SQLite,Research & Development role,112,31
+SQLite,Developer Experience,44,32
+SQLite,Developer Advocate,23,33
+SQLite,Hardware Engineer,17,34
+Snowflake,"Developer, back-end",249,1
+Snowflake,"Developer, full-stack",245,2
+Snowflake,"Engineer, data",141,3
+Snowflake,Data scientist or machine learning specialist,87,4
+Snowflake,Engineering manager,47,5
+Snowflake,"Senior Executive (C-Suite, VP, etc.)",37,6
+Snowflake,Other (please specify):,37,7
+Snowflake,Cloud infrastructure engineer,27,8
+Snowflake,DevOps specialist,26,9
+Snowflake,Data or business analyst,17,10
+Snowflake,"Engineer, site reliability",15,11
+Snowflake,"Developer, front-end",13,12
+Snowflake,"Developer, desktop or enterprise applications",12,13
+Snowflake,Research & Development role,12,14
+Snowflake,Security professional,8,15
+Snowflake,Product manager,7,16
+Snowflake,Developer Experience,7,17
+Snowflake,"Developer, mobile",7,18
+Snowflake,"Developer, QA or test",5,19
+Snowflake,System administrator,3,20
+Snowflake,Database administrator,3,21
+Snowflake,Marketing or sales professional,2,22
+Snowflake,Blockchain,2,23
+Snowflake,Developer Advocate,1,24
+Snowflake,Academic researcher,1,25
+Snowflake,Project manager,1,26
+Snowflake,"Developer, embedded applications or devices",1,27
+Snowflake,Scientist,1,28
+Snowflake,Designer,1,29
+Snowflake,Student,1,30
+Snowflake,Educator,1,31
+Solr,"Developer, full-stack",204,1
+Solr,"Developer, back-end",136,2
+Solr,Engineering manager,31,3
+Solr,Other (please specify):,19,4
+Solr,Data scientist or machine learning specialist,18,5
+Solr,DevOps specialist,16,6
+Solr,Cloud infrastructure engineer,14,7
+Solr,"Senior Executive (C-Suite, VP, etc.)",13,8
+Solr,"Developer, front-end",13,9
+Solr,"Engineer, data",10,10
+Solr,"Engineer, site reliability",10,11
+Solr,"Developer, desktop or enterprise applications",8,12
+Solr,Project manager,7,13
+Solr,Product manager,5,14
+Solr,System administrator,4,15
+Solr,Research & Development role,3,16
+Solr,"Developer, mobile",2,17
+Solr,Security professional,2,18
+Solr,Data or business analyst,2,19
+Solr,Designer,1,20
+Solr,Database administrator,1,21
+Solr,Student,1,22
+Solr,Developer Advocate,1,23
+Solr,Developer Experience,1,24
+Solr,"Developer, embedded applications or devices",1,25
+Supabase,"Developer, full-stack",407,1
+Supabase,"Developer, front-end",112,2
+Supabase,"Developer, back-end",64,3
+Supabase,Other (please specify):,17,4
+Supabase,"Senior Executive (C-Suite, VP, etc.)",15,5
+Supabase,Engineering manager,14,6
+Supabase,"Developer, mobile",14,7
+Supabase,DevOps specialist,7,8
+Supabase,Blockchain,7,9
+Supabase,Designer,6,10
+Supabase,Data scientist or machine learning specialist,6,11
+Supabase,"Developer, embedded applications or devices",5,12
+Supabase,"Developer, desktop or enterprise applications",5,13
+Supabase,"Developer, QA or test",4,14
+Supabase,"Engineer, data",4,15
+Supabase,Developer Experience,4,16
+Supabase,"Engineer, site reliability",4,17
+Supabase,Project manager,4,18
+Supabase,Developer Advocate,3,19
+Supabase,"Developer, game or graphics",3,20
+Supabase,Product manager,3,21
+Supabase,Research & Development role,3,22
+Supabase,Security professional,3,23
+Supabase,Cloud infrastructure engineer,3,24
+Supabase,System administrator,2,25
+Supabase,Student,1,26
+Supabase,Academic researcher,1,27
+Supabase,Educator,1,28
+Supabase,Data or business analyst,1,29
+TiDB,"Developer, back-end",15,1
+TiDB,"Developer, full-stack",10,2
+TiDB,Cloud infrastructure engineer,4,3
+TiDB,"Senior Executive (C-Suite, VP, etc.)",3,4
+TiDB,"Engineer, data",2,5
+TiDB,"Developer, front-end",2,6
+TiDB,DevOps specialist,2,7
+TiDB,Other (please specify):,2,8
+TiDB,"Developer, mobile",1,9
+TiDB,"Engineer, site reliability",1,10
+TiDB,Product manager,1,11
+TiDB,"Developer, desktop or enterprise applications",1,12
+TiDB,Student,1,13

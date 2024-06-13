@@ -1,0 +1,1078 @@
+YearsGroup,DevType,Database,Count,Rank
+senior,Academic researcher,MySQL,1113,1
+senior,Academic researcher,PostgreSQL,1000,2
+senior,Academic researcher,SQLite,969,3
+senior,Academic researcher,MongoDB,644,4
+senior,Academic researcher,Microsoft SQL Server,491,5
+senior,Academic researcher,MariaDB,472,6
+senior,Academic researcher,Redis,433,7
+senior,Academic researcher,Elasticsearch,340,8
+senior,Academic researcher,Oracle,294,9
+senior,Academic researcher,Firebase,235,10
+senior,Academic researcher,DynamoDB,132,11
+senior,Academic researcher,Cassandra,102,12
+senior,Academic researcher,Couchbase,55,13
+senior,Academic researcher,IBM DB2,46,14
+senior,Academic researcher,Other(s):,42,15
+senior,Academic researcher,Firebase Realtime Database,25,16
+senior,Academic researcher,Cloud Firestore,19,17
+senior,Academic researcher,Neo4j,19,18
+senior,Academic researcher,CouchDB,10,19
+senior,Academic researcher,InfluxDB,8,20
+senior,Academic researcher,DuckDB,5,21
+senior,Academic researcher,Microsoft Access,4,22
+senior,Academic researcher,Neo4J,3,23
+senior,Academic researcher,H2,2,24
+senior,Academic researcher,Dynamodb,2,25
+senior,Academic researcher,Snowflake,1,26
+senior,Academic researcher,Couch DB,1,27
+senior,Academic researcher,Cosmos DB,1,28
+senior,Academic researcher,Supabase,1,29
+senior,Blockchain,PostgreSQL,301,1
+senior,Blockchain,Redis,174,2
+senior,Blockchain,MongoDB,173,3
+senior,Blockchain,MySQL,173,4
+senior,Blockchain,SQLite,139,5
+senior,Blockchain,MariaDB,91,6
+senior,Blockchain,Elasticsearch,89,7
+senior,Blockchain,DynamoDB,68,8
+senior,Blockchain,Microsoft SQL Server,64,9
+senior,Blockchain,Firebase Realtime Database,43,10
+senior,Blockchain,Cloud Firestore,41,11
+senior,Blockchain,Oracle,39,12
+senior,Blockchain,Neo4j,21,13
+senior,Blockchain,CouchDB,19,14
+senior,Blockchain,Cassandra,17,15
+senior,Blockchain,Dynamodb,14,16
+senior,Blockchain,Couchbase,11,17
+senior,Blockchain,IBM DB2,9,18
+senior,Blockchain,H2,7,19
+senior,Blockchain,BigQuery,6,20
+senior,Blockchain,Cockroachdb,5,21
+senior,Blockchain,InfluxDB,5,22
+senior,Blockchain,Supabase,5,23
+senior,Blockchain,Couch DB,3,24
+senior,Blockchain,Neo4J,3,25
+senior,Blockchain,Microsoft Access,3,26
+senior,Blockchain,Snowflake,2,27
+senior,Blockchain,Clickhouse,2,28
+senior,Blockchain,Cosmos DB,2,29
+senior,Cloud infrastructure engineer,PostgreSQL,1750,1
+senior,Cloud infrastructure engineer,Redis,1215,2
+senior,Cloud infrastructure engineer,MySQL,1177,3
+senior,Cloud infrastructure engineer,SQLite,824,4
+senior,Cloud infrastructure engineer,Elasticsearch,818,5
+senior,Cloud infrastructure engineer,Microsoft SQL Server,783,6
+senior,Cloud infrastructure engineer,MongoDB,767,7
+senior,Cloud infrastructure engineer,DynamoDB,702,8
+senior,Cloud infrastructure engineer,MariaDB,522,9
+senior,Cloud infrastructure engineer,Oracle,261,10
+senior,Cloud infrastructure engineer,Cloud Firestore,201,11
+senior,Cloud infrastructure engineer,Cassandra,155,12
+senior,Cloud infrastructure engineer,Dynamodb,151,13
+senior,Cloud infrastructure engineer,Firebase Realtime Database,136,14
+senior,Cloud infrastructure engineer,Neo4j,79,15
+senior,Cloud infrastructure engineer,Couchbase,53,16
+senior,Cloud infrastructure engineer,IBM DB2,51,17
+senior,Cloud infrastructure engineer,BigQuery,50,18
+senior,Cloud infrastructure engineer,CouchDB,45,19
+senior,Cloud infrastructure engineer,Cosmos DB,33,20
+senior,Cloud infrastructure engineer,InfluxDB,25,21
+senior,Cloud infrastructure engineer,Snowflake,24,22
+senior,Cloud infrastructure engineer,Solr,14,23
+senior,Cloud infrastructure engineer,Cockroachdb,13,24
+senior,Cloud infrastructure engineer,Neo4J,13,25
+senior,Cloud infrastructure engineer,Clickhouse,10,26
+senior,Cloud infrastructure engineer,H2,9,27
+senior,Cloud infrastructure engineer,Microsoft Access,5,28
+senior,Cloud infrastructure engineer,Couch DB,5,29
+senior,Cloud infrastructure engineer,DuckDB,4,30
+senior,Cloud infrastructure engineer,TiDB,4,31
+senior,Cloud infrastructure engineer,Supabase,3,32
+senior,Cloud infrastructure engineer,Firebird,2,33
+senior,Cloud infrastructure engineer,RavenDB,1,34
+senior,Cloud infrastructure engineer,Datomic,1,35
+senior,Data or business analyst,MySQL,1883,1
+senior,Data or business analyst,Microsoft SQL Server,1858,2
+senior,Data or business analyst,PostgreSQL,1676,3
+senior,Data or business analyst,SQLite,1267,4
+senior,Data or business analyst,MongoDB,862,5
+senior,Data or business analyst,Oracle,827,6
+senior,Data or business analyst,MariaDB,720,7
+senior,Data or business analyst,Redis,701,8
+senior,Data or business analyst,Elasticsearch,585,9
+senior,Data or business analyst,Firebase,298,10
+senior,Data or business analyst,DynamoDB,291,11
+senior,Data or business analyst,IBM DB2,186,12
+senior,Data or business analyst,Cassandra,115,13
+senior,Data or business analyst,Couchbase,65,14
+senior,Data or business analyst,Firebase Realtime Database,54,15
+senior,Data or business analyst,Cloud Firestore,51,16
+senior,Data or business analyst,Other(s):,38,17
+senior,Data or business analyst,Neo4j,29,18
+senior,Data or business analyst,BigQuery,27,19
+senior,Data or business analyst,Microsoft Access,20,20
+senior,Data or business analyst,Snowflake,13,21
+senior,Data or business analyst,CouchDB,13,22
+senior,Data or business analyst,Cosmos DB,5,23
+senior,Data or business analyst,Neo4J,3,24
+senior,Data or business analyst,DuckDB,3,25
+senior,Data or business analyst,Solr,2,26
+senior,Data or business analyst,Couch DB,2,27
+senior,Data or business analyst,Firebird,2,28
+senior,Data or business analyst,InfluxDB,1,29
+senior,Data or business analyst,Clickhouse,1,30
+senior,Data or business analyst,H2,1,31
+senior,Data or business analyst,Dynamodb,1,32
+senior,Data or business analyst,Supabase,1,33
+senior,Data scientist or machine learning specialist,PostgreSQL,2290,1
+senior,Data scientist or machine learning specialist,MySQL,1903,2
+senior,Data scientist or machine learning specialist,SQLite,1632,3
+senior,Data scientist or machine learning specialist,Microsoft SQL Server,1258,4
+senior,Data scientist or machine learning specialist,MongoDB,1224,5
+senior,Data scientist or machine learning specialist,Redis,983,6
+senior,Data scientist or machine learning specialist,Elasticsearch,928,7
+senior,Data scientist or machine learning specialist,Oracle,641,8
+senior,Data scientist or machine learning specialist,MariaDB,638,9
+senior,Data scientist or machine learning specialist,DynamoDB,391,10
+senior,Data scientist or machine learning specialist,Firebase,285,11
+senior,Data scientist or machine learning specialist,Cassandra,245,12
+senior,Data scientist or machine learning specialist,IBM DB2,128,13
+senior,Data scientist or machine learning specialist,BigQuery,92,14
+senior,Data scientist or machine learning specialist,Snowflake,69,15
+senior,Data scientist or machine learning specialist,Cloud Firestore,65,16
+senior,Data scientist or machine learning specialist,Couchbase,64,17
+senior,Data scientist or machine learning specialist,Firebase Realtime Database,57,18
+senior,Data scientist or machine learning specialist,Dynamodb,56,19
+senior,Data scientist or machine learning specialist,Other(s):,56,20
+senior,Data scientist or machine learning specialist,Neo4j,55,21
+senior,Data scientist or machine learning specialist,Neo4J,32,22
+senior,Data scientist or machine learning specialist,DuckDB,21,23
+senior,Data scientist or machine learning specialist,InfluxDB,18,24
+senior,Data scientist or machine learning specialist,Solr,18,25
+senior,Data scientist or machine learning specialist,Cosmos DB,15,26
+senior,Data scientist or machine learning specialist,Microsoft Access,15,27
+senior,Data scientist or machine learning specialist,CouchDB,13,28
+senior,Data scientist or machine learning specialist,Clickhouse,11,29
+senior,Data scientist or machine learning specialist,Couch DB,6,30
+senior,Data scientist or machine learning specialist,Supabase,5,31
+senior,Data scientist or machine learning specialist,Cockroachdb,5,32
+senior,Data scientist or machine learning specialist,H2,3,33
+senior,Data scientist or machine learning specialist,Firebird,2,34
+senior,Data scientist or machine learning specialist,Datomic,1,35
+senior,Database administrator,MySQL,3504,1
+senior,Database administrator,PostgreSQL,2971,2
+senior,Database administrator,Microsoft SQL Server,2938,3
+senior,Database administrator,SQLite,2247,4
+senior,Database administrator,Redis,1783,5
+senior,Database administrator,MariaDB,1764,6
+senior,Database administrator,MongoDB,1592,7
+senior,Database administrator,Elasticsearch,1213,8
+senior,Database administrator,Oracle,1004,9
+senior,Database administrator,DynamoDB,620,10
+senior,Database administrator,Firebase,580,11
+senior,Database administrator,Cassandra,218,12
+senior,Database administrator,IBM DB2,185,13
+senior,Database administrator,Couchbase,133,14
+senior,Database administrator,Cloud Firestore,110,15
+senior,Database administrator,Firebase Realtime Database,98,16
+senior,Database administrator,Other(s):,50,17
+senior,Database administrator,Neo4j,40,18
+senior,Database administrator,CouchDB,37,19
+senior,Database administrator,Microsoft Access,8,20
+senior,Database administrator,BigQuery,6,21
+senior,Database administrator,Cosmos DB,3,22
+senior,Database administrator,Snowflake,2,23
+senior,Database administrator,InfluxDB,2,24
+senior,Database administrator,Firebird,2,25
+senior,Database administrator,Dynamodb,2,26
+senior,Database administrator,Neo4J,1,27
+senior,Database administrator,Solr,1,28
+senior,Database administrator,Couch DB,1,29
+senior,Database administrator,DuckDB,1,30
+senior,Designer,MySQL,2143,1
+senior,Designer,Microsoft SQL Server,1546,2
+senior,Designer,PostgreSQL,1470,3
+senior,Designer,SQLite,1362,4
+senior,Designer,MongoDB,1000,5
+senior,Designer,MariaDB,839,6
+senior,Designer,Redis,760,7
+senior,Designer,Oracle,642,8
+senior,Designer,Elasticsearch,522,9
+senior,Designer,Firebase,509,10
+senior,Designer,DynamoDB,292,11
+senior,Designer,IBM DB2,148,12
+senior,Designer,Cassandra,100,13
+senior,Designer,Couchbase,89,14
+senior,Designer,Firebase Realtime Database,75,15
+senior,Designer,Cloud Firestore,70,16
+senior,Designer,CouchDB,28,17
+senior,Designer,Neo4j,26,18
+senior,Designer,Other(s):,26,19
+senior,Designer,Supabase,5,20
+senior,Designer,Microsoft Access,4,21
+senior,Designer,BigQuery,4,22
+senior,Designer,Dynamodb,4,23
+senior,Designer,Solr,1,24
+senior,Designer,Snowflake,1,25
+senior,Designer,Neo4J,1,26
+senior,Designer,Couch DB,1,27
+senior,Designer,InfluxDB,1,28
+senior,Designer,Cockroachdb,1,29
+senior,Designer,Cosmos DB,1,30
+senior,Designer,Firebird,1,31
+senior,DevOps specialist,PostgreSQL,5151,1
+senior,DevOps specialist,MySQL,4399,2
+senior,DevOps specialist,Redis,3714,3
+senior,DevOps specialist,Microsoft SQL Server,3369,4
+senior,DevOps specialist,SQLite,3062,5
+senior,DevOps specialist,Elasticsearch,2929,6
+senior,DevOps specialist,MongoDB,2851,7
+senior,DevOps specialist,MariaDB,2276,8
+senior,DevOps specialist,DynamoDB,1554,9
+senior,DevOps specialist,Oracle,1336,10
+senior,DevOps specialist,Firebase,705,11
+senior,DevOps specialist,Cassandra,482,12
+senior,DevOps specialist,IBM DB2,257,13
+senior,DevOps specialist,Couchbase,246,14
+senior,DevOps specialist,Cloud Firestore,157,15
+senior,DevOps specialist,Firebase Realtime Database,117,16
+senior,DevOps specialist,Dynamodb,107,17
+senior,DevOps specialist,Neo4j,73,18
+senior,DevOps specialist,InfluxDB,61,19
+senior,DevOps specialist,CouchDB,56,20
+senior,DevOps specialist,Other(s):,46,21
+senior,DevOps specialist,Cosmos DB,40,22
+senior,DevOps specialist,BigQuery,37,23
+senior,DevOps specialist,H2,26,24
+senior,DevOps specialist,Snowflake,24,25
+senior,DevOps specialist,Microsoft Access,22,26
+senior,DevOps specialist,Solr,16,27
+senior,DevOps specialist,Couch DB,14,28
+senior,DevOps specialist,Cockroachdb,13,29
+senior,DevOps specialist,Neo4J,12,30
+senior,DevOps specialist,Supabase,5,31
+senior,DevOps specialist,Clickhouse,5,32
+senior,DevOps specialist,Firebird,4,33
+senior,DevOps specialist,DuckDB,3,34
+senior,DevOps specialist,TiDB,2,35
+senior,DevOps specialist,RavenDB,1,36
+senior,Developer Advocate,PostgreSQL,36,1
+senior,Developer Advocate,MySQL,25,2
+senior,Developer Advocate,SQLite,22,3
+senior,Developer Advocate,Microsoft SQL Server,20,4
+senior,Developer Advocate,MongoDB,18,5
+senior,Developer Advocate,Oracle,16,6
+senior,Developer Advocate,Redis,16,7
+senior,Developer Advocate,Elasticsearch,14,8
+senior,Developer Advocate,Dynamodb,8,9
+senior,Developer Advocate,Cosmos DB,8,10
+senior,Developer Advocate,MariaDB,8,11
+senior,Developer Advocate,Cloud Firestore,6,12
+senior,Developer Advocate,BigQuery,4,13
+senior,Developer Advocate,Firebase Realtime Database,4,14
+senior,Developer Advocate,Couch DB,4,15
+senior,Developer Advocate,InfluxDB,3,16
+senior,Developer Advocate,Couchbase,3,17
+senior,Developer Advocate,Cassandra,3,18
+senior,Developer Advocate,Supabase,3,19
+senior,Developer Advocate,H2,3,20
+senior,Developer Advocate,IBM DB2,2,21
+senior,Developer Advocate,Firebird,2,22
+senior,Developer Advocate,Cockroachdb,1,23
+senior,Developer Advocate,Solr,1,24
+senior,Developer Advocate,Clickhouse,1,25
+senior,Developer Advocate,Microsoft Access,1,26
+senior,Developer Experience,PostgreSQL,61,1
+senior,Developer Experience,MySQL,44,2
+senior,Developer Experience,SQLite,41,3
+senior,Developer Experience,Redis,34,4
+senior,Developer Experience,MongoDB,26,5
+senior,Developer Experience,Elasticsearch,24,6
+senior,Developer Experience,Dynamodb,23,7
+senior,Developer Experience,MariaDB,21,8
+senior,Developer Experience,Microsoft SQL Server,15,9
+senior,Developer Experience,Cloud Firestore,13,10
+senior,Developer Experience,H2,8,11
+senior,Developer Experience,Firebase Realtime Database,8,12
+senior,Developer Experience,Snowflake,7,13
+senior,Developer Experience,Oracle,7,14
+senior,Developer Experience,Cosmos DB,6,15
+senior,Developer Experience,Microsoft Access,5,16
+senior,Developer Experience,BigQuery,5,17
+senior,Developer Experience,InfluxDB,5,18
+senior,Developer Experience,Cockroachdb,4,19
+senior,Developer Experience,Cassandra,4,20
+senior,Developer Experience,Firebird,3,21
+senior,Developer Experience,Supabase,3,22
+senior,Developer Experience,IBM DB2,2,23
+senior,Developer Experience,Couch DB,1,24
+senior,Developer Experience,Neo4J,1,25
+senior,Developer Experience,DuckDB,1,26
+senior,Developer Experience,RavenDB,1,27
+senior,Developer Experience,Clickhouse,1,28
+senior,Developer Experience,Datomic,1,29
+senior,Developer Experience,Couchbase,1,30
+senior,"Developer, QA or test",MySQL,2084,1
+senior,"Developer, QA or test",PostgreSQL,1736,2
+senior,"Developer, QA or test",Microsoft SQL Server,1486,3
+senior,"Developer, QA or test",SQLite,1410,4
+senior,"Developer, QA or test",MongoDB,1081,5
+senior,"Developer, QA or test",Redis,1050,6
+senior,"Developer, QA or test",MariaDB,904,7
+senior,"Developer, QA or test",Elasticsearch,784,8
+senior,"Developer, QA or test",Oracle,660,9
+senior,"Developer, QA or test",DynamoDB,421,10
+senior,"Developer, QA or test",Firebase,421,11
+senior,"Developer, QA or test",IBM DB2,146,12
+senior,"Developer, QA or test",Cassandra,140,13
+senior,"Developer, QA or test",Couchbase,109,14
+senior,"Developer, QA or test",Cloud Firestore,65,15
+senior,"Developer, QA or test",Firebase Realtime Database,64,16
+senior,"Developer, QA or test",Neo4j,26,17
+senior,"Developer, QA or test",CouchDB,25,18
+senior,"Developer, QA or test",Dynamodb,19,19
+senior,"Developer, QA or test",Other(s):,12,20
+senior,"Developer, QA or test",InfluxDB,8,21
+senior,"Developer, QA or test",Cosmos DB,8,22
+senior,"Developer, QA or test",H2,7,23
+senior,"Developer, QA or test",Snowflake,5,24
+senior,"Developer, QA or test",Neo4J,4,25
+senior,"Developer, QA or test",Cockroachdb,4,26
+senior,"Developer, QA or test",Microsoft Access,4,27
+senior,"Developer, QA or test",BigQuery,4,28
+senior,"Developer, QA or test",Clickhouse,2,29
+senior,"Developer, QA or test",Supabase,2,30
+senior,"Developer, QA or test",Firebird,1,31
+senior,"Developer, QA or test",Couch DB,1,32
+senior,"Developer, back-end",PostgreSQL,19197,1
+senior,"Developer, back-end",MySQL,16993,2
+senior,"Developer, back-end",Redis,12495,3
+senior,"Developer, back-end",Microsoft SQL Server,12191,4
+senior,"Developer, back-end",SQLite,10760,5
+senior,"Developer, back-end",MongoDB,9953,6
+senior,"Developer, back-end",Elasticsearch,8380,7
+senior,"Developer, back-end",MariaDB,6882,8
+senior,"Developer, back-end",Oracle,5130,9
+senior,"Developer, back-end",DynamoDB,4204,10
+senior,"Developer, back-end",Firebase,2530,11
+senior,"Developer, back-end",Cassandra,1723,12
+senior,"Developer, back-end",Dynamodb,1043,13
+senior,"Developer, back-end",IBM DB2,946,14
+senior,"Developer, back-end",Couchbase,757,15
+senior,"Developer, back-end",Cloud Firestore,645,16
+senior,"Developer, back-end",Firebase Realtime Database,617,17
+senior,"Developer, back-end",BigQuery,414,18
+senior,"Developer, back-end",H2,376,19
+senior,"Developer, back-end",Cosmos DB,336,20
+senior,"Developer, back-end",Neo4j,234,21
+senior,"Developer, back-end",Snowflake,221,22
+senior,"Developer, back-end",InfluxDB,196,23
+senior,"Developer, back-end",Other(s):,158,24
+senior,"Developer, back-end",CouchDB,137,25
+senior,"Developer, back-end",Solr,126,26
+senior,"Developer, back-end",Neo4J,110,27
+senior,"Developer, back-end",Clickhouse,107,28
+senior,"Developer, back-end",Cockroachdb,86,29
+senior,"Developer, back-end",Microsoft Access,83,30
+senior,"Developer, back-end",Couch DB,49,31
+senior,"Developer, back-end",Supabase,47,32
+senior,"Developer, back-end",DuckDB,30,33
+senior,"Developer, back-end",Datomic,25,34
+senior,"Developer, back-end",Firebird,24,35
+senior,"Developer, back-end",RavenDB,15,36
+senior,"Developer, back-end",TiDB,12,37
+senior,"Developer, desktop or enterprise applications",Microsoft SQL Server,6260,1
+senior,"Developer, desktop or enterprise applications",MySQL,5173,2
+senior,"Developer, desktop or enterprise applications",PostgreSQL,4530,3
+senior,"Developer, desktop or enterprise applications",SQLite,4518,4
+senior,"Developer, desktop or enterprise applications",MongoDB,2826,5
+senior,"Developer, desktop or enterprise applications",Oracle,2485,6
+senior,"Developer, desktop or enterprise applications",Redis,2350,7
+senior,"Developer, desktop or enterprise applications",MariaDB,2025,8
+senior,"Developer, desktop or enterprise applications",Elasticsearch,1751,9
+senior,"Developer, desktop or enterprise applications",Firebase,965,10
+senior,"Developer, desktop or enterprise applications",DynamoDB,890,11
+senior,"Developer, desktop or enterprise applications",IBM DB2,497,12
+senior,"Developer, desktop or enterprise applications",Cassandra,346,13
+senior,"Developer, desktop or enterprise applications",Couchbase,239,14
+senior,"Developer, desktop or enterprise applications",Firebase Realtime Database,197,15
+senior,"Developer, desktop or enterprise applications",Cloud Firestore,175,16
+senior,"Developer, desktop or enterprise applications",Microsoft Access,88,17
+senior,"Developer, desktop or enterprise applications",Other(s):,73,18
+senior,"Developer, desktop or enterprise applications",CouchDB,56,19
+senior,"Developer, desktop or enterprise applications",Neo4j,56,20
+senior,"Developer, desktop or enterprise applications",Firebird,51,21
+senior,"Developer, desktop or enterprise applications",Dynamodb,39,22
+senior,"Developer, desktop or enterprise applications",Cosmos DB,37,23
+senior,"Developer, desktop or enterprise applications",H2,35,24
+senior,"Developer, desktop or enterprise applications",InfluxDB,18,25
+senior,"Developer, desktop or enterprise applications",BigQuery,13,26
+senior,"Developer, desktop or enterprise applications",Snowflake,11,27
+senior,"Developer, desktop or enterprise applications",Neo4J,10,28
+senior,"Developer, desktop or enterprise applications",Couch DB,9,29
+senior,"Developer, desktop or enterprise applications",Solr,8,30
+senior,"Developer, desktop or enterprise applications",RavenDB,4,31
+senior,"Developer, desktop or enterprise applications",Supabase,4,32
+senior,"Developer, desktop or enterprise applications",Cockroachdb,3,33
+senior,"Developer, desktop or enterprise applications",Clickhouse,3,34
+senior,"Developer, desktop or enterprise applications",DuckDB,2,35
+senior,"Developer, embedded applications or devices",SQLite,2072,1
+senior,"Developer, embedded applications or devices",MySQL,1917,2
+senior,"Developer, embedded applications or devices",PostgreSQL,1735,3
+senior,"Developer, embedded applications or devices",Microsoft SQL Server,1369,4
+senior,"Developer, embedded applications or devices",MongoDB,1058,5
+senior,"Developer, embedded applications or devices",MariaDB,925,6
+senior,"Developer, embedded applications or devices",Redis,892,7
+senior,"Developer, embedded applications or devices",Elasticsearch,574,8
+senior,"Developer, embedded applications or devices",Oracle,561,9
+senior,"Developer, embedded applications or devices",Firebase,490,10
+senior,"Developer, embedded applications or devices",DynamoDB,348,11
+senior,"Developer, embedded applications or devices",Cassandra,140,12
+senior,"Developer, embedded applications or devices",IBM DB2,123,13
+senior,"Developer, embedded applications or devices",Couchbase,97,14
+senior,"Developer, embedded applications or devices",Firebase Realtime Database,83,15
+senior,"Developer, embedded applications or devices",Cloud Firestore,59,16
+senior,"Developer, embedded applications or devices",Other(s):,31,17
+senior,"Developer, embedded applications or devices",CouchDB,28,18
+senior,"Developer, embedded applications or devices",Neo4j,22,19
+senior,"Developer, embedded applications or devices",InfluxDB,18,20
+senior,"Developer, embedded applications or devices",Dynamodb,13,21
+senior,"Developer, embedded applications or devices",Cosmos DB,9,22
+senior,"Developer, embedded applications or devices",Microsoft Access,8,23
+senior,"Developer, embedded applications or devices",BigQuery,6,24
+senior,"Developer, embedded applications or devices",Supabase,5,25
+senior,"Developer, embedded applications or devices",Neo4J,4,26
+senior,"Developer, embedded applications or devices",H2,4,27
+senior,"Developer, embedded applications or devices",Firebird,3,28
+senior,"Developer, embedded applications or devices",Couch DB,3,29
+senior,"Developer, embedded applications or devices",Clickhouse,2,30
+senior,"Developer, embedded applications or devices",Cockroachdb,2,31
+senior,"Developer, embedded applications or devices",DuckDB,1,32
+senior,"Developer, embedded applications or devices",Solr,1,33
+senior,"Developer, embedded applications or devices",RavenDB,1,34
+senior,"Developer, front-end",MySQL,9180,1
+senior,"Developer, front-end",PostgreSQL,7749,2
+senior,"Developer, front-end",Microsoft SQL Server,6304,3
+senior,"Developer, front-end",MongoDB,5534,4
+senior,"Developer, front-end",SQLite,5522,5
+senior,"Developer, front-end",Redis,4548,6
+senior,"Developer, front-end",MariaDB,3586,7
+senior,"Developer, front-end",Elasticsearch,2923,8
+senior,"Developer, front-end",Firebase,2366,9
+senior,"Developer, front-end",Oracle,2300,10
+senior,"Developer, front-end",DynamoDB,1707,11
+senior,"Developer, front-end",Firebase Realtime Database,586,12
+senior,"Developer, front-end",Cloud Firestore,538,13
+senior,"Developer, front-end",IBM DB2,429,14
+senior,"Developer, front-end",Cassandra,420,15
+senior,"Developer, front-end",Couchbase,333,16
+senior,"Developer, front-end",CouchDB,91,17
+senior,"Developer, front-end",Neo4j,90,18
+senior,"Developer, front-end",Supabase,78,19
+senior,"Developer, front-end",Dynamodb,74,20
+senior,"Developer, front-end",Other(s):,70,21
+senior,"Developer, front-end",Cosmos DB,30,22
+senior,"Developer, front-end",BigQuery,19,23
+senior,"Developer, front-end",Couch DB,14,24
+senior,"Developer, front-end",H2,14,25
+senior,"Developer, front-end",Snowflake,12,26
+senior,"Developer, front-end",Neo4J,11,27
+senior,"Developer, front-end",Microsoft Access,11,28
+senior,"Developer, front-end",Solr,11,29
+senior,"Developer, front-end",InfluxDB,10,30
+senior,"Developer, front-end",Firebird,5,31
+senior,"Developer, front-end",Cockroachdb,3,32
+senior,"Developer, front-end",Clickhouse,2,33
+senior,"Developer, front-end",DuckDB,2,34
+senior,"Developer, front-end",RavenDB,1,35
+senior,"Developer, front-end",TiDB,1,36
+senior,"Developer, full-stack",PostgreSQL,20900,1
+senior,"Developer, full-stack",MySQL,19988,2
+senior,"Developer, full-stack",Microsoft SQL Server,15738,3
+senior,"Developer, full-stack",Redis,12837,4
+senior,"Developer, full-stack",SQLite,12458,5
+senior,"Developer, full-stack",MongoDB,12125,6
+senior,"Developer, full-stack",Elasticsearch,8231,7
+senior,"Developer, full-stack",MariaDB,8067,8
+senior,"Developer, full-stack",Oracle,5447,9
+senior,"Developer, full-stack",DynamoDB,3941,10
+senior,"Developer, full-stack",Firebase,3475,11
+senior,"Developer, full-stack",Cloud Firestore,1342,12
+senior,"Developer, full-stack",Firebase Realtime Database,1273,13
+senior,"Developer, full-stack",Dynamodb,1228,14
+senior,"Developer, full-stack",Cassandra,1204,15
+senior,"Developer, full-stack",IBM DB2,1037,16
+senior,"Developer, full-stack",Couchbase,714,17
+senior,"Developer, full-stack",Cosmos DB,603,18
+senior,"Developer, full-stack",BigQuery,415,19
+senior,"Developer, full-stack",H2,395,20
+senior,"Developer, full-stack",Microsoft Access,318,21
+senior,"Developer, full-stack",Supabase,298,22
+senior,"Developer, full-stack",InfluxDB,233,23
+senior,"Developer, full-stack",Snowflake,224,24
+senior,"Developer, full-stack",Neo4j,200,25
+senior,"Developer, full-stack",Solr,189,26
+senior,"Developer, full-stack",CouchDB,168,27
+senior,"Developer, full-stack",Neo4J,152,28
+senior,"Developer, full-stack",Other(s):,124,29
+senior,"Developer, full-stack",Couch DB,117,30
+senior,"Developer, full-stack",Firebird,88,31
+senior,"Developer, full-stack",Cockroachdb,76,32
+senior,"Developer, full-stack",Clickhouse,76,33
+senior,"Developer, full-stack",Datomic,49,34
+senior,"Developer, full-stack",RavenDB,38,35
+senior,"Developer, full-stack",DuckDB,35,36
+senior,"Developer, full-stack",TiDB,10,37
+senior,"Developer, game or graphics",MySQL,1004,1
+senior,"Developer, game or graphics",SQLite,857,2
+senior,"Developer, game or graphics",PostgreSQL,806,3
+senior,"Developer, game or graphics",MongoDB,618,4
+senior,"Developer, game or graphics",Microsoft SQL Server,596,5
+senior,"Developer, game or graphics",Redis,517,6
+senior,"Developer, game or graphics",MariaDB,425,7
+senior,"Developer, game or graphics",Firebase,313,8
+senior,"Developer, game or graphics",Elasticsearch,304,9
+senior,"Developer, game or graphics",Oracle,238,10
+senior,"Developer, game or graphics",DynamoDB,210,11
+senior,"Developer, game or graphics",Cassandra,57,12
+senior,"Developer, game or graphics",Couchbase,46,13
+senior,"Developer, game or graphics",Firebase Realtime Database,44,14
+senior,"Developer, game or graphics",Cloud Firestore,44,15
+senior,"Developer, game or graphics",IBM DB2,39,16
+senior,"Developer, game or graphics",CouchDB,11,17
+senior,"Developer, game or graphics",Neo4j,11,18
+senior,"Developer, game or graphics",Other(s):,9,19
+senior,"Developer, game or graphics",Dynamodb,8,20
+senior,"Developer, game or graphics",BigQuery,6,21
+senior,"Developer, game or graphics",Cosmos DB,6,22
+senior,"Developer, game or graphics",InfluxDB,5,23
+senior,"Developer, game or graphics",Microsoft Access,3,24
+senior,"Developer, game or graphics",Clickhouse,3,25
+senior,"Developer, game or graphics",Supabase,2,26
+senior,"Developer, game or graphics",Neo4J,2,27
+senior,"Developer, game or graphics",H2,1,28
+senior,"Developer, game or graphics",Cockroachdb,1,29
+senior,"Developer, mobile",SQLite,4742,1
+senior,"Developer, mobile",MySQL,4655,2
+senior,"Developer, mobile",PostgreSQL,3444,3
+senior,"Developer, mobile",Microsoft SQL Server,2892,4
+senior,"Developer, mobile",MongoDB,2682,5
+senior,"Developer, mobile",Firebase,2160,6
+senior,"Developer, mobile",Redis,1935,7
+senior,"Developer, mobile",MariaDB,1737,8
+senior,"Developer, mobile",Elasticsearch,1252,9
+senior,"Developer, mobile",Oracle,1068,10
+senior,"Developer, mobile",DynamoDB,775,11
+senior,"Developer, mobile",Firebase Realtime Database,565,12
+senior,"Developer, mobile",Cloud Firestore,511,13
+senior,"Developer, mobile",Couchbase,241,14
+senior,"Developer, mobile",Cassandra,241,15
+senior,"Developer, mobile",IBM DB2,198,16
+senior,"Developer, mobile",CouchDB,54,17
+senior,"Developer, mobile",Other(s):,36,18
+senior,"Developer, mobile",Neo4j,35,19
+senior,"Developer, mobile",BigQuery,28,20
+senior,"Developer, mobile",Dynamodb,25,21
+senior,"Developer, mobile",Supabase,8,22
+senior,"Developer, mobile",Couch DB,8,23
+senior,"Developer, mobile",Cosmos DB,7,24
+senior,"Developer, mobile",Snowflake,7,25
+senior,"Developer, mobile",Microsoft Access,7,26
+senior,"Developer, mobile",H2,5,27
+senior,"Developer, mobile",Firebird,4,28
+senior,"Developer, mobile",InfluxDB,4,29
+senior,"Developer, mobile",Solr,2,30
+senior,"Developer, mobile",TiDB,1,31
+senior,"Developer, mobile",Clickhouse,1,32
+senior,"Developer, mobile",DuckDB,1,33
+senior,"Developer, mobile",Cockroachdb,1,34
+senior,Educator,MySQL,1318,1
+senior,Educator,PostgreSQL,1138,2
+senior,Educator,SQLite,998,3
+senior,Educator,Microsoft SQL Server,779,4
+senior,Educator,MongoDB,775,5
+senior,Educator,Redis,654,6
+senior,Educator,MariaDB,612,7
+senior,Educator,Elasticsearch,429,8
+senior,Educator,Oracle,399,9
+senior,Educator,Firebase,322,10
+senior,Educator,DynamoDB,254,11
+senior,Educator,Cassandra,103,12
+senior,Educator,IBM DB2,80,13
+senior,Educator,Couchbase,62,14
+senior,Educator,Cloud Firestore,56,15
+senior,Educator,Firebase Realtime Database,47,16
+senior,Educator,Neo4j,20,17
+senior,Educator,Other(s):,18,18
+senior,Educator,CouchDB,16,19
+senior,Educator,Dynamodb,5,20
+senior,Educator,Microsoft Access,3,21
+senior,Educator,Neo4J,2,22
+senior,Educator,H2,2,23
+senior,Educator,Couch DB,2,24
+senior,Educator,DuckDB,1,25
+senior,Educator,Clickhouse,1,26
+senior,Educator,Snowflake,1,27
+senior,Educator,Firebird,1,28
+senior,Educator,BigQuery,1,29
+senior,Educator,Supabase,1,30
+senior,"Engineer, data",PostgreSQL,2915,1
+senior,"Engineer, data",MySQL,2360,2
+senior,"Engineer, data",SQLite,1701,3
+senior,"Engineer, data",Microsoft SQL Server,1700,4
+senior,"Engineer, data",Redis,1505,5
+senior,"Engineer, data",MongoDB,1415,6
+senior,"Engineer, data",Elasticsearch,1287,7
+senior,"Engineer, data",Oracle,866,8
+senior,"Engineer, data",MariaDB,861,9
+senior,"Engineer, data",DynamoDB,669,10
+senior,"Engineer, data",Cassandra,350,11
+senior,"Engineer, data",Firebase,344,12
+senior,"Engineer, data",IBM DB2,177,13
+senior,"Engineer, data",BigQuery,137,14
+senior,"Engineer, data",Couchbase,134,15
+senior,"Engineer, data",Snowflake,113,16
+senior,"Engineer, data",Cloud Firestore,81,17
+senior,"Engineer, data",Dynamodb,74,18
+senior,"Engineer, data",Firebase Realtime Database,62,19
+senior,"Engineer, data",Neo4j,57,20
+senior,"Engineer, data",Other(s):,37,21
+senior,"Engineer, data",DuckDB,34,22
+senior,"Engineer, data",InfluxDB,32,23
+senior,"Engineer, data",Cosmos DB,32,24
+senior,"Engineer, data",CouchDB,27,25
+senior,"Engineer, data",Neo4J,25,26
+senior,"Engineer, data",Clickhouse,18,27
+senior,"Engineer, data",Microsoft Access,15,28
+senior,"Engineer, data",H2,13,29
+senior,"Engineer, data",Cockroachdb,10,30
+senior,"Engineer, data",Solr,8,31
+senior,"Engineer, data",Datomic,4,32
+senior,"Engineer, data",Firebird,3,33
+senior,"Engineer, data",Couch DB,3,34
+senior,"Engineer, data",Supabase,2,35
+senior,"Engineer, data",TiDB,2,36
+senior,"Engineer, data",RavenDB,1,37
+senior,"Engineer, site reliability",PostgreSQL,1831,1
+senior,"Engineer, site reliability",MySQL,1515,2
+senior,"Engineer, site reliability",Redis,1482,3
+senior,"Engineer, site reliability",Elasticsearch,1164,4
+senior,"Engineer, site reliability",SQLite,995,5
+senior,"Engineer, site reliability",MongoDB,883,6
+senior,"Engineer, site reliability",Microsoft SQL Server,791,7
+senior,"Engineer, site reliability",MariaDB,777,8
+senior,"Engineer, site reliability",DynamoDB,614,9
+senior,"Engineer, site reliability",Oracle,321,10
+senior,"Engineer, site reliability",Cassandra,230,11
+senior,"Engineer, site reliability",Firebase,212,12
+senior,"Engineer, site reliability",Couchbase,85,13
+senior,"Engineer, site reliability",IBM DB2,57,14
+senior,"Engineer, site reliability",Cloud Firestore,54,15
+senior,"Engineer, site reliability",Dynamodb,52,16
+senior,"Engineer, site reliability",Firebase Realtime Database,40,17
+senior,"Engineer, site reliability",CouchDB,23,18
+senior,"Engineer, site reliability",Neo4j,22,19
+senior,"Engineer, site reliability",BigQuery,16,20
+senior,"Engineer, site reliability",InfluxDB,16,21
+senior,"Engineer, site reliability",Cockroachdb,16,22
+senior,"Engineer, site reliability",Snowflake,14,23
+senior,"Engineer, site reliability",Other(s):,11,24
+senior,"Engineer, site reliability",Solr,10,25
+senior,"Engineer, site reliability",Clickhouse,9,26
+senior,"Engineer, site reliability",H2,8,27
+senior,"Engineer, site reliability",Neo4J,6,28
+senior,"Engineer, site reliability",Cosmos DB,6,29
+senior,"Engineer, site reliability",Couch DB,5,30
+senior,"Engineer, site reliability",Supabase,3,31
+senior,"Engineer, site reliability",RavenDB,2,32
+senior,"Engineer, site reliability",Firebird,1,33
+senior,"Engineer, site reliability",Datomic,1,34
+senior,"Engineer, site reliability",TiDB,1,35
+senior,Engineering manager,PostgreSQL,3152,1
+senior,Engineering manager,MySQL,2496,2
+senior,Engineering manager,Redis,2315,3
+senior,Engineering manager,Microsoft SQL Server,1738,4
+senior,Engineering manager,SQLite,1714,5
+senior,Engineering manager,MongoDB,1628,6
+senior,Engineering manager,Elasticsearch,1557,7
+senior,Engineering manager,MariaDB,967,8
+senior,Engineering manager,DynamoDB,817,9
+senior,Engineering manager,Oracle,625,10
+senior,Engineering manager,Firebase,451,11
+senior,Engineering manager,Cassandra,277,12
+senior,Engineering manager,Cloud Firestore,190,13
+senior,Engineering manager,Dynamodb,165,14
+senior,Engineering manager,Firebase Realtime Database,157,15
+senior,Engineering manager,Couchbase,139,16
+senior,Engineering manager,IBM DB2,131,17
+senior,Engineering manager,BigQuery,85,18
+senior,Engineering manager,Cosmos DB,52,19
+senior,Engineering manager,Neo4j,51,20
+senior,Engineering manager,H2,48,21
+senior,Engineering manager,Snowflake,47,22
+senior,Engineering manager,CouchDB,43,23
+senior,Engineering manager,InfluxDB,34,24
+senior,Engineering manager,Solr,31,25
+senior,Engineering manager,Couch DB,29,26
+senior,Engineering manager,Neo4J,27,27
+senior,Engineering manager,Microsoft Access,22,28
+senior,Engineering manager,Other(s):,19,29
+senior,Engineering manager,Supabase,14,30
+senior,Engineering manager,Clickhouse,9,31
+senior,Engineering manager,Firebird,8,32
+senior,Engineering manager,Cockroachdb,7,33
+senior,Engineering manager,Datomic,6,34
+senior,Engineering manager,RavenDB,5,35
+senior,Engineering manager,DuckDB,3,36
+senior,Hardware Engineer,MySQL,20,1
+senior,Hardware Engineer,SQLite,16,2
+senior,Hardware Engineer,Microsoft SQL Server,9,3
+senior,Hardware Engineer,PostgreSQL,8,4
+senior,Hardware Engineer,MongoDB,8,5
+senior,Hardware Engineer,MariaDB,7,6
+senior,Hardware Engineer,Redis,4,7
+senior,Hardware Engineer,Cloud Firestore,4,8
+senior,Hardware Engineer,Microsoft Access,3,9
+senior,Hardware Engineer,Firebase Realtime Database,2,10
+senior,Hardware Engineer,InfluxDB,2,11
+senior,Hardware Engineer,Dynamodb,2,12
+senior,Hardware Engineer,BigQuery,1,13
+senior,Hardware Engineer,Couchbase,1,14
+senior,Hardware Engineer,Firebird,1,15
+senior,Hardware Engineer,Oracle,1,16
+senior,Hardware Engineer,H2,1,17
+senior,Hardware Engineer,Cosmos DB,1,18
+senior,Marketing or sales professional,MySQL,282,1
+senior,Marketing or sales professional,PostgreSQL,179,2
+senior,Marketing or sales professional,SQLite,177,3
+senior,Marketing or sales professional,Microsoft SQL Server,151,4
+senior,Marketing or sales professional,MariaDB,136,5
+senior,Marketing or sales professional,MongoDB,135,6
+senior,Marketing or sales professional,Redis,96,7
+senior,Marketing or sales professional,Elasticsearch,67,8
+senior,Marketing or sales professional,Firebase,63,9
+senior,Marketing or sales professional,Oracle,54,10
+senior,Marketing or sales professional,DynamoDB,42,11
+senior,Marketing or sales professional,Couchbase,31,12
+senior,Marketing or sales professional,Cassandra,19,13
+senior,Marketing or sales professional,IBM DB2,18,14
+senior,Marketing or sales professional,Cloud Firestore,12,15
+senior,Marketing or sales professional,Firebase Realtime Database,9,16
+senior,Marketing or sales professional,CouchDB,8,17
+senior,Marketing or sales professional,Neo4j,4,18
+senior,Marketing or sales professional,Cosmos DB,2,19
+senior,Marketing or sales professional,Dynamodb,2,20
+senior,Marketing or sales professional,BigQuery,2,21
+senior,Marketing or sales professional,Snowflake,1,22
+senior,Marketing or sales professional,DuckDB,1,23
+senior,Marketing or sales professional,RavenDB,1,24
+senior,Marketing or sales professional,Microsoft Access,1,25
+senior,Marketing or sales professional,Other(s):,1,26
+senior,Other (please specify):,PostgreSQL,972,1
+senior,Other (please specify):,MySQL,759,2
+senior,Other (please specify):,Microsoft SQL Server,663,3
+senior,Other (please specify):,SQLite,591,4
+senior,Other (please specify):,Redis,526,5
+senior,Other (please specify):,MongoDB,487,6
+senior,Other (please specify):,Elasticsearch,407,7
+senior,Other (please specify):,MariaDB,315,8
+senior,Other (please specify):,Oracle,246,9
+senior,Other (please specify):,DynamoDB,207,10
+senior,Other (please specify):,Dynamodb,108,11
+senior,Other (please specify):,Firebase,85,12
+senior,Other (please specify):,IBM DB2,64,13
+senior,Other (please specify):,Firebase Realtime Database,60,14
+senior,Other (please specify):,Cassandra,60,15
+senior,Other (please specify):,Cloud Firestore,59,16
+senior,Other (please specify):,Cosmos DB,54,17
+senior,Other (please specify):,Couchbase,46,18
+senior,Other (please specify):,BigQuery,39,19
+senior,Other (please specify):,Microsoft Access,33,20
+senior,Other (please specify):,Snowflake,31,21
+senior,Other (please specify):,H2,30,22
+senior,Other (please specify):,Neo4J,27,23
+senior,Other (please specify):,InfluxDB,24,24
+senior,Other (please specify):,Solr,18,25
+senior,Other (please specify):,Neo4j,18,26
+senior,Other (please specify):,Couch DB,13,27
+senior,Other (please specify):,CouchDB,13,28
+senior,Other (please specify):,Supabase,12,29
+senior,Other (please specify):,Cockroachdb,11,30
+senior,Other (please specify):,Firebird,9,31
+senior,Other (please specify):,Clickhouse,8,32
+senior,Other (please specify):,RavenDB,6,33
+senior,Other (please specify):,DuckDB,5,34
+senior,Other (please specify):,Datomic,3,35
+senior,Other (please specify):,TiDB,1,36
+senior,Product manager,MySQL,1668,1
+senior,Product manager,PostgreSQL,1452,2
+senior,Product manager,SQLite,1164,3
+senior,Product manager,Microsoft SQL Server,1155,4
+senior,Product manager,Redis,923,5
+senior,Product manager,MongoDB,895,6
+senior,Product manager,MariaDB,712,7
+senior,Product manager,Elasticsearch,585,8
+senior,Product manager,Firebase,411,9
+senior,Product manager,Oracle,409,10
+senior,Product manager,DynamoDB,311,11
+senior,Product manager,Cassandra,108,12
+senior,Product manager,IBM DB2,88,13
+senior,Product manager,Cloud Firestore,79,14
+senior,Product manager,Couchbase,79,15
+senior,Product manager,Firebase Realtime Database,68,16
+senior,Product manager,Neo4j,30,17
+senior,Product manager,Other(s):,29,18
+senior,Product manager,CouchDB,21,19
+senior,Product manager,Dynamodb,9,20
+senior,Product manager,BigQuery,7,21
+senior,Product manager,Microsoft Access,7,22
+senior,Product manager,Snowflake,6,23
+senior,Product manager,Couch DB,5,24
+senior,Product manager,Solr,5,25
+senior,Product manager,Firebird,5,26
+senior,Product manager,Cosmos DB,4,27
+senior,Product manager,InfluxDB,3,28
+senior,Product manager,H2,3,29
+senior,Product manager,Cockroachdb,3,30
+senior,Product manager,DuckDB,2,31
+senior,Product manager,Datomic,2,32
+senior,Product manager,Supabase,2,33
+senior,Product manager,Neo4J,1,34
+senior,Project manager,MySQL,712,1
+senior,Project manager,PostgreSQL,645,2
+senior,Project manager,Microsoft SQL Server,506,3
+senior,Project manager,SQLite,504,4
+senior,Project manager,MariaDB,387,5
+senior,Project manager,Redis,376,6
+senior,Project manager,MongoDB,369,7
+senior,Project manager,Elasticsearch,241,8
+senior,Project manager,Oracle,180,9
+senior,Project manager,Cloud Firestore,135,10
+senior,Project manager,DynamoDB,126,11
+senior,Project manager,Firebase Realtime Database,118,12
+senior,Project manager,Cassandra,44,13
+senior,Project manager,IBM DB2,43,14
+senior,Project manager,CouchDB,41,15
+senior,Project manager,Neo4j,39,16
+senior,Project manager,Couchbase,16,17
+senior,Project manager,Microsoft Access,16,18
+senior,Project manager,H2,8,19
+senior,Project manager,InfluxDB,7,20
+senior,Project manager,BigQuery,7,21
+senior,Project manager,Solr,6,22
+senior,Project manager,Firebird,6,23
+senior,Project manager,Cosmos DB,6,24
+senior,Project manager,Dynamodb,5,25
+senior,Project manager,Couch DB,4,26
+senior,Project manager,Supabase,2,27
+senior,Project manager,Snowflake,1,28
+senior,Project manager,Cockroachdb,1,29
+senior,Project manager,Clickhouse,1,30
+senior,Project manager,RavenDB,1,31
+senior,Research & Development role,PostgreSQL,140,1
+senior,Research & Development role,SQLite,100,2
+senior,Research & Development role,MySQL,82,3
+senior,Research & Development role,Microsoft SQL Server,79,4
+senior,Research & Development role,Redis,68,5
+senior,Research & Development role,MongoDB,61,6
+senior,Research & Development role,Elasticsearch,50,7
+senior,Research & Development role,MariaDB,46,8
+senior,Research & Development role,Dynamodb,33,9
+senior,Research & Development role,Oracle,27,10
+senior,Research & Development role,Cassandra,20,11
+senior,Research & Development role,Cosmos DB,19,12
+senior,Research & Development role,BigQuery,19,13
+senior,Research & Development role,InfluxDB,16,14
+senior,Research & Development role,Firebase Realtime Database,15,15
+senior,Research & Development role,Cloud Firestore,11,16
+senior,Research & Development role,Microsoft Access,11,17
+senior,Research & Development role,Neo4J,11,18
+senior,Research & Development role,Snowflake,11,19
+senior,Research & Development role,H2,11,20
+senior,Research & Development role,IBM DB2,8,21
+senior,Research & Development role,Couch DB,6,22
+senior,Research & Development role,Clickhouse,6,23
+senior,Research & Development role,Cockroachdb,5,24
+senior,Research & Development role,DuckDB,5,25
+senior,Research & Development role,Firebird,5,26
+senior,Research & Development role,Solr,3,27
+senior,Research & Development role,Couchbase,3,28
+senior,Research & Development role,Supabase,3,29
+senior,Research & Development role,Datomic,1,30
+senior,Research & Development role,RavenDB,1,31
+senior,Scientist,MySQL,689,1
+senior,Scientist,PostgreSQL,685,2
+senior,Scientist,SQLite,680,3
+senior,Scientist,MongoDB,406,4
+senior,Scientist,Microsoft SQL Server,352,5
+senior,Scientist,MariaDB,306,6
+senior,Scientist,Redis,294,7
+senior,Scientist,Elasticsearch,222,8
+senior,Scientist,Oracle,206,9
+senior,Scientist,Firebase,123,10
+senior,Scientist,DynamoDB,111,11
+senior,Scientist,Cassandra,77,12
+senior,Scientist,Other(s):,48,13
+senior,Scientist,Couchbase,45,14
+senior,Scientist,IBM DB2,37,15
+senior,Scientist,Cloud Firestore,13,16
+senior,Scientist,Neo4j,13,17
+senior,Scientist,Firebase Realtime Database,10,18
+senior,Scientist,CouchDB,4,19
+senior,Scientist,Microsoft Access,3,20
+senior,Scientist,BigQuery,1,21
+senior,Security professional,PostgreSQL,407,1
+senior,Security professional,MySQL,313,2
+senior,Security professional,SQLite,306,3
+senior,Security professional,Redis,231,4
+senior,Security professional,Microsoft SQL Server,223,5
+senior,Security professional,MariaDB,208,6
+senior,Security professional,Elasticsearch,201,7
+senior,Security professional,MongoDB,194,8
+senior,Security professional,DynamoDB,93,9
+senior,Security professional,Oracle,81,10
+senior,Security professional,Cloud Firestore,37,11
+senior,Security professional,Firebase Realtime Database,32,12
+senior,Security professional,Cassandra,31,13
+senior,Security professional,Dynamodb,25,14
+senior,Security professional,Neo4j,25,15
+senior,Security professional,CouchDB,19,16
+senior,Security professional,IBM DB2,17,17
+senior,Security professional,Couchbase,14,18
+senior,Security professional,BigQuery,7,19
+senior,Security professional,Snowflake,6,20
+senior,Security professional,Cosmos DB,6,21
+senior,Security professional,InfluxDB,5,22
+senior,Security professional,Couch DB,4,23
+senior,Security professional,H2,3,24
+senior,Security professional,Microsoft Access,3,25
+senior,Security professional,Cockroachdb,3,26
+senior,Security professional,Neo4J,3,27
+senior,Security professional,Firebird,2,28
+senior,Security professional,Supabase,2,29
+senior,Security professional,Solr,2,30
+senior,Security professional,Clickhouse,1,31
+senior,Security professional,DuckDB,1,32
+senior,"Senior Executive (C-Suite, VP, etc.)",PostgreSQL,1151,1
+senior,"Senior Executive (C-Suite, VP, etc.)",MySQL,870,2
+senior,"Senior Executive (C-Suite, VP, etc.)",Redis,840,3
+senior,"Senior Executive (C-Suite, VP, etc.)",SQLite,645,4
+senior,"Senior Executive (C-Suite, VP, etc.)",Microsoft SQL Server,609,5
+senior,"Senior Executive (C-Suite, VP, etc.)",MongoDB,549,6
+senior,"Senior Executive (C-Suite, VP, etc.)",Elasticsearch,517,7
+senior,"Senior Executive (C-Suite, VP, etc.)",MariaDB,439,8
+senior,"Senior Executive (C-Suite, VP, etc.)",DynamoDB,214,9
+senior,"Senior Executive (C-Suite, VP, etc.)",Oracle,150,10
+senior,"Senior Executive (C-Suite, VP, etc.)",Firebase,148,11
+senior,"Senior Executive (C-Suite, VP, etc.)",Cloud Firestore,121,12
+senior,"Senior Executive (C-Suite, VP, etc.)",Dynamodb,100,13
+senior,"Senior Executive (C-Suite, VP, etc.)",Firebase Realtime Database,96,14
+senior,"Senior Executive (C-Suite, VP, etc.)",Cassandra,70,15
+senior,"Senior Executive (C-Suite, VP, etc.)",Couchbase,49,16
+senior,"Senior Executive (C-Suite, VP, etc.)",BigQuery,47,17
+senior,"Senior Executive (C-Suite, VP, etc.)",IBM DB2,43,18
+senior,"Senior Executive (C-Suite, VP, etc.)",Snowflake,36,19
+senior,"Senior Executive (C-Suite, VP, etc.)",InfluxDB,33,20
+senior,"Senior Executive (C-Suite, VP, etc.)",Cosmos DB,33,21
+senior,"Senior Executive (C-Suite, VP, etc.)",Microsoft Access,28,22
+senior,"Senior Executive (C-Suite, VP, etc.)",Neo4j,24,23
+senior,"Senior Executive (C-Suite, VP, etc.)",H2,19,24
+senior,"Senior Executive (C-Suite, VP, etc.)",CouchDB,19,25
+senior,"Senior Executive (C-Suite, VP, etc.)",Neo4J,16,26
+senior,"Senior Executive (C-Suite, VP, etc.)",Supabase,15,27
+senior,"Senior Executive (C-Suite, VP, etc.)",Couch DB,13,28
+senior,"Senior Executive (C-Suite, VP, etc.)",Clickhouse,13,29
+senior,"Senior Executive (C-Suite, VP, etc.)",Solr,13,30
+senior,"Senior Executive (C-Suite, VP, etc.)",Cockroachdb,12,31
+senior,"Senior Executive (C-Suite, VP, etc.)",Firebird,10,32
+senior,"Senior Executive (C-Suite, VP, etc.)",RavenDB,9,33
+senior,"Senior Executive (C-Suite, VP, etc.)",DuckDB,8,34
+senior,"Senior Executive (C-Suite, VP, etc.)",TiDB,2,35
+senior,"Senior Executive (C-Suite, VP, etc.)",Datomic,2,36
+senior,Senior executive/VP,MySQL,338,1
+senior,Senior executive/VP,PostgreSQL,329,2
+senior,Senior executive/VP,Redis,243,3
+senior,Senior executive/VP,SQLite,224,4
+senior,Senior executive/VP,Microsoft SQL Server,220,5
+senior,Senior executive/VP,MongoDB,186,6
+senior,Senior executive/VP,MariaDB,169,7
+senior,Senior executive/VP,Elasticsearch,154,8
+senior,Senior executive/VP,Firebase,91,9
+senior,Senior executive/VP,DynamoDB,81,10
+senior,Senior executive/VP,Oracle,76,11
+senior,Senior executive/VP,Cassandra,31,12
+senior,Senior executive/VP,Other(s):,23,13
+senior,Senior executive/VP,Couchbase,22,14
+senior,Senior executive/VP,IBM DB2,18,15
+senior,Student,MySQL,440,1
+senior,Student,PostgreSQL,366,2
+senior,Student,SQLite,331,3
+senior,Student,MongoDB,290,4
+senior,Student,Microsoft SQL Server,204,5
+senior,Student,MariaDB,193,6
+senior,Student,Redis,186,7
+senior,Student,Firebase,123,8
+senior,Student,Elasticsearch,119,9
+senior,Student,Oracle,114,10
+senior,Student,DynamoDB,70,11
+senior,Student,Cassandra,33,12
+senior,Student,Firebase Realtime Database,25,13
+senior,Student,Cloud Firestore,17,14
+senior,Student,IBM DB2,14,15
+senior,Student,Couchbase,13,16
+senior,Student,Other(s):,13,17
+senior,Student,Neo4j,10,18
+senior,Student,CouchDB,5,19
+senior,Student,Cockroachdb,1,20
+senior,Student,DuckDB,1,21
+senior,Student,TiDB,1,22
+senior,Student,Firebird,1,23
+senior,Student,Dynamodb,1,24
+senior,Student,Solr,1,25
+senior,Student,Neo4J,1,26
+senior,Student,BigQuery,1,27
+senior,Student,Couch DB,1,28
+senior,Student,Cosmos DB,1,29
+senior,Student,InfluxDB,1,30
+senior,Student,H2,1,31
+senior,Student,Snowflake,1,32
+senior,Student,RavenDB,1,33
+senior,Student,Clickhouse,1,34
+senior,Student,Datomic,1,35
+senior,Student,Microsoft Access,1,36
+senior,Student,Supabase,1,37
+senior,System administrator,MySQL,3412,1
+senior,System administrator,PostgreSQL,3058,2
+senior,System administrator,SQLite,2383,3
+senior,System administrator,Microsoft SQL Server,2142,4
+senior,System administrator,MariaDB,2106,5
+senior,System administrator,Redis,1890,6
+senior,System administrator,MongoDB,1561,7
+senior,System administrator,Elasticsearch,1325,8
+senior,System administrator,Oracle,850,9
+senior,System administrator,DynamoDB,582,10
+senior,System administrator,Firebase,452,11
+senior,System administrator,Cassandra,222,12
+senior,System administrator,IBM DB2,165,13
+senior,System administrator,Couchbase,145,14
+senior,System administrator,Cloud Firestore,85,15
+senior,System administrator,Firebase Realtime Database,71,16
+senior,System administrator,Other(s):,47,17
+senior,System administrator,CouchDB,33,18
+senior,System administrator,Neo4j,28,19
+senior,System administrator,Microsoft Access,8,20
+senior,System administrator,InfluxDB,8,21
+senior,System administrator,Snowflake,3,22
+senior,System administrator,Solr,3,23
+senior,System administrator,H2,3,24
+senior,System administrator,Cosmos DB,2,25
+senior,System administrator,BigQuery,2,26
+senior,System administrator,Firebird,2,27
+senior,System administrator,Neo4J,2,28
+senior,System administrator,RavenDB,1,29
+senior,System administrator,Clickhouse,1,30
+senior,System administrator,Dynamodb,1,31
+senior,System administrator,Couch DB,1,32
+senior,System administrator,Supabase,1,33
+senior,System administrator,Cockroachdb,1,34
