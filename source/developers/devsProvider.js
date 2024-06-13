@@ -6,6 +6,10 @@ const devsProvider = {
     makeDevsReport : async (devType, role) => {
         try {
         const connection = await pool.getConnection();
+
+        const salary = await devsDao.selectSalary(devType, role, connection);
+        if (salary && salary.error) {return salary}
+
         const editorRank = await devsDao.selectEditorRank(devType, role, connection);
         if (editorRank && editorRank.error) {return editorRank}
 
@@ -39,7 +43,7 @@ const devsProvider = {
 
         }
 
-        const devReport= {editorRank, langRank, frameworkRank, jobCodeHours, learnTime, productiveToJob, sleepHours, recommendLectures};
+        const devReport= {salary, editorRank, langRank, frameworkRank, jobCodeHours, learnTime, productiveToJob, sleepHours, recommendLectures};
         return devReport;
         } catch (e) {
             console.log(e)
