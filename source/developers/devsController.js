@@ -6,11 +6,13 @@ const devsController = {
 	devReport: async (req, res) => {
 		try {
 			const { devType, role } = req.query;
+			console.log({ devType: devType, role: role });
 			if (Number(devType) > 14) return res.status(404).json(response(baseResponse.WRONG_DEVTYPE));
 			const roles = ["junior", "midlevel", "senior"];
 			if (roles.indexOf(role) === -1) return res.status(404).json(response(baseResponse.WRONG_ROLE));
 			const report = await devsProvider.makeDevsReport(devType, role);
-			if (report.error) {
+			if (!report || report.error) {
+				console.log(report);
 				return res.status(400).json(response(baseResponse.SERVER_ERROR, report));
 			}
 			return res.status(200).json(response(baseResponse.SUCCESS, report));
