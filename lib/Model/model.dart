@@ -22,6 +22,7 @@ class ApiResponse {
 }
 
 class Result {
+  final List<Salary> salary;
   final List<Rank> editorRank;
   final List<Rank> langRank;
   final List<Rank> frameworkRank;
@@ -32,6 +33,7 @@ class Result {
   final List<Lecture> recommendLectures;
 
   Result({
+    required this.salary,
     required this.editorRank,
     required this.langRank,
     required this.frameworkRank,
@@ -44,6 +46,7 @@ class Result {
 
   factory Result.fromJson(Map<String, dynamic> json) {
     return Result(
+      salary: (json['salary'] as List).map((i) => Salary.fromJson(i)).toList(),
       editorRank:
           (json['editorRank'] as List).map((i) => Rank.fromJson(i)).toList(),
       langRank:
@@ -59,6 +62,20 @@ class Result {
       recommendLectures: (json['recommendLectures'] as List)
           .map((i) => Lecture.fromJson(i))
           .toList(),
+    );
+  }
+}
+
+class Salary {
+  final int salary;
+
+  Salary({
+    required this.salary,
+  });
+
+  factory Salary.fromJson(Map<String, dynamic> json) {
+    return Salary(
+      salary: json['salary'],
     );
   }
 }

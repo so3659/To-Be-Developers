@@ -46,7 +46,8 @@ class _CourseBodyState extends State<CourseBody> {
               ),
               Text(
                 widget.title,
-                style: const TextStyle(fontSize: 16),
+                style:
+                    const TextStyle(fontSize: 11, fontWeight: FontWeight.bold),
               ),
             ],
           ),

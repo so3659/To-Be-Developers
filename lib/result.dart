@@ -5,6 +5,7 @@ import 'package:bigdata_project/ReportChartBody/chartBody.dart';
 import 'package:bigdata_project/ReportChartBody/pieChartBody.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
+import 'package:intl/intl.dart';
 
 class Result extends StatefulWidget {
   const Result({super.key, required this.devType, required this.role});
@@ -18,6 +19,9 @@ class Result extends StatefulWidget {
 
 class _ResultState extends State<Result> {
   late Future<ApiResponse> futureResponse;
+  List<int> editorpercentages = [];
+  List<int> langpercentages = [];
+  List<int> frameworkpercentages = [];
 
   @override
   void initState() {
@@ -69,24 +73,36 @@ class _ResultState extends State<Result> {
               return Text('Error: ${snapshot.error}');
             } else if (snapshot.hasData) {
               final data = snapshot.data!;
+              final List<int> salary =
+                  data.result.salary.map((s) => s.salary).toList();
               final List<String> editorTitles =
                   data.result.editorRank.map((rank) => rank.name).toList();
+              print(editorTitles);
               final List<int> editorValues =
                   data.result.editorRank.map((rank) => rank.count).toList();
-              final List<int> editorpercentages =
-                  calculatePercentages(editorValues);
+              if (editorValues.isEmpty) {
+                editorpercentages = [];
+              } else {
+                editorpercentages = calculatePercentages(editorValues);
+              }
               final List<String> langTitles =
                   data.result.langRank.map((rank) => rank.name).toList();
               final List<int> langValues =
                   data.result.langRank.map((rank) => rank.count).toList();
-              final List<int> langpercentages =
-                  calculatePercentages(langValues);
+              if (langValues.isEmpty) {
+                langpercentages = [];
+              } else {
+                langpercentages = calculatePercentages(langValues);
+              }
               final List<String> frameworkTitles =
                   data.result.frameworkRank.map((rank) => rank.name).toList();
               final List<int> frameworkValues =
                   data.result.frameworkRank.map((rank) => rank.count).toList();
-              final List<int> frameworkpercentages =
-                  calculatePercentages(frameworkValues);
+              if (frameworkValues.isEmpty) {
+                frameworkpercentages = [];
+              } else {
+                frameworkpercentages = calculatePercentages(frameworkValues);
+              }
               final List<Widget> courseBodies =
                   data.result.recommendLectures.map((lecture) {
                 return CourseBody(
@@ -100,143 +116,264 @@ class _ResultState extends State<Result> {
               final productiveToJob =
                   data.result.productiveToJob.map((p) => p.product).toList();
               final sleepHours = data.result.sleepHours.hours;
+
               return Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: SingleChildScrollView(
                   child: Column(
                     children: [
                       const Text(
-                        '개발자가 사용하는 IDE, Editor',
+                        '평균 연봉',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                       ),
-                      CustomBarChart(
-                        titles: editorTitles,
-                        values: editorpercentages,
+                      SizedBox(height: screenSize.height * 0.02),
+                      Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: salary
+                            .map((salary) => Padding(
+                                  padding: const EdgeInsets.all(3),
+                                  child: Container(
+                                    decoration: BoxDecoration(
+                                      color: Colors.transparent, // 비활성화된 배경색 설정
+                                      borderRadius: BorderRadius.circular(10),
+                                      border: Border.all(
+                                        color: Colors.black, // 선 색상 설정
+                                        width: 1, // 선 두께 설정
+                                      ),
+                                    ),
+                                    padding: const EdgeInsets.symmetric(
+                                        vertical: 8.0, horizontal: 16.0),
+                                    child: SizedBox(
+                                      width: screenSize.width * 0.9,
+                                      child: Row(
+                                        mainAxisAlignment:
+                                            MainAxisAlignment.center,
+                                        children: [
+                                          Text(
+                                            SalaryConverter.formatSalary(
+                                                salary),
+                                            style: const TextStyle(
+                                              color: Colors.black, // 텍스트 색상 설정
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+                                  ),
+                                ))
+                            .toList(),
                       ),
                       const Divider(),
                       SizedBox(height: screenSize.height * 0.02),
-                      const Text(
-                        '언어 순위',
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold),
+                      Column(
+                        children: [
+                          if (editorpercentages.isNotEmpty) ...[
+                            const Text(
+                              '개발자가 사용하는 IDE, Editor',
+                              style: TextStyle(
+                                  fontSize: 16, fontWeight: FontWeight.bold),
+                            ),
+                            CustomBarChart(
+                              titles: editorTitles,
+                              values: editorpercentages,
+                            ),
+                            const Divider(),
+                            SizedBox(height: screenSize.height * 0.02),
+                          ] else ...[
+                            const SizedBox.shrink(),
+                          ],
+                        ],
                       ),
-                      CustomBarChart(
-                        titles: langTitles,
-                        values: langpercentages,
+                      Column(
+                        children: [
+                          if (editorpercentages.isNotEmpty) ...[
+                            const Text(
+                              '언어 순위',
+                              style: TextStyle(
+                                  fontSize: 16, fontWeight: FontWeight.bold),
+                            ),
+                            CustomBarChart(
+                              titles: langTitles,
+                              values: langpercentages,
+                            ),
+                            const Divider(),
+                            SizedBox(height: screenSize.height * 0.02),
+                          ] else ...[
+                            const SizedBox.shrink(),
+                          ],
+                        ],
                       ),
-                      const Divider(),
-                      SizedBox(height: screenSize.height * 0.02),
-                      const Text(
-                        '프레임워크 순위',
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold),
+                      Column(
+                        children: [
+                          if (editorpercentages.isNotEmpty) ...[
+                            const Text(
+                              '프레임워크 순위',
+                              style: TextStyle(
+                                  fontSize: 16, fontWeight: FontWeight.bold),
+                            ),
+                            CustomBarChart(
+                              titles: frameworkTitles,
+                              values: frameworkpercentages,
+                            ),
+                            const Divider(),
+                            SizedBox(height: screenSize.height * 0.02),
+                          ] else ...[
+                            const SizedBox.shrink(),
+                          ],
+                        ],
                       ),
-                      CustomBarChart(
-                        titles: frameworkTitles,
-                        values: frameworkpercentages,
-                      ),
-                      const Divider(),
                       const Text(
                         '코딩에 사용하는 시간 비율',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                       ),
-                      FilterChip(
-                        onSelected: null,
-                        showCheckmark: false,
-                        label: SizedBox(
+                      SizedBox(height: screenSize.height * 0.02),
+                      Container(
+                        decoration: BoxDecoration(
+                          color: Colors.transparent, // 비활성화된 배경색 설정
+                          borderRadius: BorderRadius.circular(10),
+                          border: Border.all(
+                            color: Colors.black, // 선 색상 설정
+                            width: 1, // 선 두께 설정
+                          ),
+                        ),
+                        padding: const EdgeInsets.symmetric(
+                            vertical: 8.0, horizontal: 16.0),
+                        child: SizedBox(
                           width: screenSize.width * 0.9,
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              Text(jobCodeHours),
+                              Text(
+                                jobCodeHours,
+                                style: const TextStyle(
+                                  color: Colors.black, // 텍스트 색상 설정
+                                ),
+                              ),
                             ],
                           ),
                         ),
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(10),
-                        ),
                       ),
                       const Divider(),
+                      SizedBox(height: screenSize.height * 0.02),
                       const Text(
                         '공부하는 시간',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                       ),
-                      FilterChip(
-                        onSelected: null,
-                        showCheckmark: false,
-                        label: SizedBox(
+                      SizedBox(height: screenSize.height * 0.02),
+                      Container(
+                        decoration: BoxDecoration(
+                          color: Colors.transparent, // 비활성화된 배경색 설정
+                          borderRadius: BorderRadius.circular(10),
+                          border: Border.all(
+                            color: Colors.black, // 선 색상 설정
+                            width: 1, // 선 두께 설정
+                          ),
+                        ),
+                        padding: const EdgeInsets.symmetric(
+                            vertical: 8.0, horizontal: 16.0),
+                        child: SizedBox(
                           width: screenSize.width * 0.9,
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              Text(learnTime),
+                              Text(
+                                learnTime,
+                                style: const TextStyle(
+                                  color: Colors.black, // 텍스트 색상 설정
+                                ),
+                              ),
                             ],
                           ),
                         ),
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(10),
-                        ),
                       ),
                       const Divider(),
+                      SizedBox(height: screenSize.height * 0.02),
                       const Text(
                         '효율을 늘리기 위해 사용하는 방법',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                       ),
+                      SizedBox(height: screenSize.height * 0.02),
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: productiveToJob
-                            .map(
-                              (product) => FilterChip(
-                                onSelected: null,
-                                showCheckmark: false,
-                                label: SizedBox(
-                                  width: screenSize.width * 0.9,
-                                  child: Row(
-                                    mainAxisAlignment: MainAxisAlignment.center,
-                                    children: [
-                                      Text(product),
-                                    ],
+                            .map((product) => Padding(
+                                  padding: const EdgeInsets.all(3),
+                                  child: Container(
+                                    decoration: BoxDecoration(
+                                      color: Colors.transparent, // 비활성화된 배경색 설정
+                                      borderRadius: BorderRadius.circular(10),
+                                      border: Border.all(
+                                        color: Colors.black, // 선 색상 설정
+                                        width: 1, // 선 두께 설정
+                                      ),
+                                    ),
+                                    padding: const EdgeInsets.symmetric(
+                                        vertical: 8.0, horizontal: 16.0),
+                                    child: SizedBox(
+                                      width: screenSize.width * 0.9,
+                                      child: Row(
+                                        mainAxisAlignment:
+                                            MainAxisAlignment.center,
+                                        children: [
+                                          Text(
+                                            product,
+                                            style: const TextStyle(
+                                              color: Colors.black, // 텍스트 색상 설정
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
                                   ),
-                                ),
-                                shape: RoundedRectangleBorder(
-                                  borderRadius: BorderRadius.circular(10),
-                                ),
-                              ),
-                            )
+                                ))
                             .toList(),
                       ),
                       const Divider(),
+                      SizedBox(height: screenSize.height * 0.02),
                       const Text(
                         '자는 시간',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                       ),
-                      FilterChip(
-                        onSelected: null,
-                        showCheckmark: false,
-                        label: SizedBox(
+                      SizedBox(height: screenSize.height * 0.02),
+                      Container(
+                        decoration: BoxDecoration(
+                          color: Colors.transparent, // 비활성화된 배경색 설정
+                          borderRadius: BorderRadius.circular(10),
+                          border: Border.all(
+                            color: Colors.black, // 선 색상 설정
+                            width: 1, // 선 두께 설정
+                          ),
+                        ),
+                        padding: const EdgeInsets.symmetric(
+                            vertical: 8.0, horizontal: 16.0),
+                        child: SizedBox(
                           width: screenSize.width * 0.9,
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              Text(sleepHours),
+                              Text(
+                                sleepHours,
+                                style: const TextStyle(
+                                  color: Colors.black, // 텍스트 색상 설정
+                                ),
+                              ),
                             ],
                           ),
                         ),
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(10),
-                        ),
                       ),
                       const Divider(),
+                      SizedBox(height: screenSize.height * 0.02),
                       const Text(
                         '추천 강의',
                         style: TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                       ),
+                      SizedBox(height: screenSize.height * 0.02),
                       Container(
                         child: SingleChildScrollView(
                           scrollDirection: Axis.horizontal,
@@ -256,5 +393,13 @@ class _ResultState extends State<Result> {
         ),
       ),
     );
+  }
+}
+
+class SalaryConverter {
+  static String formatSalary(int salary) {
+    final NumberFormat usdFormat =
+        NumberFormat.currency(locale: 'en_US', symbol: '\$');
+    return usdFormat.format(salary);
   }
 }

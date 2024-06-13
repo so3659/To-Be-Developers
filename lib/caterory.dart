@@ -205,7 +205,7 @@ final List<Map<String, dynamic>> jobCategories = [
     'color': Colors.indigo,
     'icon': Icons.person,
     'label': 'Mid-level',
-    'param': 'mid-level'
+    'param': 'midlevel'
   },
   {
     'color': Colors.indigo,
@@ -219,61 +219,61 @@ final List<Map<String, dynamic>> categories = [
   {
     'color': Colors.green[400],
     'icon': Icons.storage,
-    'label': 'Database Administrator',
+    'label': 'Database\nAdministrator',
     'num': '1'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.business,
-    'label': 'Data or Business Analyst',
+    'label': 'Data or Business\nAnalyst',
     'num': '2'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.science,
-    'label': 'Data Scientist or Machine Learning Specialist',
+    'label': 'Data Scientist or\nMachine Learning\nSpecialist',
     'num': '3'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.support,
-    'label': 'Developer Advocate',
+    'label': 'Developer\nAdvocate',
     'num': '4'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.developer_mode,
-    'label': 'Developer Back-end',
+    'label': 'Back-end',
     'num': '5'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.web,
-    'label': 'Developer Front-end',
+    'label': 'Front-end',
     'num': '6'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.fullscreen,
-    'label': 'Developer Full-stack',
+    'label': 'Full-stack',
     'num': '7'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.sports_esports,
-    'label': 'Developer Game or Graphics',
+    'label': 'Game or Graphics',
     'num': '8'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.phone_android,
-    'label': 'Developer Mobile',
+    'label': 'Mobile',
     'num': '9'
   },
   {
     'color': Colors.green[400],
     'icon': Icons.bug_report,
-    'label': 'Developer QA or Test',
+    'label': 'QA or Test',
     'num': '10'
   },
   {
