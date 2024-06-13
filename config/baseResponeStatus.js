@@ -3,10 +3,16 @@ const baseResponse = {
 	SUCCESS: { status: "SUCCESS", code: 1000, message: "성공" },
 
 	//FAIL
-	SEARCH_KEYWORD_EMPTY: {
+	WRONG_DEVTYPE: {
 		status: "FAIL",
 		code: 2000,
-		message: "검색 키워드를 입력해야 합니다.",
+		message: "잘못된 devType 입니다.",
+	},
+
+	WRONG_ROLE: {
+		status: "FAIL",
+		code: 2001,
+		message: "잘못된 role 입니다.",
 	},
 
 	//ERROR
