@@ -8,7 +8,7 @@ const devsController = {
 			const { devType, role } = req.query;
 			if (Number(devType) > 14) return res.status(404).json(response(baseResponse.WRONG_DEVTYPE));
 			const roles = ["junior", "midlevel", "senior"];
-			if (!roles.findIndex(role)) return res.status(404).json(response(baseResponse.WRONG_ROLE));
+			if (roles.indexOf(role) === -1) return res.status(404).json(response(baseResponse.WRONG_ROLE));
 			const report = await devsProvider.makeDevsReport(devType, role);
 			if (report.error) {
 				return res.status(400).json(response(baseResponse.SERVER_ERROR, report));
