@@ -29,6 +29,15 @@ const devsProvider = {
 
         const recommendLectures = await devsDao.selectLectures(categoryMap[devType], connection);
         if (recommendLectures && recommendLectures.error) {return recommendLectures}
+        for (const lecture of recommendLectures) {
+            if ("inflearn" === recommendLectures.image_url){
+                recommendLectures.link_url = "https://inflearn.com" + recommendLectures.link_url;
+            }
+            else {
+                recommendLectures.link_url = "https://udemy.com" + recommendLectures.link_url;
+            }
+
+        }
 
         const devReport= {editorRank, langRank, frameworkRank, jobCodeHours, learnTime, productiveToJob, sleepHours, recommendLectures};
         return devReport;
