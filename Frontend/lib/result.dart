@@ -35,9 +35,6 @@ class _ResultState extends State<Result> {
           'http://3.34.56.115:3000/devs/report?devType=${widget.devType}&role=${widget.role}'),
     );
 
-    print('Response status: ${response.statusCode}');
-    print('Response body: ${response.body}');
-
     if (response.statusCode == 200) {
       return ApiResponse.fromJson(jsonDecode(response.body));
     } else {
@@ -77,7 +74,6 @@ class _ResultState extends State<Result> {
                   data.result.salary.map((s) => s.salary).toList();
               final List<String> editorTitles =
                   data.result.editorRank.map((rank) => rank.name).toList();
-              print(editorTitles);
               final List<int> editorValues =
                   data.result.editorRank.map((rank) => rank.count).toList();
               if (editorValues.isEmpty) {
@@ -111,11 +107,11 @@ class _ResultState extends State<Result> {
                   url: lecture.linkUrl,
                 );
               }).toList();
-              final jobCodeHours = data.result.jobCodeHours.percent;
-              final learnTime = data.result.learnTime.hours;
-              final productiveToJob =
+              String? jobCodeHours = data.result.jobCodeHours?.percent;
+              String? learnTime = data.result.learnTime?.hours;
+              List<String> productiveToJob =
                   data.result.productiveToJob.map((p) => p.product).toList();
-              final sleepHours = data.result.sleepHours.hours;
+              String? sleepHours = data.result.sleepHours?.hours;
 
               return Padding(
                 padding: const EdgeInsets.all(16.0),
@@ -223,151 +219,169 @@ class _ResultState extends State<Result> {
                           ],
                         ],
                       ),
-                      const Text(
-                        '코딩에 사용하는 시간 비율',
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold),
-                      ),
-                      SizedBox(height: screenSize.height * 0.02),
-                      Container(
-                        decoration: BoxDecoration(
-                          color: Colors.transparent, // 비활성화된 배경색 설정
-                          borderRadius: BorderRadius.circular(10),
-                          border: Border.all(
-                            color: Colors.black, // 선 색상 설정
-                            width: 1, // 선 두께 설정
-                          ),
+                      if (jobCodeHours == null) ...[
+                        const SizedBox.shrink()
+                      ] else ...[
+                        const Text(
+                          '코딩에 사용하는 시간 비율',
+                          style: TextStyle(
+                              fontSize: 16, fontWeight: FontWeight.bold),
                         ),
-                        padding: const EdgeInsets.symmetric(
-                            vertical: 8.0, horizontal: 16.0),
-                        child: SizedBox(
-                          width: screenSize.width * 0.9,
-                          child: Row(
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Text(
-                                jobCodeHours,
-                                style: const TextStyle(
-                                  color: Colors.black, // 텍스트 색상 설정
-                                ),
-                              ),
-                            ],
+                        SizedBox(height: screenSize.height * 0.02),
+                        Container(
+                          decoration: BoxDecoration(
+                            color: Colors.transparent, // 비활성화된 배경색 설정
+                            borderRadius: BorderRadius.circular(10),
+                            border: Border.all(
+                              color: Colors.black, // 선 색상 설정
+                              width: 1, // 선 두께 설정
+                            ),
                           ),
-                        ),
-                      ),
-                      const Divider(),
-                      SizedBox(height: screenSize.height * 0.02),
-                      const Text(
-                        '공부하는 시간',
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold),
-                      ),
-                      SizedBox(height: screenSize.height * 0.02),
-                      Container(
-                        decoration: BoxDecoration(
-                          color: Colors.transparent, // 비활성화된 배경색 설정
-                          borderRadius: BorderRadius.circular(10),
-                          border: Border.all(
-                            color: Colors.black, // 선 색상 설정
-                            width: 1, // 선 두께 설정
-                          ),
-                        ),
-                        padding: const EdgeInsets.symmetric(
-                            vertical: 8.0, horizontal: 16.0),
-                        child: SizedBox(
-                          width: screenSize.width * 0.9,
-                          child: Row(
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Text(
-                                learnTime,
-                                style: const TextStyle(
-                                  color: Colors.black, // 텍스트 색상 설정
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                      ),
-                      const Divider(),
-                      SizedBox(height: screenSize.height * 0.02),
-                      const Text(
-                        '효율을 늘리기 위해 사용하는 방법',
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold),
-                      ),
-                      SizedBox(height: screenSize.height * 0.02),
-                      Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: productiveToJob
-                            .map((product) => Padding(
-                                  padding: const EdgeInsets.all(3),
-                                  child: Container(
-                                    decoration: BoxDecoration(
-                                      color: Colors.transparent, // 비활성화된 배경색 설정
-                                      borderRadius: BorderRadius.circular(10),
-                                      border: Border.all(
-                                        color: Colors.black, // 선 색상 설정
-                                        width: 1, // 선 두께 설정
-                                      ),
-                                    ),
-                                    padding: const EdgeInsets.symmetric(
-                                        vertical: 8.0, horizontal: 16.0),
-                                    child: SizedBox(
-                                      width: screenSize.width * 0.9,
-                                      child: Row(
-                                        mainAxisAlignment:
-                                            MainAxisAlignment.center,
-                                        children: [
-                                          Text(
-                                            product,
-                                            style: const TextStyle(
-                                              color: Colors.black, // 텍스트 색상 설정
-                                            ),
-                                          ),
-                                        ],
-                                      ),
-                                    ),
+                          padding: const EdgeInsets.symmetric(
+                              vertical: 8.0, horizontal: 16.0),
+                          child: SizedBox(
+                            width: screenSize.width * 0.9,
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Text(
+                                  jobCodeHours,
+                                  style: const TextStyle(
+                                    color: Colors.black, // 텍스트 색상 설정
                                   ),
-                                ))
-                            .toList(),
-                      ),
-                      const Divider(),
-                      SizedBox(height: screenSize.height * 0.02),
-                      const Text(
-                        '자는 시간',
-                        style: TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold),
-                      ),
-                      SizedBox(height: screenSize.height * 0.02),
-                      Container(
-                        decoration: BoxDecoration(
-                          color: Colors.transparent, // 비활성화된 배경색 설정
-                          borderRadius: BorderRadius.circular(10),
-                          border: Border.all(
-                            color: Colors.black, // 선 색상 설정
-                            width: 1, // 선 두께 설정
-                          ),
-                        ),
-                        padding: const EdgeInsets.symmetric(
-                            vertical: 8.0, horizontal: 16.0),
-                        child: SizedBox(
-                          width: screenSize.width * 0.9,
-                          child: Row(
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Text(
-                                sleepHours,
-                                style: const TextStyle(
-                                  color: Colors.black, // 텍스트 색상 설정
                                 ),
-                              ),
-                            ],
+                              ],
+                            ),
                           ),
                         ),
-                      ),
-                      const Divider(),
-                      SizedBox(height: screenSize.height * 0.02),
+                        const Divider(),
+                        SizedBox(height: screenSize.height * 0.02),
+                      ],
+                      if (learnTime == null) ...[
+                        const SizedBox.shrink()
+                      ] else ...[
+                        const Text(
+                          '공부하는 시간',
+                          style: TextStyle(
+                              fontSize: 16, fontWeight: FontWeight.bold),
+                        ),
+                        SizedBox(height: screenSize.height * 0.02),
+                        Container(
+                          decoration: BoxDecoration(
+                            color: Colors.transparent, // 비활성화된 배경색 설정
+                            borderRadius: BorderRadius.circular(10),
+                            border: Border.all(
+                              color: Colors.black, // 선 색상 설정
+                              width: 1, // 선 두께 설정
+                            ),
+                          ),
+                          padding: const EdgeInsets.symmetric(
+                              vertical: 8.0, horizontal: 16.0),
+                          child: SizedBox(
+                            width: screenSize.width * 0.9,
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Text(
+                                  learnTime,
+                                  style: const TextStyle(
+                                    color: Colors.black, // 텍스트 색상 설정
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                        const Divider(),
+                        SizedBox(height: screenSize.height * 0.02),
+                      ],
+                      if (productiveToJob.isEmpty) ...[
+                        const SizedBox.shrink()
+                      ] else ...[
+                        const Text(
+                          '효율을 늘리기 위해 사용하는 방법',
+                          style: TextStyle(
+                              fontSize: 16, fontWeight: FontWeight.bold),
+                        ),
+                        SizedBox(height: screenSize.height * 0.02),
+                        Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: productiveToJob
+                              .map((product) => Padding(
+                                    padding: const EdgeInsets.all(3),
+                                    child: Container(
+                                      decoration: BoxDecoration(
+                                        color:
+                                            Colors.transparent, // 비활성화된 배경색 설정
+                                        borderRadius: BorderRadius.circular(10),
+                                        border: Border.all(
+                                          color: Colors.black, // 선 색상 설정
+                                          width: 1, // 선 두께 설정
+                                        ),
+                                      ),
+                                      padding: const EdgeInsets.symmetric(
+                                          vertical: 8.0, horizontal: 16.0),
+                                      child: SizedBox(
+                                        width: screenSize.width * 0.9,
+                                        child: Row(
+                                          mainAxisAlignment:
+                                              MainAxisAlignment.center,
+                                          children: [
+                                            Text(
+                                              product,
+                                              style: const TextStyle(
+                                                color:
+                                                    Colors.black, // 텍스트 색상 설정
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                    ),
+                                  ))
+                              .toList(),
+                        ),
+                        const Divider(),
+                        SizedBox(height: screenSize.height * 0.02),
+                      ],
+                      if (sleepHours == null) ...[
+                        const SizedBox.shrink()
+                      ] else ...[
+                        const Text(
+                          '자는 시간',
+                          style: TextStyle(
+                              fontSize: 16, fontWeight: FontWeight.bold),
+                        ),
+                        SizedBox(height: screenSize.height * 0.02),
+                        Container(
+                          decoration: BoxDecoration(
+                            color: Colors.transparent, // 비활성화된 배경색 설정
+                            borderRadius: BorderRadius.circular(10),
+                            border: Border.all(
+                              color: Colors.black, // 선 색상 설정
+                              width: 1, // 선 두께 설정
+                            ),
+                          ),
+                          padding: const EdgeInsets.symmetric(
+                              vertical: 8.0, horizontal: 16.0),
+                          child: SizedBox(
+                            width: screenSize.width * 0.9,
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Text(
+                                  sleepHours,
+                                  style: const TextStyle(
+                                    color: Colors.black, // 텍스트 색상 설정
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                        const Divider(),
+                        SizedBox(height: screenSize.height * 0.02),
+                      ],
                       const Text(
                         '추천 강의',
                         style: TextStyle(

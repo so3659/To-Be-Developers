@@ -26,10 +26,10 @@ class Result {
   final List<Rank> editorRank;
   final List<Rank> langRank;
   final List<Rank> frameworkRank;
-  final JobCodeHours jobCodeHours;
-  final LearnTime learnTime;
+  final JobCodeHours? jobCodeHours; // Updated to allow null
+  final LearnTime? learnTime; // Updated to allow null
   final List<ProductiveToJob> productiveToJob;
-  final SleepHours sleepHours;
+  final SleepHours? sleepHours; // Updated to allow null
   final List<Lecture> recommendLectures;
 
   Result({
@@ -37,10 +37,10 @@ class Result {
     required this.editorRank,
     required this.langRank,
     required this.frameworkRank,
-    required this.jobCodeHours,
-    required this.learnTime,
+    this.jobCodeHours, // Updated to allow null
+    this.learnTime, // Updated to allow null
     required this.productiveToJob,
-    required this.sleepHours,
+    this.sleepHours, // Updated to allow null
     required this.recommendLectures,
   });
 
@@ -53,12 +53,18 @@ class Result {
           (json['langRank'] as List).map((i) => Rank.fromJson(i)).toList(),
       frameworkRank:
           (json['frameworkRank'] as List).map((i) => Rank.fromJson(i)).toList(),
-      jobCodeHours: JobCodeHours.fromJson(json['jobCodeHours']),
-      learnTime: LearnTime.fromJson(json['learnTime']),
+      jobCodeHours: json['jobCodeHours'] != null
+          ? JobCodeHours.fromJson(json['jobCodeHours'])
+          : null, // Updated to handle null
+      learnTime: json['learnTime'] != null
+          ? LearnTime.fromJson(json['learnTime'])
+          : null, // Updated to handle null
       productiveToJob: (json['productiveToJob'] as List)
           .map((i) => ProductiveToJob.fromJson(i))
           .toList(),
-      sleepHours: SleepHours.fromJson(json['sleepHours']),
+      sleepHours: json['sleepHours'] != null
+          ? SleepHours.fromJson(json['sleepHours'])
+          : null, // Updated to handle null
       recommendLectures: (json['recommendLectures'] as List)
           .map((i) => Lecture.fromJson(i))
           .toList(),
