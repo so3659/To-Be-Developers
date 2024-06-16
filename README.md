@@ -1,6 +1,5 @@
 # To Be Develpers
-![Alt text](image-1.png)
-
+![Alt text](images/image-1.png)
 
 ## Project
 해당 프로젝트는 개발자가 되고 싶어하는 사람들을 위해서 현 개발자들이 어떤 기술, 툴을 사용하며 관심을 가지는지 이외에도 현업에서의 생활습관(코드작성에 투자하는 시간, 수면시간, 개인 공부 시간) 등에 대한 데이터 자료를 기반하여 개발자 직종 및 연차(주니어, 미들, 시니어) 단위로 정보를 제공한다.
@@ -62,17 +61,21 @@
 
 1. StackoverFlow <br>
   18년도부터 23년도 까지의 결과를 사용하였는데 설문조사지의 변경으로 인한 column명의 차이가 존재하였기에 동일한 의미를 지니는 컬럼을 찾아 최신의 컬럼명으로 변환하는 과정을 수행하였습니다.<br>
-  이후 연차를 0~3 (Junior), 3~7 (Mid-level), 7~ (Senior)의 기준으로 나누어서 데이터를 Grouping하였습니다.
+  이후 연차를 0~3(Junior), 3~7(Mid-level), 7~(Senior)의 기준으로 나누어서 데이터를 Grouping하였습니다.
 2. Jetbrain <br>
   1번에서의 자료보다 다양한 기관의 설문조사 데이터를 통해 정확도를 높이고자 StackoverFlow 분석 이후 추가적으로 해당 raw data를 분석하였습니다. <br>
   column들의 경우 `{설문조사주제}.{설문조사 응답}` 과 같은 식으로 구성된 채로 columns의 수가 약 4000개를 가진 raw data 한 개와 기획단계에서 필요했던 `수면시간`, `코드 투자 시간`, `개인 공부 시간`, `일에 도움을 주는 것들`에 대한 내용은 또 다른 csv파일에서 제공하였습니다.
-  ![Alt text](image-2.png)
-  ![Alt text](image-3.png)
+  ![Alt text](images/image-5.png)
+  ![Alt text](images/image-4.png)
   <br>
   병합된 정보에서 위의 StackOver Flow에 일치시키기 위해 다음의 과정을 통해 직종 데이터를 변환하였습니다.
-3. Infrean, Udemy 강의 정보
+  // 사진
+3. Combining
+  1, 2에서 생성된 직종 및 연차 별 csv파일을 통해 일치하는 정보를 기준으로 데이터를 합칩니다.
+4. Infrean, Udemy 강의 정보
+  개발자 직종에 일치하게 강의 데이터를 제공해주어야 하기에 분야를 식별할 수 있는 category 정보를 포함하여 crwaling을 진행합니다.
 ### Data Visualization
-분석 자료 matplot
+![Alt text](images/image.png)
 ## API
 **GET /devs/report** 
 - 개발자의 타입 및 연차에 따른 분석 결과를 보고서 형식으로 제공 (연봉, 많이 사용하는 개발 언어, 프레임 워크 등)
@@ -80,7 +83,7 @@
 **GET /lectures/recommend**
 - 서비스 메인페이지 접속 시 개발과 관련된 강의 랜덤으로 추천
 ## ERD
-![Alt text](image.png)
+![Alt text](images/image-3.png)
 
-## Architecture
-
+## System Architecture
+![Alt text](images/image-2.png)
