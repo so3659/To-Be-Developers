@@ -183,7 +183,7 @@ class _ResultState extends State<Result> {
                       ),
                       Column(
                         children: [
-                          if (editorpercentages.isNotEmpty) ...[
+                          if (langpercentages.isNotEmpty) ...[
                             const Text(
                               '언어 순위',
                               style: TextStyle(
@@ -202,7 +202,7 @@ class _ResultState extends State<Result> {
                       ),
                       Column(
                         children: [
-                          if (editorpercentages.isNotEmpty) ...[
+                          if (frameworkpercentages.isNotEmpty) ...[
                             const Text(
                               '프레임워크 순위',
                               style: TextStyle(
